@@ -1,0 +1,65 @@
+{
+ "parent": "custom",
+ "status": "PROPOSED, not adopted",
+ "cutoff": 0.5,
+ "tested_on": "48 confident Custom articles from live data, 2026-09-25",
+ "owner_decisions": [
+  {
+   "id": "q1",
+   "answer": "Tag both: a custom-style sale listing keeps its style child AND also gets the top-level For Sale tag (multi-label, nothing lost from either page)."
+  },
+  {
+   "id": "q2",
+   "answer": "Merge bobbers and choppers into one child, 'Bobbers & Choppers', since both are thin."
+  },
+  {
+   "id": "q3",
+   "answer": "Yes, a standalone 'Trackers' child. The owner named trackers themselves as an example child of Custom (cafe racers, restomods, trackers)."
+  },
+  {
+   "id": "q4",
+   "answer": "Contests and awards coverage is an article FORM, not a bike style: do NOT make a child for it. Forms will be a separate facet later. Give a contest article a style child only if one style clearly dominates."
+  },
+  {
+   "id": "q5",
+   "answer": "Roundups/listicles are an article FORM handled by a separate facet later: no 'roundups' child. Give a roundup a style child only if one style dominates; multi-style roundups get no child."
+  },
+  {
+   "question": "Restomods: a modernized classic sits between Custom and Classic. Where do they go?",
+   "answer": "Create a 'Restomods' child under Custom. Restomod articles ALSO carry the top-level Classic tag since they are built on classic bikes. Write the Restomods definition to describe a modernized classic bike, not a stock restoration."
+  },
+  {
+   "question": "Which children did the owner name up front?",
+   "answer": "Cafe Racers, Restomods, Trackers (the owner's own examples). Scramblers were the fourth style visible in the data and existed on the old site."
+  }
+ ],
+ "children": [
+  {
+   "slug": "cafe-racers",
+   "label": "Cafe Racers",
+   "instructions": "The article features a specific custom motorcycle that is unmistakably a cafe racer: a stripped-down retro road bike with low clip-on style bars, a solo or bum-stop seat, and a sporty road-racer look. Roundups, contest coverage, and articles spanning several styles do not count unless this one style clearly dominates."
+  },
+  {
+   "slug": "scramblers",
+   "label": "Scramblers",
+   "instructions": "The article features a specific custom motorcycle that is a scrambler: a retro street bike modified for light off-road use, with high-mounted exhaust, wide bars, and dual-purpose tires. Roundups, contest coverage, and articles spanning several styles do not count unless this one style clearly dominates."
+  },
+  {
+   "slug": "bobbers-choppers",
+   "label": "Bobbers & Choppers",
+   "instructions": "The article features a specific custom motorcycle that is a bobber or chopper: a stripped cruiser-style build with cut-down fenders, a low seat, and a minimalist frame, or extended forks. Roundups, contest coverage, and articles spanning several styles do not count unless this one style clearly dominates."
+  },
+  {
+   "slug": "trackers",
+   "label": "Trackers",
+   "instructions": "The article features a specific custom motorcycle built in the flat-track or tracker style, with number plates, a flat-track stance, and dirt-track inspired bodywork. Roundups, contest coverage, and articles spanning several styles do not count unless this one style clearly dominates."
+  },
+  {
+   "slug": "restomods",
+   "label": "Restomods",
+   "instructions": "The article is about a restomod: a classic or vintage motorcycle rebuilt with modern components such as modern brakes, suspension, fuel injection, electronics, or engine, and the article treats those modern upgrades as the point. A custom that merely started from an old donor bike, or a stock restoration, is not a restomod. Roundups, contest coverage, and articles spanning several styles do not count unless this one style clearly dominates."
+  }
+ ],
+ "result": "cafe-racers 13, scramblers 5, bobbers-choppers 2, trackers 3, restomods 6; 26/48 covered, rest stay in Custom with no child",
+ "extra_rules": "restomod articles also carry the top-level Classic tag; custom-style for-sale listings keep their child AND get for-sale; forms (contest/roundup) are a future facet, not children"
+}
