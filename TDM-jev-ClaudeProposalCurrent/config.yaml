@@ -42,7 +42,7 @@ ranking:
 
 # Source registry lives in its own file.
 feeds_file: feeds.yaml
-user_agent: "DailyMotorcycleBot/0.2 (+https://thedailymotorcycle.com)"
+user_agent: "TheDailyMotorcycle/1.0 (feed reader; +https://thedailymotorcycle.com/bot; webmaster@38thweb.com)"
 fetch_concurrency: 6
 fetch_timeout_s: 20
 stale_after_days: 180          # validate flags feeds with nothing newer than this

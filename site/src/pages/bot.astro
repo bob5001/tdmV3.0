@@ -1,0 +1,25 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="About our feed reader · The Daily Motorcycle">
+  <h2>About our feed reader</h2>
+  <div class="list">
+    <article>
+      <h3>Who we are</h3>
+      <p class="ex">TheDailyMotorcycle.com is an aggregator: it reads motorcycle sites' public feeds, sorts the items into categories, and links readers back to the original. Our reader identifies itself as
+        <code>TheDailyMotorcycle/1.0 (feed reader; +https://thedailymotorcycle.com/bot; webmaster@38thweb.com)</code>.</p>
+    </article>
+    <article>
+      <h3>What it fetches</h3>
+      <p class="ex">Only the public RSS/Atom feeds listed on our <a href="/sources/">sources page</a>. Each feed is polled at most every 30 minutes (articles), every hour (video, Reddit), or every 3 hours (podcasts), using conditional requests (ETag / Last-Modified) so an unchanged feed costs you almost nothing. For an item whose feed carries no picture, we fetch that one article page once to read its preview image (<code>og:image</code>). We do not download or store your images, video, or full article text.</p>
+    </article>
+    <article>
+      <h3>What appears on our site</h3>
+      <p class="ex">A headline, your site's name, the date, an excerpt of at most 280 characters, and a link to the original that opens in a new tab. Preview images are loaded directly from your server (we don't copy them), so they use a little of your bandwidth.</p>
+    </article>
+    <article>
+      <h3>If you would rather we didn't</h3>
+      <p class="ex">Email <a href="mailto:webmaster@38thweb.com">webmaster@38thweb.com</a> and we will stop fetching your feed and remove your items. If you use bot protection that blocks us and you would like to be included, tell us how you would like to identify us (by user agent, for example) and we will work with that.</p>
+    </article>
+  </div>
+</Base>
