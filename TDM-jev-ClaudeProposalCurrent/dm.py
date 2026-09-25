@@ -93,7 +93,7 @@ ITEM_COLUMNS = {
     "author": "TEXT", "published": "TEXT", "summary": "TEXT", "image": "TEXT", "audio": "TEXT",
     "fetched_at": "TEXT", "scores": "TEXT", "on_topic": "REAL", "quality": "REAL",
     "categories": "TEXT", "pending": "TEXT", "status": "TEXT",
-    "classified_by": "TEXT", "classified_at": "TEXT",
+    "classified_by": "TEXT", "classified_at": "TEXT", "image_tried": "TEXT",
 }
 # status: new | published | review | offtopic | filtered
 
@@ -211,19 +211,45 @@ def canonical_link(link: str) -> str:
     return link.rstrip("?&").rstrip("/")
 
 
+JUNK_IMG = re.compile(r"pixel|1x1|spacer|blank\.|gravatar|/emoji/|feedburner|doubleclick|/badge|logo", re.I)
+
+
+def _img_from_html(markup: str) -> str | None:
+    """First plausible article image in an HTML fragment (skips tracking pixels, icons, gravatars)."""
+    for m in re.finditer(r"<img\b[^>]*>", markup or "", re.I):
+        tag = m.group(0)
+        w = re.search(r'\bwidth=["\']?(\d+)', tag)
+        if w and int(w.group(1)) < 120:
+            continue
+        srcset = re.search(r'\bsrcset=["\']([^"\']+)', tag)
+        src = re.search(r'\b(?:data-src|data-lazy-src|src)=["\']([^"\']+)', tag)
+        url = None
+        if srcset:                                  # biggest candidate wins
+            cands = [c.strip().split() for c in html.unescape(srcset.group(1)).split(",") if c.strip()]
+            cands = [(int(c[1][:-1]) if len(c) > 1 and c[1][:-1].isdigit() else 0, c[0]) for c in cands]
+            url = max(cands)[1] if cands else None
+        url = url or (html.unescape(src.group(1)) if src else None)
+        if url and url.startswith("http") and not JUNK_IMG.search(url) and not url.startswith("data:"):
+            return url
+    return None
+
+
 def first_image(entry) -> str | None:
     for key in ("media_thumbnail", "media_content"):
         for m in entry.get(key, []) or []:
             url = m.get("url")
-            if url and not str(m.get("type", "image")).startswith(("audio", "video")):
+            if url and not str(m.get("type", "image")).startswith(("audio", "video")) and not JUNK_IMG.search(url):
                 return url
     for enc in entry.get("enclosures", []) or []:
         if str(enc.get("type", "")).startswith("image") and enc.get("href"):
             return enc["href"]
     if entry.get("image", {}) and entry["image"].get("href"):
         return entry["image"]["href"]
-    m = re.search(r'<img[^>]+src="([^"]+)"', entry.get("summary", "") or "")
-    return html.unescape(m.group(1)) if m else None
+    for c in entry.get("content", []) or []:          # WordPress puts the lead image in content:encoded
+        url = _img_from_html(c.get("value", ""))
+        if url:
+            return url
+    return _img_from_html(entry.get("summary", "") or "")
 
 
 def first_audio(entry) -> str | None:
@@ -377,6 +403,8 @@ def insert_new(con, items: list[Item]) -> int:
             (it.id, it.source, it.source_url, it.kind, it.media, it.ownership, it.lang, it.title,
              it.link, it.author, it.published, it.summary, it.image, it.audio, now_iso()),
         )
+        if not cur.rowcount and it.image:               # already stored: backfill a missing image
+            con.execute("UPDATE items SET image=? WHERE id=? AND (image IS NULL OR image='')", (it.image, it.id))
         n += cur.rowcount
         if cur.rowcount:
             per_source[it.source_url] = per_source.get(it.source_url, 0) + 1
@@ -647,6 +675,46 @@ async def classify_new(con, cfg: dict, clf) -> int:
 # Export (what the static site reads)
 # ----------------------------------------------------------------------------
 # ----------------------------------------------------------------------------
+# Image fallback: og:image from the article page, once per item
+# ----------------------------------------------------------------------------
+
+OG_RE = re.compile(r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["\'][^>]*>', re.I)
+CONTENT_RE = re.compile(r'content=["\']([^"\']+)["\']', re.I)
+
+
+async def enrich_images(con, cfg: dict, limit: int = 400) -> int:
+    """Items whose feed carried no image get the page's og:image. One polite GET per item, ever."""
+    rows = con.execute("""SELECT id, link FROM items WHERE status='published' AND (image IS NULL OR image='')
+                          AND image_tried IS NULL AND lang='en' ORDER BY published DESC LIMIT ?""", (limit,)).fetchall()
+    if not rows:
+        return 0
+    sem = asyncio.Semaphore(cfg.get("image_concurrency", 5))
+    found = 0
+    async with http_client(cfg) as client:
+        async def one(r):
+            nonlocal found
+            url = None
+            async with sem:
+                try:
+                    resp = await client.get(r["link"], headers={"Accept": "text/html"})
+                    if resp.status_code == 200:
+                        for tag in OG_RE.findall(resp.text[:200_000]):
+                            m = CONTENT_RE.search(tag)
+                            if m:
+                                url = urljoin(str(resp.url), html.unescape(m.group(1)))
+                                break
+                except Exception:
+                    pass
+                await asyncio.sleep(0.2)
+            con.execute("UPDATE items SET image=COALESCE(?, image), image_tried=? WHERE id=?", (url, now_iso(), r["id"]))
+            found += bool(url)
+        await asyncio.gather(*(one(r) for r in rows))
+    con.commit()
+    print(f"  page images: {found}/{len(rows)} found via og:image")
+    return found
+
+
+# ----------------------------------------------------------------------------
 # Story grouping: the same news covered by several outlets becomes one item
 # ----------------------------------------------------------------------------
 # Stage 1 (free): tf-idf cosine over title + lede finds candidate pairs from different sources within a
@@ -772,12 +840,14 @@ def collapse_stories(items: list[dict], pairs: list, threshold: float) -> list[d
 # Ranking: fairness across sources, not volume
 # ----------------------------------------------------------------------------
 
-def rank_items(items: list[dict], window_days: int = 21) -> list[dict]:
+def rank_items(items: list[dict], window_days: int = 21, slug: str | None = None, fuzzy_penalty: int = 3) -> list[dict]:
     """Order items so no source can win the front page by volume.
 
     Each source's items are ordered newest-first and given a position r (0 = its newest). Items sort by
     r first, so every source's newest comes before any source's second-newest, and so on. Within a round
     the rarest sources (fewest items in the set) go first: quiet, distinctive sources surface early.
+    On a category page (slug given) a fuzzy fit (score < 0.85 for that category) is treated as if it sat
+    fuzzy_penalty positions later in its source's list: still shown, but confident fits lead.
     Items older than window_days (relative to the newest item) go after everything else, newest-first.
     """
     if not items:
@@ -790,7 +860,9 @@ def rank_items(items: list[dict], window_days: int = 21) -> list[dict]:
     for i in sorted(fresh, key=lambda i: i["published"], reverse=True):
         by_src.setdefault(i["source"], []).append(i)
     volume = {k: len(v) for k, v in by_src.items()}
-    ranked = [(r, volume[k], -_ts(it["published"]), it) for k, v in by_src.items() for r, it in enumerate(v)]
+    def penalty(it):
+        return fuzzy_penalty if slug and it.get("cat_scores", {}).get(slug, 1.0) < 0.85 else 0
+    ranked = [(r + penalty(it), volume[k], -_ts(it["published"]), it) for k, v in by_src.items() for r, it in enumerate(v)]
     ranked.sort(key=lambda t: t[:3])
     return [t[3] for t in ranked] + stale
 
@@ -807,6 +879,7 @@ def row_to_public(row, labels: dict) -> dict:
     scores = json.loads(row["scores"] or "{}")
     top = max((scores.get(c, 0) for c in cats), default=0)
     lang_page = None if row["lang"] == "en" else LANG_PAGES.get(row["lang"], OTHER_LANG)
+    cat_scores = {c: round(scores.get(c, 0), 2) for c in cats}
     return {
         "id": row["id"], "title": row["title"], "link": row["link"], "lang": row["lang"],
         "source": row["source"], "ownership": row["ownership"], "media": row["media"],
@@ -815,6 +888,7 @@ def row_to_public(row, labels: dict) -> dict:
         "categories": [lang_page] if lang_page else [{"slug": c, "label": labels[c]} for c in cats if c in labels] or [MORE],
         "primary": lang_page["slug"] if lang_page else (cats[0] if cats else MORE["slug"]),
         "confident": top >= 0.85 if cats and not lang_page else False,
+        "cat_scores": cat_scores,
     }
 
 
@@ -837,7 +911,7 @@ def export(con, cfg: dict) -> None:
     (out / "items.json").write_text(json.dumps(items, indent=2))
 
     for slug, label in pages.items():
-        sub = rank_items([i for i in items if any(c["slug"] == slug for c in i["categories"])], window)
+        sub = rank_items([i for i in items if any(c["slug"] == slug for c in i["categories"])], window, slug)
         (out / "categories" / f"{slug}.json").write_text(
             json.dumps({"slug": slug, "label": label, "items": sub}, indent=2))
     (out / "categories.json").write_text(json.dumps(
@@ -954,6 +1028,7 @@ def main() -> None:
         clf = MockClassifier() if args.mock else JevClassifier(cfg)
         asyncio.run(classify_new(con, cfg, clf))
         asyncio.run(group_new(con, cfg, clf))
+        asyncio.run(enrich_images(con, cfg))
         export(con, cfg)
     elif args.command == "group":
         clf = MockClassifier() if args.mock else JevClassifier(cfg)

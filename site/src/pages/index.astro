@@ -1,11 +1,86 @@
 ---
 import Base from '../layouts/Base.astro';
-import Item from '../layouts/Item.astro';
 import items from '../data/items.json';
-const front = items.filter((i) => i.lang === 'en').slice(0, 60);
+import cats from '../data/categories.json';
+
+const cat = import.meta.glob('../data/categories/*.json', { eager: true });
+const pageOf = (slug) => (cat[`../data/categories/${slug}.json`] as any)?.default;
+
+const en = items.filter((i) => i.lang === 'en');
+const label = Object.fromEntries(cats.map((c) => [c.slug, c.label]));
+
+// Latest strip: the truly newest headlines (the fair ranking below is deliberately not date order).
+const latest = [...en].sort((a, b) => b.published.localeCompare(a.published)).slice(0, 6);
+
+// Featured: among the top of the fair ranking, favour stories many outlets covered, with a picture.
+const pool = en.slice(0, 40).filter((i) => i.image);
+const featured = pool.reduce((best, i) => (!best || (i.also?.length ?? 0) > (best.also?.length ?? 0) ? i : best), null);
+
+// Sections: a fixed order of categories, each drawing from its own fairly-ranked page. An item shows once.
+const order = ['new-models', 'racing', 'custom', 'classic', 'adventure', 'dirt-mx', 'for-sale', 'electric', 'sport-bikes', 'cruisers', 'gear', 'industry', 'events-rides', 'law-safety'];
+const used = new Set([featured?.id]);
+const sections = order.flatMap((slug) => {
+  const page = pageOf(slug);
+  if (!page) return [];
+  const fresh = page.items.filter((i) => !used.has(i.id));
+  const sure = (i) => (i.cat_scores?.[slug] ?? 1) >= 0.85;
+  const lead = fresh.find((i) => i.image && sure(i)) ?? fresh.find((i) => i.image) ?? fresh[0];
+  if (!lead) return [];
+  const rest = fresh.filter((i) => i.id !== lead.id).slice(0, 3);
+  [lead, ...rest].forEach((i) => used.add(i.id));
+  return [{ slug, label: label[slug], lead, rest, total: page.items.length }];
+});
+const ext = { target: '_blank', rel: 'noopener noreferrer' };
 ---
-<Base>
-  <h2>Everything, fairly ordered</h2>
-  <p class="meta">Each source gets its turn before any source gets a second one, and quieter sources go first.</p>
-  {front.map((item) => <Item item={item} />)}
+<Base wide>
+  <div class="ticker">
+    <b>LATEST NEWS:</b>
+    {latest.map((i) => <a href={i.link} {...ext}>{i.title}</a>)}
+  </div>
+
+  {featured && (
+    <section>
+      <h2>Featured</h2>
+      <div class="hero">
+        <a class="img" href={featured.link} {...ext} tabindex="-1" aria-hidden="true">
+          <img src={featured.image} alt="" decoding="async" referrerpolicy="no-referrer" />
+        </a>
+        <div>
+          <h3><a href={featured.link} {...ext}>{featured.title}</a></h3>
+          <p class="meta">{featured.source} · {featured.published.slice(0, 10)}
+            {featured.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}</p>
+          {featured.excerpt && <p class="ex">{featured.excerpt}…</p>}
+          {featured.also?.length > 0 && (
+            <p class="also">Also covered by{' '}
+              {featured.also.map((a, n) => (<>{n > 0 && ', '}<a href={a.link} {...ext}>{a.source}</a></>))}</p>
+          )}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <div class="sections">
+    {sections.map((s) => (
+      <section class="sec">
+        <h2><a href={`/c/${s.slug}/`}>{s.label}</a></h2>
+        <div class="lead">
+          {s.lead.image && (
+            <a class="img" href={s.lead.link} {...ext} tabindex="-1" aria-hidden="true">
+              <img src={s.lead.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+            </a>
+          )}
+          <h3><a href={s.lead.link} {...ext}>{s.lead.title}</a></h3>
+          <p class="meta">{s.lead.source} · {s.lead.published.slice(0, 10)}</p>
+          {s.lead.excerpt && <p class="ex">{s.lead.excerpt.slice(0, 140)}…</p>}
+        </div>
+        {s.rest.map((i) => (
+          <div class="line">
+            <h3><a href={i.link} {...ext}>{i.title}</a></h3>
+            <p class="meta">{i.source} · {i.published.slice(0, 10)}</p>
+          </div>
+        ))}
+        <p class="more"><a href={`/c/${s.slug}/`}>See more “{s.label}” ({s.total}) »</a></p>
+      </section>
+    ))}
+  </div>
 </Base>

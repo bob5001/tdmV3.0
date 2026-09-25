@@ -14,5 +14,5 @@ const { page } = Astro.props;
 <Base title={`${page.label} · The Daily Motorcycle`}>
   <h2>{page.label}</h2>
   <p class="meta">{page.items.length} {page.items.length === 1 ? 'item' : 'items'}</p>
-  {page.items.slice(0, 100).map((item) => <Item item={item} />)}
+  <div class="list">{page.items.slice(0, 100).map((item) => <Item item={item} />)}</div>
 </Base>

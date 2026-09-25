@@ -1,10 +1,16 @@
 ---
+// One entry in a list page. External links open in a new tab.
 const { item } = Astro.props;
 const date = item.published.slice(0, 10);
 const also = item.also ?? [];
 ---
 <article>
-  <h3><a href={item.link} rel="noopener">{item.title}</a></h3>
+  {item.image && (
+    <a class="img thumb" href={item.link} target="_blank" rel="noopener noreferrer" tabindex="-1" aria-hidden="true">
+      <img src={item.image} alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+    </a>
+  )}
+  <h3><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
   <p class="meta">
     {item.source} · {date}
     {item.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}
@@ -12,7 +18,7 @@ const also = item.also ?? [];
   {item.excerpt && <p class="ex">{item.excerpt}{item.excerpt.length >= 280 ? '…' : ''}</p>}
   {also.length > 0 && (
     <p class="also">Also covered by{' '}
-      {also.map((a, n) => (<>{n > 0 && ', '}<a href={a.link} rel="noopener" title={a.title}>{a.source}</a></>))}
+      {also.map((a, n) => (<>{n > 0 && ', '}<a href={a.link} target="_blank" rel="noopener noreferrer" title={a.title}>{a.source}</a></>))}
     </p>
   )}
 </article>
