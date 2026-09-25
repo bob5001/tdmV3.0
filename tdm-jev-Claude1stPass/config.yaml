@@ -1,0 +1,73 @@
+# Daily Motorcycle — ingest + classify config
+# Edit feeds and categories to match the live site. Category slugs become
+# Jev question keys and output filenames, so keep them lowercase-with-dashes.
+
+jev:
+  base_url: https://api.typesafe.ai      # or https://openrouter.ai/api
+  model: jev-latest
+  api_key_env: TYPESAFE_API_KEY
+  concurrency: 8                         # parallel requests
+  timeout_s: 20
+
+thresholds:
+  auto: 0.85      # >= auto  -> tag applied automatically
+  review: 0.50    # >= review (and < auto) -> goes to the review queue
+  on_topic: 0.60  # below this, item is treated as off-topic and hidden
+
+# Text sent to Jev per item: title + cleaned summary, truncated.
+max_summary_chars: 1500
+
+output_dir: out
+db_path: dm.sqlite
+export_limit: 500   # newest N items written to out/items.json
+
+# Replace with the real Feedzy feed list. Local file paths work too.
+feeds:
+  - name: Sample fixture
+    url: fixtures/sample_feed.xml
+  # - name: Asphalt & Rubber
+  #   url: https://www.asphaltandrubber.com/feed/
+  # - name: Bike EXIF
+  #   url: https://www.bikeexif.com/feed
+  # - name: Electrek (motorcycles)
+  #   url: https://electrek.co/guides/electric-motorcycles/feed/
+
+# Gate question: is the item about motorcycles at all? (catches car/e-bike
+# posts from mixed feeds). Asked in the same call as the categories.
+on_topic_instructions: >
+  The article is about motorcycles, motorcycle riding, motorcycle racing,
+  or the motorcycle industry (not cars, bicycles, or e-bikes).
+
+# One Noul (yes/no) question per category, all answered in a single call,
+# so a post can land in several categories (e.g. electric + adventure).
+categories:
+  - slug: racing
+    label: Racing News
+    instructions: The article is primarily about motorcycle racing — MotoGP, WSBK, MotoAmerica, TT, dirt track, motocross/supercross results, riders, or teams.
+    criteria:
+      true: Covers a race, championship, rider/team news, or race results
+      false: Only mentions racing in passing, or is about a street bike's race heritage
+
+  - slug: adventure
+    label: Adventure
+    instructions: The article is about adventure or dual-sport motorcycles, ADV riding, overlanding, or long-distance touring off pavement.
+
+  - slug: electric
+    label: Electric
+    instructions: The article is about electric motorcycles, electric powertrains, batteries, or EV motorcycle companies.
+
+  - slug: new-models
+    label: New Models
+    instructions: The article announces, reveals, or reviews a new or updated production motorcycle model.
+
+  - slug: industry
+    label: Industry & Business
+    instructions: The article is about motorcycle industry business — sales figures, company finances, acquisitions, recalls, regulation, tariffs, or executive changes.
+
+  - slug: custom-vintage
+    label: Custom & Vintage
+    instructions: The article features a custom build, cafe racer, restomod, restoration, or classic/vintage motorcycle.
+
+  - slug: gear
+    label: Gear
+    instructions: The article is about riding gear or accessories — helmets, jackets, boots, gloves, luggage, electronics, or tools.

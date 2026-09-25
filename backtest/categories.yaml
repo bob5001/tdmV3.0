@@ -1,0 +1,77 @@
+# MVP category set (working version, tuned against v1 hand tags). Wording is the thing being tuned; config.yaml in TDM-jev-ClaudeProposalCurrent is generated from this.
+#
+# `v1` lists the v1 WordPress categories whose hand-added tags count as ground truth for each slug.
+# Only human-added tags are used (see build_corpus.py). They are positives only: a post without the
+# tag might still belong to the category.
+
+# Policy: scooters, mopeds and e-bikes are out of scope for now (off-topic), as are cars and bicycles.
+on_topic: >
+  The article is about motorcycles, motorcycle riding, motorcycle racing, or the motorcycle
+  industry. Cars, bicycles, e-bikes, scooters, mopeds, and snowmobiles are not motorcycles.
+
+categories:
+  - slug: electric
+    label: Electric
+    v1: [electric]
+    instructions: The article is about electric motorcycles, electric powertrains, batteries, charging, or electric motorcycle companies.
+
+  - slug: adventure
+    label: Adventure
+    v1: [adventure]
+    instructions: The article is about adventure, dual-sport, or off-pavement touring motorcycles, ADV riding, or overlanding.
+
+  - slug: racing
+    label: Racing
+    v1: [racing]
+    instructions: The article is primarily about motorcycle racing, such as MotoGP, WSBK, motocross, dirt track, the TT, riders, teams, or race results.
+
+  - slug: sport-bikes
+    label: Sport Bikes
+    v1: [sport-bikes]
+    instructions: The article is about sport bikes or superbikes, meaning high-performance road-going motorcycles with fairings.
+
+  - slug: cruisers
+    label: Cruisers
+    v1: [cruisers]
+    instructions: >
+      The article is about cruiser-style motorcycles: cruisers, baggers, and touring or heritage V-twins
+      (Harley-Davidson, Indian, Honda Rebel and Gold Wing, Royal Enfield 650 twins, Triumph Rocket 3,
+      and similar), including bikes that sit on the fuzzy edge of the cruiser style.
+
+  - slug: custom
+    label: Custom
+    v1: [bobbers, scramblers, cafe-racers, choppers, custom]
+    instructions: The article features a custom-built motorcycle such as a bobber, cafe racer, scrambler, chopper, or tracker, or the builder or shop behind one.
+
+  - slug: classic
+    label: Classic
+    v1: [classic-bikes, historical, restoration]
+    instructions: The article is about classic or vintage motorcycles, their history, or restoring them.
+
+  # Catch-alls for on-topic articles that are not about one kind of bike. Not evaluated against v1
+  # hand tags (v1 had none); judged by how many on-topic posts still end up with no category.
+  - slug: gear
+    label: Gear
+    v1: []
+    instructions: The article is about riding gear or accessories, such as helmets, jackets, boots, gloves, luggage, intercoms and other electronics, tires, or tools.
+
+  - slug: new-models
+    label: New Models
+    v1: []
+    instructions: The article announces, unveils, previews, or reviews a new or updated production motorcycle model, including first looks, first rides, and road tests.
+
+  - slug: industry
+    label: Industry & Business
+    v1: []
+    instructions: The article is about motorcycle industry business, such as sales figures, company finances, acquisitions, recalls, regulation, tariffs, sponsorships, dealer news, or executive changes.
+
+  # EXPERIMENT: categories suggested by the orphan cluster analysis
+  - slug: events-rides
+    label: Events & Rides
+    v1: []
+    instructions: The article is about a rider-community motorcycle event, rally, charity or themed ride, festival, meetup, organized tour, or a specific ride or route. Professional race coverage, results, and previews are not events for this purpose.
+
+  - slug: law-safety
+    label: Law & Safety
+    v1: []
+    instructions: The article is about rider safety, traffic laws and regulations, licensing, insurance, rider-rights advocacy, or crashes and legal cases involving riders.

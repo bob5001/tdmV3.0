@@ -1,0 +1,18 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# python / local state
+.venv/
+__pycache__/
+*.pyc
+*.sqlite
+out/
+.DS_Store
+
+# third-party article text scraped from the old WordPress site (v1). Regenerate with
+# backtest/build_corpus.py from the v1 SQL dump; don't publish it.
+backtest/corpus.jsonl
+backtest/corpus_raw.jsonl
+backtest/results.jsonl

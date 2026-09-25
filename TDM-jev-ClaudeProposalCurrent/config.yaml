@@ -1,0 +1,111 @@
+# Daily Motorcycle — ingest + classify config
+# Edit feeds and categories to match the live site. Category slugs become
+# Jev question keys and output filenames, so keep them lowercase-with-dashes.
+
+jev:
+  base_url: https://api.typesafe.ai      # or https://openrouter.ai/api
+  model: jev-latest
+  api_key_env: TYPESAFE_API_KEY           # read from the environment or ROOT/.env
+  concurrency: 8                         # parallel requests
+  timeout_s: 20
+
+thresholds:
+  auto: 0.85      # >= auto  -> tag applied automatically
+  review: 0.50    # >= review (and < auto) -> goes to the review queue
+  on_topic: 0.60  # below this, item is treated as off-topic and hidden
+  quality: 0.70   # gated sources only: below this, item is filtered
+
+# Text sent to Jev per item: title + cleaned summary, truncated.
+max_summary_chars: 1500
+
+output_dir: out
+db_path: dm.sqlite
+export_limit: 500   # newest N items written to out/items.json
+
+# Source registry lives in its own file.
+feeds_file: feeds.yaml
+user_agent: "DailyMotorcycleBot/0.2 (+https://thedailymotorcycle.com)"
+fetch_concurrency: 6
+fetch_timeout_s: 20
+stale_after_days: 180          # validate flags feeds with nothing newer than this
+
+# Per-kind defaults. A source can override `gate` individually.
+#   media        what the site shows (article / podcast / video / discussion / listing)
+#   poll_minutes minimum time between fetches of one feed
+#   gate         ask Jev the quality question and drop posts below thresholds.quality
+kinds:
+  article:     {media: article,    poll_minutes: 30,  gate: false}
+  podcast:     {media: podcast,    poll_minutes: 180, gate: false}
+  video:       {media: video,      poll_minutes: 60,  gate: false}
+  reddit:      {media: discussion, poll_minutes: 60,  gate: true}
+  forum:       {media: discussion, poll_minutes: 120, gate: true}
+  classifieds: {media: listing,    poll_minutes: 60,  gate: false}
+
+# Quality gate for community sources (asked only when the source is gated).
+quality_instructions: >
+  The post is worth showing to motorcycle enthusiasts on a news and discovery site:
+  real news, a notable build or ride, a substantive technical discussion, or an
+  original, informative contribution.
+quality_criteria:
+  true: Newsworthy, informative, or a notable original build, ride, or technical write-up
+  false: A routine question, a low-effort photo, a meme, a sale ad, or small talk
+
+# Gate question: is the item about motorcycles at all? Policy: scooters, mopeds, e-bikes, cars,
+# bicycles and snowmobiles are off-topic for now. Asked in the same call as the categories.
+on_topic_instructions: >
+  The article is about motorcycles, motorcycle riding, motorcycle racing, or the motorcycle industry. Cars, bicycles, e-bikes, scooters, mopeds, and snowmobiles are not motorcycles.
+
+# One Noul (yes/no) question per category, all answered in a single call, so a post can land in
+# several categories. Tuned in backtest/ against v1 hand tags (see backtest/report.py).
+# Fit tiers (thresholds above): score >= auto is a confident fit, >= review is a fuzzy fit (both are
+# published in that category), and an on-topic post with nothing >= review goes to the 'more' lane.
+categories:
+- slug: electric
+  label: Electric
+  instructions: The article is about electric motorcycles, electric powertrains, batteries, charging,
+    or electric motorcycle companies.
+- slug: adventure
+  label: Adventure
+  instructions: The article is about adventure, dual-sport, or off-pavement touring motorcycles, ADV riding,
+    or overlanding.
+- slug: racing
+  label: Racing
+  instructions: The article is primarily about motorcycle racing, such as MotoGP, WSBK, motocross, dirt
+    track, the TT, riders, teams, or race results.
+- slug: sport-bikes
+  label: Sport Bikes
+  instructions: The article is about sport bikes or superbikes, meaning high-performance road-going motorcycles
+    with fairings.
+- slug: cruisers
+  label: Cruisers
+  instructions: 'The article is about cruiser-style motorcycles: cruisers, baggers, and touring or heritage
+    V-twins (Harley-Davidson, Indian, Honda Rebel and Gold Wing, Royal Enfield 650 twins, Triumph Rocket
+    3, and similar), including bikes that sit on the fuzzy edge of the cruiser style.'
+- slug: custom
+  label: Custom
+  instructions: The article features a custom-built motorcycle such as a bobber, cafe racer, scrambler,
+    chopper, or tracker, or the builder or shop behind one.
+- slug: classic
+  label: Classic
+  instructions: The article is about classic or vintage motorcycles, their history, or restoring them.
+- slug: gear
+  label: Gear
+  instructions: The article is about riding gear or accessories, such as helmets, jackets, boots, gloves,
+    luggage, intercoms and other electronics, tires, or tools.
+- slug: new-models
+  label: New Models
+  instructions: The article announces, unveils, previews, or reviews a new or updated production motorcycle
+    model, including first looks, first rides, and road tests.
+- slug: industry
+  label: Industry & Business
+  instructions: The article is about motorcycle industry business, such as sales figures, company finances,
+    acquisitions, recalls, regulation, tariffs, sponsorships, dealer news, or executive changes.
+- slug: events-rides
+  label: Events & Rides
+  instructions: The article is about a rider-community motorcycle event, rally, charity or themed ride,
+    festival, meetup, organized tour, or a specific ride or route. Professional race coverage, results,
+    and previews are not events for this purpose.
+- slug: law-safety
+  label: Law & Safety
+  instructions: The article is about rider safety, traffic laws and regulations, licensing, insurance,
+    rider-rights advocacy, or crashes and legal cases involving riders.
