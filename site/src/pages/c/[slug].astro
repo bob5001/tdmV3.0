@@ -10,9 +10,14 @@ export function getStaticPaths() {
   }));
 }
 const { page } = Astro.props;
+const parent = page.parent ? (Object.values(import.meta.glob('../../data/categories/*.json', { eager: true })) as any[]).map((m) => m.default).find((c) => c.slug === page.parent) : null;
 ---
 <Base title={`${page.label} · The Daily Motorcycle`}>
+  {parent && <p class="crumb"><a href={`/c/${parent.slug}/`}>← {parent.label}</a></p>}
   <h2>{page.label}</h2>
+  {page.children?.length > 0 && (
+    <p class="chips">{page.children.filter((k) => k.count > 0).map((k) => (<a href={`/c/${k.slug}/`}>{k.label} <span class="n">{k.count}</span></a>))}</p>
+  )}
   <p class="meta">{page.items.length} {page.items.length === 1 ? 'item' : 'items'}</p>
   <div class="list">{page.items.slice(0, 100).map((item) => <Item item={item} />)}</div>
 </Base>

@@ -559,6 +559,9 @@ def build_questions(cfg: dict, src: dict | None) -> dict:
         if c.get("criteria"):
             q["criteria"] = c["criteria"]
         qs[c["slug"]] = q
+    for c in cfg["categories"]:                 # children are asked for every item; decide() keeps them only if the parent applies
+        for ch in c.get("children", []):
+            qs[ch["slug"]] = {"type": "noul", "instructions": ch["instructions"].strip()}
     return qs
 
 
@@ -636,7 +639,17 @@ def decide(scores: dict, src: dict | None, cfg: dict) -> tuple[list, list, str]:
     assigned = [s for s in (src["assign"] if src else []) if s in cats]
     fits = sorted((s for s in cats if s not in assigned and scores.get(s, 0) >= th["review"]),
                   key=lambda s: -scores[s])
-    return assigned + fits, [], "published"
+    applied = assigned + fits
+    extra: list[str] = []
+    kids: list[str] = []
+    for c in cfg["categories"]:                 # a child counts only when its parent applies
+        if c["slug"] not in applied:
+            continue
+        for ch in c.get("children", []):
+            if scores.get(ch["slug"], 0) >= th.get("child", 0.5):
+                kids.append(ch["slug"])
+                extra += [a for a in ch.get("also", []) if a in cats and a not in applied and a not in extra]
+    return applied + extra + kids, [], "published"
 
 
 async def classify_new(con, cfg: dict, clf) -> int:
@@ -874,12 +887,15 @@ def _ts(iso: str) -> float:
 MORE = {"slug": "odd-ball", "label": "Odd Ball"}
 
 
-def row_to_public(row, labels: dict) -> dict:
-    cats = json.loads(row["categories"] or "[]")
+def row_to_public(row, labels: dict, kids: dict | None = None) -> dict:
+    kids = kids or {}                            # child slug -> (label, parent slug)
+    stored = json.loads(row["categories"] or "[]")
+    cats = [c for c in stored if c not in kids]  # top-level tags
     scores = json.loads(row["scores"] or "{}")
     top = max((scores.get(c, 0) for c in cats), default=0)
     lang_page = None if row["lang"] == "en" else LANG_PAGES.get(row["lang"], OTHER_LANG)
-    cat_scores = {c: round(scores.get(c, 0), 2) for c in cats}
+    cat_scores = {c: round(scores.get(c, 0), 2) for c in stored}
+    subs = [{"slug": c, "label": kids[c][0], "parent": kids[c][1]} for c in stored if c in kids]
     return {
         "id": row["id"], "title": row["title"], "link": row["link"], "lang": row["lang"],
         "source": row["source"], "ownership": row["ownership"], "media": row["media"],
@@ -889,6 +905,8 @@ def row_to_public(row, labels: dict) -> dict:
         "primary": lang_page["slug"] if lang_page else (cats[0] if cats else MORE["slug"]),
         "confident": top >= 0.85 if cats and not lang_page else False,
         "cat_scores": cat_scores,
+        "subcategories": subs,
+        "tags": ([lang_page["slug"]] if lang_page else cats or [MORE["slug"]]) + [k["slug"] for k in subs],
     }
 
 
@@ -896,7 +914,8 @@ def export(con, cfg: dict) -> None:
     out = cfg["_root"] / cfg["output_dir"]
     (out / "categories").mkdir(parents=True, exist_ok=True)
     labels = {c["slug"]: c["label"] for c in cfg["categories"]}
-    pages = {**labels, MORE["slug"]: MORE["label"],
+    kids = {ch["slug"]: (ch["label"], c["slug"]) for c in cfg["categories"] for ch in c.get("children", [])}
+    pages = {**labels, **{k: v[0] for k, v in kids.items()}, MORE["slug"]: MORE["label"],
              **{p["slug"]: p["label"] for p in [*LANG_PAGES.values(), OTHER_LANG]}}   # + odd-ball and language pages
     rows = con.execute(
         """SELECT * FROM items WHERE status IN ('published','review')
@@ -904,19 +923,22 @@ def export(con, cfg: dict) -> None:
         (cfg.get("export_limit", 500),),
     ).fetchall()
     window = cfg.get("ranking", {}).get("window_days", 21)
-    public = [row_to_public(r, labels) for r in rows]
+    public = [row_to_public(r, labels, kids) for r in rows]
     pairs = [(p["a"], p["b"], p["same_story"]) for p in con.execute("SELECT a, b, same_story FROM story_pairs")]
     public = collapse_stories(public, pairs, cfg.get("stories", {}).get("same_story_threshold", 0.85))
     items = rank_items(public, window)
     (out / "items.json").write_text(json.dumps(items, indent=2))
 
     for slug, label in pages.items():
-        sub = rank_items([i for i in items if any(c["slug"] == slug for c in i["categories"])], window, slug)
-        (out / "categories" / f"{slug}.json").write_text(
-            json.dumps({"slug": slug, "label": label, "items": sub}, indent=2))
+        sub = rank_items([i for i in items if slug in i["tags"]], window, slug)
+        children = [{"slug": k, "label": v[0], "count": sum(1 for i in items if k in i["tags"])}
+                    for k, v in kids.items() if v[1] == slug]
+        (out / "categories" / f"{slug}.json").write_text(json.dumps(
+            {"slug": slug, "label": label, "parent": kids[slug][1] if slug in kids else None,
+             "children": children, "items": sub}, indent=2))
     (out / "categories.json").write_text(json.dumps(
-        [{"slug": s, "label": l, "count": sum(1 for i in items if any(c["slug"] == s for c in i["categories"]))}
-         for s, l in pages.items()], indent=2))
+        [{"slug": s, "label": l, "parent": kids[s][1] if s in kids else None,
+          "count": sum(1 for i in items if s in i["tags"])} for s, l in pages.items()], indent=2))
 
     # Source directory: part of the point is sending people to the sources themselves.
     src_counts = {r["source"]: r["n"] for r in con.execute(

@@ -1,7 +1,7 @@
 ---
 import categories from '../data/categories.json';
 const { title = 'The Daily Motorcycle', description = 'A global view of what is happening with motorcycles.', wide = false } = Astro.props;
-const nav = categories.filter((c) => c.count > 0);
+const nav = categories.filter((c) => c.count > 0 && !c.parent);       // top-level only; children appear as chips on their parent
 const pathname = Astro.url.pathname;
 const d = new Date();
 const day = d.getDate();
@@ -59,6 +59,12 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       .sec .lead h3 { margin: 0.5rem 0 0; }
       .sec .line { padding: 0.55rem 0; border-top: 1px solid var(--line); }
       .sec .line:first-of-type { border-top: 0; }
+      .chips { margin: 0.3rem 0 0.6rem; font-size: 0.85rem; }
+      .chips a { display: inline-block; margin: 0 0.4rem 0.4rem 0; padding: 0.15rem 0.7rem; border: 1px solid var(--line); border-radius: 1rem; color: #666; text-decoration: none; }
+      .chips a:hover { border-color: var(--brand); color: var(--brand); }
+      .chips .n { color: #aaa; font-size: 0.72rem; }
+      .crumb { font-size: 0.85rem; margin: 1rem 0 0; }
+      .crumb a { color: var(--brand); text-decoration: none; }
       .more { font-size: 0.8rem; margin: 0.3rem 0 0; }
       .more a { color: var(--brand); text-decoration: none; }
       footer { font-size: 0.78rem; color: var(--mute); padding: 2rem 0; text-align: center; border-top: 1px solid var(--line); margin-top: 1rem; }

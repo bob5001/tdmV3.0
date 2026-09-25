@@ -12,6 +12,7 @@ jev:
 thresholds:
   auto: 0.85      # >= auto  -> tag applied automatically
   review: 0.50    # >= review (and < auto) -> goes to the review queue
+  child: 0.50     # a child category needs this score (its parent must also apply)
   on_topic: 0.60  # below this, item is treated as off-topic and hidden
   quality: 0.70   # gated sources only: below this, item is filtered
 
@@ -108,6 +109,39 @@ categories:
   label: Custom
   instructions: The article features a custom-built motorcycle such as a bobber, cafe racer, scrambler,
     chopper, or tracker, or the builder or shop behind one.
+  children:
+  - slug: cafe-racers
+    label: Cafe Racers
+    instructions: 'The article features a specific custom motorcycle that is unmistakably a cafe racer:
+      a stripped-down retro road bike with low clip-on style bars, a solo or bum-stop seat, and a sporty
+      road-racer look. Roundups, contest coverage, and articles spanning several styles do not count unless
+      this one style clearly dominates.'
+  - slug: scramblers
+    label: Scramblers
+    instructions: 'The article features a specific custom motorcycle that is a scrambler: a retro street
+      bike modified for light off-road use, with high-mounted exhaust, wide bars, and dual-purpose tires.
+      Roundups, contest coverage, and articles spanning several styles do not count unless this one style
+      clearly dominates.'
+  - slug: bobbers-choppers
+    label: Bobbers & Choppers
+    instructions: 'The article features a specific custom motorcycle that is a bobber or chopper: a stripped
+      cruiser-style build with cut-down fenders, a low seat, and a minimalist frame, or extended forks.
+      Roundups, contest coverage, and articles spanning several styles do not count unless this one style
+      clearly dominates.'
+  - slug: trackers
+    label: Trackers
+    instructions: The article features a specific custom motorcycle built in the flat-track or tracker
+      style, with number plates, a flat-track stance, and dirt-track inspired bodywork. Roundups, contest
+      coverage, and articles spanning several styles do not count unless this one style clearly dominates.
+  - slug: restomods
+    label: Restomods
+    instructions: 'The article is about a restomod: a classic or vintage motorcycle rebuilt with modern
+      components such as modern brakes, suspension, fuel injection, electronics, or engine, and the article
+      treats those modern upgrades as the point. A custom that merely started from an old donor bike,
+      or a stock restoration, is not a restomod. Roundups, contest coverage, and articles spanning several
+      styles do not count unless this one style clearly dominates.'
+    also:
+    - classic
 - slug: classic
   label: Classic
   instructions: The article is about classic or vintage motorcycles, their history, or restoring them.
