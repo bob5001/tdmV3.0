@@ -1,4 +1,4 @@
-// Copy dm.py's exported JSON into src/data so the build reads a local, gitignored copy.
+// Copy dm.py's exported JSON into src/data (a tracked snapshot: that is what Vercel builds from).
 import { cpSync, mkdirSync, existsSync, rmSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -8,7 +8,12 @@ const from = join(here, '..', '..', 'TDM-jev-ClaudeProposalCurrent', 'out');
 const to = join(here, '..', 'src', 'data');
 
 if (!existsSync(join(from, 'items.json'))) {
-  console.error(`No dm.py output at ${from}. Run: python3 dm.py run  (in TDM-jev-ClaudeProposalCurrent)`);
+  // Not on the machine that runs the pipeline (e.g. Vercel): build from the committed snapshot in src/data.
+  if (existsSync(join(to, 'items.json'))) {
+    console.log('No pipeline output here; building from the committed snapshot in src/data');
+    process.exit(0);
+  }
+  console.error(`No dm.py output at ${from} and no committed snapshot. Run: python3 dm.py run  (in TDM-jev-ClaudeProposalCurrent)`);
   process.exit(1);
 }
 rmSync(to, { recursive: true, force: true });
