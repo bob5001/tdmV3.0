@@ -30,6 +30,12 @@ stories:            # group the same news covered by several outlets (see group_
     Both articles report the same specific news event, announcement, or product, for example the same
     new motorcycle model being revealed, the same race result, or the same rider signing. Articles that
     merely share a brand, rider, or general topic are not the same story.
+suggest:            # suggest_categories.py: a text model proposes categories from the Odd Ball pile, Jev tests them
+  model: anthropic/claude-sonnet-5   # pinned on purpose (reproducible); openrouter/auto-beta is the alternative
+  min_orphans: 20
+  max_orphans: 150
+  min_items: 6      # a proposal needs this many supporting articles
+  max_share: 0.12   # a proposal matching more than this share of the site is a catch-all in disguise
 ranking:
   window_days: 10   # items older than this (vs the newest item) sort after everything fresher; see rank_items()
 
