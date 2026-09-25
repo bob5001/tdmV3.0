@@ -13,6 +13,7 @@ thresholds:
   auto: 0.85      # >= auto  -> tag applied automatically
   review: 0.50    # >= review (and < auto) -> goes to the review queue
   child: 0.50     # a child category needs this score (its parent must also apply)
+  form: 0.75      # a form tag shows at this score. All scores are stored, so changing it needs only `dm.py export`. (0.60 was too loose: ~1.9 forms/item, noisy band)
   on_topic: 0.60  # below this, item is treated as off-topic and hidden
   quality: 0.70   # gated sources only: below this, item is filtered
 
@@ -170,3 +171,85 @@ categories:
   label: For Sale
   instructions: The article is a listing, auction, or classified for a specific motorcycle or part that
     is for sale, or a buying feature about where and how to find one.
+
+# Forms: the form of a piece, independent of subject. Scores are stored for all of them; thresholds.form decides which show.
+multi_subject_instructions: The article covers several unrelated subjects rather than one, such as a digest,
+  newsletter, roundup, or list of unrelated items.
+forms:
+- slug: news
+  label: News
+  instructions: The article is a straightforward news report about something that just happened or was
+    announced.
+- slug: review
+  label: Review
+  instructions: The article is a review or road test of a single motorcycle, product, or accessory.
+- slug: comparison-test
+  label: Comparison Test
+  instructions: The article is a head-to-head or group comparison test of several motorcycles or products.
+- slug: first-look
+  label: First Look
+  instructions: The article gives first-ride, first-look, or preview impressions of a new model.
+- slug: ranked-list
+  label: Ten Best
+  instructions: The article is a ranked list or a 'top N' or 'best of' selection.
+- slug: buyers-guide
+  label: Buyer's Guide
+  instructions: The article helps readers choose or buy a motorcycle or product, including advice on buying
+    used.
+- slug: how-to
+  label: How To
+  instructions: The article gives instructions for doing or fixing something, or is a maintenance or riding-skill
+    guide.
+- slug: explainer
+  label: Explainer
+  instructions: The article explains how something works or what something means, in an educational way.
+- slug: opinion
+  label: Opinion
+  instructions: The article is opinion, commentary, or an essay arguing a viewpoint.
+- slug: profile-interview
+  label: Profile & Interview
+  instructions: The article is an interview with, or a profile of, a person or a company.
+- slug: tribute
+  label: Tribute
+  instructions: The article is a tribute, obituary, or remembrance.
+- slug: listing
+  label: Listing
+  instructions: The article is a listing, auction, or classified for a specific item that is for sale.
+- slug: event-report
+  label: Event Report
+  instructions: The article reports on a race, rally, show, or other event that has happened, with results
+    or a recap.
+- slug: event-preview
+  label: Event Preview
+  instructions: The article announces or previews an upcoming event or race weekend.
+- slug: press-release
+  label: Announcement
+  instructions: The article is a manufacturer or organization announcement, product launch, or press-release
+    rewrite.
+- slug: digest
+  label: Digest
+  instructions: The article is a newsletter or digest bundling several unrelated items.
+- slug: photo-gallery
+  label: Photo Gallery
+  instructions: The article is mainly a photo or video gallery with little text.
+- slug: ride-report
+  label: Ride Report
+  instructions: The article is a first-person account of a ride, trip, or travel story.
+- slug: history
+  label: History
+  instructions: The article is a history feature about a past bike, event, or person.
+- slug: rumor
+  label: Rumor & Spy Shots
+  instructions: The article is a rumor, leak, patent filing, or spy shot about an unreleased product.
+- slug: safety-notice
+  label: Safety & Rules
+  instructions: The article is a recall, safety warning, law change, or regulatory notice.
+- slug: episode
+  label: Episode
+  instructions: The article is a podcast or video episode.
+- slug: build-feature
+  label: Build Feature
+  instructions: The article is a feature on one specific custom or restored bike and its builder.
+- slug: q-and-a
+  label: Q&A
+  instructions: The article is a reader question and answer, or an advice column.

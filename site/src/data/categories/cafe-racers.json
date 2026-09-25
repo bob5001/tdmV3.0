@@ -26,7 +26,7 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.91,
+        "custom": 0.92,
         "cafe-racers": 0.67
       },
       "subcategories": [
@@ -36,8 +36,123 @@
           "parent": "custom"
         }
       ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.3,
+        "comparison-test": 0.06,
+        "first-look": 0.18,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.15,
+        "how-to": 0.14,
+        "explainer": 0.23,
+        "opinion": 0.32,
+        "profile-interview": 0.21,
+        "tribute": 0.06,
+        "listing": 0.09,
+        "event-report": 0.06,
+        "event-preview": 0.04,
+        "press-release": 0.13,
+        "digest": 0.2,
+        "photo-gallery": 0.29,
+        "ride-report": 0.11,
+        "history": 0.11,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.69,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.13,
       "tags": [
         "custom",
+        "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "10ae65646fc01bbcfce11492deff9042990b1d78",
+      "title": "9 Best Caf\u00e9 Racers to Look Out for at the 2026 Autumn Stafford Sale",
+      "link": "https://www.returnofthecaferacers.com/cafe-racers/9-best-cafe-racers-to-look-out-for-at-the-2026-autumn-stafford-sale",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-25T11:04:04+00:00",
+      "excerpt": "The Autumn Stafford Sale, held as part of the Classic Motorcycle Mechanics Show on 11 October 2026, brings together an unusually strong selection of motorcycles suited to the caf\u00e9-racer collector. Among the 200-plus motorcycles catalogued by Bonhams are several machines that eith",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/Stafford_2320_x_700.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.96,
+        "custom": 0.86,
+        "for-sale": 0.62,
+        "cafe-racers": 0.52
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.21,
+        "review": 0.02,
+        "comparison-test": 0.2,
+        "first-look": 0.04,
+        "ranked-list": 0.96,
+        "buyers-guide": 0.68,
+        "how-to": 0.03,
+        "explainer": 0.16,
+        "opinion": 0.53,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.18,
+        "event-report": 0.1,
+        "event-preview": 0.82,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.14,
+      "tags": [
+        "classic",
+        "custom",
+        "for-sale",
         "cafe-racers"
       ],
       "also": []
@@ -74,7 +189,7 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.97,
-        "classic": 0.52,
+        "classic": 0.55,
         "cafe-racers": 0.81
       },
       "subcategories": [
@@ -84,6 +199,43 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.19,
+        "review": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.35,
+        "how-to": 0.03,
+        "explainer": 0.28,
+        "opinion": 0.1,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.86,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "custom",
         "for-sale",
@@ -125,7 +277,7 @@
         "for-sale": 0.98,
         "custom": 0.97,
         "classic": 0.96,
-        "cafe-racers": 0.82
+        "cafe-racers": 0.81
       },
       "subcategories": [
         {
@@ -134,6 +286,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.48,
+        "how-to": 0.03,
+        "explainer": 0.12,
+        "opinion": 0.06,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.52,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "custom",
@@ -175,7 +360,7 @@
         "for-sale": 0.98,
         "custom": 0.97,
         "classic": 0.96,
-        "cafe-racers": 0.82
+        "cafe-racers": 0.83
       },
       "subcategories": [
         {
@@ -184,6 +369,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.24,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.45,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.07,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.62,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "custom",
@@ -224,8 +442,8 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.98,
-        "classic": 0.9,
-        "cafe-racers": 0.7
+        "classic": 0.91,
+        "cafe-racers": 0.73
       },
       "subcategories": [
         {
@@ -234,6 +452,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.07,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.37,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.7,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "custom",
         "for-sale",
@@ -264,8 +515,8 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.88,
-        "cafe-racers": 0.56
+        "custom": 0.89,
+        "cafe-racers": 0.55
       },
       "subcategories": [
         {
@@ -274,6 +525,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.37,
+        "review": 0.08,
+        "comparison-test": 0.03,
+        "first-look": 0.18,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.08,
+        "how-to": 0.02,
+        "explainer": 0.19,
+        "opinion": 0.45,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.12,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.93,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.09,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "custom",
         "cafe-racers"
@@ -313,8 +597,8 @@
         "custom": 0.98,
         "for-sale": 0.95,
         "classic": 0.91,
-        "cafe-racers": 0.87,
-        "restomods": 0.69
+        "cafe-racers": 0.86,
+        "restomods": 0.67
       },
       "subcategories": [
         {
@@ -328,6 +612,43 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.39,
+        "how-to": 0.04,
+        "explainer": 0.19,
+        "opinion": 0.09,
+        "profile-interview": 0.05,
+        "tribute": 0.03,
+        "listing": 0.95,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.82,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.03,
       "tags": [
         "custom",
         "for-sale",
@@ -364,7 +685,7 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.97,
-        "custom": 0.64,
+        "custom": 0.59,
         "cafe-racers": 0.51
       },
       "subcategories": [
@@ -374,6 +695,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.21,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.39,
+        "how-to": 0.02,
+        "explainer": 0.12,
+        "opinion": 0.11,
+        "profile-interview": 0.05,
+        "tribute": 0.04,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.14,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "for-sale",
         "custom",
@@ -413,7 +767,7 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.98,
-        "classic": 0.93,
+        "classic": 0.94,
         "cafe-racers": 0.96
       },
       "subcategories": [
@@ -423,59 +777,46 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.09,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.41,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.82,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "custom",
         "for-sale",
-        "classic",
-        "cafe-racers"
-      ],
-      "also": []
-    },
-    {
-      "id": "3e1673638ddd2a86a05121f4a5b16b9b0dd61900",
-      "title": "Throwback Thursday\u2014Grab-and-Go: A Custom Kit for the Honda CB350 from Taiwan",
-      "link": "https://www.bikeexif.com/throwback-thursday-custom-kit-for-the-honda-cb350-from-taiwan",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Wesley Reyneke",
-      "published": "2026-09-03T17:00:00+00:00",
-      "excerpt": "The modern-day Honda CB350 is one of those motorcycles we wished was available i...",
-      "image": "https://images.bikeexif.com/2023/11/_1200x675_crop_center-center_82_line/honda-cb350-custom-kit.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": false,
-      "cat_scores": {
-        "custom": 0.8,
-        "gear": 0.62,
-        "classic": 0.56,
-        "cafe-racers": 0.5
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
-      "tags": [
-        "custom",
-        "gear",
         "classic",
         "cafe-racers"
       ],
@@ -498,18 +839,13 @@
         {
           "slug": "custom",
           "label": "Custom"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
         "custom": 0.97,
-        "new-models": 0.5,
-        "cafe-racers": 0.83
+        "cafe-racers": 0.82
       },
       "subcategories": [
         {
@@ -518,9 +854,36 @@
           "parent": "custom"
         }
       ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.52,
+        "comparison-test": 0.03,
+        "first-look": 0.16,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.02,
+        "explainer": 0.39,
+        "opinion": 0.28,
+        "profile-interview": 0.59,
+        "tribute": 0.05,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.22,
+        "digest": 0.05,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.18,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.49,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "custom",
-        "new-models",
         "cafe-racers"
       ],
       "also": []
@@ -568,6 +931,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.22,
+        "review": 0.3,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.04,
+        "explainer": 0.26,
+        "opinion": 0.14,
+        "profile-interview": 0.72,
+        "tribute": 0.03,
+        "listing": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.13,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.15,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.96,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "custom",
         "classic",
@@ -608,8 +1004,8 @@
       "cat_scores": {
         "for-sale": 0.97,
         "classic": 0.96,
-        "custom": 0.93,
-        "cafe-racers": 0.72
+        "custom": 0.94,
+        "cafe-racers": 0.7
       },
       "subcategories": [
         {
@@ -618,6 +1014,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.18,
+        "review": 0.04,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.41,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.96,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.09,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.38,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "classic",
@@ -653,9 +1082,9 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.97,
-        "classic": 0.62,
-        "cafe-racers": 0.57,
-        "restomods": 0.64
+        "classic": 0.58,
+        "cafe-racers": 0.56,
+        "restomods": 0.63
       },
       "subcategories": [
         {
@@ -669,6 +1098,43 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.08,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.08,
+        "how-to": 0.1,
+        "explainer": 0.75,
+        "opinion": 0.28,
+        "profile-interview": 0.46,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.93,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "custom",
         "classic",
@@ -709,7 +1175,7 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.97,
-        "classic": 0.88,
+        "classic": 0.89,
         "cafe-racers": 0.82
       },
       "subcategories": [
@@ -719,6 +1185,43 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.24,
+        "review": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.34,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.78,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "custom",
         "for-sale",

@@ -35,10 +35,47 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "law-safety": 0.92,
-        "sport-bikes": 0.8
+        "law-safety": 0.91,
+        "sport-bikes": 0.77
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.07,
+        "profile-interview": 0.51,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.87,
+        "event-preview": 0.02,
+        "press-release": 0.05,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.12,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "law-safety",
@@ -47,31 +84,82 @@
       "also": []
     },
     {
-      "id": "4fe27aacd7ea976d4551adde7bbafa05e0b3606b",
-      "title": "New AI safety camera targets illegal U-turns that pose serious risk to filtering bikers",
-      "link": "https://www.motorcyclenews.com/news/2026/september/ai-camera-u-turns-a30-cornwall",
+      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
+      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
+      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-18T16:02:43+00:00",
-      "excerpt": "A new AI-powered camera designed to catch dangerous U-turns has been installed on the A30 Hayle Bypass in Cornwall \u2013 a manoeuvre that poses a particular hazard to filtering motorcyclists, who have...",
-      "image": "https://www.motorcyclenews.com/wp-images/438585/390x260/illegal-u-turn-camera-ai.jpg",
+      "published": "2026-09-25T18:01:51+00:00",
+      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
+      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
       "audio": null,
       "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
         {
           "slug": "law-safety",
           "label": "Law & Safety"
         }
       ],
-      "primary": "law-safety",
+      "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.95
+        "events-rides": 0.95,
+        "law-safety": 0.9
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.2,
+        "opinion": 0.06,
+        "profile-interview": 0.16,
+        "tribute": 0.8,
+        "listing": 0.01,
+        "event-report": 0.27,
+        "event-preview": 0.77,
+        "press-release": 0.27,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.79,
+        "rumor": 0.01,
+        "safety-notice": 0.31,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
+        "events-rides",
         "law-safety"
       ],
       "also": []
@@ -101,6 +189,97 @@
         "law-safety": 0.92
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.1,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.35,
+        "opinion": 0.2,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.08,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "4fe27aacd7ea976d4551adde7bbafa05e0b3606b",
+      "title": "New AI safety camera targets illegal U-turns that pose serious risk to filtering bikers",
+      "link": "https://www.motorcyclenews.com/news/2026/september/ai-camera-u-turns-a30-cornwall",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-18T16:02:43+00:00",
+      "excerpt": "A new AI-powered camera designed to catch dangerous U-turns has been installed on the A30 Hayle Bypass in Cornwall \u2013 a manoeuvre that poses a particular hazard to filtering motorcyclists, who have...",
+      "image": "https://www.motorcyclenews.com/wp-images/438585/390x260/illegal-u-turn-camera-ai.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "law-safety",
+      "confident": true,
+      "cat_scores": {
+        "law-safety": 0.95
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.46,
+        "opinion": 0.08,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.4,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.31,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
       "tags": [
         "law-safety"
       ],
@@ -127,54 +306,57 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 0.96,
-        "law-safety": 0.88
+        "law-safety": 0.87,
+        "sport-bikes": 0.51
       },
       "subcategories": [],
-      "tags": [
-        "racing",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "f7a358d939cf14bc1bc2c3c700fa208b130fdedc",
-      "title": "What's the first thing you look for in a new motorcycle helmet? Tell us today!",
-      "link": "https://www.motorcyclenews.com/polls/what-do-you-look-for-in-a-helmet",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-15T16:43:50+00:00",
-      "excerpt": "With the DVSA currently cracking down on illegal, non compliant crash helmets for sale in the UK, we\u2019d like to know what you look for first when considering a new one? Whether it\u2019s style, safety \u2013...",
-      "image": "https://www.motorcyclenews.com/wp-images/438023/390x260/helmet-poll-image.jpg",
-      "audio": null,
-      "categories": [
+      "forms": [
         {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "news",
+          "label": "News"
         }
       ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.98,
-        "law-safety": 0.9
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.16,
+        "tribute": 0.04,
+        "listing": 0.01,
+        "event-report": 0.24,
+        "event-preview": 0.02,
+        "press-release": 0.07,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "subcategories": [],
+      "multi_subject": 0.04,
       "tags": [
-        "gear",
-        "law-safety"
+        "racing",
+        "law-safety",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -203,7 +385,114 @@
         "law-safety": 0.92
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.2,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.49,
+        "opinion": 0.09,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.06,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.08,
       "tags": [
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "d74a7fcaafa4ff18076a913350571a78dc640d7d",
+      "title": "Atlas Defender Hybrid Ai Product Review",
+      "link": "https://pulpmx.com/2026/09/23/atlas-defender-hybrid-ai-product-review",
+      "lang": "en",
+      "source": "PulpMX",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Kris Keefer",
+      "published": "2026-09-24T00:24:04+00:00",
+      "excerpt": "The Atlas Defender Hybrid Ai takes a different approach to chest protection by combining a traditional hard-shell front with Atlas\u2019 flexible Adapted Impact (Ai ) material on the back. After spending time riding with it over the summer in Georgia, the biggest thing that stands out",
+      "image": "http://pulpmx.com/app/uploads/2026/09/Def-Hybrid-Black-Front-1024x1024.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "gear": 0.98,
+        "law-safety": 0.51
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.97,
+        "comparison-test": 0.04,
+        "first-look": 0.28,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.51,
+        "how-to": 0.03,
+        "explainer": 0.77,
+        "opinion": 0.53,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.1,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.3,
+        "history": 0.01,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "gear",
         "law-safety"
       ],
       "also": []
@@ -229,18 +518,61 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "law-safety": 0.55
+        "law-safety": 0.55,
+        "sport-bikes": 0.5
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.45,
+        "press-release": 0.82,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
       "tags": [
         "racing",
-        "law-safety"
+        "law-safety",
+        "sport-bikes"
       ],
       "also": [
         {
@@ -284,6 +616,12 @@
           "title": "MotoGP: Somkiat Chantra Set For Premier Class Return In Motegi",
           "link": "https://www.roadracingworld.com/news/motogp-somkiat-chantra-set-for-premier-class-return-in-motegi",
           "published": "2026-09-24T18:21:53+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "Ex-Moto2 winner set for MotoGP return with Honda at Motegi",
+          "link": "https://www.visordown.com/news/ex-moto2-winner-set-motogp-return-honda-motegi",
+          "published": "2026-09-25T08:31:55+00:00"
         }
       ]
     },
@@ -319,9 +657,46 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "industry": 0.97,
-        "law-safety": 0.78
+        "law-safety": 0.76
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.18,
+        "how-to": 0.65,
+        "explainer": 0.35,
+        "opinion": 0.04,
+        "profile-interview": 0.02,
+        "tribute": 0.37,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.86,
+        "digest": 0.06,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.6,
+        "rumor": 0.02,
+        "safety-notice": 0.97,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "industry",
@@ -355,10 +730,38 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.9,
+        "industry": 0.88,
         "law-safety": 0.84
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.71,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.18,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.71,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "industry",
         "law-safety"
@@ -387,9 +790,100 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.97
+        "law-safety": 0.98
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.74,
+        "opinion": 0.41,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.07,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.06,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.1
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "fd05debd1677a9c06b94a45526ee820740e7909f",
+      "title": "How Defensive Driving Helps Prevent Accidents",
+      "link": "https://youmotorcycle.com/how-defensive-driving-helps-prevent-accidents",
+      "lang": "en",
+      "source": "You Motorcycle",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Guest Blog Post",
+      "published": "2026-09-21T11:46:06+00:00",
+      "excerpt": "Not all crashes come from broken parts or ugly weather. The National Highway Traffic Safety Administration (NHTSA) conducted the National Motor Vehicle Crash Causation Survey. This study examined thousands of crashes in detail. The study found that driver-related factors were ide",
+      "image": "https://youmotorcycle.com/wp-content/uploads/image-4.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "law-safety",
+      "confident": false,
+      "cat_scores": {
+        "law-safety": 0.84
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.04,
+        "how-to": 0.43,
+        "explainer": 0.85,
+        "opinion": 0.32,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.07,
+        "digest": 0.09,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.06,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety"
       ],
@@ -422,41 +916,44 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "law-safety": 0.54
+        "law-safety": 0.53
       },
       "subcategories": [],
-      "tags": [
-        "racing",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "fd05debd1677a9c06b94a45526ee820740e7909f",
-      "title": "How Defensive Driving Helps Prevent Accidents",
-      "link": "https://youmotorcycle.com/how-defensive-driving-helps-prevent-accidents",
-      "lang": "en",
-      "source": "You Motorcycle",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Guest Blog Post",
-      "published": "2026-09-21T11:46:06+00:00",
-      "excerpt": "Not all crashes come from broken parts or ugly weather. The National Highway Traffic Safety Administration (NHTSA) conducted the National Motor Vehicle Crash Causation Survey. This study examined thousands of crashes in detail. The study found that driver-related factors were ide",
-      "image": "https://youmotorcycle.com/wp-content/uploads/image-4.jpeg",
-      "audio": null,
-      "categories": [
+      "forms": [
         {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "news",
+          "label": "News"
         }
       ],
-      "primary": "law-safety",
-      "confident": false,
-      "cat_scores": {
-        "law-safety": 0.84
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.7,
+        "press-release": 0.25,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "subcategories": [],
+      "multi_subject": 0.04,
       "tags": [
+        "racing",
         "law-safety"
       ],
       "also": []
@@ -482,18 +979,69 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "gear",
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.84
+        "law-safety": 0.84,
+        "racing": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.79,
+        "comparison-test": 0.05,
+        "first-look": 0.83,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.31,
+        "how-to": 0.03,
+        "explainer": 0.26,
+        "opinion": 0.17,
+        "profile-interview": 0.18,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.11,
+        "event-preview": 0.07,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear",
-        "law-safety"
+        "law-safety",
+        "racing"
       ],
       "also": []
     },
@@ -518,24 +1066,115 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.9,
-        "law-safety": 0.84,
-        "sport-bikes": 0.53
+        "racing": 0.89,
+        "law-safety": 0.82
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.22,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.3,
+        "event-preview": 0.06,
+        "press-release": 0.19,
+        "digest": 0.1,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.33,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "law-safety",
-        "sport-bikes"
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "f7a358d939cf14bc1bc2c3c700fa208b130fdedc",
+      "title": "What's the first thing you look for in a new motorcycle helmet? Tell us today!",
+      "link": "https://www.motorcyclenews.com/polls/what-do-you-look-for-in-a-helmet",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-15T16:43:50+00:00",
+      "excerpt": "With the DVSA currently cracking down on illegal, non compliant crash helmets for sale in the UK, we\u2019d like to know what you look for first when considering a new one? Whether it\u2019s style, safety \u2013...",
+      "image": "https://www.motorcyclenews.com/wp-images/438023/390x260/helmet-poll-image.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.98,
+        "law-safety": 0.9
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.23,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.12,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.21,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.51
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "gear",
+        "law-safety"
       ],
       "also": []
     },
@@ -569,6 +1208,43 @@
         "law-safety": 0.87
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.42,
+        "comparison-test": 0.04,
+        "first-look": 0.66,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.24,
+        "how-to": 0.02,
+        "explainer": 0.52,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.41,
+        "press-release": 0.9,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.33,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear",
         "law-safety"
@@ -607,9 +1283,46 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.78
+        "industry": 0.75
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.24,
+        "how-to": 0.04,
+        "explainer": 0.24,
+        "opinion": 0.07,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.81,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear",
         "law-safety",
@@ -648,10 +1361,43 @@
       "confident": true,
       "cat_scores": {
         "electric": 0.98,
-        "dirt-mx": 0.86,
+        "dirt-mx": 0.87,
         "law-safety": 0.55
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.05,
+        "comparison-test": 0.46,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.21,
+        "how-to": 0.06,
+        "explainer": 0.71,
+        "opinion": 0.5,
+        "profile-interview": 0.27,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.1,
+        "episode": 0.97,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.11,
       "tags": [
         "electric",
         "dirt-mx",
@@ -684,6 +1430,39 @@
         "law-safety": 0.91
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.04,
+        "how-to": 0.05,
+        "explainer": 0.52,
+        "opinion": 0.8,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.01,
+        "press-release": 0.05,
+        "digest": 0.11,
+        "photo-gallery": 0.06,
+        "ride-report": 0.1,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.59,
+        "episode": 0.09,
+        "build-feature": 0.02,
+        "q-and-a": 0.11
+      },
+      "multi_subject": 0.09,
       "tags": [
         "law-safety"
       ],
@@ -714,6 +1493,39 @@
         "law-safety": 0.72
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.33,
+        "explainer": 0.69,
+        "opinion": 0.89,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.07,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.09,
+        "build-feature": 0.01,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.1,
       "tags": [
         "law-safety"
       ],
@@ -745,10 +1557,43 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.9,
-        "industry": 0.74
+        "law-safety": 0.88,
+        "industry": 0.77
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        }
+      ],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.03,
+        "explainer": 0.26,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.9,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety",
         "industry"
@@ -782,9 +1627,42 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.6
+        "law-safety": 0.59
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.06,
+        "comparison-test": 0.06,
+        "first-look": 0.04,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.72,
+        "how-to": 0.67,
+        "explainer": 0.8,
+        "opinion": 0.14,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety"
@@ -817,10 +1695,43 @@
       "primary": "law-safety",
       "confident": false,
       "cat_scores": {
-        "law-safety": 0.79,
-        "events-rides": 0.63
+        "law-safety": 0.8,
+        "events-rides": 0.62
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.03,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.03,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.73,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "law-safety",
         "events-rides"
@@ -852,6 +1763,34 @@
         "law-safety": 0.96
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.02,
+        "how-to": 0.08,
+        "explainer": 0.68,
+        "opinion": 0.18,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.05,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.05,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.15
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety"
       ],
@@ -879,9 +1818,42 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.97
+        "law-safety": 0.96
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.25,
+        "explainer": 0.83,
+        "opinion": 0.36,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.06,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.2
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety"
       ],
@@ -912,6 +1884,39 @@
         "law-safety": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.06,
+        "explainer": 0.93,
+        "opinion": 0.21,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.03,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.05,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety"
       ],
@@ -947,6 +1952,34 @@
         "law-safety": 0.94
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.28,
+        "how-to": 0.45,
+        "explainer": 0.6,
+        "opinion": 0.38,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.05,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.39,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.07,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.27
+      },
+      "multi_subject": 0.08,
       "tags": [
         "adventure",
         "law-safety"
@@ -975,9 +2008,46 @@
       "primary": "law-safety",
       "confident": false,
       "cat_scores": {
-        "law-safety": 0.59
+        "law-safety": 0.62
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.84,
+        "buyers-guide": 0.03,
+        "how-to": 0.71,
+        "explainer": 0.83,
+        "opinion": 0.71,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.09,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.12,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.11
+      },
+      "multi_subject": 0.11,
       "tags": [
         "law-safety"
       ],
@@ -1015,9 +2085,46 @@
       "cat_scores": {
         "adventure": 1.0,
         "dirt-mx": 0.77,
-        "law-safety": 0.61
+        "law-safety": 0.63
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.01,
+        "how-to": 0.04,
+        "explainer": 0.08,
+        "opinion": 0.79,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.14,
+        "event-preview": 0.01,
+        "press-release": 0.01,
+        "digest": 0.1,
+        "photo-gallery": 0.1,
+        "ride-report": 0.84,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.05,
+        "episode": 0.16,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.19,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -1052,9 +2159,42 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.97,
-        "law-safety": 0.62
+        "law-safety": 0.64
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.63,
+        "how-to": 0.1,
+        "explainer": 0.89,
+        "opinion": 0.21,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.12,
+        "digest": 0.06,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.09,
       "tags": [
         "gear",
         "law-safety"

@@ -21,5 +21,8 @@ def conv(c):
     return out
 cats = [conv(c) for c in src["categories"]]
 body += yaml.safe_dump({"categories": cats}, sort_keys=False, width=100, allow_unicode=True)
+forms = [{"slug": k["slug"], "label": k["label"], "instructions": " ".join(k["instructions"].split())} for k in src.get("forms", [])]
+body += "\n# Forms: the form of a piece, independent of subject. Scores are stored for all of them; thresholds.form decides which show.\n"
+body += yaml.safe_dump({"multi_subject_instructions": " ".join(src["multi_subject"].split()), "forms": forms}, sort_keys=False, width=100, allow_unicode=True)
 cfg_path.write_text(head + body)
 print(f"config.yaml now has {len(cats)} categories, {sum(len(c.get('children', [])) for c in cats)} children")

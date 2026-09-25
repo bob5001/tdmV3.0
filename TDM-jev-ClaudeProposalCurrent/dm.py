@@ -52,6 +52,7 @@ def load_dotenv(path: Path) -> None:
 load_dotenv(ROOT / ".env")
 ON_TOPIC = "_on_topic"   # reserved question keys
 QUALITY = "_quality"
+MULTI = "_multi_subject"
 
 
 # ----------------------------------------------------------------------------
@@ -93,7 +94,7 @@ ITEM_COLUMNS = {
     "author": "TEXT", "published": "TEXT", "summary": "TEXT", "image": "TEXT", "audio": "TEXT",
     "fetched_at": "TEXT", "scores": "TEXT", "on_topic": "REAL", "quality": "REAL",
     "categories": "TEXT", "pending": "TEXT", "status": "TEXT",
-    "classified_by": "TEXT", "classified_at": "TEXT", "image_tried": "TEXT",
+    "classified_by": "TEXT", "classified_at": "TEXT", "image_tried": "TEXT", "forms": "TEXT",
 }
 # status: new | published | review | offtopic | filtered
 
@@ -562,7 +563,17 @@ def build_questions(cfg: dict, src: dict | None) -> dict:
     for c in cfg["categories"]:                 # children are asked for every item; decide() keeps them only if the parent applies
         for ch in c.get("children", []):
             qs[ch["slug"]] = {"type": "noul", "instructions": ch["instructions"].strip()}
+    for f in cfg.get("forms", []):              # the form of the piece, independent of subject
+        qs[f"form-{f['slug']}"] = {"type": "noul", "instructions": f["instructions"].strip()}
+    if cfg.get("multi_subject_instructions"):
+        qs[MULTI] = {"type": "noul", "instructions": cfg["multi_subject_instructions"].strip()}
     return qs
+
+
+def decide_forms(scores: dict, cfg: dict) -> list:
+    th = cfg["thresholds"].get("form", 0.6)
+    hits = [(scores.get(f"form-{f['slug']}", 0), f["slug"]) for f in cfg.get("forms", [])]
+    return [slug for sc, slug in sorted(hits, reverse=True) if sc >= th]
 
 
 def build_state(row) -> str:
@@ -672,11 +683,12 @@ async def classify_new(con, cfg: dict, clf) -> int:
             for s in (src["assign"] if src else []):
                 scores[s] = 1.0
             auto, pending, status = decide(scores, src, cfg)
+            forms = decide_forms(scores, cfg) if status == "published" else []
             con.execute(
                 """UPDATE items SET scores=?, on_topic=?, quality=?, categories=?, pending=?, status=?,
-                   classified_by=?, classified_at=? WHERE id=?""",
+                   classified_by=?, classified_at=?, forms=? WHERE id=?""",
                 (json.dumps(scores), scores.get(ON_TOPIC), scores.get(QUALITY), json.dumps(auto),
-                 json.dumps(pending), status, model, now_iso(), row["id"]),
+                 json.dumps(pending), status, model, now_iso(), json.dumps(forms), row["id"]),
             )
         await asyncio.gather(*(one(r) for r in rows))
     con.commit()
@@ -887,7 +899,7 @@ def _ts(iso: str) -> float:
 MORE = {"slug": "odd-ball", "label": "Odd Ball"}
 
 
-def row_to_public(row, labels: dict, kids: dict | None = None) -> dict:
+def row_to_public(row, labels: dict, kids: dict | None = None, form_labels: dict | None = None, form_cut: float = 0.75) -> dict:
     kids = kids or {}                            # child slug -> (label, parent slug)
     stored = json.loads(row["categories"] or "[]")
     cats = [c for c in stored if c not in kids]  # top-level tags
@@ -906,6 +918,10 @@ def row_to_public(row, labels: dict, kids: dict | None = None) -> dict:
         "confident": top >= 0.85 if cats and not lang_page else False,
         "cat_scores": cat_scores,
         "subcategories": subs,
+        "forms": [{"slug": f, "label": form_labels[f]} for f, sc in sorted(
+            ((f, scores.get(f"form-{f}", 0)) for f in (form_labels or {})), key=lambda t: -t[1]) if sc >= form_cut] if row["lang"] == "en" else [],
+        "form_scores": {f: round(scores.get(f"form-{f}", 0), 2) for f in (form_labels or {})},
+        "multi_subject": round(scores.get(MULTI, 0), 2),
         "tags": ([lang_page["slug"]] if lang_page else cats or [MORE["slug"]]) + [k["slug"] for k in subs],
     }
 
@@ -923,7 +939,8 @@ def export(con, cfg: dict) -> None:
         (cfg.get("export_limit", 500),),
     ).fetchall()
     window = cfg.get("ranking", {}).get("window_days", 21)
-    public = [row_to_public(r, labels, kids) for r in rows]
+    form_labels = {f["slug"]: f["label"] for f in cfg.get("forms", [])}
+    public = [row_to_public(r, labels, kids, form_labels, cfg["thresholds"].get("form", 0.75)) for r in rows]
     pairs = [(p["a"], p["b"], p["same_story"]) for p in con.execute("SELECT a, b, same_story FROM story_pairs")]
     public = collapse_stories(public, pairs, cfg.get("stories", {}).get("same_story_threshold", 0.85))
     items = rank_items(public, window)
@@ -939,6 +956,14 @@ def export(con, cfg: dict) -> None:
     (out / "categories.json").write_text(json.dumps(
         [{"slug": s, "label": l, "parent": kids[s][1] if s in kids else None,
           "count": sum(1 for i in items if s in i["tags"])} for s, l in pages.items()], indent=2))
+
+    (out / "forms").mkdir(exist_ok=True)
+    for slug, label in form_labels.items():
+        sub = rank_items([i for i in items if any(f["slug"] == slug for f in i["forms"])], window)
+        (out / "forms" / f"{slug}.json").write_text(json.dumps({"slug": slug, "label": label, "items": sub}, indent=2))
+    (out / "forms.json").write_text(json.dumps(
+        [{"slug": s_, "label": l_, "count": sum(1 for i in items if any(f["slug"] == s_ for f in i["forms"]))}
+         for s_, l_ in form_labels.items()], indent=2))
 
     # Source directory: part of the point is sending people to the sources themselves.
     src_counts = {r["source"]: r["n"] for r in con.execute(

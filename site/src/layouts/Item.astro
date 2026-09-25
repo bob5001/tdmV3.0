@@ -15,6 +15,7 @@ const also = item.also ?? [];
     {item.source} · {date}
     {item.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}
     {(item.subcategories ?? []).map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}
+    {(item.forms ?? []).map((f) => (<> · <span class="form"><a href={`/f/${f.slug}/`}>{f.label}</a></span></>))}
   </p>
   {item.excerpt && <p class="ex">{item.excerpt}{item.excerpt.length >= 280 ? '…' : ''}</p>}
   {also.length > 0 && (

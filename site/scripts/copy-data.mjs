@@ -18,6 +18,7 @@ if (!existsSync(join(from, 'items.json'))) {
 }
 rmSync(to, { recursive: true, force: true });
 mkdirSync(to, { recursive: true });
-for (const f of ['items.json', 'categories.json', 'sources.json']) cpSync(join(from, f), join(to, f));
+for (const f of ['items.json', 'categories.json', 'sources.json', 'forms.json']) cpSync(join(from, f), join(to, f));
 cpSync(join(from, 'categories'), join(to, 'categories'), { recursive: true });
+cpSync(join(from, 'forms'), join(to, 'forms'), { recursive: true });
 console.log(`copied data from ${from}`);

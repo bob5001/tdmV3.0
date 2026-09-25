@@ -1,0 +1,12 @@
+---
+import Base from '../layouts/Base.astro';
+import forms from '../data/forms.json';
+const list = forms.filter((f) => f.count > 0).sort((a, b) => b.count - a.count);
+---
+<Base title="Forms · The Daily Motorcycle">
+  <h2>Browse by form</h2>
+  <p class="meta">The kind of piece, whatever the subject: a review is a review whether it's about a cruiser or a helmet.</p>
+  <p class="chips">
+    {list.map((f) => (<a href={`/f/${f.slug}/`}>{f.label} <span class="n">{f.count}</span></a>))}
+  </p>
+</Base>

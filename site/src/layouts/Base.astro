@@ -65,6 +65,8 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       .chips .n { color: #aaa; font-size: 0.72rem; }
       .crumb { font-size: 0.85rem; margin: 1rem 0 0; }
       .crumb a { color: var(--brand); text-decoration: none; }
+      .form { font-style: italic; }
+      .form a { color: #6a8fb0; }
       .more { font-size: 0.8rem; margin: 0.3rem 0 0; }
       .more a { color: var(--brand); text-decoration: none; }
       footer { font-size: 0.78rem; color: var(--mute); padding: 2rem 0; text-align: center; border-top: 1px solid var(--line); margin-top: 1rem; }
@@ -85,6 +87,7 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
             {c.label} <span class="n">{c.count}</span>
           </a>
         ))}
+        <a href="/forms/" aria-current={pathname.startsWith('/forms') || pathname.startsWith('/f/') ? 'page' : undefined}>Forms</a>
         <a href="/sources/" aria-current={pathname === '/sources/' ? 'page' : undefined}>Sources</a>
       </nav>
       <main><slot /></main>

@@ -31,8 +31,8 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.96,
-        "cruisers": 0.64,
-        "bobbers-choppers": 0.58
+        "cruisers": 0.65,
+        "bobbers-choppers": 0.57
       },
       "subcategories": [
         {
@@ -41,6 +41,39 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.35,
+        "comparison-test": 0.03,
+        "first-look": 0.13,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.17,
+        "opinion": 0.09,
+        "profile-interview": 0.37,
+        "tribute": 0.06,
+        "listing": 0.04,
+        "event-report": 0.43,
+        "event-preview": 0.04,
+        "press-release": 0.22,
+        "digest": 0.08,
+        "photo-gallery": 0.21,
+        "ride-report": 0.04,
+        "history": 0.11,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.91,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "custom",
         "cruisers",
@@ -75,8 +108,8 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.97,
-        "cruisers": 0.79,
-        "bobbers-choppers": 0.84
+        "cruisers": 0.77,
+        "bobbers-choppers": 0.83
       },
       "subcategories": [
         {
@@ -85,6 +118,43 @@
           "parent": "custom"
         }
       ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.3,
+        "comparison-test": 0.04,
+        "first-look": 0.13,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.1,
+        "how-to": 0.06,
+        "explainer": 0.15,
+        "opinion": 0.16,
+        "profile-interview": 0.77,
+        "tribute": 0.05,
+        "listing": 0.09,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.27,
+        "ride-report": 0.05,
+        "history": 0.11,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.9,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
       "tags": [
         "custom",
         "cruisers",

@@ -34,11 +34,44 @@
       "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97,
+        "electric": 0.96,
         "dirt-mx": 0.94,
-        "new-models": 0.77
+        "new-models": 0.76
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.26,
+        "review": 0.13,
+        "comparison-test": 0.12,
+        "first-look": 0.55,
+        "ranked-list": 0.19,
+        "buyers-guide": 0.26,
+        "how-to": 0.05,
+        "explainer": 0.2,
+        "opinion": 0.86,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.47,
+        "digest": 0.08,
+        "photo-gallery": 0.17,
+        "ride-report": 0.1,
+        "history": 0.03,
+        "rumor": 0.28,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.08,
       "tags": [
         "electric",
         "dirt-mx",
@@ -78,9 +111,46 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "electric": 0.98,
-        "new-models": 0.92
+        "new-models": 0.93
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.22,
+        "comparison-test": 0.04,
+        "first-look": 0.43,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.13,
+        "how-to": 0.03,
+        "explainer": 0.16,
+        "opinion": 0.08,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.06,
+        "event-report": 0.06,
+        "event-preview": 0.04,
+        "press-release": 0.96,
+        "digest": 0.08,
+        "photo-gallery": 0.12,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "electric",
@@ -113,6 +183,43 @@
         "electric": 0.99
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.18,
+        "how-to": 0.04,
+        "explainer": 0.21,
+        "opinion": 0.05,
+        "profile-interview": 0.17,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.04,
+        "press-release": 0.89,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.2,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "electric"
       ],
@@ -141,28 +248,65 @@
           "label": "MX & Dirt"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97,
-        "dirt-mx": 0.92,
-        "new-models": 0.56,
-        "racing": 0.55
+        "electric": 0.96,
+        "dirt-mx": 0.91,
+        "racing": 0.54,
+        "new-models": 0.52
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.7,
+        "review": 0.24,
+        "comparison-test": 0.45,
+        "first-look": 0.38,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.16,
+        "opinion": 0.09,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.93,
+        "event-preview": 0.07,
+        "press-release": 0.75,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.14,
+        "rumor": 0.14,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "electric",
         "dirt-mx",
-        "new-models",
-        "racing"
+        "racing",
+        "new-models"
       ],
       "also": [
         {
@@ -209,6 +353,43 @@
         "new-models": 0.94
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.97,
+        "comparison-test": 0.07,
+        "first-look": 0.77,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.58,
+        "how-to": 0.05,
+        "explainer": 0.27,
+        "opinion": 0.44,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.15,
+        "digest": 0.05,
+        "photo-gallery": 0.09,
+        "ride-report": 0.59,
+        "history": 0.03,
+        "rumor": 0.17,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "electric",
         "new-models"
@@ -221,6 +402,79 @@
           "published": "2026-09-23T15:50:16+00:00"
         }
       ]
+    },
+    {
+      "id": "2b955b2adb33606624883c92bf48b9694010a145",
+      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
+      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T09:55:34+00:00",
+      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
+        }
+      ],
+      "primary": "cruisers",
+      "confident": false,
+      "cat_scores": {
+        "cruisers": 0.7,
+        "electric": 0.54
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.08,
+        "comparison-test": 0.03,
+        "first-look": 0.55,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.29,
+        "event-preview": 0.08,
+        "press-release": 0.93,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.23,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "cruisers",
+        "electric"
+      ],
+      "also": []
     },
     {
       "id": "413aa6add481b4aabb51ba58d7b6a6f4f6a81b6e",
@@ -252,11 +506,48 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.97,
+        "dirt-mx": 0.96,
         "new-models": 0.89,
-        "electric": 0.76
+        "electric": 0.73
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.38,
+        "comparison-test": 0.03,
+        "first-look": 0.27,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.29,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
+        "listing": 0.11,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.77,
+        "digest": 0.08,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.06,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "new-models",
@@ -301,11 +592,48 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.87,
-        "electric": 0.63,
-        "adventure": 0.62
+        "gear": 0.88,
+        "electric": 0.59,
+        "adventure": 0.57
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.88,
+        "comparison-test": 0.16,
+        "first-look": 0.73,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.39,
+        "how-to": 0.07,
+        "explainer": 0.54,
+        "opinion": 0.9,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.03,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.18,
+        "history": 0.04,
+        "rumor": 0.09,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.08,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.07,
       "tags": [
         "gear",
         "electric",
@@ -344,10 +672,43 @@
       "confident": true,
       "cat_scores": {
         "electric": 0.98,
-        "dirt-mx": 0.86,
+        "dirt-mx": 0.87,
         "law-safety": 0.55
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.05,
+        "comparison-test": 0.46,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.21,
+        "how-to": 0.06,
+        "explainer": 0.71,
+        "opinion": 0.5,
+        "profile-interview": 0.27,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.1,
+        "episode": 0.97,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.11,
       "tags": [
         "electric",
         "dirt-mx",
@@ -377,9 +738,42 @@
       "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97
+        "electric": 0.96
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.06,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.29,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.05,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "electric"
       ],
@@ -408,22 +802,55 @@
           "label": "New Models"
         },
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
       "primary": "electric",
       "confident": true,
       "cat_scores": {
         "electric": 0.98,
-        "new-models": 0.57,
-        "sport-bikes": 0.5
+        "new-models": 0.59,
+        "dirt-mx": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.93,
+        "comparison-test": 0.05,
+        "first-look": 0.13,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.32,
+        "how-to": 0.09,
+        "explainer": 0.25,
+        "opinion": 0.7,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.09,
+        "digest": 0.05,
+        "photo-gallery": 0.07,
+        "ride-report": 0.61,
+        "history": 0.04,
+        "rumor": 0.03,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.06,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.07,
       "tags": [
         "electric",
         "new-models",
-        "sport-bikes"
+        "dirt-mx"
       ],
       "also": []
     }

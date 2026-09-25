@@ -29,47 +29,51 @@
         "events-rides": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.08,
+        "profile-interview": 0.11,
+        "tribute": 0.04,
+        "listing": 0.01,
+        "event-report": 0.88,
+        "event-preview": 0.07,
+        "press-release": 0.86,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.07,
+        "history": 0.15,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "events-rides"
       ],
       "also": []
-    },
-    {
-      "id": "a04ffdbe102fba3c7975237f37e989547c5d55fb",
-      "title": "Over 1,300 motorcyclists help raise \u00a336,000 for Beatson Cancer Charity",
-      "link": "https://www.visordown.com/news/over-1300-motorcyclists-help-raise-ps36000-beatson-cancer-charity",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T11:30:22+00:00",
-      "excerpt": "More than 1,300 bikers helped raise over \u00a336,000 as part of the Beatson Bikers 2026 charity ride out, which featured an appearance from three-time BSB champion Niall Mackenzie.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/og0202.mxf_.01_21_39_14.still001.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.97
-      },
-      "subcategories": [],
-      "tags": [
-        "events-rides"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Beatson Bikers 2026: 1300 riders and Niall Mackenzie raise over \u00a336,000 for cancer charity",
-          "link": "https://www.motorcyclenews.com/news/2026/september/beatson-bikers-moulsdale-charity-ride",
-          "published": "2026-09-22T16:40:30+00:00"
-        }
-      ]
     },
     {
       "id": "04cdfedae526ea42a835918ba26d8b93de4c5c63",
@@ -96,6 +100,102 @@
         "events-rides": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.05,
+        "explainer": 0.12,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.65,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.04,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "092ae0c9328f227b9ce504d0fb0663453d2482db",
+      "title": "MCL26 Show and Shine voting closes this Sunday!",
+      "link": "https://www.visordown.com/news/mcl26-show-and-shine-voting-closes-sunday",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T07:05:49+00:00",
+      "excerpt": "Voting is nearly over for MCL26 Show and Shine, with The Biker Lawyers, with hundreds of bikes competing for one of just 10 places at this year\u2019s show.",
+      "image": "https://www.visordown.com/sites/default/files/2026-07/show-and-shine-mcl26.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.86
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.76,
+        "review": 0.02,
+        "comparison-test": 0.07,
+        "first-look": 0.02,
+        "ranked-list": 0.44,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.11,
+        "event-preview": 0.3,
+        "press-release": 0.45,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.06,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "events-rides"
       ],
@@ -136,6 +236,43 @@
         "dirt-mx": 0.94
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.05,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.91,
+        "event-preview": 0.1,
+        "press-release": 0.7,
+        "digest": 0.08,
+        "photo-gallery": 0.11,
+        "ride-report": 0.13,
+        "history": 0.18,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
       "tags": [
         "events-rides",
         "adventure",
@@ -144,17 +281,98 @@
       "also": []
     },
     {
-      "id": "865f05c87fc0b4de074b5c5d1413f7a75d66ae18",
-      "title": "Daredevil Tattoo Bike Night",
-      "link": "https://thevintagent.com/2026/09/15/daredevil-tattoo-bike-night",
+      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
+      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
+      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
       "lang": "en",
-      "source": "The Vintagent",
-      "ownership": "independent",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Michael McCabe",
-      "published": "2026-09-15T14:02:17+00:00",
-      "excerpt": "\"We\u2019ve always had connections to motorcycles. Next year is our 30th anniversary, so we\u2019ll have another Bike Night: it was totally a hit.\u201d The post Daredevil Tattoo Bike Night first appeared on The Vintagent .",
-      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
+      "author": null,
+      "published": "2026-09-25T18:01:51+00:00",
+      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
+      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.95,
+        "law-safety": 0.9
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.2,
+        "opinion": 0.06,
+        "profile-interview": 0.16,
+        "tribute": 0.8,
+        "listing": 0.01,
+        "event-report": 0.27,
+        "event-preview": 0.77,
+        "press-release": 0.27,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.79,
+        "rumor": 0.01,
+        "safety-notice": 0.31,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides",
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "a04ffdbe102fba3c7975237f37e989547c5d55fb",
+      "title": "Over 1,300 motorcyclists help raise \u00a336,000 for Beatson Cancer Charity",
+      "link": "https://www.visordown.com/news/over-1300-motorcyclists-help-raise-ps36000-beatson-cancer-charity",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T11:30:22+00:00",
+      "excerpt": "More than 1,300 bikers helped raise over \u00a336,000 as part of the Beatson Bikers 2026 charity ride out, which featured an appearance from three-time BSB champion Niall Mackenzie.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/og0202.mxf_.01_21_39_14.still001.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -165,13 +383,57 @@
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.9
+        "events-rides": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.09,
+        "press-release": 0.35,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "events-rides"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Beatson Bikers 2026: 1300 riders and Niall Mackenzie raise over \u00a336,000 for cancer charity",
+          "link": "https://www.motorcyclenews.com/news/2026/september/beatson-bikers-moulsdale-charity-ride",
+          "published": "2026-09-22T16:40:30+00:00"
+        }
+      ]
     },
     {
       "id": "797c1a6aca6a2589ca9b48e48be62a7d9950abb1",
@@ -198,8 +460,134 @@
         "events-rides": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.17,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.21,
+        "press-release": 0.9,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
       "tags": [
         "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
+      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
+      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:50:06+00:00",
+      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
+      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.92,
+        "events-rides": 0.87,
+        "adventure": 0.81,
+        "racing": 0.66
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.09,
+        "comparison-test": 0.07,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.1,
+        "explainer": 0.22,
+        "opinion": 0.43,
+        "profile-interview": 0.15,
+        "tribute": 0.18,
+        "listing": 0.01,
+        "event-report": 0.78,
+        "event-preview": 0.07,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.96,
+        "history": 0.2,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "events-rides",
+        "adventure",
+        "racing"
       ],
       "also": []
     },
@@ -237,12 +625,40 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.91,
+        "adventure": 0.9,
         "dirt-mx": 0.84,
-        "racing": 0.8,
-        "events-rides": 0.61
+        "racing": 0.79,
+        "events-rides": 0.6
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.45,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.6,
+        "profile-interview": 0.18,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.72,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.04,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.06,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -293,11 +709,48 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "dirt-mx": 0.73,
-        "racing": 0.63,
-        "events-rides": 0.52
+        "dirt-mx": 0.69,
+        "racing": 0.62,
+        "events-rides": 0.5
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.05,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.56,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -337,12 +790,61 @@
         }
       ],
       "primary": "new-models",
-      "confident": true,
+      "confident": false,
       "cat_scores": {
-        "new-models": 0.85,
+        "new-models": 0.84,
         "events-rides": 0.81
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.24,
+        "comparison-test": 0.05,
+        "first-look": 0.89,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.27,
+        "how-to": 0.12,
+        "explainer": 0.89,
+        "opinion": 0.19,
+        "profile-interview": 0.8,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.95,
+        "press-release": 0.19,
+        "digest": 0.66,
+        "photo-gallery": 0.02,
+        "ride-report": 0.09,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.97,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.91,
       "tags": [
         "new-models",
         "events-rides"
@@ -381,162 +883,40 @@
       "cat_scores": {
         "adventure": 0.97,
         "dirt-mx": 0.92,
-        "events-rides": 0.59
-      },
-      "subcategories": [],
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "f10cd844e1c3a5b426188b14c78bec0473d83139",
-      "title": "The Vintagent Classics: Burst City",
-      "link": "https://thevintagent.com/2026/09/15/the-vintagent-classics-burst-city",
-      "lang": "en",
-      "source": "The Vintagent",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Corinna Mantlo",
-      "published": "2026-09-15T19:18:49+00:00",
-      "excerpt": "ATTENTION!! The post The Vintagent Classics: Burst City first appeared on The Vintagent .",
-      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "classic",
-      "confident": false,
-      "cat_scores": {
-        "classic": 0.74,
-        "custom": 0.63,
-        "sport-bikes": 0.55,
-        "events-rides": 0.55
-      },
-      "subcategories": [],
-      "tags": [
-        "classic",
-        "custom",
-        "sport-bikes",
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "01ec9531e26edef377684b4659b79911be369af4",
-      "title": "Carl Fogarty to headline special classic bike anniversary weekend at Cadwell Park in Lincolnshire",
-      "link": "https://www.motorcyclenews.com/news/2026/september/classic-bike-trackdays-cadwell-park",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T12:27:30+00:00",
-      "excerpt": "Some of Britain\u2019s best historic race bikes, and well-kept classic motorcycles will descend on Lincolnshire\u2019s Cadwell Park this coming weekend, with two days of on- and off-track fun planned at the...",
-      "image": "https://www.motorcyclenews.com/wp-images/438652/390x260/suzuki-cadwell-park.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "classic",
-      "confident": true,
-      "cat_scores": {
-        "classic": 0.93,
-        "events-rides": 0.69,
-        "racing": 0.56
-      },
-      "subcategories": [],
-      "tags": [
-        "classic",
-        "events-rides",
-        "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "34113b369725a45131a33904dd369c04bcbc2a55",
-      "title": "Veloce Club, Hitchen: 'Proper community builder'",
-      "link": "https://www.motorcyclenews.com/pit-stop/cafes/veloce-club",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T13:59:29+00:00",
-      "excerpt": "THE DETAILS Open: Thurs-Fri 10am-3pm Sat-Sun 10am-4pm Find out more: www.veloceclub.co.uk Address: Hitchin SG5 1RT This article is supported by Oxford Products. Find out about their...",
-      "image": "https://www.motorcyclenews.com/wp-images/433546/390x260/veloce_club.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
-        "events-rides": 0.56
-      },
-      "subcategories": [],
-      "tags": [
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "9358a4d4e8409a42cae3fa237fab9c93364938c8",
-      "title": "What's on this week in biking? Don't miss a thing with the MCN guide",
-      "link": "https://www.motorcyclenews.com/news/whats-on",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T12:25:29+00:00",
-      "excerpt": "Looking for an excuse to get out on the bike? From bike nights and rideouts to racing, rallies, trackdays and major shows, our weekly What\u2019s On guide rounds up the best events for riders across the UK...",
-      "image": "https://www.motorcyclenews.com/wp-images/436478/390x260/160213dr_8437.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
         "events-rides": 0.6
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.5,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.09,
+        "opinion": 0.11,
+        "profile-interview": 0.71,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.74,
+        "event-preview": 0.05,
+        "press-release": 0.12,
+        "digest": 0.14,
+        "photo-gallery": 0.11,
+        "ride-report": 0.54,
+        "history": 0.42,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.14,
       "tags": [
+        "adventure",
+        "dirt-mx",
         "events-rides"
       ],
       "also": []
@@ -571,15 +951,131 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.92,
+        "adventure": 0.91,
         "events-rides": 0.8,
-        "dirt-mx": 0.75
+        "dirt-mx": 0.71
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.06,
+        "comparison-test": 0.07,
+        "first-look": 0.06,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.15,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.97,
+        "press-release": 0.87,
+        "digest": 0.11,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "adventure",
         "events-rides",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "a4269656731c84c0038874580eb0781defccece9",
+      "title": "Handing over the keys to other riders and seeing what they make of it | Voge DS900X long-term test",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/voge-ds900x/opinion-gathering",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T09:17:34+00:00",
+      "excerpt": "It\u2019s been a busy period for the DS900X. To present it to the masses on MCN\u2019s stand at Moto Fest, we made the trip in full dress, making it a popular choice for ferrying kit to and from the event.",
+      "image": "https://www.motorcyclenews.com/wp-images/438430/390x260/voge_ds900x_update_five__1_.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.89,
+        "new-models": 0.7,
+        "events-rides": 0.62
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.93,
+        "comparison-test": 0.06,
+        "first-look": 0.13,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.19,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.26,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.46,
+        "event-preview": 0.07,
+        "press-release": 0.22,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.62,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "adventure",
+        "new-models",
+        "events-rides"
       ],
       "also": []
     },
@@ -620,13 +1116,304 @@
         "dirt-mx": 0.91,
         "custom": 0.88,
         "adventure": 0.72,
-        "events-rides": 0.55
+        "events-rides": 0.54
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.73,
+        "review": 0.03,
+        "comparison-test": 0.34,
+        "first-look": 0.09,
+        "ranked-list": 0.23,
+        "buyers-guide": 0.12,
+        "how-to": 0.04,
+        "explainer": 0.12,
+        "opinion": 0.09,
+        "profile-interview": 0.11,
+        "tribute": 0.05,
+        "listing": 0.05,
+        "event-report": 0.11,
+        "event-preview": 0.54,
+        "press-release": 0.53,
+        "digest": 0.16,
+        "photo-gallery": 0.25,
+        "ride-report": 0.03,
+        "history": 0.06,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.59,
       "tags": [
         "dirt-mx",
         "custom",
         "adventure",
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "01ec9531e26edef377684b4659b79911be369af4",
+      "title": "Carl Fogarty to headline special classic bike anniversary weekend at Cadwell Park in Lincolnshire",
+      "link": "https://www.motorcyclenews.com/news/2026/september/classic-bike-trackdays-cadwell-park",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T12:27:30+00:00",
+      "excerpt": "Some of Britain\u2019s best historic race bikes, and well-kept classic motorcycles will descend on Lincolnshire\u2019s Cadwell Park this coming weekend, with two days of on- and off-track fun planned at the...",
+      "image": "https://www.motorcyclenews.com/wp-images/438652/390x260/suzuki-cadwell-park.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.93,
+        "events-rides": 0.72,
+        "racing": 0.56
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.04,
+        "profile-interview": 0.11,
+        "tribute": 0.05,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.98,
+        "press-release": 0.44,
+        "digest": 0.1,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.05,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "classic",
+        "events-rides",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "34113b369725a45131a33904dd369c04bcbc2a55",
+      "title": "Veloce Club, Hitchen: 'Proper community builder'",
+      "link": "https://www.motorcyclenews.com/pit-stop/cafes/veloce-club",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-17T13:59:29+00:00",
+      "excerpt": "THE DETAILS Open: Thurs-Fri 10am-3pm Sat-Sun 10am-4pm Find out more: www.veloceclub.co.uk Address: Hitchin SG5 1RT This article is supported by Oxford Products. Find out about their...",
+      "image": "https://www.motorcyclenews.com/wp-images/433546/390x260/veloce_club.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.34,
+        "review": 0.07,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.1,
+        "how-to": 0.05,
+        "explainer": 0.19,
+        "opinion": 0.25,
+        "profile-interview": 0.75,
+        "tribute": 0.07,
+        "listing": 0.06,
+        "event-report": 0.07,
+        "event-preview": 0.13,
+        "press-release": 0.49,
+        "digest": 0.15,
+        "photo-gallery": 0.1,
+        "ride-report": 0.07,
+        "history": 0.08,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.11,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.11,
+      "tags": [
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "9358a4d4e8409a42cae3fa237fab9c93364938c8",
+      "title": "What's on this week in biking? Don't miss a thing with the MCN guide",
+      "link": "https://www.motorcyclenews.com/news/whats-on",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T12:25:29+00:00",
+      "excerpt": "Looking for an excuse to get out on the bike? From bike nights and rideouts to racing, rallies, trackdays and major shows, our weekly What\u2019s On guide rounds up the best events for riders across the UK...",
+      "image": "https://www.motorcyclenews.com/wp-images/436478/390x260/160213dr_8437.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.62
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.31,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.66,
+        "press-release": 0.09,
+        "digest": 0.74,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.9,
+      "tags": [
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "865f05c87fc0b4de074b5c5d1413f7a75d66ae18",
+      "title": "Daredevil Tattoo Bike Night",
+      "link": "https://thevintagent.com/2026/09/15/daredevil-tattoo-bike-night",
+      "lang": "en",
+      "source": "The Vintagent",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Michael McCabe",
+      "published": "2026-09-15T14:02:17+00:00",
+      "excerpt": "\"We\u2019ve always had connections to motorcycles. Next year is our 30th anniversary, so we\u2019ll have another Bike Night: it was totally a hit.\u201d The post Daredevil Tattoo Bike Night first appeared on The Vintagent .",
+      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.08,
+        "opinion": 0.11,
+        "profile-interview": 0.57,
+        "tribute": 0.07,
+        "listing": 0.04,
+        "event-report": 0.48,
+        "event-preview": 0.85,
+        "press-release": 0.63,
+        "digest": 0.25,
+        "photo-gallery": 0.36,
+        "ride-report": 0.13,
+        "history": 0.28,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.1,
+        "build-feature": 0.08,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.11,
+      "tags": [
         "events-rides"
       ],
       "also": []
@@ -662,10 +1449,47 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.91,
-        "events-rides": 0.71,
-        "classic": 0.67
+        "events-rides": 0.73,
+        "classic": 0.71
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.27,
+        "review": 0.03,
+        "comparison-test": 0.2,
+        "first-look": 0.07,
+        "ranked-list": 0.89,
+        "buyers-guide": 0.09,
+        "how-to": 0.04,
+        "explainer": 0.18,
+        "opinion": 0.15,
+        "profile-interview": 0.25,
+        "tribute": 0.04,
+        "listing": 0.06,
+        "event-report": 0.15,
+        "event-preview": 0.8,
+        "press-release": 0.12,
+        "digest": 0.11,
+        "photo-gallery": 0.26,
+        "ride-report": 0.06,
+        "history": 0.15,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.18,
       "tags": [
         "custom",
         "events-rides",
@@ -698,6 +1522,43 @@
         "events-rides": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.44,
+        "profile-interview": 0.11,
+        "tribute": 0.93,
+        "listing": 0.01,
+        "event-report": 0.45,
+        "event-preview": 0.13,
+        "press-release": 0.04,
+        "digest": 0.03,
+        "photo-gallery": 0.03,
+        "ride-report": 0.92,
+        "history": 0.44,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "events-rides"
       ],
@@ -729,10 +1590,51 @@
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.98,
+        "events-rides": 0.97,
         "cruisers": 0.52
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.94,
+        "press-release": 0.9,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.04,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "events-rides",
         "cruisers"
@@ -754,24 +1656,57 @@
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
           "slug": "events-rides",
           "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "events-rides",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.83,
-        "events-rides": 0.82
+        "events-rides": 0.81,
+        "adventure": 0.8
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.06,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.06,
+        "how-to": 0.06,
+        "explainer": 0.12,
+        "opinion": 0.18,
+        "profile-interview": 0.08,
+        "tribute": 0.09,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.06,
+        "press-release": 0.04,
+        "digest": 0.11,
+        "photo-gallery": 0.19,
+        "ride-report": 0.94,
+        "history": 0.23,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.06,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.07,
       "tags": [
-        "adventure",
-        "events-rides"
+        "events-rides",
+        "adventure"
       ],
       "also": []
     },
@@ -809,12 +1744,53 @@
       "primary": "cruisers",
       "confident": true,
       "cat_scores": {
-        "cruisers": 0.86,
-        "racing": 0.78,
-        "events-rides": 0.73,
-        "new-models": 0.68
+        "cruisers": 0.88,
+        "racing": 0.79,
+        "events-rides": 0.74,
+        "new-models": 0.66
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.27,
+        "comparison-test": 0.04,
+        "first-look": 0.51,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.14,
+        "how-to": 0.06,
+        "explainer": 0.41,
+        "opinion": 0.2,
+        "profile-interview": 0.73,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.97,
+        "press-release": 0.19,
+        "digest": 0.78,
+        "photo-gallery": 0.02,
+        "ride-report": 0.15,
+        "history": 0.05,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.97,
+        "build-feature": 0.06,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.87,
       "tags": [
         "cruisers",
         "racing",
@@ -849,10 +1825,43 @@
       "primary": "law-safety",
       "confident": false,
       "cat_scores": {
-        "law-safety": 0.79,
-        "events-rides": 0.63
+        "law-safety": 0.8,
+        "events-rides": 0.62
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.03,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.03,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.73,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "law-safety",
         "events-rides"
@@ -886,9 +1895,37 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "events-rides": 0.75
+        "events-rides": 0.77
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.02,
+        "how-to": 0.04,
+        "explainer": 0.25,
+        "opinion": 0.61,
+        "profile-interview": 0.08,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.22,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
         "events-rides"
@@ -925,6 +1962,39 @@
         "cruisers": 0.58
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.71,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.05,
+        "explainer": 0.16,
+        "opinion": 0.16,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.25,
+        "digest": 0.04,
+        "photo-gallery": 0.01,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
       "tags": [
         "events-rides",
         "cruisers"
@@ -963,9 +2033,42 @@
       "cat_scores": {
         "custom": 0.93,
         "classic": 0.77,
-        "events-rides": 0.77
+        "events-rides": 0.75
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.05,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.04,
+        "listing": 0.02,
+        "event-report": 0.22,
+        "event-preview": 0.08,
+        "press-release": 0.1,
+        "digest": 0.15,
+        "photo-gallery": 0.9,
+        "ride-report": 0.06,
+        "history": 0.13,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.27,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.16,
       "tags": [
         "custom",
         "classic",
@@ -1000,9 +2103,37 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "events-rides": 0.88
+        "events-rides": 0.89
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.12,
+        "how-to": 0.06,
+        "explainer": 0.59,
+        "opinion": 0.26,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.06,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.22,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.17,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
       "tags": [
         "adventure",
         "events-rides"
@@ -1035,10 +2166,47 @@
       "primary": "classic",
       "confident": true,
       "cat_scores": {
-        "classic": 0.88,
+        "classic": 0.89,
         "events-rides": 0.68
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.1,
+        "how-to": 0.03,
+        "explainer": 0.33,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.55,
+        "digest": 0.05,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "classic",
         "events-rides"
@@ -1064,26 +2232,54 @@
           "label": "Events & Rides"
         },
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
           "slug": "classic",
           "label": "Classic"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
         "events-rides": 0.9,
-        "adventure": 0.65,
-        "classic": 0.65
+        "classic": 0.66,
+        "adventure": 0.65
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.17,
+        "comparison-test": 0.18,
+        "first-look": 0.11,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.08,
+        "how-to": 0.09,
+        "explainer": 0.3,
+        "opinion": 0.57,
+        "profile-interview": 0.15,
+        "tribute": 0.28,
+        "listing": 0.04,
+        "event-report": 0.66,
+        "event-preview": 0.19,
+        "press-release": 0.1,
+        "digest": 0.13,
+        "photo-gallery": 0.26,
+        "ride-report": 0.73,
+        "history": 0.51,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.17,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.12,
       "tags": [
         "events-rides",
-        "adventure",
-        "classic"
+        "classic",
+        "adventure"
       ],
       "also": []
     },
@@ -1119,9 +2315,54 @@
       "cat_scores": {
         "sport-bikes": 0.96,
         "new-models": 0.9,
-        "events-rides": 0.76
+        "events-rides": 0.77
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.17,
+        "review": 0.56,
+        "comparison-test": 0.05,
+        "first-look": 0.87,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.1,
+        "explainer": 0.47,
+        "opinion": 0.16,
+        "profile-interview": 0.4,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.1,
+        "event-preview": 0.97,
+        "press-release": 0.4,
+        "digest": 0.81,
+        "photo-gallery": 0.02,
+        "ride-report": 0.25,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.96,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.83,
       "tags": [
         "sport-bikes",
         "new-models",
@@ -1163,25 +2404,50 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.93,
-        "dirt-mx": 0.9,
-        "events-rides": 0.87,
-        "classic": 0.52,
-        "scramblers": 0.51
+        "custom": 0.92,
+        "dirt-mx": 0.88,
+        "events-rides": 0.86,
+        "classic": 0.54
       },
-      "subcategories": [
+      "subcategories": [],
+      "forms": [
         {
-          "slug": "scramblers",
-          "label": "Scramblers",
-          "parent": "custom"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
+      "form_scores": {
+        "news": 0.24,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.42,
+        "event-preview": 0.07,
+        "press-release": 0.08,
+        "digest": 0.14,
+        "photo-gallery": 0.89,
+        "ride-report": 0.05,
+        "history": 0.06,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.27,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.09,
       "tags": [
         "custom",
         "dirt-mx",
         "events-rides",
-        "classic",
-        "scramblers"
+        "classic"
       ],
       "also": []
     },
@@ -1207,9 +2473,42 @@
       "primary": "events-rides",
       "confident": false,
       "cat_scores": {
-        "events-rides": 0.63
+        "events-rides": 0.64
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.04,
+        "explainer": 0.26,
+        "opinion": 0.21,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.98,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
       "tags": [
         "events-rides"
       ],
@@ -1230,24 +2529,61 @@
       "audio": "https://traffic.libsyn.com/secure/revzillapodcast/HSLS_S12E01_PODCAST_v2.mp3?dest-id=1064744",
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
           "slug": "events-rides",
           "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "events-rides",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.57,
-        "events-rides": 0.57
+        "events-rides": 0.57,
+        "adventure": 0.56
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.07,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.12,
+        "how-to": 0.12,
+        "explainer": 0.16,
+        "opinion": 0.21,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.9,
+        "press-release": 0.12,
+        "digest": 0.22,
+        "photo-gallery": 0.04,
+        "ride-report": 0.06,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.97,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.78,
       "tags": [
-        "adventure",
-        "events-rides"
+        "events-rides",
+        "adventure"
       ],
       "also": []
     },
@@ -1282,10 +2618,55 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.95,
-        "events-rides": 0.85,
-        "cruisers": 0.8
+        "events-rides": 0.84,
+        "cruisers": 0.81
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.21,
+        "review": 0.46,
+        "comparison-test": 0.03,
+        "first-look": 0.88,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.18,
+        "how-to": 0.06,
+        "explainer": 0.65,
+        "opinion": 0.15,
+        "profile-interview": 0.31,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.65,
+        "digest": 0.76,
+        "photo-gallery": 0.03,
+        "ride-report": 0.29,
+        "history": 0.05,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.96,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.81,
       "tags": [
         "new-models",
         "events-rides",
@@ -1312,32 +2693,65 @@
           "label": "Events & Rides"
         },
         {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
         },
         {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.89,
-        "classic": 0.72,
-        "adventure": 0.68,
-        "dirt-mx": 0.68
+        "events-rides": 0.9,
+        "adventure": 0.75,
+        "dirt-mx": 0.73,
+        "classic": 0.72
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.52,
+        "review": 0.05,
+        "comparison-test": 0.06,
+        "first-look": 0.06,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.23,
+        "opinion": 0.2,
+        "profile-interview": 0.09,
+        "tribute": 0.17,
+        "listing": 0.02,
+        "event-report": 0.84,
+        "event-preview": 0.13,
+        "press-release": 0.11,
+        "digest": 0.11,
+        "photo-gallery": 0.22,
+        "ride-report": 0.18,
+        "history": 0.65,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.08,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.08,
       "tags": [
         "events-rides",
-        "classic",
         "adventure",
-        "dirt-mx"
+        "dirt-mx",
+        "classic"
       ],
       "also": []
     },
@@ -1363,9 +2777,42 @@
       "primary": "events-rides",
       "confident": false,
       "cat_scores": {
-        "events-rides": 0.54
+        "events-rides": 0.55
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.14,
+        "how-to": 0.04,
+        "explainer": 0.14,
+        "opinion": 0.15,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.13,
+        "event-preview": 0.1,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.02,
+        "ride-report": 0.04,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.98,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.28,
       "tags": [
         "events-rides"
       ],
@@ -1401,11 +2848,44 @@
       "primary": "classic",
       "confident": true,
       "cat_scores": {
-        "classic": 0.95,
-        "racing": 0.83,
-        "events-rides": 0.69
+        "classic": 0.94,
+        "racing": 0.81,
+        "events-rides": 0.67
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.49,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.11,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.06,
+        "listing": 0.05,
+        "event-report": 0.07,
+        "event-preview": 0.98,
+        "press-release": 0.61,
+        "digest": 0.07,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.11,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.17,
       "tags": [
         "classic",
         "racing",
@@ -1444,10 +2924,43 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "events-rides": 0.77,
-        "sport-bikes": 0.7
+        "events-rides": 0.78,
+        "sport-bikes": 0.64
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.05,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.04,
+        "opinion": 0.42,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.02,
+        "press-release": 0.02,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.97,
+        "history": 0.16,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "adventure",
         "events-rides",

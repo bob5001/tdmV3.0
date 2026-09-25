@@ -5,49 +5,6 @@
   "children": [],
   "items": [
     {
-      "id": "e703ab7d4753bc773cf18fac93300a06662967f9",
-      "title": "Former Tottenham, F1 and UFC executives join MotoGP leadership team",
-      "link": "https://www.crash.net/motogp/news/1105090/1/former-tottenham-f1-and-ufc-executives-join-motogp-leadership-team",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T14:25:01+00:00",
-      "excerpt": "MotoGP has recruited executives from Tottenham Hotspur, Formula 1 and UFC as it targets global growth.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1337706_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.86,
-        "racing": 0.54
-      },
-      "subcategories": [],
-      "tags": [
-        "industry",
-        "racing"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "MotoGP recruits F1 and Tottenham executives in management reshuffle",
-          "link": "https://www.mcnews.com.au/motogp-recruits-f1-and-tottenham-executives-in-management-reshuffle",
-          "published": "2026-09-23T00:11:05+00:00"
-        }
-      ]
-    },
-    {
       "id": "c93552ac43fceaa55fd8e77024530ea84ba4a500",
       "title": "Superbike Factory administrators reveal \u00a324m debt as some bikes are delivered to rightful owners",
       "link": "https://www.motorcyclenews.com/news/2026/september/superbike-factory-notice-of-administrators-proposal",
@@ -74,14 +31,123 @@
       "confident": true,
       "cat_scores": {
         "industry": 0.96,
-        "sport-bikes": 0.62
+        "sport-bikes": 0.61
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.05,
+        "profile-interview": 0.18,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.07,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.09,
       "tags": [
         "industry",
         "sport-bikes"
       ],
       "also": []
+    },
+    {
+      "id": "9013a6bc096cef732922debd22476095f49aae1c",
+      "title": "MotoGP recruits F1 and Tottenham executives in management reshuffle",
+      "link": "https://www.mcnews.com.au/motogp-recruits-f1-and-tottenham-executives-in-management-reshuffle",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-23T00:11:05+00:00",
+      "excerpt": "MotoGP adds four senior executives as Louise Young joins from Formula 1, Ryan Norys arrives from Tottenham and new media and strategy chiefs are confirmed. The post MotoGP recruits F1 and Tottenham executives in management reshuffle appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-MotoGP-Rnd15-RedBullRing-Sunday-Acosta-MarcMarquez-Bagnaia.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.9,
+        "racing": 0.54
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.04,
+        "press-release": 0.7,
+        "digest": 0.11,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "industry",
+        "racing"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Former Tottenham, F1 and UFC executives join MotoGP leadership team",
+          "link": "https://www.crash.net/motogp/news/1105090/1/former-tottenham-f1-and-ufc-executives-join-motogp-leadership-team",
+          "published": "2026-09-23T14:25:01+00:00"
+        }
+      ]
     },
     {
       "id": "e7026d562067e379866a969f38adec55c8badbda",
@@ -114,10 +180,47 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "industry": 0.88
+        "racing": 0.96,
+        "industry": 0.85
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.25,
+        "press-release": 0.95,
+        "digest": 0.04,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -157,9 +260,46 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "industry": 0.97,
-        "law-safety": 0.78
+        "law-safety": 0.76
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.18,
+        "how-to": 0.65,
+        "explainer": 0.35,
+        "opinion": 0.04,
+        "profile-interview": 0.02,
+        "tribute": 0.37,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.86,
+        "digest": 0.06,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.6,
+        "rumor": 0.02,
+        "safety-notice": 0.97,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "industry",
@@ -194,9 +334,42 @@
       "confident": true,
       "cat_scores": {
         "industry": 0.93,
-        "racing": 0.87
+        "racing": 0.86
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.61,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.57,
+        "opinion": 0.21,
+        "profile-interview": 0.05,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.32,
+        "press-release": 0.18,
+        "digest": 0.95,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.37,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.96,
       "tags": [
         "industry",
         "racing"
@@ -204,31 +377,65 @@
       "also": []
     },
     {
-      "id": "fb53c9fdf7575b2c582c2f838c21e58763c56490",
-      "title": "Yamaha Is Now Suing This East Coast Dealership For Nearly $3 Million",
-      "link": "https://www.rideapart.com/news/809140/yamaha-sues-motorcycles-of-manchester-dealership-over-breach-of-contract",
+      "id": "f6e1254fd00728249df29e0b2de3cf44eaedcd53",
+      "title": "Surprise! Red Bull returns to the Honda MotoGP factory team",
+      "link": "https://www.gpone.com/en/2026/09/25/motogp/surprise-red-bull-returns-to-the-honda-motogp-factory-team.html",
       "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
+      "source": "GPone",
+      "ownership": "independent",
       "media": "article",
-      "author": null,
-      "published": "2026-09-23T12:49:00+00:00",
-      "excerpt": "Motorcycles of Manchester is in Yamaha's crosshairs over a breach of contract.",
-      "image": "https://cdn.motor1.com/images/mgl/Qebrr0/s3/2026-yamaha-tenere-700-world-raid.jpg",
+      "author": "G\u00fcnther Wiesinger",
+      "published": "2026-09-25T08:56:55+00:00",
+      "excerpt": "For 2027 Yamaha Motor Racing will lose its title sponsor, Monster, to Aprilia and is now seeking a replacement. Their approach to Red Bull was rebuffed",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/honda-2023.jpg?itok=4VmyBEGb",
       "audio": null,
       "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
         {
           "slug": "industry",
           "label": "Industry & Business"
         }
       ],
-      "primary": "industry",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "industry": 0.95
+        "racing": 1.0,
+        "industry": 0.96
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.48,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.14,
+        "press-release": 0.22,
+        "digest": 0.18,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.34,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.11,
       "tags": [
+        "racing",
         "industry"
       ],
       "also": []
@@ -259,10 +466,38 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.9,
+        "industry": 0.88,
         "law-safety": 0.84
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.71,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.18,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.71,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "industry",
         "law-safety"
@@ -300,13 +535,104 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "cruisers": 0.88,
+        "cruisers": 0.87,
         "industry": 0.85
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.34,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.22,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.17,
+        "press-release": 0.13,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.25,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.08,
       "tags": [
         "racing",
         "cruisers",
+        "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "fb53c9fdf7575b2c582c2f838c21e58763c56490",
+      "title": "Yamaha Is Now Suing This East Coast Dealership For Nearly $3 Million",
+      "link": "https://www.rideapart.com/news/809140/yamaha-sues-motorcycles-of-manchester-dealership-over-breach-of-contract",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T12:49:00+00:00",
+      "excerpt": "Motorcycles of Manchester is in Yamaha's crosshairs over a breach of contract.",
+      "image": "https://cdn.motor1.com/images/mgl/Qebrr0/s3/2026-yamaha-tenere-700-world-raid.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.2,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
         "industry"
       ],
       "also": []
@@ -333,9 +659,37 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.93
+        "industry": 0.92
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.12,
+        "opinion": 0.5,
+        "profile-interview": 0.14,
+        "tribute": 0.13,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.03,
+        "press-release": 0.31,
+        "digest": 0.11,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
+        "history": 0.16,
+        "rumor": 0.05,
+        "safety-notice": 0.04,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
       "tags": [
         "industry"
       ],
@@ -366,59 +720,122 @@
         "industry": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.1,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.12,
+        "digest": 0.06,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "industry"
       ],
       "also": []
     },
     {
-      "id": "1d5fe598482aaf0a91ffab991f17168315bf8464",
-      "title": "World Supercross British GP cancelled as SX Global seeks new investment",
-      "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
+      "id": "20d7393b0ebc14d900bf437e0f70a6b221a25508",
+      "title": "Is PMG Suzuki the New SX Titan? | Dustin Pipes on the SML Show",
+      "link": "https://dirtrider.net/is-pmg-suzuki-the-new-sx-titan-dustin-pipes-on-the-sml-show",
       "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
+      "source": "DirtRider",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-22T08:56:11+00:00",
-      "excerpt": "SX Global has cancelled the World Supercross British GP just 18 days before race day as investment talks continue. Teams have backed the promoter, while the statement provides no specific update on Gold Coast or Christchurch. The post World Supercross British GP cancelled as SX G",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/08/2026-WSX-CanadianGP-RACE1_SX1_-1483.jpg",
+      "author": "Swapmoto",
+      "published": "2026-09-23T17:00:13+00:00",
+      "excerpt": "For this week\u2019s episode of the SML Show, host Donn Maeda sits down with PMG Suzuki\u2019s Dustin Pipes to reflect on the transition from privateer racer to starting a team, discusses how he introduced Twisted Tea into motocross, signing Ken Roczen to the team, Suzuki\u2019s elevated involv",
+      "image": null,
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         },
         {
           "slug": "industry",
           "label": "Industry & Business"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "dirt-mx": 0.97,
-        "industry": 0.75
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "industry": 0.52
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.24,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.12,
+        "opinion": 0.16,
+        "profile-interview": 0.97,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.48,
+        "event-preview": 0.08,
+        "press-release": 0.18,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.93,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.17,
       "tags": [
-        "racing",
         "dirt-mx",
+        "racing",
         "industry"
       ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "FIM World Supercross cancels British GP as investment talks continue",
-          "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
-          "published": "2026-09-22T10:23:37+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "1a55d671067d17f1fd3be4da47d8307fe6740d96",
@@ -454,12 +871,45 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.9,
+        "dirt-mx": 0.92,
         "adventure": 0.87,
-        "new-models": 0.83,
-        "industry": 0.7
+        "new-models": 0.84,
+        "industry": 0.68
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.62,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.09,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.36,
+        "how-to": 0.03,
+        "explainer": 0.28,
+        "opinion": 0.55,
+        "profile-interview": 0.07,
+        "tribute": 0.02,
+        "listing": 0.06,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
         "adventure",
@@ -503,9 +953,46 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.8
+        "industry": 0.82
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.46,
+        "how-to": 0.05,
+        "explainer": 0.73,
+        "opinion": 0.12,
+        "profile-interview": 0.95,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.15,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.98,
+        "build-feature": 0.02,
+        "q-and-a": 0.32
+      },
+      "multi_subject": 0.63,
       "tags": [
         "industry"
       ],
@@ -538,9 +1025,50 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 0.97,
-        "industry": 0.75
+        "industry": 0.76
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.29,
+        "how-to": 0.04,
+        "explainer": 0.77,
+        "opinion": 0.04,
+        "profile-interview": 0.56,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.84,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "industry"
@@ -574,11 +1102,199 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.66
+        "industry": 0.64
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.3,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.12,
+        "press-release": 0.74,
+        "digest": 0.2,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.94,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.35,
       "tags": [
         "racing",
+        "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "3ccfa34b193e2bc8d1678bb854676b9a906334f1",
+      "title": "Alarm Bells Ringing for World Supercross Championship as British GP Canceled",
+      "link": "https://www.rideapart.com/news/809326/alarm-bells-ringing-for-world-supercross-as-british-gp-cancelled",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:24:00+00:00",
+      "excerpt": "World Supercross is openly looking for significant investment, a new owner, and partners. Now, it has canceled the British GP on short notice.",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Lbk/s3/world-supercross.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "dirt-mx": 0.95,
+        "industry": 0.74
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.22,
+        "profile-interview": 0.08,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.06,
+        "press-release": 0.18,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "dirt-mx",
+        "industry"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "World Supercross British GP cancelled as SX Global seeks new investment",
+          "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
+          "published": "2026-09-22T08:56:11+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "FIM World Supercross cancels British GP as investment talks continue",
+          "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
+          "published": "2026-09-22T10:23:37+00:00"
+        }
+      ]
+    },
+    {
+      "id": "79bb7547511e16afed99aff71d9f6a09069ae18f",
+      "title": "CFMoto motorcycle sales jump 30 per cent in first half of 2026",
+      "link": "https://www.visordown.com/news/cfmoto-motorcycle-sales-jump-30-cent-first-half-2026",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T08:12:00+00:00",
+      "excerpt": "CFMoto sold almost 200,000 petrol motorcycles in the first half of 2026, with overseas sales accounting for around half of the total.",
+      "image": "https://www.visordown.com/sites/default/files/2026-06/cfmoto-1000-mt-x-review18.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.49,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
         "industry"
       ],
       "also": []
@@ -615,78 +1331,45 @@
       "cat_scores": {
         "racing": 1.0,
         "sport-bikes": 0.93,
-        "industry": 0.69
+        "industry": 0.67
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.16,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.49,
+        "profile-interview": 0.96,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.08,
+        "press-release": 0.14,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.09,
+        "safety-notice": 0.11,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "79bb7547511e16afed99aff71d9f6a09069ae18f",
-      "title": "CFMoto motorcycle sales jump 30 per cent in first half of 2026",
-      "link": "https://www.visordown.com/news/cfmoto-motorcycle-sales-jump-30-cent-first-half-2026",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T08:12:00+00:00",
-      "excerpt": "CFMoto sold almost 200,000 petrol motorcycles in the first half of 2026, with overseas sales accounting for around half of the total.",
-      "image": "https://www.visordown.com/sites/default/files/2026-06/cfmoto-1000-mt-x-review18.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.98
-      },
-      "subcategories": [],
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "3069a32b9ceaa870b10ca2bec742d1108f41be73",
-      "title": "MotoGP teams fear e-fuel will cost 86 euros per liter in 2027!",
-      "link": "https://www.gpone.com/en/2026/09/23/motogp/motogp-teams-fear-e-fuel-will-cost-86-euros-per-liter-in-2027.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "G\u00fcnther Wiesinger",
-      "published": "2026-09-23T07:31:06+00:00",
-      "excerpt": "That is an exorbitant price, especially for independent teams such as LCR, Pramac, Tech3, Trackhouse, Gresini Racing, and the Pertamina Enduro VR46 Racing Team",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "industry": 0.7
-      },
-      "subcategories": [],
-      "tags": [
-        "racing",
         "industry"
       ],
       "also": []
@@ -716,6 +1399,39 @@
         "industry": 0.59
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.5,
+        "how-to": 0.08,
+        "explainer": 0.93,
+        "opinion": 0.08,
+        "profile-interview": 0.25,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.42,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.17
+      },
+      "multi_subject": 0.33,
       "tags": [
         "industry"
       ],
@@ -751,9 +1467,106 @@
         "racing": 0.88
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.07,
+        "profile-interview": 0.41,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.59,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "industry",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "3069a32b9ceaa870b10ca2bec742d1108f41be73",
+      "title": "MotoGP teams fear e-fuel will cost 86 euros per liter in 2027!",
+      "link": "https://www.gpone.com/en/2026/09/23/motogp/motogp-teams-fear-e-fuel-will-cost-86-euros-per-liter-in-2027.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "G\u00fcnther Wiesinger",
+      "published": "2026-09-23T07:31:06+00:00",
+      "excerpt": "That is an exorbitant price, especially for independent teams such as LCR, Pramac, Tech3, Trackhouse, Gresini Racing, and the Pertamina Enduro VR46 Racing Team",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "industry": 0.71
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.3,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.46,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.16,
+        "digest": 0.13,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.21,
+        "safety-notice": 0.05,
+        "episode": 0.08,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "industry"
       ],
       "also": []
     },
@@ -779,9 +1592,42 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.97
+        "industry": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
+        "explainer": 0.19,
+        "opinion": 0.05,
+        "profile-interview": 0.17,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.74,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.13,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "industry"
       ],
@@ -812,6 +1658,39 @@
         "industry": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.37,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "industry"
       ],
@@ -849,9 +1728,46 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.78
+        "industry": 0.75
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.24,
+        "how-to": 0.04,
+        "explainer": 0.24,
+        "opinion": 0.07,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.81,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear",
         "law-safety",
@@ -886,9 +1802,42 @@
       "confident": false,
       "cat_scores": {
         "industry": 0.81,
-        "new-models": 0.75
+        "new-models": 0.76
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.6,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.39,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.23,
+        "opinion": 0.4,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.27,
+        "press-release": 0.55,
+        "digest": 0.92,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.49,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.95,
       "tags": [
         "industry",
         "new-models"
@@ -917,9 +1866,46 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.73
+        "industry": 0.72
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.06,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.15,
+        "opinion": 0.05,
+        "profile-interview": 0.38,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.05,
+        "press-release": 0.86,
+        "digest": 0.07,
+        "photo-gallery": 0.1,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "industry"
       ],
@@ -956,10 +1942,43 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.91,
-        "racing": 0.89,
-        "industry": 0.63
+        "racing": 0.9,
+        "industry": 0.65
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.39,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.91,
+        "profile-interview": 0.06,
+        "tribute": 0.09,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.13,
+        "press-release": 0.15,
+        "digest": 0.12,
+        "photo-gallery": 0.04,
+        "ride-report": 0.04,
+        "history": 0.08,
+        "rumor": 0.05,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "racing",
@@ -993,10 +2012,43 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.9,
-        "industry": 0.74
+        "law-safety": 0.88,
+        "industry": 0.77
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        }
+      ],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.03,
+        "explainer": 0.26,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.9,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.06,
       "tags": [
         "law-safety",
         "industry"
@@ -1028,6 +2080,43 @@
         "industry": 0.94
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.04,
+        "explainer": 0.25,
+        "opinion": 0.07,
+        "profile-interview": 0.28,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.77,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.06,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "industry"
       ],
@@ -1063,6 +2152,39 @@
         "industry": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.41,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.7,
+        "digest": 0.11,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "industry"
@@ -1104,69 +2226,46 @@
         "industry": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.59,
+        "event-preview": 0.15,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.35,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
       "tags": [
         "dirt-mx",
         "racing",
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "68a17a448fd9833398af1ce6b821b20bb1cf07cd",
-      "title": "[News Release]Consolidated Business Results Summary - First Half of Fiscal Year Ending December 31, 2026 -",
-      "link": "https://global.yamaha-motor.com/news/2026/0804/result.html?RSS=ON",
-      "lang": "en",
-      "source": "Yamaha Motor Global",
-      "ownership": "oem",
-      "media": "article",
-      "author": null,
-      "published": "2026-08-04T04:15:00+00:00",
-      "excerpt": "Yamaha Motor Co., Ltd (Tokyo: 7272) announces its consolidated business results for the first half of fiscal 2026.",
-      "image": "https://news.yamaha-motor.co.jp/news/assets_c/2026/08/140725_0001-thumb-630x630-271040.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.96
-      },
-      "subcategories": [],
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "b8a07ad24eb47a618a4835aec27d51c2dd779223",
-      "title": "[News Release]Announcement of Personnel Changes",
-      "link": "https://global.yamaha-motor.com/news/2026/0731/personnel.html?RSS=ON",
-      "lang": "en",
-      "source": "Yamaha Motor Global",
-      "ownership": "oem",
-      "media": "article",
-      "author": null,
-      "published": "2026-07-31T01:10:00+00:00",
-      "excerpt": "Yamaha Motor Co., Ltd. (Tokyo: 7272) announces the following personnel changes.",
-      "image": "https://news.yamaha-motor.co.jp/news/assets_c/2026/07/140241_0001-thumb-630x630-271001.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.95
-      },
-      "subcategories": [],
-      "tags": [
         "industry"
       ],
       "also": []
@@ -1193,9 +2292,46 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.94
+        "industry": 0.95
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.02,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.03,
+        "press-release": 0.98,
+        "digest": 0.07,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.06,
       "tags": [
         "industry"
       ],

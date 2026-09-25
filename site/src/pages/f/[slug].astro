@@ -1,0 +1,19 @@
+---
+import Base from '../../layouts/Base.astro';
+import Item from '../../layouts/Item.astro';
+
+export function getStaticPaths() {
+  const pages = import.meta.glob('../../data/forms/*.json', { eager: true });
+  return Object.values(pages).filter((m: any) => m.default.items.length > 0).map((m: any) => ({
+    params: { slug: m.default.slug },
+    props: { page: m.default },
+  }));
+}
+const { page } = Astro.props;
+---
+<Base title={`${page.label} · The Daily Motorcycle`}>
+  <p class="crumb"><a href="/forms/">← All forms</a></p>
+  <h2>{page.label}</h2>
+  <p class="meta">{page.items.length} {page.items.length === 1 ? 'item' : 'items'}: a form is the kind of piece, whatever its subject.</p>
+  <div class="list">{page.items.slice(0, 100).map((item) => <Item item={item} />)}</div>
+</Base>

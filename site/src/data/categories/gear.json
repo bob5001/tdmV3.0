@@ -25,18 +25,61 @@
         {
           "slug": "gear",
           "label": "Gear"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "gear": 0.98
+        "gear": 0.98,
+        "law-safety": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.97,
+        "comparison-test": 0.04,
+        "first-look": 0.28,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.51,
+        "how-to": 0.03,
+        "explainer": 0.77,
+        "opinion": 0.53,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.1,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.3,
+        "history": 0.01,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
-        "gear"
+        "gear",
+        "law-safety"
       ],
       "also": []
     },
@@ -65,6 +108,39 @@
         "gear": 0.95
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.03,
+        "comparison-test": 0.27,
+        "first-look": 0.04,
+        "ranked-list": 0.98,
+        "buyers-guide": 0.67,
+        "how-to": 0.1,
+        "explainer": 0.32,
+        "opinion": 0.48,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.13,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.62,
       "tags": [
         "gear"
       ],
@@ -100,6 +176,43 @@
         "gear": 0.92
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.03,
+        "comparison-test": 0.54,
+        "first-look": 0.15,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.43,
+        "event-preview": 0.13,
+        "press-release": 0.84,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.13,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "gear"
@@ -128,9 +241,42 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.98
+        "gear": 0.99
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.97,
+        "comparison-test": 0.03,
+        "first-look": 0.7,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.64,
+        "how-to": 0.02,
+        "explainer": 0.46,
+        "opinion": 0.7,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.07,
+        "digest": 0.03,
+        "photo-gallery": 0.03,
+        "ride-report": 0.11,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "gear"
       ],
@@ -166,6 +312,34 @@
         "gear": 0.94
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.72,
+        "review": 0.07,
+        "comparison-test": 0.08,
+        "first-look": 0.54,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.33,
+        "opinion": 0.21,
+        "profile-interview": 0.23,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.4,
+        "event-preview": 0.5,
+        "press-release": 0.7,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.37,
+        "safety-notice": 0.06,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.07,
       "tags": [
         "racing",
         "gear"
@@ -197,23 +371,60 @@
         "gear": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.71,
+        "comparison-test": 0.03,
+        "first-look": 0.33,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.33,
+        "how-to": 0.08,
+        "explainer": 0.5,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.06,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.83,
+        "digest": 0.09,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.12,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear"
       ],
       "also": []
     },
     {
-      "id": "f964924957b999fa1ef09f403a50783d9afafd3e",
-      "title": "Treading carefully | Finding the right rubber for the Triumph Speed Triple 1200 RS on track and road",
-      "link": "https://www.motorcyclenews.com/mcn-fleet/triumph-speed-triple-1200-rs/treading-carefully",
+      "id": "0c807dbf421877ba115f5cf6238db683a5b130e4",
+      "title": "The AGV K7 lots points for one part going MIA",
+      "link": "https://www.motorcyclenews.com/bike-kit/helmets/agv-k7-review",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-22T16:55:30+00:00",
-      "excerpt": "Choosing the right tyres is hugely important, and so far I\u2019ve sampled two options from Metzeler\u2019s current catalogue aboard the Speed Triple. I was keen to see how their latest...",
-      "image": "https://www.motorcyclenews.com/wp-images/438236/390x260/triumph_speed_triple_donington_40.jpg",
+      "published": "2026-09-25T16:27:30+00:00",
+      "excerpt": "Having had an AGV K5 S helmet years ago, which I found to be a great fit for me and firm favourite, I was keen to try their latest sports-touring offering, the K7. I like to keep a good sports touring...",
+      "image": "https://www.motorcyclenews.com/wp-images/439550/390x260/agv_helmet_2026_004_preview.jpg",
       "audio": null,
       "categories": [
         {
@@ -224,9 +435,46 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.96
+        "gear": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.9,
+        "comparison-test": 0.11,
+        "first-look": 0.79,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.64,
+        "how-to": 0.06,
+        "explainer": 0.18,
+        "opinion": 0.71,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.18,
+        "history": 0.03,
+        "rumor": 0.06,
+        "safety-notice": 0.08,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.1
+      },
+      "multi_subject": 0.07,
       "tags": [
         "gear"
       ],
@@ -259,9 +507,42 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "gear": 0.87
+        "gear": 0.85
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.44,
+        "review": 0.23,
+        "comparison-test": 0.62,
+        "first-look": 0.11,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.08,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.52,
+        "profile-interview": 0.2,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.81,
+        "event-preview": 0.08,
+        "press-release": 0.13,
+        "digest": 0.14,
+        "photo-gallery": 0.1,
+        "ride-report": 0.04,
+        "history": 0.16,
+        "rumor": 0.07,
+        "safety-notice": 0.04,
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.09,
       "tags": [
         "racing",
         "gear"
@@ -293,23 +574,60 @@
         "gear": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.09,
+        "how-to": 0.04,
+        "explainer": 0.17,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.33,
+        "press-release": 0.8,
+        "digest": 0.09,
+        "photo-gallery": 0.15,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear"
       ],
       "also": []
     },
     {
-      "id": "99d24594f2fb4f2926157d4f4a17d50acaa51a5f",
-      "title": "Spada Piston ladies boots long-term review",
-      "link": "https://www.motorcyclenews.com/bike-kit/boots/spada-piston-ladies-boots-review",
+      "id": "f964924957b999fa1ef09f403a50783d9afafd3e",
+      "title": "Treading carefully | Finding the right rubber for the Triumph Speed Triple 1200 RS on track and road",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/triumph-speed-triple-1200-rs/treading-carefully",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-15T17:21:08+00:00",
-      "excerpt": "Not every ride calls for a full sports or touring motorcycle boot. For weekend summer rides I prefer a more casual option that\u2019s comfortable to wear off the bike too. I had seen the Spada Piston boots...",
-      "image": "https://www.motorcyclenews.com/wp-images/438055/390x260/spada-piston-boots-01.jpg",
+      "published": "2026-09-22T16:55:30+00:00",
+      "excerpt": "Choosing the right tyres is hugely important, and so far I\u2019ve sampled two options from Metzeler\u2019s current catalogue aboard the Speed Triple. I was keen to see how their latest...",
+      "image": "https://www.motorcyclenews.com/wp-images/438236/390x260/triumph_speed_triple_donington_40.jpg",
       "audio": null,
       "categories": [
         {
@@ -320,11 +638,118 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.99
+        "gear": 0.96
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.8,
+        "comparison-test": 0.59,
+        "first-look": 0.34,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.8,
+        "how-to": 0.17,
+        "explainer": 0.33,
+        "opinion": 0.48,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.04,
+        "press-release": 0.1,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.46,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.1
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
+      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
+      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:00:23+00:00",
+      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "gear": 0.64,
+        "sport-bikes": 0.51
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.49,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.12,
+        "opinion": 0.66,
+        "profile-interview": 0.52,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -355,9 +780,46 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "gear": 0.8
+        "gear": 0.79
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "how-to",
+          "label": "How To"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.16,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.2,
+        "how-to": 0.97,
+        "explainer": 0.86,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.09,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.17,
+        "digest": 0.05,
+        "photo-gallery": 0.13,
+        "ride-report": 0.01,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.74,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
       "tags": [
         "dirt-mx",
         "gear"
@@ -391,9 +853,46 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "gear": 0.55
+        "gear": 0.57
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.88,
+        "buyers-guide": 0.09,
+        "how-to": 0.11,
+        "explainer": 0.23,
+        "opinion": 0.81,
+        "profile-interview": 0.07,
+        "tribute": 0.22,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.02,
+        "digest": 0.59,
+        "photo-gallery": 0.03,
+        "ride-report": 0.03,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.92,
       "tags": [
         "dirt-mx",
         "gear"
@@ -421,18 +920,136 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "gear",
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.84
+        "law-safety": 0.84,
+        "racing": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.79,
+        "comparison-test": 0.05,
+        "first-look": 0.83,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.31,
+        "how-to": 0.03,
+        "explainer": 0.26,
+        "opinion": 0.17,
+        "profile-interview": 0.18,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.11,
+        "event-preview": 0.07,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear",
-        "law-safety"
+        "law-safety",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "99d24594f2fb4f2926157d4f4a17d50acaa51a5f",
+      "title": "Spada Piston ladies boots long-term review",
+      "link": "https://www.motorcyclenews.com/bike-kit/boots/spada-piston-ladies-boots-review",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-15T17:21:08+00:00",
+      "excerpt": "Not every ride calls for a full sports or touring motorcycle boot. For weekend summer rides I prefer a more casual option that\u2019s comfortable to wear off the bike too. I had seen the Spada Piston boots...",
+      "image": "https://www.motorcyclenews.com/wp-images/438055/390x260/spada-piston-boots-01.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.99
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.96,
+        "comparison-test": 0.06,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.75,
+        "how-to": 0.05,
+        "explainer": 0.17,
+        "opinion": 0.69,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.27,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "gear"
       ],
       "also": []
     },
@@ -466,69 +1083,37 @@
         "law-safety": 0.9
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.23,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.12,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.21,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.51
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "afe05b6bdf36a4553e34fcf69400b881036d6d35",
-      "title": "New Oxford Grinder S1 and S2 D-locks use silicon carbide coating to destroy angle grinder discs",
-      "link": "https://www.motorcyclenews.com/news/new-tech/2026/september/oxford-grinder-locks",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T13:13:28+00:00",
-      "excerpt": "Oxford have unveiled a new pair of D-locks, the Grinder S1 and S2, which the firm say are virtually angle grinder-proof thanks to a silicon carbide coating on the shackle. Motorcycle security...",
-      "image": "https://www.motorcyclenews.com/wp-images/438175/390x260/lk377_lf_l_5_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": false,
-      "cat_scores": {
-        "gear": 0.53
-      },
-      "subcategories": [],
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "52e5bbb8f65fdee107420274bb35fb75395bb952",
-      "title": "Bargain Hunter | Touring and commuting savings on premium textiles, helmets, luggage and more",
-      "link": "https://www.motorcyclenews.com/bike-kit/bargain-hunter/15th-sep-2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-15T12:00:55+00:00",
-      "excerpt": "Have you got another tour planned this year and you\u2019ve started to pack and realised your textiles are a bit past their best? Or maybe you just need to refresh and update your kit for that commute to...",
-      "image": "https://www.motorcyclenews.com/wp-images/437512/390x260/bargain-hunter-sept-15.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.97
-      },
-      "subcategories": [],
-      "tags": [
-        "gear"
       ],
       "also": []
     },
@@ -562,11 +1147,48 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.86,
+        "adventure": 0.87,
         "gear": 0.84,
-        "dirt-mx": 0.69
+        "dirt-mx": 0.68
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.18,
+        "comparison-test": 0.03,
+        "first-look": 0.17,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.16,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.05,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.08,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.91,
+        "digest": 0.18,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.27,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.13,
       "tags": [
         "adventure",
         "gear",
@@ -575,38 +1197,127 @@
       "also": []
     },
     {
-      "id": "6d6c832dea316d9beb81dff2dc480c39635d7f99",
-      "title": "No Reserve: 100th Anniversary Harley-Davidson Tool Trolley by Snap-on",
-      "link": "https://bringatrailer.com/listing/snap-on-4",
+      "id": "afe05b6bdf36a4553e34fcf69400b881036d6d35",
+      "title": "New Oxford Grinder S1 and S2 D-locks use silicon carbide coating to destroy angle grinder discs",
+      "link": "https://www.motorcyclenews.com/news/new-tech/2026/september/oxford-grinder-locks",
       "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
+      "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-13T21:18:31+00:00",
-      "excerpt": "This three-piece Snap-on tool trolley was produced in collaboration with Harley-Davidson to commemorate the motorcycle company\u2019s 100th anniversary. The tool cabinets were released in 2003 and were reportedly limited to 1,000 pieces. This set includes a rolling cabinet base with 1",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_5980-scaled-copy-2026-09-16-4wx-62722.jpeg?w=940",
+      "author": null,
+      "published": "2026-09-16T13:13:28+00:00",
+      "excerpt": "Oxford have unveiled a new pair of D-locks, the Grinder S1 and S2, which the firm say are virtually angle grinder-proof thanks to a silicon carbide coating on the shackle. Motorcycle security...",
+      "image": "https://www.motorcyclenews.com/wp-images/438175/390x260/lk377_lf_l_5_preview.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "gear",
           "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": false,
+      "cat_scores": {
+        "gear": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         },
         {
-          "slug": "for-sale",
-          "label": "For Sale"
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.33,
+        "comparison-test": 0.05,
+        "first-look": 0.25,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.36,
+        "how-to": 0.03,
+        "explainer": 0.58,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.92,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.11,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "52e5bbb8f65fdee107420274bb35fb75395bb952",
+      "title": "Bargain Hunter | Touring and commuting savings on premium textiles, helmets, luggage and more",
+      "link": "https://www.motorcyclenews.com/bike-kit/bargain-hunter/15th-sep-2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-15T12:00:55+00:00",
+      "excerpt": "Have you got another tour planned this year and you\u2019ve started to pack and realised your textiles are a bit past their best? Or maybe you just need to refresh and update your kit for that commute to...",
+      "image": "https://www.motorcyclenews.com/wp-images/437512/390x260/bargain-hunter-sept-15.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.89,
-        "for-sale": 0.75
+        "gear": 0.97
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.06,
+        "comparison-test": 0.18,
+        "first-look": 0.05,
+        "ranked-list": 0.37,
+        "buyers-guide": 0.74,
+        "how-to": 0.08,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.08,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.25,
+        "photo-gallery": 0.09,
+        "ride-report": 0.05,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.17
+      },
+      "multi_subject": 0.61,
       "tags": [
-        "gear",
-        "for-sale"
+        "gear"
       ],
       "also": []
     },
@@ -637,9 +1348,42 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "gear": 0.53
+        "gear": 0.51
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.49,
+        "opinion": 0.22,
+        "profile-interview": 0.3,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.96,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.14,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "gear"
@@ -673,9 +1417,37 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.94,
-        "custom": 0.65
+        "custom": 0.69
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.08,
+        "comparison-test": 0.05,
+        "first-look": 0.04,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.19,
+        "how-to": 0.53,
+        "explainer": 0.71,
+        "opinion": 0.68,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.19
+      },
+      "multi_subject": 0.07,
       "tags": [
         "gear",
         "custom"
@@ -712,6 +1484,43 @@
         "law-safety": 0.87
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.42,
+        "comparison-test": 0.04,
+        "first-look": 0.66,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.24,
+        "how-to": 0.02,
+        "explainer": 0.52,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.41,
+        "press-release": 0.9,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.33,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear",
         "law-safety"
@@ -748,11 +1557,48 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.87,
-        "electric": 0.63,
-        "adventure": 0.62
+        "gear": 0.88,
+        "electric": 0.59,
+        "adventure": 0.57
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.88,
+        "comparison-test": 0.16,
+        "first-look": 0.73,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.39,
+        "how-to": 0.07,
+        "explainer": 0.54,
+        "opinion": 0.9,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.03,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.18,
+        "history": 0.04,
+        "rumor": 0.09,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.08,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.07,
       "tags": [
         "gear",
         "electric",
@@ -785,6 +1631,34 @@
         "gear": 0.96
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.16,
+        "review": 0.1,
+        "comparison-test": 0.12,
+        "first-look": 0.04,
+        "ranked-list": 0.32,
+        "buyers-guide": 0.72,
+        "how-to": 0.07,
+        "explainer": 0.12,
+        "opinion": 0.15,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.2,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.24,
+        "photo-gallery": 0.09,
+        "ride-report": 0.05,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.22,
       "tags": [
         "gear"
       ],
@@ -815,6 +1689,43 @@
         "gear": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.17,
+        "review": 0.84,
+        "comparison-test": 0.11,
+        "first-look": 0.53,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.68,
+        "how-to": 0.04,
+        "explainer": 0.2,
+        "opinion": 0.8,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.38,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.06,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.08,
       "tags": [
         "gear"
       ],
@@ -852,9 +1763,46 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.78
+        "industry": 0.75
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.24,
+        "how-to": 0.04,
+        "explainer": 0.24,
+        "opinion": 0.07,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.81,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear",
         "law-safety",
@@ -892,23 +1840,43 @@
       "primary": "custom",
       "confident": false,
       "cat_scores": {
-        "custom": 0.8,
-        "gear": 0.62,
-        "classic": 0.56,
-        "cafe-racers": 0.5
+        "custom": 0.81,
+        "gear": 0.6,
+        "classic": 0.56
       },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.37,
+        "comparison-test": 0.05,
+        "first-look": 0.12,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.21,
+        "how-to": 0.12,
+        "explainer": 0.3,
+        "opinion": 0.24,
+        "profile-interview": 0.36,
+        "tribute": 0.21,
+        "listing": 0.13,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.12,
+        "photo-gallery": 0.29,
+        "ride-report": 0.08,
+        "history": 0.45,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.55,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.09,
       "tags": [
         "custom",
         "gear",
-        "classic",
-        "cafe-racers"
+        "classic"
       ],
       "also": []
     },
@@ -943,10 +1911,43 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.91,
-        "racing": 0.89,
-        "industry": 0.63
+        "racing": 0.9,
+        "industry": 0.65
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.39,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.91,
+        "profile-interview": 0.06,
+        "tribute": 0.09,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.13,
+        "press-release": 0.15,
+        "digest": 0.12,
+        "photo-gallery": 0.04,
+        "ride-report": 0.04,
+        "history": 0.08,
+        "rumor": 0.05,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "racing",
@@ -979,6 +1980,39 @@
         "gear": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.96,
+        "comparison-test": 0.03,
+        "first-look": 0.18,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.36,
+        "how-to": 0.03,
+        "explainer": 0.46,
+        "opinion": 0.36,
+        "profile-interview": 0.14,
+        "tribute": 0.2,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.07,
+        "digest": 0.03,
+        "photo-gallery": 0.03,
+        "ride-report": 0.09,
+        "history": 0.23,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "gear"
       ],
@@ -1011,9 +2045,42 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.6
+        "law-safety": 0.59
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.06,
+        "comparison-test": 0.06,
+        "first-look": 0.04,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.72,
+        "how-to": 0.67,
+        "explainer": 0.8,
+        "opinion": 0.14,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety"
@@ -1051,10 +2118,43 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
-        "gear": 0.61
+        "racing": 0.95,
+        "gear": 0.55
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "history",
+          "label": "History"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.18,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.5,
+        "profile-interview": 0.1,
+        "tribute": 0.32,
+        "listing": 0.02,
+        "event-report": 0.68,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.14,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.94,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.3,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1093,10 +2193,43 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "dirt-mx": 0.85,
-        "adventure": 0.73
+        "dirt-mx": 0.86,
+        "adventure": 0.77
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.73,
+        "comparison-test": 0.04,
+        "first-look": 0.93,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.21,
+        "how-to": 0.04,
+        "explainer": 0.19,
+        "opinion": 0.14,
+        "profile-interview": 0.34,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.13,
+        "event-preview": 0.06,
+        "press-release": 0.3,
+        "digest": 0.06,
+        "photo-gallery": 0.11,
+        "ride-report": 0.42,
+        "history": 0.02,
+        "rumor": 0.51,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear",
         "dirt-mx",
@@ -1129,6 +2262,43 @@
         "gear": 0.98
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.96,
+        "comparison-test": 0.06,
+        "first-look": 0.1,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.78,
+        "how-to": 0.04,
+        "explainer": 0.18,
+        "opinion": 0.65,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.07,
+        "digest": 0.05,
+        "photo-gallery": 0.07,
+        "ride-report": 0.35,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
       "tags": [
         "gear"
       ],
@@ -1164,6 +2334,39 @@
         "industry": 0.97
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.41,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.7,
+        "digest": 0.11,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "industry"
@@ -1192,46 +2395,38 @@
       "primary": "gear",
       "confident": false,
       "cat_scores": {
-        "gear": 0.76
+        "gear": 0.75
       },
       "subcategories": [],
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "6086d871b6b68d9b8f6fd10dcc7e389076502571",
-      "title": "DJI Osmo Action 5 Vs 6 for photos",
-      "link": "https://motorcycleparadise.net/2026/08/dji-osmo-action-5-vs-6-for-photos.html",
-      "lang": "en",
-      "source": "Motorcycle Paradise",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Warren",
-      "published": "2026-08-10T10:42:25+00:00",
-      "excerpt": "I had no plans to buy a DJI Osmo Action 6 but as I mentioned in my Canada ride report I misplaced my Osmo Action 5 in route to Vancouver and that being once in a lifetime ride I decided to buy a new cam then I recovered my Action [\u2026] The post DJI Osmo Action 5 Vs 6 for photos fir",
-      "image": "https://motorcycleparadise.net/wp-content/uploads/2019/11/cropped-mountain-road3sm3.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 1.0,
-        "gear": 0.83
+      "forms": [],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.1,
+        "comparison-test": 0.07,
+        "first-look": 0.08,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.12,
+        "how-to": 0.06,
+        "explainer": 0.2,
+        "opinion": 0.18,
+        "profile-interview": 0.26,
+        "tribute": 0.22,
+        "listing": 0.11,
+        "event-report": 0.1,
+        "event-preview": 0.08,
+        "press-release": 0.38,
+        "digest": 0.18,
+        "photo-gallery": 0.57,
+        "ride-report": 0.08,
+        "history": 0.27,
+        "rumor": 0.04,
+        "safety-notice": 0.04,
+        "episode": 0.1,
+        "build-feature": 0.1,
+        "q-and-a": 0.06
       },
-      "subcategories": [],
+      "multi_subject": 0.16,
       "tags": [
-        "adventure",
         "gear"
       ],
       "also": []
@@ -1263,9 +2458,42 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.89,
-        "classic": 0.8
+        "classic": 0.82
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "history",
+          "label": "History"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.09,
+        "comparison-test": 0.07,
+        "first-look": 0.04,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.13,
+        "how-to": 0.05,
+        "explainer": 0.23,
+        "opinion": 0.25,
+        "profile-interview": 0.33,
+        "tribute": 0.66,
+        "listing": 0.05,
+        "event-report": 0.11,
+        "event-preview": 0.03,
+        "press-release": 0.1,
+        "digest": 0.14,
+        "photo-gallery": 0.22,
+        "ride-report": 0.09,
+        "history": 0.85,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.07,
+        "build-feature": 0.08,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.14,
       "tags": [
         "gear",
         "classic"
@@ -1299,9 +2527,42 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.97,
-        "law-safety": 0.62
+        "law-safety": 0.64
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.63,
+        "how-to": 0.1,
+        "explainer": 0.89,
+        "opinion": 0.21,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.12,
+        "digest": 0.06,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.09,
       "tags": [
         "gear",
         "law-safety"
@@ -1335,9 +2596,37 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "gear": 0.95
+        "gear": 0.94
       },
       "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.06,
+        "comparison-test": 0.06,
+        "first-look": 0.02,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.2,
+        "how-to": 0.09,
+        "explainer": 0.11,
+        "opinion": 0.13,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.71,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.12
+      },
+      "multi_subject": 0.11,
       "tags": [
         "adventure",
         "gear"
@@ -1371,9 +2660,46 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 0.95,
-        "gear": 0.84
+        "gear": 0.85
       },
       "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.09,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.1,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.97,
+        "digest": 0.06,
+        "photo-gallery": 0.18,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
         "gear"
