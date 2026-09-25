@@ -21,6 +21,7 @@ import csv
 import hashlib
 import html
 import json
+import math
 import os
 import random
 import re
@@ -107,6 +108,8 @@ def db_connect(cfg: dict) -> sqlite3.Connection:
         CREATE TABLE IF NOT EXISTS reviews (
             item_id TEXT, slug TEXT, score REAL, approved INTEGER, at TEXT,
             PRIMARY KEY (item_id, slug));
+        CREATE TABLE IF NOT EXISTS story_pairs (
+            a TEXT, b TEXT, cosine REAL, same_story REAL, at TEXT, PRIMARY KEY (a, b));
         CREATE TABLE IF NOT EXISTS feeds (
             url TEXT PRIMARY KEY, name TEXT, etag TEXT, modified TEXT,
             last_fetch TEXT, last_status INTEGER, last_error TEXT,
@@ -644,6 +647,128 @@ async def classify_new(con, cfg: dict, clf) -> int:
 # Export (what the static site reads)
 # ----------------------------------------------------------------------------
 # ----------------------------------------------------------------------------
+# Story grouping: the same news covered by several outlets becomes one item
+# ----------------------------------------------------------------------------
+# Stage 1 (free): tf-idf cosine over title + lede finds candidate pairs from different sources within a
+# few days. Stage 2: Jev answers "same story?" for each candidate; answers are cached in story_pairs.
+# Export then collapses each cluster to one lead item with "also covered by" links.
+
+STORY_STOP = set(STOPWORDS["en"]) | set("about after into over more than their they what when will your just says said get gets new".split())
+
+
+def story_tokens(row) -> dict:
+    words = re.findall(r"[a-z0-9][a-z0-9\-]{2,}", f"{row['title']} {row['title']} {(row['summary'] or '')[:300]}".lower())
+    tf: dict[str, int] = {}
+    for w in words:
+        if w not in STORY_STOP:
+            tf[w] = tf.get(w, 0) + 1
+    return tf
+
+
+def candidate_pairs(rows, cfg: dict) -> list[tuple]:
+    st = cfg.get("stories", {})
+    days, min_cos = st.get("window_days", 4), st.get("min_cosine", 0.22)
+    docs = {r["id"]: story_tokens(r) for r in rows}
+    df: dict[str, int] = {}
+    for tf in docs.values():
+        for w in tf:
+            df[w] = df.get(w, 0) + 1
+    n = len(rows)
+    idf = {w: math.log((1 + n) / (1 + c)) + 1 for w, c in df.items()}
+    vec, norm = {}, {}
+    for i, tf in docs.items():
+        v = {w: c * idf[w] for w, c in tf.items() if df[w] < max(4, n * 0.05)}     # drop near-universal words
+        vec[i], norm[i] = v, math.sqrt(sum(x * x for x in v.values())) or 1.0
+    inv: dict[str, list] = {}
+    for r in rows:
+        for w in vec[r["id"]]:
+            inv.setdefault(w, []).append(r["id"])
+    meta = {r["id"]: r for r in rows}
+    seen, out = set(), []
+    for r in rows:
+        shared: dict[str, float] = {}
+        for w, x in vec[r["id"]].items():
+            for j in inv[w]:
+                if j > r["id"]:
+                    shared[j] = shared.get(j, 0.0) + x * vec[j][w]
+        for j, dot in shared.items():
+            o = meta[j]
+            if o["source"] == r["source"]:
+                continue
+            if abs(_ts(r["published"]) - _ts(o["published"])) > days * 86400:
+                continue
+            cos = dot / (norm[r["id"]] * norm[j])
+            if cos >= min_cos and (r["id"], j) not in seen:
+                seen.add((r["id"], j)); out.append((r["id"], j, cos))
+    return out
+
+
+def pair_state(a, b) -> str:
+    def one(x):
+        return f"{x['source']}: {x['title']}\n{(x['summary'] or '')[:300]}"
+    return f"Article A ({one(a)})\n\nArticle B ({one(b)})"
+
+
+async def group_new(con, cfg: dict, clf) -> int:
+    """Ask Jev about candidate pairs we have not judged yet."""
+    st = cfg.get("stories", {})
+    rows = con.execute("SELECT id, title, summary, source, published FROM items WHERE status='published' AND lang='en'").fetchall()
+    known = {(r["a"], r["b"]) for r in con.execute("SELECT a, b FROM story_pairs")}
+    cands = [c for c in candidate_pairs(rows, cfg) if (c[0], c[1]) not in known]
+    if not cands:
+        print("  no new candidate story pairs")
+        return 0
+    meta = {r["id"]: r for r in rows}
+    q = {"_same_story": {"type": "noul", "instructions": st.get("instructions", "").strip()}}
+    t0 = time.perf_counter()
+    async with httpx.AsyncClient() as client:
+        async def one(c):
+            a, b, cos = c
+            try:
+                scores, _ = await clf.classify(client, pair_state(meta[a], meta[b]), q)
+            except Exception as e:
+                print(f"  ! pair {a[:8]}/{b[:8]}: {e}", file=sys.stderr)
+                return
+            con.execute("INSERT OR REPLACE INTO story_pairs VALUES (?,?,?,?,?)", (a, b, cos, scores.get("_same_story"), now_iso()))
+        await asyncio.gather(*(one(c) for c in cands))
+    con.commit()
+    print(f"  judged {len(cands)} candidate story pairs in {time.perf_counter() - t0:.2f}s")
+    return len(cands)
+
+
+def collapse_stories(items: list[dict], pairs: list, threshold: float) -> list[dict]:
+    """Merge items joined by confirmed same-story pairs; the lead is the quietest source's item."""
+    by_id = {i["id"]: i for i in items}
+    parent = {i: i for i in by_id}
+
+    def find(x):
+        while parent[x] != x:
+            parent[x] = parent[parent[x]]
+            x = parent[x]
+        return x
+    for a, b, score in pairs:
+        if score is not None and score >= threshold and a in by_id and b in by_id:
+            parent[find(a)] = find(b)
+    groups: dict[str, list] = {}
+    for i in items:
+        groups.setdefault(find(i["id"]), []).append(i)
+    volume: dict[str, int] = {}
+    for i in items:
+        volume[i["source"]] = volume.get(i["source"], 0) + 1
+    out = []
+    for members in groups.values():
+        if len(members) == 1:
+            members[0]["also"] = []
+            out.append(members[0])
+            continue
+        lead = min(members, key=lambda m: (volume[m["source"]], -len(m["excerpt"] or ""), m["published"]))
+        lead["also"] = [{"source": m["source"], "title": m["title"], "link": m["link"], "published": m["published"]}
+                        for m in sorted(members, key=lambda m: m["published"]) if m is not lead]
+        out.append(lead)
+    return out
+
+
+# ----------------------------------------------------------------------------
 # Ranking: fairness across sources, not volume
 # ----------------------------------------------------------------------------
 
@@ -705,7 +830,10 @@ def export(con, cfg: dict) -> None:
         (cfg.get("export_limit", 500),),
     ).fetchall()
     window = cfg.get("ranking", {}).get("window_days", 21)
-    items = rank_items([row_to_public(r, labels) for r in rows], window)
+    public = [row_to_public(r, labels) for r in rows]
+    pairs = [(p["a"], p["b"], p["same_story"]) for p in con.execute("SELECT a, b, same_story FROM story_pairs")]
+    public = collapse_stories(public, pairs, cfg.get("stories", {}).get("same_story_threshold", 0.85))
+    items = rank_items(public, window)
     (out / "items.json").write_text(json.dumps(items, indent=2))
 
     for slug, label in pages.items():
@@ -806,7 +934,7 @@ def stats(con, cfg: dict) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["validate", "run", "review", "export", "stats"])
+    ap.add_argument("command", choices=["validate", "run", "group", "review", "export", "stats"])
     ap.add_argument("--mock", action="store_true", help="keyword stand-in instead of Jev")
     ap.add_argument("--force", action="store_true", help="ignore poll intervals")
     ap.add_argument("--config", default=str(ROOT / "config.yaml"))
@@ -825,6 +953,11 @@ def main() -> None:
         print(f"  {n} new items")
         clf = MockClassifier() if args.mock else JevClassifier(cfg)
         asyncio.run(classify_new(con, cfg, clf))
+        asyncio.run(group_new(con, cfg, clf))
+        export(con, cfg)
+    elif args.command == "group":
+        clf = MockClassifier() if args.mock else JevClassifier(cfg)
+        asyncio.run(group_new(con, cfg, clf))
         export(con, cfg)
     elif args.command == "review":
         review(con, cfg)

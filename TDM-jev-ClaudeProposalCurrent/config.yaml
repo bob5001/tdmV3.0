@@ -22,6 +22,14 @@ output_dir: out
 db_path: dm.sqlite
 max_age_days: 90    # ingest ignores items older than this (some feeds are full archives)
 export_limit: 1500  # newest N items written to out/items.json
+stories:            # group the same news covered by several outlets (see group_new in dm.py)
+  window_days: 4    # candidate pairs must be published within this many days of each other
+  min_cosine: 0.22  # tf-idf similarity needed before we spend a Jev call on a pair
+  same_story_threshold: 0.80
+  instructions: >
+    Both articles report the same specific news event, announcement, or product, for example the same
+    new motorcycle model being revealed, the same race result, or the same rider signing. Articles that
+    merely share a brand, rider, or general topic are not the same story.
 ranking:
   window_days: 10   # items older than this (vs the newest item) sort after everything fresher; see rank_items()
 
@@ -73,8 +81,14 @@ categories:
     or overlanding.
 - slug: racing
   label: Racing
-  instructions: The article is primarily about motorcycle racing, such as MotoGP, WSBK, motocross, dirt
-    track, the TT, riders, teams, or race results.
+  instructions: 'The article covers competitive motorcycle racing: a race, championship or series, results,
+    rules, or the riders and teams in it, including racer interviews and careers (MotoGP, WSBK, TT, dirt
+    track, supercross and motocross, and so on). General dirt bike or motocross riding, gear, bike news
+    and reviews are not racing unless they cover racing itself.'
+- slug: dirt-mx
+  label: MX & Dirt
+  instructions: 'The article is about motocross, dirt bikes, enduro, trials, supermoto, or off-road riding:
+    the bikes, gear, riders, tracks and culture, including motocross and supercross race coverage.'
 - slug: sport-bikes
   label: Sport Bikes
   instructions: The article is about sport bikes or superbikes, meaning high-performance road-going motorcycles
@@ -112,3 +126,7 @@ categories:
   label: Law & Safety
   instructions: The article is about rider safety, traffic laws and regulations, licensing, insurance,
     rider-rights advocacy, or crashes and legal cases involving riders.
+- slug: for-sale
+  label: For Sale
+  instructions: The article is a listing, auction, or classified for a specific motorcycle or part that
+    is for sale, or a buying feature about where and how to find one.

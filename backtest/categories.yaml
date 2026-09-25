@@ -23,7 +23,18 @@ categories:
   - slug: racing
     label: Racing
     v1: [racing]
-    instructions: The article is primarily about motorcycle racing, such as MotoGP, WSBK, motocross, dirt track, the TT, riders, teams, or race results.
+    instructions: >
+      The article covers competitive motorcycle racing: a race, championship or series, results, rules,
+      or the riders and teams in it, including racer interviews and careers (MotoGP, WSBK, TT, dirt track,
+      supercross and motocross, and so on). General dirt bike or motocross riding, gear, bike news and
+      reviews are not racing unless they cover racing itself.
+
+  - slug: dirt-mx
+    label: MX & Dirt
+    v1: [motocross]
+    instructions: >
+      The article is about motocross, dirt bikes, enduro, trials, supermoto, or off-road riding: the bikes,
+      gear, riders, tracks and culture, including motocross and supercross race coverage.
 
   - slug: sport-bikes
     label: Sport Bikes
@@ -75,3 +86,8 @@ categories:
     label: Law & Safety
     v1: []
     instructions: The article is about rider safety, traffic laws and regulations, licensing, insurance, rider-rights advocacy, or crashes and legal cases involving riders.
+
+  - slug: for-sale
+    label: For Sale
+    v1: [for-sale]
+    instructions: The article is a listing, auction, or classified for a specific motorcycle or part that is for sale, or a buying feature about where and how to find one.

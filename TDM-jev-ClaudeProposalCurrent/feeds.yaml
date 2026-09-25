@@ -21,7 +21,7 @@ sources:
   - {name: RideApart,             url: https://www.rideapart.com/rss/articles/all,   kind: article, ownership: commercial}
   - {name: Cycle World,           url: https://www.cycleworld.com/feed/,             kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: feed is live but has no items: site stopped syndicating (v1 stalled Aug 2024 for the same reason)
   - {name: Motorcycle News (MCN), url: https://www.motorcyclenews.com/news/rss/,           kind: article, ownership: commercial}
-  - {name: Motorcycle.com,        url: https://www.motorcycle.com/feed,              kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: blocks bots (403); v1 pulled it until Apr 2023
+  - {name: Motorcycle.com,        url: https://www.motorcycle.com/feed,              kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: 403 at origin and robots.txt is hostile to AI agents; leave it alone
   - {name: Visordown,             url: https://www.visordown.com/rss,                kind: article, ownership: commercial}
   - {name: Motorcyclist,          url: https://www.motorcyclistonline.com/feed/,     kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: feed is live but has no items: site stopped syndicating (v1 stalled Aug 2024 for the same reason)
   - {name: Motorcycle Mojo,       url: https://motorcyclemojo.com/feed,              kind: article, ownership: independent}
@@ -37,14 +37,14 @@ sources:
   - {name: OilySmudges,               url: https://oilysmudges.com/feed,                         kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: stale since 2023
   - {name: Surfazz,                   url: https://surfazzblog.blogspot.com/feeds/posts/default, kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: stale since 2019
   - {name: BikeBound,                 url: https://bikebound.tumblr.com/rss,                     kind: article, ownership: independent }
-  - {name: Timeless 2 Wheels,         url: https://timeless2wheels.com/feed,                     kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: URL returns HTML, not a feed
+  - {name: Timeless 2 Wheels,         url: https://timeless2wheels.com/feed,                     kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: site publishes no RSS feed
 
   # --- Adventure / touring ---------------------------------------------------
   - {name: Motorcycle Paradise,          url: https://feeds.feedburner.com/MotorcycleParadise,       kind: article, ownership: independent, assign: [adventure]}
-  - {name: Adventure Motorcycle Magazine, url: https://adventuremotorcycle.com/feed,                kind: article, ownership: commercial,  assign: [adventure], enabled: false}   # disabled 2026-09-25: blocks bots (403)
+  - {name: Adventure Motorcycle Magazine, url: https://adventuremotorcycle.com/feed,                kind: article, ownership: commercial,  assign: [adventure], enabled: false}   # disabled 2026-09-25: Cloudflare managed challenge; only passable if the publisher allowlists our bot
   - {name: RoadRUNNER,                   url: https://roadrunner.travel/feed,                         kind: article, ownership: commercial}
-  - {name: Ride Expeditions,             url: https://rideexpeditions.com/blog/feed,                  kind: article, ownership: independent, assign: [adventure], enabled: false}   # disabled 2026-09-25: blocks bots (403)
-  - {name: Mad or Nomad,                 url: https://madornomad.com/feed,                            kind: article, ownership: independent, assign: [adventure], enabled: false}   # disabled 2026-09-25: blocks bots (403)
+  - {name: Ride Expeditions,             url: https://rideexpeditions.com/feed/,                  kind: article, ownership: independent, assign: [adventure]}   # fixed 2026-09-25: real feed is /feed/ (the /blog/feed path is empty); ~monthly
+  - {name: Mad or Nomad,                 url: https://madornomad.com/feed,                            kind: article, ownership: independent, assign: [adventure], enabled: false}   # disabled 2026-09-25: site publishes no RSS feed
   - {name: Cruisn Canada,                url: https://cruisncanada.com/feed,                          kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: stale since 2021
   - {name: Bandit Rider,                 url: https://banditrider.blogspot.com/feeds/posts/default,   kind: article, ownership: independent, assign: [adventure]}
   - {name: Braais Beers and Bikes,       url: https://feeds.feedburner.com/BraaisBeersAndBikes,       kind: article, ownership: independent, assign: [adventure], enabled: false}   # disabled 2026-09-25: stale since 2020
@@ -56,7 +56,7 @@ sources:
   - {name: GearChic,                     url: https://gearchic.com/feed,                    kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: feed gone (404)
   - {name: Motoress,                     url: https://motoress.com/feed,                    kind: article, ownership: independent}
   - {name: Motorcycle Legal Foundation,  url: https://www.motorcyclelegalfoundation.com/feed, kind: article, ownership: advocacy}
-  - {name: Bikesure Blog,                url: https://bikesure.co.uk/bikesureblog/feed,     kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: blocks bots (403)
+  - {name: Bikesure Blog,                url: https://bikesure.co.uk/bikesureblog/feed,     kind: article, ownership: commercial, enabled: false}   # disabled 2026-09-25: Cloudflare managed challenge; only passable if the publisher allowlists our bot
   - {name: Utah Bike Law Blog,           url: https://utahbikelaw.com/blog/feed,            kind: article, ownership: commercial, enabled: false}  # law-firm marketing
   - {name: Riding in the Zone,           url: https://www.ridinginthezone.com/feed,         kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: stale since 2023
 
@@ -68,19 +68,19 @@ sources:
   # Survey links for Road Entertainment and EIN News were an HTML page and a politics feed; dropped.
 
   # --- Racing ---------------------------------------------------------------
-  - {name: MotoGP News,            url: https://motogpnews.com/feed,                           kind: article, ownership: independent, assign: [racing], enabled: false}   # disabled 2026-09-25: blocks bots (403)
+  - {name: MotoGP News,            url: https://motogpnews.com/feed,                           kind: article, ownership: independent, assign: [racing], enabled: false}   # disabled 2026-09-25: Cloudflare managed challenge; only passable if the publisher allowlists our bot
   - {name: Roadracing World,       url: https://roadracingworld.com/news/category/motogp/feed, kind: article, ownership: independent, assign: [racing]}
   - {name: GPone,                  url: https://gpone.com/en/article-feed.xml,                 kind: article, ownership: independent, assign: [racing]}
   - {name: Motorsport.com (Bikes), url: https://www.motorsport.com/rss/bikes/news/,            kind: article, ownership: commercial,  assign: [racing], enabled: false}   # disabled 2026-09-25: feed gone (404)
   - {name: Autosport (MotoGP),     url: https://www.autosport.com/rss/motogp/news/,            kind: article, ownership: commercial,  assign: [racing]}
   - {name: Motorsport-Total,       url: https://www.motorsport-total.com/rss-feeds,            kind: article, ownership: commercial,  assign: [racing], lang: de, enabled: false}  # directory page, German
   - {name: Crash.net,              url: https://www.crash.net/rss,                              kind: article, ownership: commercial}
-  - {name: Racer X Online,         url: https://racerxonline.com/feeds/rss/posts,               kind: article, ownership: independent, assign: [racing]}
-  - {name: Vital MX,               url: https://feeds.vitalmx.com/vitalmxhomepage,             kind: article, ownership: independent, enabled: false}   # disabled 2026-09-25: connection error
-  - {name: Motocross Action,       url: https://motocrossactionmag.com/feed,                   kind: article, ownership: commercial}
-  - {name: MX Vice,                url: https://mxvice.com/feed,                                kind: article, ownership: independent, assign: [racing]}
-  - {name: MXP Magazine,           url: https://mxpmag.com/feed,                                kind: article, ownership: independent}
-  - {name: PulpMX,                 url: https://pulpmx.com/feed,                                kind: article, ownership: independent, assign: [racing]}
+  - {name: Racer X Online,         url: https://racerxonline.com/feeds/rss/posts,               kind: article, ownership: independent, assign: [dirt-mx]}
+  - {name: Vital MX,               url: https://feeds.vitalmx.com/vitalmxhomepage,             kind: article, ownership: independent, assign: [dirt-mx], enabled: false}   # disabled 2026-09-25: connection error
+  - {name: Motocross Action,       url: https://motocrossactionmag.com/feed,                   kind: article, ownership: commercial, assign: [dirt-mx]}
+  - {name: MX Vice,                url: https://mxvice.com/feed,                                kind: article, ownership: independent, assign: [dirt-mx]}
+  - {name: MXP Magazine,           url: https://mxpmag.com/feed,                                kind: article, ownership: independent, assign: [dirt-mx]}
+  - {name: PulpMX,                 url: https://pulpmx.com/feed,                                kind: article, ownership: independent, assign: [dirt-mx]}
 
   # --- Podcasts ---------------------------------------------------------------
   - {name: Highside/Lowside,          url: https://revzillapodcast.libsyn.com/rss,                   kind: podcast, ownership: commercial}
@@ -113,11 +113,11 @@ sources:
   # --- Added from the v1 site's working feed list (verified live 2026-09-25) -----
   - {name: The Vintagent,         url: https://thevintagent.com/feed/,                         kind: article, ownership: independent}
   - {name: Classic Motorcycle UK, url: https://www.classicmotorcycle.co.uk/feed/,              kind: article, ownership: commercial}
-  - {name: DirtRider,             url: https://dirtrider.net/feed,                             kind: article, ownership: commercial}
+  - {name: DirtRider,             url: https://dirtrider.net/feed,                             kind: article, ownership: commercial, assign: [dirt-mx]}
   - {name: Fast Bikes,            url: https://www.fastbikesmag.com/feed/,                     kind: article, ownership: commercial}
   - {name: You Motorcycle,        url: https://youmotorcycle.com/feed/,                        kind: article, ownership: independent}
   - {name: American Rider,        url: https://ridermagazine.com/category/american-rider/feed/, kind: article, ownership: commercial}
   - {name: ADVrider,              url: https://www.advrider.com/feed/,                         kind: forum,   ownership: community}
-  - {name: Bring A Trailer (motorcycles), url: https://bringatrailer.com/motorcycles/feed/,    kind: article, ownership: commercial, enabled: false}   # auction listings: needs a for-sale decision
+  - {name: Bring A Trailer (motorcycles), url: https://bringatrailer.com/motorcycles/feed/,    kind: article, ownership: commercial}   # auction listings -> for-sale category (enabled 2026-09-25)
   - {name: MCM Classic (SE),      url: https://www.mcmclassic.se/feed,                        kind: article, ownership: independent, lang: sv, enabled: false}   # unreachable from here 2026-09-25 (ConnectError); v1 used it
 
