@@ -266,6 +266,8 @@ def normalize(entry, src: dict, cfg: dict) -> Item | None:
     if src["kind"] == "video" and not text:
         text = clean_text(entry.get("media_description") or "")
     dt = entry_dt(entry) or now()
+    if (now() - dt).days > cfg.get("max_age_days", 90):
+        return None                      # archive material (some feeds serve years of it); not news
     title = clean_text(entry.get("title"))
     lang = detect_lang(f"{title}. {text[:400]}") or src["lang"]
     return Item(

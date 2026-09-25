@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import Item from '../layouts/Item.astro';
+import items from '../data/items.json';
+const front = items.filter((i) => i.lang === 'en').slice(0, 60);
+---
+<Base>
+  <h2>Everything, fairly ordered</h2>
+  <p class="meta">Each source gets its turn before any source gets a second one, and quieter sources go first.</p>
+  {front.map((item) => <Item item={item} />)}
+</Base>

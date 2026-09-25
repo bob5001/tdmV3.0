@@ -1,0 +1,18 @@
+---
+import Base from '../../layouts/Base.astro';
+import Item from '../../layouts/Item.astro';
+
+export function getStaticPaths() {
+  const pages = import.meta.glob('../../data/categories/*.json', { eager: true });
+  return Object.values(pages).filter((m: any) => m.default.items.length > 0).map((m: any) => ({
+    params: { slug: m.default.slug },
+    props: { page: m.default },
+  }));
+}
+const { page } = Astro.props;
+---
+<Base title={`${page.label} · The Daily Motorcycle`}>
+  <h2>{page.label}</h2>
+  <p class="meta">{page.items.length} {page.items.length === 1 ? 'item' : 'items'}</p>
+  {page.items.slice(0, 100).map((item) => <Item item={item} />)}
+</Base>

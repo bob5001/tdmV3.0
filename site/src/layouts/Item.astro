@@ -1,0 +1,12 @@
+---
+const { item } = Astro.props;
+const date = item.published.slice(0, 10);
+---
+<article>
+  <h3><a href={item.link} rel="noopener">{item.title}</a></h3>
+  <p class="meta">
+    {item.source} · {date}
+    {item.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}
+  </p>
+  {item.excerpt && <p class="ex">{item.excerpt}{item.excerpt.length >= 280 ? '…' : ''}</p>}
+</article>

@@ -1,0 +1,15 @@
+---
+import Base from '../layouts/Base.astro';
+import sources from '../data/sources.json';
+const list = [...sources].sort((a, b) => b.published_items - a.published_items);
+---
+<Base title="Sources · The Daily Motorcycle">
+  <h2>Sources</h2>
+  <p class="meta">Where the links come from. Go read them.</p>
+  {list.map((s) => (
+    <article>
+      <h3>{s.name}</h3>
+      <p class="meta">{s.kind} · {s.ownership} · {s.published_items} items</p>
+    </article>
+  ))}
+</Base>

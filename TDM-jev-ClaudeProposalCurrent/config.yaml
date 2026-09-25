@@ -20,9 +20,10 @@ max_summary_chars: 1500
 
 output_dir: out
 db_path: dm.sqlite
+max_age_days: 90    # ingest ignores items older than this (some feeds are full archives)
 export_limit: 1500  # newest N items written to out/items.json
 ranking:
-  window_days: 21   # items older than this (vs the newest item) sort after everything fresher; see rank_items()
+  window_days: 10   # items older than this (vs the newest item) sort after everything fresher; see rank_items()
 
 # Source registry lives in its own file.
 feeds_file: feeds.yaml
