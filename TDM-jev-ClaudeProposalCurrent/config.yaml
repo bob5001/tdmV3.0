@@ -20,7 +20,9 @@ max_summary_chars: 1500
 
 output_dir: out
 db_path: dm.sqlite
-export_limit: 500   # newest N items written to out/items.json
+export_limit: 1500  # newest N items written to out/items.json
+ranking:
+  window_days: 21   # items older than this (vs the newest item) sort after everything fresher; see rank_items()
 
 # Source registry lives in its own file.
 feeds_file: feeds.yaml
@@ -58,7 +60,7 @@ on_topic_instructions: >
 # One Noul (yes/no) question per category, all answered in a single call, so a post can land in
 # several categories. Tuned in backtest/ against v1 hand tags (see backtest/report.py).
 # Fit tiers (thresholds above): score >= auto is a confident fit, >= review is a fuzzy fit (both are
-# published in that category), and an on-topic post with nothing >= review goes to the 'more' lane.
+# published in that category), and an on-topic post with nothing >= review goes to the 'odd-ball' page.
 categories:
 - slug: electric
   label: Electric

@@ -150,6 +150,41 @@ def http_client(cfg: dict) -> httpx.AsyncClient:
                  "Accept": "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.5"},
     )
 
+# ----------------------------------------------------------------------------
+# Language (rough): non-English posts skip Jev and go to a language page
+# ----------------------------------------------------------------------------
+
+STOPWORDS = {
+    "en": "the and of to in is for with on that this are as at by from new it be you your has was will its not".split(),
+    "fr": "le la les des du de et est une un pour dans sur avec qui que au aux en pas plus ce se sont par nous vous ses cette".split(),
+    "sv": "och att det som en är på för med av inte den har till ett om vi kan från när så oss mer att vår våra ska".split(),
+    "de": "der die das und ist nicht mit für auf ein eine den dem von zu im auch sich wie wird sind bei nach".split(),
+    "es": "el los las que y en un una por con para es del se su más como pero sus este esta".split(),
+    "it": "il lo gli di che per con non sono del della più anche come questo questa nel alla".split(),
+    "nl": "de het een en van is op voor met niet dat zijn ook aan naar bij deze wordt".split(),
+}
+ACCENT_HINT = {"fr": "éèêàçùôîœ", "sv": "åäö", "de": "äöüß", "es": "ñ¿¡áíóú", "it": "àèìòù", "nl": "ĳ"}
+LANG_PAGES = {
+    "fr": {"slug": "french", "label": "Français"}, "sv": {"slug": "swedish", "label": "Svenska"},
+    "de": {"slug": "german", "label": "Deutsch"}, "es": {"slug": "spanish", "label": "Español"},
+    "it": {"slug": "italian", "label": "Italiano"}, "nl": {"slug": "dutch", "label": "Nederlands"},
+}
+OTHER_LANG = {"slug": "other-languages", "label": "Other Languages"}
+
+
+def detect_lang(text: str) -> str | None:
+    """Return a non-English language code when the text clearly is one, else None (treated as English)."""
+    words = re.findall(r"[^\W\d_]+", (text or "").lower())
+    if len(words) < 3:
+        return None
+    hits = {k: sum(w in set(v) for w in words) for k, v in STOPWORDS.items()}
+    for k, chars in ACCENT_HINT.items():
+        hits[k] += min(2, sum(text.lower().count(c) for c in chars) // 2)
+    best = max((k for k in hits if k != "en"), key=lambda k: hits[k])
+    if hits[best] >= 2 and hits[best] > hits["en"] + 1:
+        return best
+    return None
+
 
 # ----------------------------------------------------------------------------
 # Normalize
@@ -231,11 +266,13 @@ def normalize(entry, src: dict, cfg: dict) -> Item | None:
     if src["kind"] == "video" and not text:
         text = clean_text(entry.get("media_description") or "")
     dt = entry_dt(entry) or now()
+    title = clean_text(entry.get("title"))
+    lang = detect_lang(f"{title}. {text[:400]}") or src["lang"]
     return Item(
         id=hashlib.sha1(link.encode()).hexdigest(),
         source=src["name"], source_url=src["url"], kind=src["kind"], media=src["media"],
-        ownership=src["ownership"], lang=src["lang"],
-        title=clean_text(entry.get("title")), link=link,
+        ownership=src["ownership"], lang=lang,
+        title=title, link=link,
         author=clean_text(entry.get("author")),
         published=dt.isoformat(),
         summary=text[: cfg.get("max_summary_chars", 1500)],
@@ -570,6 +607,8 @@ def decide(scores: dict, src: dict | None, cfg: dict) -> tuple[list, list, str]:
 
 
 async def classify_new(con, cfg: dict, clf) -> int:
+    con.execute("""UPDATE items SET status='published', categories='[]', pending='[]',
+                   classified_by='language-rule', classified_at=? WHERE status='new' AND lang != 'en'""", (now_iso(),))
     rows = con.execute("SELECT * FROM items WHERE status='new'").fetchall()
     if not rows:
         print("  nothing new to classify")
@@ -602,22 +641,53 @@ async def classify_new(con, cfg: dict, clf) -> int:
 # ----------------------------------------------------------------------------
 # Export (what the static site reads)
 # ----------------------------------------------------------------------------
+# ----------------------------------------------------------------------------
+# Ranking: fairness across sources, not volume
+# ----------------------------------------------------------------------------
 
-MORE = {"slug": "more", "label": "Odds & Ends"}
+def rank_items(items: list[dict], window_days: int = 21) -> list[dict]:
+    """Order items so no source can win the front page by volume.
+
+    Each source's items are ordered newest-first and given a position r (0 = its newest). Items sort by
+    r first, so every source's newest comes before any source's second-newest, and so on. Within a round
+    the rarest sources (fewest items in the set) go first: quiet, distinctive sources surface early.
+    Items older than window_days (relative to the newest item) go after everything else, newest-first.
+    """
+    if not items:
+        return []
+    newest = max(i["published"] for i in items)
+    cutoff = (datetime.fromisoformat(newest) - timedelta(days=window_days)).isoformat()
+    fresh = [i for i in items if i["published"] >= cutoff]
+    stale = sorted((i for i in items if i["published"] < cutoff), key=lambda i: i["published"], reverse=True)
+    by_src: dict[str, list[dict]] = {}
+    for i in sorted(fresh, key=lambda i: i["published"], reverse=True):
+        by_src.setdefault(i["source"], []).append(i)
+    volume = {k: len(v) for k, v in by_src.items()}
+    ranked = [(r, volume[k], -_ts(it["published"]), it) for k, v in by_src.items() for r, it in enumerate(v)]
+    ranked.sort(key=lambda t: t[:3])
+    return [t[3] for t in ranked] + stale
+
+
+def _ts(iso: str) -> float:
+    return datetime.fromisoformat(iso).timestamp()
+
+
+MORE = {"slug": "odd-ball", "label": "Odd Ball"}
 
 
 def row_to_public(row, labels: dict) -> dict:
     cats = json.loads(row["categories"] or "[]")
     scores = json.loads(row["scores"] or "{}")
     top = max((scores.get(c, 0) for c in cats), default=0)
+    lang_page = None if row["lang"] == "en" else LANG_PAGES.get(row["lang"], OTHER_LANG)
     return {
-        "id": row["id"], "title": row["title"], "link": row["link"],
+        "id": row["id"], "title": row["title"], "link": row["link"], "lang": row["lang"],
         "source": row["source"], "ownership": row["ownership"], "media": row["media"],
         "author": row["author"] or None, "published": row["published"],
         "excerpt": (row["summary"] or "")[:280], "image": row["image"], "audio": row["audio"],
-        "categories": [{"slug": c, "label": labels[c]} for c in cats if c in labels] or [MORE],
-        "primary": cats[0] if cats else MORE["slug"],
-        "confident": top >= 0.85 if cats else False,
+        "categories": [lang_page] if lang_page else [{"slug": c, "label": labels[c]} for c in cats if c in labels] or [MORE],
+        "primary": lang_page["slug"] if lang_page else (cats[0] if cats else MORE["slug"]),
+        "confident": top >= 0.85 if cats and not lang_page else False,
     }
 
 
@@ -625,17 +695,19 @@ def export(con, cfg: dict) -> None:
     out = cfg["_root"] / cfg["output_dir"]
     (out / "categories").mkdir(parents=True, exist_ok=True)
     labels = {c["slug"]: c["label"] for c in cfg["categories"]}
-    pages = {**labels, MORE["slug"]: MORE["label"]}      # category pages, incl. the 'more' lane
+    pages = {**labels, MORE["slug"]: MORE["label"],
+             **{p["slug"]: p["label"] for p in [*LANG_PAGES.values(), OTHER_LANG]}}   # + odd-ball and language pages
     rows = con.execute(
         """SELECT * FROM items WHERE status IN ('published','review')
            ORDER BY published DESC LIMIT ?""",
         (cfg.get("export_limit", 500),),
     ).fetchall()
-    items = [row_to_public(r, labels) for r in rows]
+    window = cfg.get("ranking", {}).get("window_days", 21)
+    items = rank_items([row_to_public(r, labels) for r in rows], window)
     (out / "items.json").write_text(json.dumps(items, indent=2))
 
     for slug, label in pages.items():
-        sub = [i for i in items if any(c["slug"] == slug for c in i["categories"])]
+        sub = rank_items([i for i in items if any(c["slug"] == slug for c in i["categories"])], window)
         (out / "categories" / f"{slug}.json").write_text(
             json.dumps({"slug": slug, "label": label, "items": sub}, indent=2))
     (out / "categories.json").write_text(json.dumps(
