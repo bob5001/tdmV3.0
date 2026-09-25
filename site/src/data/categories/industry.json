@@ -31,7 +31,7 @@
       "confident": true,
       "cat_scores": {
         "industry": 0.96,
-        "sport-bikes": 0.61
+        "sport-bikes": 0.63
       },
       "subcategories": [],
       "forms": [
@@ -48,25 +48,25 @@
         "ranked-list": 0.02,
         "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.14,
+        "explainer": 0.13,
         "opinion": 0.05,
         "profile-interview": 0.18,
         "tribute": 0.04,
         "listing": 0.03,
         "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.19,
-        "digest": 0.09,
+        "press-release": 0.18,
+        "digest": 0.1,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.09,
         "rumor": 0.02,
-        "safety-notice": 0.07,
+        "safety-notice": 0.08,
         "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.08,
       "tags": [
         "industry",
         "sport-bikes"
@@ -90,17 +90,12 @@
         {
           "slug": "industry",
           "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
         }
       ],
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.9,
-        "racing": 0.54
+        "industry": 0.89
       },
       "subcategories": [],
       "forms": [
@@ -112,24 +107,24 @@
       "form_scores": {
         "news": 0.93,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.06,
         "opinion": 0.04,
-        "profile-interview": 0.11,
+        "profile-interview": 0.09,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.04,
         "event-preview": 0.04,
-        "press-release": 0.7,
+        "press-release": 0.68,
         "digest": 0.11,
-        "photo-gallery": 0.04,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.03,
-        "rumor": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
@@ -137,8 +132,7 @@
       },
       "multi_subject": 0.08,
       "tags": [
-        "industry",
-        "racing"
+        "industry"
       ],
       "also": [
         {
@@ -181,9 +175,16 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.96,
-        "industry": 0.85
+        "industry": 0.86,
+        "motocross-supercross": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "press-release",
@@ -195,36 +196,37 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.87,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.01,
         "buyers-guide": 0.01,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.08,
         "opinion": 0.04,
-        "profile-interview": 0.16,
+        "profile-interview": 0.17,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
-        "event-preview": 0.25,
-        "press-release": 0.95,
+        "event-preview": 0.24,
+        "press-release": 0.96,
         "digest": 0.04,
         "photo-gallery": 0.01,
         "ride-report": 0.01,
-        "history": 0.02,
+        "history": 0.01,
         "rumor": 0.02,
         "safety-notice": 0.05,
         "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.01
       },
       "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
-        "industry"
+        "industry",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -260,7 +262,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "industry": 0.97,
-        "law-safety": 0.76
+        "law-safety": 0.78
       },
       "subcategories": [],
       "forms": [
@@ -274,32 +276,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.51,
+        "news": 0.52,
         "review": 0.02,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.18,
-        "how-to": 0.65,
-        "explainer": 0.35,
+        "buyers-guide": 0.21,
+        "how-to": 0.72,
+        "explainer": 0.36,
         "opinion": 0.04,
         "profile-interview": 0.02,
-        "tribute": 0.37,
-        "listing": 0.01,
+        "tribute": 0.33,
+        "listing": 0.02,
         "event-report": 0.01,
         "event-preview": 0.01,
-        "press-release": 0.86,
-        "digest": 0.06,
-        "photo-gallery": 0.01,
+        "press-release": 0.83,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.6,
+        "history": 0.63,
         "rumor": 0.02,
         "safety-notice": 0.97,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "industry",
@@ -334,7 +336,7 @@
       "confident": true,
       "cat_scores": {
         "industry": 0.93,
-        "racing": 0.86
+        "racing": 0.87
       },
       "subcategories": [],
       "forms": [
@@ -344,32 +346,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.61,
+        "news": 0.6,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.03,
-        "ranked-list": 0.11,
+        "ranked-list": 0.12,
         "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.57,
-        "opinion": 0.21,
+        "how-to": 0.02,
+        "explainer": 0.58,
+        "opinion": 0.23,
         "profile-interview": 0.05,
         "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.32,
-        "press-release": 0.18,
+        "event-report": 0.12,
+        "event-preview": 0.31,
+        "press-release": 0.2,
         "digest": 0.95,
         "photo-gallery": 0.03,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.03,
-        "safety-notice": 0.37,
+        "safety-notice": 0.39,
         "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.96,
+      "multi_subject": 0.97,
       "tags": [
         "industry",
         "racing"
@@ -403,40 +405,48 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.96
+        "industry": 0.95,
+        "motogp": 0.95
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [],
       "form_scores": {
-        "news": 0.48,
-        "review": 0.01,
+        "news": 0.49,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.07,
         "opinion": 0.1,
-        "profile-interview": 0.13,
+        "profile-interview": 0.14,
         "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.05,
-        "event-preview": 0.14,
-        "press-release": 0.22,
+        "event-preview": 0.15,
+        "press-release": 0.23,
         "digest": 0.18,
         "photo-gallery": 0.08,
         "ride-report": 0.01,
         "history": 0.05,
-        "rumor": 0.34,
+        "rumor": 0.41,
         "safety-notice": 0.02,
         "episode": 0.06,
         "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.11,
+      "multi_subject": 0.14,
       "tags": [
         "racing",
-        "industry"
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -466,21 +476,21 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.88,
-        "law-safety": 0.84
+        "industry": 0.89,
+        "law-safety": 0.86
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.71,
+        "news": 0.72,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.01,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.09,
-        "opinion": 0.18,
+        "explainer": 0.1,
+        "opinion": 0.19,
         "profile-interview": 0.05,
         "tribute": 0.01,
         "listing": 0.01,
@@ -492,7 +502,7 @@
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.03,
-        "safety-notice": 0.71,
+        "safety-notice": 0.72,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.03
@@ -541,26 +551,26 @@
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.34,
-        "review": 0.02,
+        "news": 0.32,
+        "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.01,
         "buyers-guide": 0.03,
         "how-to": 0.01,
-        "explainer": 0.22,
+        "explainer": 0.23,
         "opinion": 0.06,
-        "profile-interview": 0.13,
+        "profile-interview": 0.12,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.17,
-        "press-release": 0.13,
+        "event-report": 0.07,
+        "event-preview": 0.16,
+        "press-release": 0.12,
         "digest": 0.05,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.25,
+        "history": 0.02,
+        "rumor": 0.26,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.01,
@@ -596,7 +606,7 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.96
+        "industry": 0.95
       },
       "subcategories": [],
       "forms": [
@@ -607,7 +617,7 @@
       ],
       "form_scores": {
         "news": 0.8,
-        "review": 0.01,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.03,
@@ -619,7 +629,7 @@
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.02,
+        "event-preview": 0.01,
         "press-release": 0.2,
         "digest": 0.09,
         "photo-gallery": 0.07,
@@ -659,28 +669,28 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.92
+        "industry": 0.93
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.66,
-        "review": 0.02,
+        "news": 0.68,
+        "review": 0.03,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.12,
-        "opinion": 0.5,
-        "profile-interview": 0.14,
-        "tribute": 0.13,
+        "explainer": 0.13,
+        "opinion": 0.47,
+        "profile-interview": 0.16,
+        "tribute": 0.11,
         "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.03,
         "press-release": 0.31,
-        "digest": 0.11,
-        "photo-gallery": 0.11,
+        "digest": 0.1,
+        "photo-gallery": 0.1,
         "ride-report": 0.02,
         "history": 0.16,
         "rumor": 0.05,
@@ -717,7 +727,7 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.97
+        "industry": 0.98
       },
       "subcategories": [],
       "forms": [
@@ -727,7 +737,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
+        "news": 0.92,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
@@ -736,7 +746,7 @@
         "how-to": 0.01,
         "explainer": 0.04,
         "opinion": 0.04,
-        "profile-interview": 0.1,
+        "profile-interview": 0.09,
         "tribute": 0.05,
         "listing": 0.01,
         "event-report": 0.02,
@@ -745,11 +755,11 @@
         "digest": 0.06,
         "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.1,
+        "history": 0.09,
         "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.02,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -790,9 +800,16 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.96,
-        "industry": 0.52
+        "industry": 0.52,
+        "motocross-supercross": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "profile-interview",
@@ -804,7 +821,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.24,
+        "news": 0.25,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.03,
@@ -812,20 +829,20 @@
         "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.12,
-        "opinion": 0.16,
+        "opinion": 0.17,
         "profile-interview": 0.97,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.48,
-        "event-preview": 0.08,
-        "press-release": 0.18,
+        "event-report": 0.47,
+        "event-preview": 0.09,
+        "press-release": 0.17,
         "digest": 0.05,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.07,
+        "history": 0.08,
         "rumor": 0.03,
         "safety-notice": 0.01,
-        "episode": 0.93,
+        "episode": 0.92,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
@@ -833,7 +850,8 @@
       "tags": [
         "dirt-mx",
         "racing",
-        "industry"
+        "industry",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -871,10 +889,10 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.92,
+        "dirt-mx": 0.91,
         "adventure": 0.87,
-        "new-models": 0.84,
-        "industry": 0.68
+        "new-models": 0.82,
+        "industry": 0.69
       },
       "subcategories": [],
       "forms": [
@@ -884,30 +902,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.62,
+        "news": 0.64,
         "review": 0.09,
         "comparison-test": 0.02,
-        "first-look": 0.09,
+        "first-look": 0.08,
         "ranked-list": 0.02,
         "buyers-guide": 0.36,
         "how-to": 0.03,
-        "explainer": 0.28,
-        "opinion": 0.55,
-        "profile-interview": 0.07,
-        "tribute": 0.02,
+        "explainer": 0.3,
+        "opinion": 0.51,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
         "listing": 0.06,
         "event-report": 0.04,
         "event-preview": 0.05,
-        "press-release": 0.8,
+        "press-release": 0.78,
         "digest": 0.05,
         "photo-gallery": 0.02,
         "ride-report": 0.02,
-        "history": 0.04,
+        "history": 0.03,
         "rumor": 0.07,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
@@ -953,7 +971,7 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.82
+        "industry": 0.8
       },
       "subcategories": [],
       "forms": [
@@ -967,22 +985,22 @@
         }
       ],
       "form_scores": {
-        "news": 0.06,
+        "news": 0.07,
         "review": 0.03,
         "comparison-test": 0.04,
-        "first-look": 0.08,
+        "first-look": 0.09,
         "ranked-list": 0.02,
-        "buyers-guide": 0.46,
-        "how-to": 0.05,
+        "buyers-guide": 0.47,
+        "how-to": 0.06,
         "explainer": 0.73,
-        "opinion": 0.12,
+        "opinion": 0.11,
         "profile-interview": 0.95,
-        "tribute": 0.01,
+        "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.03,
         "event-preview": 0.02,
         "press-release": 0.08,
-        "digest": 0.15,
+        "digest": 0.14,
         "photo-gallery": 0.05,
         "ride-report": 0.02,
         "history": 0.04,
@@ -990,9 +1008,9 @@
         "safety-notice": 0.02,
         "episode": 0.98,
         "build-feature": 0.02,
-        "q-and-a": 0.32
+        "q-and-a": 0.3
       },
-      "multi_subject": 0.63,
+      "multi_subject": 0.66,
       "tags": [
         "industry"
       ],
@@ -1025,7 +1043,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 0.97,
-        "industry": 0.76
+        "industry": 0.77
       },
       "subcategories": [],
       "forms": [
@@ -1047,24 +1065,24 @@
         "review": 0.03,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.12,
-        "buyers-guide": 0.29,
+        "ranked-list": 0.1,
+        "buyers-guide": 0.3,
         "how-to": 0.04,
         "explainer": 0.77,
-        "opinion": 0.04,
-        "profile-interview": 0.56,
+        "opinion": 0.05,
+        "profile-interview": 0.57,
         "tribute": 0.01,
-        "listing": 0.04,
+        "listing": 0.03,
         "event-report": 0.02,
         "event-preview": 0.01,
-        "press-release": 0.84,
+        "press-release": 0.83,
         "digest": 0.04,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.03,
+        "history": 0.02,
         "rumor": 0.04,
         "safety-notice": 0.01,
-        "episode": 0.02,
+        "episode": 0.01,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
@@ -1102,9 +1120,16 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.64
+        "industry": 0.59,
+        "motogp": 0.98
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "safety-notice",
@@ -1113,38 +1138,43 @@
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.91,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.03,
-        "explainer": 0.3,
+        "explainer": 0.28,
         "opinion": 0.03,
         "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.06,
-        "event-preview": 0.12,
-        "press-release": 0.74,
+        "event-preview": 0.14,
+        "press-release": 0.78,
         "digest": 0.2,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.04,
+        "rumor": 0.03,
         "safety-notice": 0.94,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.35,
+      "multi_subject": 0.37,
       "tags": [
         "racing",
-        "industry"
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -1180,9 +1210,16 @@
       "cat_scores": {
         "racing": 0.96,
         "dirt-mx": 0.95,
-        "industry": 0.74
+        "industry": 0.75,
+        "motocross-supercross": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -1192,34 +1229,35 @@
       "form_scores": {
         "news": 0.84,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "how-to": 0.02,
         "explainer": 0.08,
-        "opinion": 0.22,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
+        "opinion": 0.23,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.07,
-        "event-preview": 0.06,
+        "event-report": 0.06,
+        "event-preview": 0.07,
         "press-release": 0.18,
-        "digest": 0.08,
+        "digest": 0.09,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.04,
         "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
         "racing",
         "dirt-mx",
-        "industry"
+        "industry",
+        "motocross-supercross"
       ],
       "also": [
         {
@@ -1268,7 +1306,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.89,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
@@ -1277,13 +1315,13 @@
         "how-to": 0.01,
         "explainer": 0.05,
         "opinion": 0.04,
-        "profile-interview": 0.11,
+        "profile-interview": 0.1,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.01,
-        "press-release": 0.49,
-        "digest": 0.1,
+        "press-release": 0.48,
+        "digest": 0.09,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.03,
@@ -1331,9 +1369,16 @@
       "cat_scores": {
         "racing": 1.0,
         "sport-bikes": 0.93,
-        "industry": 0.67
+        "industry": 0.7,
+        "worldsbk-superbike": 0.93
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "profile-interview",
@@ -1341,36 +1386,37 @@
         }
       ],
       "form_scores": {
-        "news": 0.16,
+        "news": 0.18,
         "review": 0.02,
         "comparison-test": 0.03,
         "first-look": 0.04,
         "ranked-list": 0.01,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.49,
-        "profile-interview": 0.96,
+        "explainer": 0.1,
+        "opinion": 0.5,
+        "profile-interview": 0.97,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.08,
+        "event-report": 0.05,
+        "event-preview": 0.09,
         "press-release": 0.14,
-        "digest": 0.05,
+        "digest": 0.04,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.09,
-        "safety-notice": 0.11,
+        "rumor": 0.08,
+        "safety-notice": 0.12,
         "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.07
+        "build-feature": 0.02,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
-        "industry"
+        "industry",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1396,7 +1442,7 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.59
+        "industry": 0.62
       },
       "subcategories": [],
       "forms": [
@@ -1411,27 +1457,27 @@
         "comparison-test": 0.03,
         "first-look": 0.06,
         "ranked-list": 0.03,
-        "buyers-guide": 0.5,
+        "buyers-guide": 0.53,
         "how-to": 0.08,
         "explainer": 0.93,
         "opinion": 0.08,
-        "profile-interview": 0.25,
+        "profile-interview": 0.23,
         "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.42,
+        "press-release": 0.43,
         "digest": 0.07,
         "photo-gallery": 0.06,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.02,
         "safety-notice": 0.03,
-        "episode": 0.03,
+        "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.17
+        "q-and-a": 0.16
       },
-      "multi_subject": 0.33,
+      "multi_subject": 0.31,
       "tags": [
         "industry"
       ],
@@ -1463,10 +1509,17 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.95,
-        "racing": 0.88
+        "industry": 0.94,
+        "racing": 0.88,
+        "motogp": 0.85
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -1474,21 +1527,21 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.87,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.01,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.06,
+        "explainer": 0.05,
         "opinion": 0.07,
-        "profile-interview": 0.41,
+        "profile-interview": 0.4,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.03,
-        "press-release": 0.59,
+        "press-release": 0.57,
         "digest": 0.07,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
@@ -1497,12 +1550,13 @@
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
       "multi_subject": 0.05,
       "tags": [
         "industry",
-        "racing"
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -1533,40 +1587,48 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.71
+        "industry": 0.74,
+        "motogp": 0.94
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [],
       "form_scores": {
-        "news": 0.3,
+        "news": 0.31,
         "review": 0.02,
         "comparison-test": 0.03,
         "first-look": 0.02,
-        "ranked-list": 0.05,
+        "ranked-list": 0.04,
         "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.14,
-        "opinion": 0.46,
+        "opinion": 0.43,
         "profile-interview": 0.1,
         "tribute": 0.01,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.16,
+        "event-preview": 0.06,
+        "press-release": 0.17,
         "digest": 0.13,
         "photo-gallery": 0.08,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.21,
+        "rumor": 0.25,
         "safety-notice": 0.05,
-        "episode": 0.08,
+        "episode": 0.07,
         "build-feature": 0.01,
         "q-and-a": 0.06
       },
       "multi_subject": 0.07,
       "tags": [
         "racing",
-        "industry"
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -1592,7 +1654,7 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.98
+        "industry": 0.97
       },
       "subcategories": [],
       "forms": [
@@ -1609,20 +1671,20 @@
         "ranked-list": 0.01,
         "buyers-guide": 0.04,
         "how-to": 0.01,
-        "explainer": 0.19,
+        "explainer": 0.18,
         "opinion": 0.05,
-        "profile-interview": 0.17,
-        "tribute": 0.01,
+        "profile-interview": 0.16,
+        "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.74,
-        "digest": 0.07,
+        "press-release": 0.72,
+        "digest": 0.08,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.03,
         "rumor": 0.03,
-        "safety-notice": 0.13,
+        "safety-notice": 0.14,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.03
@@ -1665,21 +1727,21 @@
         }
       ],
       "form_scores": {
-        "news": 0.92,
+        "news": 0.91,
         "review": 0.02,
-        "comparison-test": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.03,
         "ranked-list": 0.03,
         "buyers-guide": 0.06,
         "how-to": 0.01,
-        "explainer": 0.08,
+        "explainer": 0.07,
         "opinion": 0.06,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.37,
+        "press-release": 0.38,
         "digest": 0.07,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
@@ -1728,7 +1790,7 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.75
+        "industry": 0.77
       },
       "subcategories": [],
       "forms": [
@@ -1742,32 +1804,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.8,
+        "news": 0.79,
         "review": 0.03,
         "comparison-test": 0.03,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.24,
+        "buyers-guide": 0.27,
         "how-to": 0.04,
-        "explainer": 0.24,
+        "explainer": 0.23,
         "opinion": 0.07,
-        "profile-interview": 0.07,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.23,
+        "event-preview": 0.01,
+        "press-release": 0.24,
         "digest": 0.08,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.02,
         "safety-notice": 0.81,
-        "episode": 0.04,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety",
@@ -1801,8 +1863,8 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.81,
-        "new-models": 0.76
+        "industry": 0.83,
+        "new-models": 0.75
       },
       "subcategories": [],
       "forms": [
@@ -1815,27 +1877,27 @@
         "news": 0.6,
         "review": 0.02,
         "comparison-test": 0.04,
-        "first-look": 0.39,
+        "first-look": 0.35,
         "ranked-list": 0.04,
         "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.23,
-        "opinion": 0.4,
+        "explainer": 0.24,
+        "opinion": 0.38,
         "profile-interview": 0.16,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
-        "event-preview": 0.27,
-        "press-release": 0.55,
-        "digest": 0.92,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
+        "event-preview": 0.25,
+        "press-release": 0.57,
+        "digest": 0.91,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.49,
+        "rumor": 0.47,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.08
+        "q-and-a": 0.09
       },
       "multi_subject": 0.95,
       "tags": [
@@ -1866,7 +1928,7 @@
       "primary": "industry",
       "confident": false,
       "cat_scores": {
-        "industry": 0.72
+        "industry": 0.68
       },
       "subcategories": [],
       "forms": [
@@ -1880,7 +1942,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.92,
+        "news": 0.93,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.06,
@@ -1889,11 +1951,11 @@
         "how-to": 0.02,
         "explainer": 0.15,
         "opinion": 0.05,
-        "profile-interview": 0.38,
+        "profile-interview": 0.35,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.05,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.06,
         "press-release": 0.86,
         "digest": 0.07,
         "photo-gallery": 0.1,
@@ -1926,26 +1988,33 @@
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
         },
         {
           "slug": "industry",
           "label": "Industry & Business"
         }
       ],
-      "primary": "gear",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "gear": 0.91,
         "racing": 0.9,
-        "industry": 0.65
+        "gear": 0.9,
+        "industry": 0.63,
+        "motogp": 0.9
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "opinion",
@@ -1953,36 +2022,37 @@
         }
       ],
       "form_scores": {
-        "news": 0.39,
+        "news": 0.37,
         "review": 0.03,
-        "comparison-test": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.02,
         "ranked-list": 0.03,
         "buyers-guide": 0.04,
         "how-to": 0.02,
         "explainer": 0.09,
-        "opinion": 0.91,
+        "opinion": 0.9,
         "profile-interview": 0.06,
-        "tribute": 0.09,
+        "tribute": 0.1,
         "listing": 0.01,
-        "event-report": 0.06,
+        "event-report": 0.05,
         "event-preview": 0.13,
-        "press-release": 0.15,
+        "press-release": 0.16,
         "digest": 0.12,
-        "photo-gallery": 0.04,
-        "ride-report": 0.04,
-        "history": 0.08,
-        "rumor": 0.05,
-        "safety-notice": 0.03,
+        "photo-gallery": 0.05,
+        "ride-report": 0.05,
+        "history": 0.09,
+        "rumor": 0.06,
+        "safety-notice": 0.04,
         "episode": 0.08,
         "build-feature": 0.02,
-        "q-and-a": 0.05
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.07,
       "tags": [
-        "gear",
         "racing",
-        "industry"
+        "gear",
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -2012,8 +2082,8 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.88,
-        "industry": 0.77
+        "law-safety": 0.89,
+        "industry": 0.78
       },
       "subcategories": [],
       "forms": [
@@ -2026,29 +2096,29 @@
         "news": 0.66,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.07,
         "how-to": 0.03,
-        "explainer": 0.26,
-        "opinion": 0.1,
+        "explainer": 0.27,
+        "opinion": 0.11,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.11,
-        "digest": 0.07,
+        "digest": 0.08,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.07,
         "safety-notice": 0.9,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.06
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "law-safety",
         "industry"
@@ -2091,16 +2161,16 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.83,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.07,
+        "buyers-guide": 0.06,
         "how-to": 0.04,
-        "explainer": 0.25,
+        "explainer": 0.24,
         "opinion": 0.07,
-        "profile-interview": 0.28,
+        "profile-interview": 0.26,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
@@ -2111,9 +2181,9 @@
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.06,
-        "safety-notice": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.03,
-        "build-feature": 0.02,
+        "build-feature": 0.01,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
@@ -2160,7 +2230,7 @@
       ],
       "form_scores": {
         "news": 0.86,
-        "review": 0.05,
+        "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
@@ -2168,21 +2238,21 @@
         "how-to": 0.02,
         "explainer": 0.17,
         "opinion": 0.05,
-        "profile-interview": 0.41,
+        "profile-interview": 0.39,
         "tribute": 0.03,
         "listing": 0.03,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.7,
+        "press-release": 0.71,
         "digest": 0.11,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.06,
         "rumor": 0.04,
         "safety-notice": 0.03,
         "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.04
       },
       "multi_subject": 0.06,
       "tags": [
@@ -2223,9 +2293,16 @@
       "cat_scores": {
         "dirt-mx": 0.98,
         "racing": 0.89,
-        "industry": 0.51
+        "industry": 0.51,
+        "motocross-supercross": 0.92
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "press-release",
@@ -2246,27 +2323,28 @@
         "how-to": 0.02,
         "explainer": 0.07,
         "opinion": 0.06,
-        "profile-interview": 0.09,
+        "profile-interview": 0.1,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.59,
-        "event-preview": 0.15,
-        "press-release": 0.89,
+        "event-report": 0.61,
+        "event-preview": 0.14,
+        "press-release": 0.87,
         "digest": 0.07,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.07,
         "ride-report": 0.03,
-        "history": 0.35,
+        "history": 0.4,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.01
       },
       "multi_subject": 0.06,
       "tags": [
         "dirt-mx",
         "racing",
-        "industry"
+        "industry",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -2306,13 +2384,13 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.89,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.01,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "how-to": 0.02,
         "explainer": 0.06,
         "opinion": 0.02,
         "profile-interview": 0.06,
@@ -2331,7 +2409,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.07,
       "tags": [
         "industry"
       ],

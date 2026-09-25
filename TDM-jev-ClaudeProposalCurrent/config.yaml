@@ -93,6 +93,23 @@ categories:
     rules, or the riders and teams in it, including racer interviews and careers (MotoGP, WSBK, TT, dirt
     track, supercross and motocross, and so on). General dirt bike or motocross riding, gear, bike news
     and reviews are not racing unless they cover racing itself.'
+  children:
+  - slug: motogp
+    label: MotoGP
+    instructions: The article is about Grand Prix motorcycle racing at any class level (MotoGP premier
+      class, Moto2, or Moto3), including races, results, riders, teams, calendar, rules, or championship
+      news for those series.
+  - slug: worldsbk-superbike
+    label: WorldSBK & Superbike
+    instructions: The article is about World Superbike (WorldSBK) racing, Supersport/Sportbike World Championship
+      racing, or national Superbike championship racing, including races, results, riders, teams, or championship
+      news for those series.
+  - slug: motocross-supercross
+    label: Motocross & Supercross
+    instructions: The article is about motocross, supercross, SuperMotocross (SMX), or arenacross racing,
+      including races, results, riders, teams, or championship news for those series.
+    also:
+    - dirt-mx
 - slug: dirt-mx
   label: MX & Dirt
   instructions: 'The article is about motocross, dirt bikes, enduro, trials, supermoto, or off-road riding:

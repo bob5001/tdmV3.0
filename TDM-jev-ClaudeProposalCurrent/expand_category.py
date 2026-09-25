@@ -57,6 +57,14 @@ def article_block(items: list) -> str:
     return "\n".join(f"[{i}] {r['source']}: {r['title']} — {(r['summary'] or '')[:140]}" for i, r in enumerate(items))
 
 
+def forms_note(cfg) -> str:
+    names = ", ".join(f["label"] for f in cfg.get("forms", []))
+    return f"""FORMS ALREADY TRACKED SEPARATELY (a different facet: the kind of piece, whatever its subject). Children must be
+SUBJECT splits (series, disciplines, styles, technologies), never forms. Do not ask about, or propose children for,
+these distinctions: {names}
+""" if names else ""
+
+
 def stage1_prompt(cfg, parent, items, vocab) -> str:
     others = "\n".join(f"- {c['slug']}: {c['label']}" for c in cfg["categories"] if c["slug"] != parent["slug"])
     return f"""You are interviewing the owner of a motorcycle news aggregator about how to split ONE category into
@@ -66,7 +74,7 @@ definition. Your job now is NOT to propose children yet: it is to find out what 
 PARENT CATEGORY: {parent['label']} ({parent['slug']}): {parent['instructions']}
 OTHER TOP-LEVEL CATEGORIES (children must not duplicate these):
 {others}
-HOW THE OWNER'S OLD SITE LABELLED THIS TERRITORY (name: article count): {json.dumps(vocab) or 'n/a'}
+{forms_note(cfg)}HOW THE OWNER'S OLD SITE LABELLED THIS TERRITORY (name: article count): {json.dumps(vocab) or 'n/a'}
 
 ARTICLES CURRENTLY IN THE PARENT ({len(items)}):
 {article_block(items)}
@@ -99,6 +107,7 @@ Propose the children the owner's answers point to. Rules:
 - Respect the answers literally, including "no child for X" and "put X elsewhere".
 - Children may overlap (an article can carry several); say so in `notes` when likely.
 - Prefer fewer, sharper children. Skip any group the answers say should not exist.
+- Children are SUBJECT splits only; form distinctions (report, preview, interview, review, listing...) are tracked elsewhere.
 
 JSON only: {{"children":[{{"slug":"...","label":"...","instructions":"The article is about ...","notes":"..."}}]}}"""
 

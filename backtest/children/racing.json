@@ -1,0 +1,19 @@
+{
+ "parent": "racing",
+ "status": "ADOPTED in backtest/categories.yaml 2026-09-25 (config.yaml sync + reclassify pending until the shell is available)",
+ "cutoff": 0.5,
+ "tested_on": "100 confident Racing articles from live data",
+ "owner_decisions": [
+  {"topic": "Grand Prix", "answer": "One 'MotoGP' child covering MotoGP, Moto2 and Moto3. No separate support-classes child."},
+  {"topic": "Superbike", "answer": "One 'WorldSBK & Superbike' child, including Supersport/Sportbike World Championship and national superbike series."},
+  {"topic": "MX", "answer": "One 'Motocross & Supercross' child under Racing (motocross, supercross, SMX, arenacross). MX race coverage keeps both the Racing and MX & Dirt tags (also: dirt-mx)."},
+  {"topic": "Niche racing", "answer": "Leave bagger racing, TT/road racing and rally raid ungrouped for now: no catch-all child. Give one its own child when it reaches critical mass."}
+ ],
+ "result": {
+  "motogp": "46 hits (43 at 0.85), 9 also in another child",
+  "worldsbk-superbike": "24 hits (17 at 0.85), 9 also in another child",
+  "motocross-supercross": "33 hits (33 at 0.85), 0 also in another child",
+  "coverage": "94/100 Racing articles get a child"
+ },
+ "notes": "Overlaps are mostly genuine crossover stories (e.g. Bulega moving between WorldSBK and MotoGP). One likely false MotoGP hit: a WorldSBK Cremona story about BMW's swingarm scored 0.90 for motogp. Interview tool was given the form vocabulary so it asked only subject-split questions."
+}

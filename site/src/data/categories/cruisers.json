@@ -41,26 +41,26 @@
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.34,
-        "review": 0.02,
+        "news": 0.32,
+        "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.01,
         "buyers-guide": 0.03,
         "how-to": 0.01,
-        "explainer": 0.22,
+        "explainer": 0.23,
         "opinion": 0.06,
-        "profile-interview": 0.13,
+        "profile-interview": 0.12,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.17,
-        "press-release": 0.13,
+        "event-report": 0.07,
+        "event-preview": 0.16,
+        "press-release": 0.12,
         "digest": 0.05,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.25,
+        "history": 0.02,
+        "rumor": 0.26,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.01,
@@ -104,9 +104,9 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "cruisers": 0.87,
-        "custom": 0.54
+        "racing": 0.97,
+        "cruisers": 0.85,
+        "custom": 0.52
       },
       "subcategories": [],
       "forms": [
@@ -116,7 +116,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.68,
+        "news": 0.64,
         "review": 0.04,
         "comparison-test": 0.09,
         "first-look": 0.05,
@@ -124,17 +124,17 @@
         "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.16,
-        "opinion": 0.67,
-        "profile-interview": 0.15,
+        "opinion": 0.71,
+        "profile-interview": 0.13,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.95,
         "event-preview": 0.05,
-        "press-release": 0.09,
+        "press-release": 0.08,
         "digest": 0.07,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.07,
         "ride-report": 0.03,
-        "history": 0.12,
+        "history": 0.13,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.05,
@@ -188,8 +188,8 @@
       "primary": "cruisers",
       "confident": false,
       "cat_scores": {
-        "cruisers": 0.7,
-        "electric": 0.54
+        "cruisers": 0.71,
+        "electric": 0.55
       },
       "subcategories": [],
       "forms": [
@@ -206,25 +206,25 @@
         "news": 0.91,
         "review": 0.08,
         "comparison-test": 0.03,
-        "first-look": 0.55,
+        "first-look": 0.53,
         "ranked-list": 0.02,
-        "buyers-guide": 0.07,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.17,
+        "explainer": 0.16,
         "opinion": 0.05,
         "profile-interview": 0.13,
         "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.29,
+        "listing": 0.02,
+        "event-report": 0.3,
         "event-preview": 0.08,
         "press-release": 0.93,
         "digest": 0.08,
-        "photo-gallery": 0.14,
+        "photo-gallery": 0.13,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.23,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.03,
         "build-feature": 0.04,
         "q-and-a": 0.02
       },
@@ -261,45 +261,41 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94,
-        "cruisers": 0.56
+        "custom": 0.95,
+        "cruisers": 0.59
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "build-feature",
           "label": "Build Feature"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.19,
+        "news": 0.2,
         "review": 0.21,
         "comparison-test": 0.03,
         "first-look": 0.28,
         "ranked-list": 0.04,
-        "buyers-guide": 0.06,
-        "how-to": 0.04,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
         "explainer": 0.22,
         "opinion": 0.34,
-        "profile-interview": 0.76,
-        "tribute": 0.04,
+        "profile-interview": 0.74,
+        "tribute": 0.05,
         "listing": 0.07,
         "event-report": 0.04,
         "event-preview": 0.03,
-        "press-release": 0.16,
+        "press-release": 0.17,
         "digest": 0.07,
-        "photo-gallery": 0.21,
+        "photo-gallery": 0.2,
         "ride-report": 0.04,
-        "history": 0.09,
-        "rumor": 0.07,
+        "history": 0.1,
+        "rumor": 0.08,
         "safety-notice": 0.01,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.92,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
@@ -334,31 +330,31 @@
       "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.88,
-        "cruisers": 0.8
+        "new-models": 0.86,
+        "cruisers": 0.79
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
           "slug": "explainer",
           "label": "Explainer"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.23,
-        "review": 0.4,
+        "news": 0.22,
+        "review": 0.44,
         "comparison-test": 0.04,
-        "first-look": 0.57,
+        "first-look": 0.54,
         "ranked-list": 0.02,
         "buyers-guide": 0.12,
         "how-to": 0.02,
-        "explainer": 0.81,
+        "explainer": 0.84,
         "opinion": 0.83,
-        "profile-interview": 0.09,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
@@ -368,13 +364,13 @@
         "photo-gallery": 0.04,
         "ride-report": 0.02,
         "history": 0.04,
-        "rumor": 0.13,
+        "rumor": 0.16,
         "safety-notice": 0.01,
         "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.07,
       "tags": [
         "new-models",
         "cruisers"
@@ -408,7 +404,7 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.96,
-        "cruisers": 0.65,
+        "cruisers": 0.68,
         "bobbers-choppers": 0.57
       },
       "subcategories": [
@@ -425,32 +421,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.51,
-        "review": 0.35,
+        "news": 0.49,
+        "review": 0.32,
         "comparison-test": 0.03,
-        "first-look": 0.13,
+        "first-look": 0.15,
         "ranked-list": 0.04,
         "buyers-guide": 0.06,
         "how-to": 0.03,
         "explainer": 0.17,
         "opinion": 0.09,
-        "profile-interview": 0.37,
-        "tribute": 0.06,
+        "profile-interview": 0.38,
+        "tribute": 0.05,
         "listing": 0.04,
         "event-report": 0.43,
         "event-preview": 0.04,
-        "press-release": 0.22,
+        "press-release": 0.23,
         "digest": 0.08,
-        "photo-gallery": 0.21,
-        "ride-report": 0.04,
+        "photo-gallery": 0.19,
+        "ride-report": 0.05,
         "history": 0.11,
         "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.06,
         "build-feature": 0.91,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "custom",
         "cruisers",
@@ -473,19 +469,19 @@
       "audio": null,
       "categories": [
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
         }
       ],
-      "primary": "cruisers",
+      "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "cruisers": 0.94,
-        "new-models": 0.94
+        "new-models": 0.94,
+        "cruisers": 0.93
       },
       "subcategories": [],
       "forms": [
@@ -500,34 +496,34 @@
       ],
       "form_scores": {
         "news": 0.91,
-        "review": 0.26,
+        "review": 0.23,
         "comparison-test": 0.03,
         "first-look": 0.49,
         "ranked-list": 0.03,
         "buyers-guide": 0.17,
         "how-to": 0.03,
-        "explainer": 0.33,
+        "explainer": 0.31,
         "opinion": 0.05,
         "profile-interview": 0.1,
         "tribute": 0.01,
         "listing": 0.04,
         "event-report": 0.03,
         "event-preview": 0.03,
-        "press-release": 0.84,
+        "press-release": 0.85,
         "digest": 0.09,
         "photo-gallery": 0.08,
-        "ride-report": 0.03,
+        "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.26,
-        "safety-notice": 0.02,
+        "rumor": 0.25,
+        "safety-notice": 0.03,
         "episode": 0.03,
         "build-feature": 0.03,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
-        "cruisers",
-        "new-models"
+        "new-models",
+        "cruisers"
       ],
       "also": []
     },
@@ -558,8 +554,8 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.97,
-        "cruisers": 0.77,
-        "bobbers-choppers": 0.83
+        "cruisers": 0.79,
+        "bobbers-choppers": 0.82
       },
       "subcategories": [
         {
@@ -579,25 +575,25 @@
         }
       ],
       "form_scores": {
-        "news": 0.12,
-        "review": 0.3,
+        "news": 0.11,
+        "review": 0.29,
         "comparison-test": 0.04,
-        "first-look": 0.13,
-        "ranked-list": 0.06,
+        "first-look": 0.11,
+        "ranked-list": 0.05,
         "buyers-guide": 0.1,
         "how-to": 0.06,
         "explainer": 0.15,
         "opinion": 0.16,
-        "profile-interview": 0.77,
+        "profile-interview": 0.78,
         "tribute": 0.05,
         "listing": 0.09,
-        "event-report": 0.05,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.27,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.28,
         "ride-report": 0.05,
-        "history": 0.11,
+        "history": 0.12,
         "rumor": 0.06,
         "safety-notice": 0.01,
         "episode": 0.05,
@@ -609,70 +605,6 @@
         "custom",
         "cruisers",
         "bobbers-choppers"
-      ],
-      "also": []
-    },
-    {
-      "id": "abefae037d0812f97e2990121dcb9648edf0f600",
-      "title": "With nods to the past, these retros wear heritage on their sleeves and for \u00a36000 they could be yours",
-      "link": "https://www.motorcyclenews.com/advice/used-bikes/expert-guide-retro-bikes-under-6g",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-04T15:45:08+00:00",
-      "excerpt": "When the sun is out, few things in life are as pleasurable as hopping on a relaxed retro and taking a gentle trip to a local pub or seaside venue. Lacking a sportsbike\u2019s demanding nature, retros allow...",
-      "image": "https://www.motorcyclenews.com/wp-images/311619/390x260/fx2f0411.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        }
-      ],
-      "primary": "classic",
-      "confident": false,
-      "cat_scores": {
-        "classic": 0.54,
-        "cruisers": 0.5
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.1,
-        "comparison-test": 0.55,
-        "first-look": 0.24,
-        "ranked-list": 0.61,
-        "buyers-guide": 0.61,
-        "how-to": 0.06,
-        "explainer": 0.2,
-        "opinion": 0.33,
-        "profile-interview": 0.08,
-        "tribute": 0.05,
-        "listing": 0.11,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.11,
-        "digest": 0.1,
-        "photo-gallery": 0.13,
-        "ride-report": 0.09,
-        "history": 0.09,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.09,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.16,
-      "tags": [
-        "classic",
-        "cruisers"
       ],
       "also": []
     },
@@ -703,7 +635,7 @@
       "confident": true,
       "cat_scores": {
         "events-rides": 0.97,
-        "cruisers": 0.52
+        "cruisers": 0.5
       },
       "subcategories": [],
       "forms": [
@@ -733,18 +665,18 @@
         "profile-interview": 0.1,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.94,
-        "press-release": 0.9,
+        "event-report": 0.07,
+        "event-preview": 0.93,
+        "press-release": 0.89,
         "digest": 0.09,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.04,
-        "history": 0.03,
+        "history": 0.04,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.03,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
@@ -768,12 +700,12 @@
       "audio": null,
       "categories": [
         {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
           "slug": "cruisers",
           "label": "Cruisers"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
         },
         {
           "slug": "custom",
@@ -784,12 +716,12 @@
           "label": "Classic"
         }
       ],
-      "primary": "for-sale",
+      "primary": "cruisers",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.98,
         "cruisers": 0.97,
-        "custom": 0.79,
+        "for-sale": 0.97,
+        "custom": 0.8,
         "classic": 0.24,
         "restomods": 0.53
       },
@@ -812,34 +744,34 @@
       ],
       "form_scores": {
         "news": 0.06,
-        "review": 0.15,
+        "review": 0.17,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.37,
+        "buyers-guide": 0.35,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.06,
         "opinion": 0.03,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.97,
         "event-report": 0.02,
         "event-preview": 0.01,
-        "press-release": 0.05,
+        "press-release": 0.06,
         "digest": 0.04,
-        "photo-gallery": 0.09,
+        "photo-gallery": 0.1,
         "ride-report": 0.01,
         "history": 0.07,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.96,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
-        "for-sale",
         "cruisers",
+        "for-sale",
         "custom",
         "classic",
         "restomods"
@@ -880,10 +812,10 @@
       "primary": "cruisers",
       "confident": true,
       "cat_scores": {
-        "cruisers": 0.88,
-        "racing": 0.79,
+        "cruisers": 0.87,
+        "racing": 0.77,
         "events-rides": 0.74,
-        "new-models": 0.66
+        "new-models": 0.67
       },
       "subcategories": [],
       "forms": [
@@ -903,22 +835,22 @@
       "form_scores": {
         "news": 0.09,
         "review": 0.27,
-        "comparison-test": 0.04,
-        "first-look": 0.51,
+        "comparison-test": 0.03,
+        "first-look": 0.44,
         "ranked-list": 0.02,
-        "buyers-guide": 0.14,
-        "how-to": 0.06,
-        "explainer": 0.41,
-        "opinion": 0.2,
+        "buyers-guide": 0.15,
+        "how-to": 0.07,
+        "explainer": 0.4,
+        "opinion": 0.22,
         "profile-interview": 0.73,
         "tribute": 0.03,
         "listing": 0.02,
-        "event-report": 0.07,
+        "event-report": 0.08,
         "event-preview": 0.97,
-        "press-release": 0.19,
-        "digest": 0.78,
+        "press-release": 0.2,
+        "digest": 0.76,
         "photo-gallery": 0.02,
-        "ride-report": 0.15,
+        "ride-report": 0.14,
         "history": 0.05,
         "rumor": 0.03,
         "safety-notice": 0.01,
@@ -926,7 +858,7 @@
         "build-feature": 0.06,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.87,
+      "multi_subject": 0.88,
       "tags": [
         "cruisers",
         "racing",
@@ -966,9 +898,9 @@
       "confident": true,
       "cat_scores": {
         "cruisers": 0.89,
-        "custom": 0.84,
-        "classic": 0.82,
-        "restomods": 0.52
+        "custom": 0.86,
+        "classic": 0.85,
+        "restomods": 0.51
       },
       "subcategories": [
         {
@@ -977,32 +909,37 @@
           "parent": "custom"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
       "form_scores": {
-        "news": 0.13,
-        "review": 0.56,
+        "news": 0.11,
+        "review": 0.53,
         "comparison-test": 0.05,
-        "first-look": 0.16,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.19,
-        "how-to": 0.08,
-        "explainer": 0.46,
-        "opinion": 0.68,
-        "profile-interview": 0.21,
+        "first-look": 0.15,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.17,
+        "how-to": 0.07,
+        "explainer": 0.45,
+        "opinion": 0.69,
+        "profile-interview": 0.23,
         "tribute": 0.1,
-        "listing": 0.24,
+        "listing": 0.29,
         "event-report": 0.04,
         "event-preview": 0.02,
-        "press-release": 0.12,
-        "digest": 0.1,
-        "photo-gallery": 0.14,
+        "press-release": 0.1,
+        "digest": 0.09,
+        "photo-gallery": 0.16,
         "ride-report": 0.07,
-        "history": 0.42,
-        "rumor": 0.09,
+        "history": 0.43,
+        "rumor": 0.08,
         "safety-notice": 0.02,
-        "episode": 0.08,
-        "build-feature": 0.73,
-        "q-and-a": 0.05
+        "episode": 0.09,
+        "build-feature": 0.75,
+        "q-and-a": 0.04
       },
       "multi_subject": 0.05,
       "tags": [
@@ -1040,7 +977,7 @@
       "confident": true,
       "cat_scores": {
         "events-rides": 0.97,
-        "cruisers": 0.58
+        "cruisers": 0.54
       },
       "subcategories": [],
       "forms": [
@@ -1050,32 +987,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.71,
+        "news": 0.73,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.04,
+        "buyers-guide": 0.03,
         "how-to": 0.05,
         "explainer": 0.16,
-        "opinion": 0.16,
+        "opinion": 0.17,
         "profile-interview": 0.04,
-        "tribute": 0.01,
+        "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.98,
-        "press-release": 0.25,
+        "press-release": 0.24,
         "digest": 0.04,
-        "photo-gallery": 0.01,
+        "photo-gallery": 0.02,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.01,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.07,
       "tags": [
         "events-rides",
         "cruisers"
@@ -1109,7 +1046,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "cruisers": 0.51
+        "cruisers": 0.5
       },
       "subcategories": [],
       "forms": [
@@ -1118,41 +1055,41 @@
           "label": "Event Report"
         },
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.9,
         "review": 0.02,
         "comparison-test": 0.04,
         "first-look": 0.01,
-        "ranked-list": 0.06,
+        "ranked-list": 0.07,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.05,
         "opinion": 0.05,
         "profile-interview": 0.05,
-        "tribute": 0.01,
+        "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.98,
         "event-preview": 0.03,
         "press-release": 0.91,
-        "digest": 0.1,
+        "digest": 0.09,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.11,
+        "history": 0.1,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "cruisers"
@@ -1197,30 +1134,30 @@
       "form_scores": {
         "news": 0.89,
         "review": 0.03,
-        "comparison-test": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.03,
         "ranked-list": 0.05,
-        "buyers-guide": 0.35,
-        "how-to": 0.13,
+        "buyers-guide": 0.33,
+        "how-to": 0.14,
         "explainer": 0.57,
         "opinion": 0.03,
-        "profile-interview": 0.12,
+        "profile-interview": 0.14,
         "tribute": 0.01,
         "listing": 0.13,
         "event-report": 0.01,
         "event-preview": 0.01,
         "press-release": 0.97,
-        "digest": 0.15,
+        "digest": 0.16,
         "photo-gallery": 0.03,
         "ride-report": 0.01,
         "history": 0.01,
         "rumor": 0.03,
         "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.27,
+      "multi_subject": 0.32,
       "tags": [
         "cruisers"
       ],
@@ -1257,8 +1194,8 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.95,
-        "events-rides": 0.84,
-        "cruisers": 0.81
+        "events-rides": 0.85,
+        "cruisers": 0.79
       },
       "subcategories": [],
       "forms": [
@@ -1281,31 +1218,31 @@
       ],
       "form_scores": {
         "news": 0.21,
-        "review": 0.46,
-        "comparison-test": 0.03,
+        "review": 0.41,
+        "comparison-test": 0.04,
         "first-look": 0.88,
         "ranked-list": 0.02,
-        "buyers-guide": 0.18,
+        "buyers-guide": 0.17,
         "how-to": 0.06,
-        "explainer": 0.65,
-        "opinion": 0.15,
+        "explainer": 0.68,
+        "opinion": 0.13,
         "profile-interview": 0.31,
         "tribute": 0.01,
-        "listing": 0.03,
+        "listing": 0.02,
         "event-report": 0.08,
         "event-preview": 0.96,
-        "press-release": 0.65,
+        "press-release": 0.62,
         "digest": 0.76,
         "photo-gallery": 0.03,
-        "ride-report": 0.29,
-        "history": 0.05,
-        "rumor": 0.07,
+        "ride-report": 0.26,
+        "history": 0.04,
+        "rumor": 0.08,
         "safety-notice": 0.02,
         "episode": 0.96,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
+        "build-feature": 0.03,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.81,
+      "multi_subject": 0.82,
       "tags": [
         "new-models",
         "events-rides",
@@ -1332,59 +1269,63 @@
           "label": "Custom"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
         "custom": 0.92,
-        "cruisers": 0.69,
-        "new-models": 0.69
+        "new-models": 0.72,
+        "cruisers": 0.69
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "profile-interview",
           "label": "Profile & Interview"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.36,
-        "review": 0.38,
+        "news": 0.35,
+        "review": 0.39,
         "comparison-test": 0.05,
-        "first-look": 0.64,
-        "ranked-list": 0.05,
+        "first-look": 0.66,
+        "ranked-list": 0.06,
         "buyers-guide": 0.11,
         "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.18,
-        "profile-interview": 0.8,
-        "tribute": 0.06,
-        "listing": 0.18,
-        "event-report": 0.04,
+        "explainer": 0.14,
+        "opinion": 0.16,
+        "profile-interview": 0.81,
+        "tribute": 0.07,
+        "listing": 0.19,
+        "event-report": 0.05,
         "event-preview": 0.04,
-        "press-release": 0.65,
-        "digest": 0.11,
-        "photo-gallery": 0.14,
+        "press-release": 0.64,
+        "digest": 0.12,
+        "photo-gallery": 0.13,
         "ride-report": 0.04,
-        "history": 0.47,
-        "rumor": 0.35,
+        "history": 0.52,
+        "rumor": 0.36,
         "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.74,
-        "q-and-a": 0.04
+        "episode": 0.08,
+        "build-feature": 0.76,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.08,
       "tags": [
         "custom",
-        "cruisers",
-        "new-models"
+        "new-models",
+        "cruisers"
       ],
       "also": []
     },
@@ -1426,29 +1367,33 @@
         {
           "slug": "first-look",
           "label": "First Look"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.71,
-        "review": 0.23,
+        "news": 0.75,
+        "review": 0.24,
         "comparison-test": 0.02,
-        "first-look": 0.79,
+        "first-look": 0.81,
         "ranked-list": 0.01,
         "buyers-guide": 0.16,
         "how-to": 0.02,
-        "explainer": 0.58,
+        "explainer": 0.57,
         "opinion": 0.1,
         "profile-interview": 0.09,
         "tribute": 0.08,
         "listing": 0.04,
-        "event-report": 0.05,
-        "event-preview": 0.51,
-        "press-release": 0.86,
+        "event-report": 0.04,
+        "event-preview": 0.48,
+        "press-release": 0.84,
         "digest": 0.04,
         "photo-gallery": 0.04,
         "ride-report": 0.02,
         "history": 0.07,
-        "rumor": 0.28,
+        "rumor": 0.26,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.03,
@@ -1492,8 +1437,8 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.94,
-        "racing": 0.74,
-        "cruisers": 0.72
+        "racing": 0.77,
+        "cruisers": 0.69
       },
       "subcategories": [],
       "forms": [
@@ -1506,35 +1451,35 @@
           "label": "Profile & Interview"
         },
         {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
           "slug": "digest",
           "label": "Digest"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
         }
       ],
       "form_scores": {
         "news": 0.21,
-        "review": 0.3,
-        "comparison-test": 0.03,
-        "first-look": 0.85,
+        "review": 0.25,
+        "comparison-test": 0.04,
+        "first-look": 0.83,
         "ranked-list": 0.02,
         "buyers-guide": 0.15,
         "how-to": 0.04,
         "explainer": 0.47,
-        "opinion": 0.12,
+        "opinion": 0.13,
         "profile-interview": 0.87,
-        "tribute": 0.04,
+        "tribute": 0.05,
         "listing": 0.03,
         "event-report": 0.09,
-        "event-preview": 0.14,
-        "press-release": 0.42,
-        "digest": 0.82,
+        "event-preview": 0.13,
+        "press-release": 0.4,
+        "digest": 0.84,
         "photo-gallery": 0.03,
         "ride-report": 0.08,
-        "history": 0.12,
-        "rumor": 0.15,
+        "history": 0.11,
+        "rumor": 0.14,
         "safety-notice": 0.02,
         "episode": 0.97,
         "build-feature": 0.08,
@@ -1580,7 +1525,7 @@
       "cat_scores": {
         "racing": 0.99,
         "cruisers": 0.93,
-        "sport-bikes": 0.52
+        "sport-bikes": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -1603,12 +1548,12 @@
       ],
       "form_scores": {
         "news": 0.94,
-        "review": 0.02,
+        "review": 0.01,
         "comparison-test": 0.05,
         "first-look": 0.01,
-        "ranked-list": 0.04,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
+        "how-to": 0.01,
         "explainer": 0.04,
         "opinion": 0.03,
         "profile-interview": 0.04,
@@ -1616,18 +1561,18 @@
         "listing": 0.01,
         "event-report": 0.99,
         "event-preview": 0.95,
-        "press-release": 0.83,
+        "press-release": 0.81,
         "digest": 0.05,
         "photo-gallery": 0.03,
         "ride-report": 0.01,
         "history": 0.04,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.02,
+        "episode": 0.01,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "cruisers",
@@ -1662,7 +1607,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "cruisers": 0.87
+        "cruisers": 0.89
       },
       "subcategories": [],
       "forms": [
@@ -1687,14 +1632,14 @@
         "ranked-list": 0.02,
         "buyers-guide": 0.07,
         "how-to": 0.02,
-        "explainer": 0.06,
+        "explainer": 0.07,
         "opinion": 0.04,
         "profile-interview": 0.15,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.06,
         "event-preview": 0.98,
-        "press-release": 0.95,
+        "press-release": 0.94,
         "digest": 0.06,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
@@ -1705,7 +1650,7 @@
         "build-feature": 0.02,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "cruisers"
@@ -1739,7 +1684,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "cruisers": 0.81
+        "cruisers": 0.8
       },
       "subcategories": [],
       "forms": [
@@ -1761,9 +1706,9 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.88,
         "review": 0.02,
-        "comparison-test": 0.05,
+        "comparison-test": 0.04,
         "first-look": 0.03,
         "ranked-list": 0.04,
         "buyers-guide": 0.02,
@@ -1776,10 +1721,10 @@
         "event-report": 0.97,
         "event-preview": 0.92,
         "press-release": 0.85,
-        "digest": 0.12,
+        "digest": 0.13,
         "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.04,
+        "ride-report": 0.01,
+        "history": 0.05,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.02,
