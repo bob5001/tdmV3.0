@@ -70,7 +70,28 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       .more { font-size: 0.8rem; margin: 0.3rem 0 0; }
       .more a { color: var(--brand); text-decoration: none; }
       footer { font-size: 0.78rem; color: var(--mute); padding: 2rem 0; text-align: center; border-top: 1px solid var(--line); margin-top: 1rem; }
-      @media (max-width: 40rem) { .hero { grid-template-columns: 1fr; } header .date { position: static; margin-top: 0.3rem; } }
+      img { max-width: 100%; }
+      h3, .ex, code { overflow-wrap: anywhere; }
+      /* Phones: nav and ticker become single swipeable rows instead of wrapping into a wall of links. */
+      @media (max-width: 40rem) {
+        header { padding: 1rem 0 0.5rem; }
+        header .tag { font-size: 0.88rem; }
+        header .date { position: static; margin-top: 0.2rem; }
+        nav { display: flex; overflow-x: auto; scrollbar-width: none; margin: 0 -1rem; padding: 0.5rem 1rem; text-align: left;
+              -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
+        nav::-webkit-scrollbar { display: none; }
+        nav a { flex: none; margin: 0; padding: 0.45rem 0.6rem; }
+        nav a:last-child { margin-right: 2rem; }
+        .ticker { overflow-x: auto; scrollbar-width: none; }
+        .ticker::-webkit-scrollbar { display: none; }
+        .ticker b { position: sticky; left: 0; }
+        .ticker a:last-child { padding-right: 0.8rem; }
+        .hero { grid-template-columns: 1fr; gap: 0.8rem; }
+        .hero h3 { font-size: 1.25rem; }
+        h2 { font-size: 1.35rem; }
+        .list .thumb { width: 5.5rem; margin-left: 0.7rem; }
+        .chips a { padding: 0.3rem 0.75rem; }
+      }
     </style>
   </head>
   <body>
