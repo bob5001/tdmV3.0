@@ -771,17 +771,17 @@
       "also": []
     },
     {
-      "id": "aeffc2d27090b9dce0f5365f71a96eda3867b9b6",
-      "title": "Lecuona: \u201cFor the first time, I can say that I\u2019m really enjoying riding the Ducati\u201d",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/lecuona-for-the-first-time-i-can-say-that-im-really-enjoying-riding-the-ducati.html",
+      "id": "ca58457c9a4f27b8747ccd3aec1762f59b4ad67d",
+      "title": "THE BOOK Johann Zarco, victory and forgiveness",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/the-book-johann-zarco-victory-and-forgiveness.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-25T21:03:04+00:00",
-      "excerpt": "\u201cI rode in my own style; I\u2019m consistent and had a little margin to work with. Bulega\u2019s stats? I looked at them\u2014he always does something better than I do. I feel stronger than I did at Donington, so why not aim for the win?\u201d",
-      "image": null,
+      "author": "GPOne",
+      "published": "2026-09-26T06:48:52+00:00",
+      "excerpt": "Written in collaboration with Michel Turco, it is the result of 10 hours of interviews. There could be a sequel.",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/zarco-libro.jpg?itok=EAp7uZsg",
       "audio": null,
       "categories": [
         {
@@ -797,19 +797,13 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.91,
-        "motogp": 0.95,
-        "worldsbk-superbike": 0.91
+        "sport-bikes": 0.56,
+        "motogp": 0.86
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -820,37 +814,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.42,
-        "review": 0.06,
-        "comparison-test": 0.04,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "news": 0.23,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.15,
-        "profile-interview": 0.94,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.51,
-        "event-preview": 0.11,
-        "press-release": 0.09,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.26,
-        "history": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.22,
+        "profile-interview": 0.92,
+        "tribute": 0.14,
+        "listing": 0.04,
+        "event-report": 0.22,
+        "event-preview": 0.04,
+        "press-release": 0.12,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.11,
+        "history": 0.48,
         "rumor": 0.02,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.06,
-        "build-feature": 0.02,
+        "build-feature": 0.04,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.08,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -1017,6 +1010,167 @@
       "also": []
     },
     {
+      "id": "aeffc2d27090b9dce0f5365f71a96eda3867b9b6",
+      "title": "Lecuona: \u201cFor the first time, I can say that I\u2019m really enjoying riding the Ducati\u201d",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/lecuona-for-the-first-time-i-can-say-that-im-really-enjoying-riding-the-ducati.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-09-25T21:03:04+00:00",
+      "excerpt": "\u201cI rode in my own style; I\u2019m consistent and had a little margin to work with. Bulega\u2019s stats? I looked at them\u2014he always does something better than I do. I feel stronger than I did at Donington, so why not aim for the win?\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.91,
+        "motogp": 0.95,
+        "worldsbk-superbike": 0.91
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.06,
+        "comparison-test": 0.04,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.05,
+        "opinion": 0.15,
+        "profile-interview": 0.94,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.51,
+        "event-preview": 0.11,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.26,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "6133d9f080eff4edaf1abbbf39dd547b09321560",
+      "title": "Adams: \"It feels like a true family over here and they\u2019ve been by my side through the ups and downs\"",
+      "link": "https://racerxonline.com/2026/09/23/adams-it-feels-like-a-true-family-over-here-and-theyve-been-by-my-side-through-the-ups-and-downs",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Eric Johnson",
+      "published": "2026-09-23T13:00:00+00:00",
+      "excerpt": "Eric Johnson caught up with Drew Adams to chat about his season, the future, and how he plans on spending his off-season.",
+      "image": "https://rx.iscdn.net/2026/09/337052_adamsalignmediasmx26losangeles024.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.78,
+        "motocross-supercross": 0.81
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.23,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.09,
+        "profile-interview": 0.98,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.04,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.14,
+        "build-feature": 0.05,
+        "q-and-a": 0.12
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "2ef1be38bd666f2b54b90815c8442ea928f7a35a",
       "title": "Surra: \"The V4-S and the Superbike? The only thing they have in common is the Ducati name\u2014everything else is different.\"",
       "link": "https://www.gpone.com/en/2026/09/25/wsbk/surra-the-v4-s-and-the-superbike-the-only-thing-they-have-in-common-is-the-ducati-name-everything.html",
@@ -1101,83 +1255,6 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "6133d9f080eff4edaf1abbbf39dd547b09321560",
-      "title": "Adams: \"It feels like a true family over here and they\u2019ve been by my side through the ups and downs\"",
-      "link": "https://racerxonline.com/2026/09/23/adams-it-feels-like-a-true-family-over-here-and-theyve-been-by-my-side-through-the-ups-and-downs",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Eric Johnson",
-      "published": "2026-09-23T13:00:00+00:00",
-      "excerpt": "Eric Johnson caught up with Drew Adams to chat about his season, the future, and how he plans on spending his off-season.",
-      "image": "https://rx.iscdn.net/2026/09/337052_adamsalignmediasmx26losangeles024.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.78,
-        "motocross-supercross": 0.81
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.23,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.09,
-        "profile-interview": 0.98,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.05,
-        "press-release": 0.08,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.04,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.14,
-        "build-feature": 0.05,
-        "q-and-a": 0.12
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
       ],
       "also": []
     },
