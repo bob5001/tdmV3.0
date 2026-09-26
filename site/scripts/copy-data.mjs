@@ -1,5 +1,5 @@
 // Copy dm.py's exported JSON into src/data (a tracked snapshot: that is what Vercel builds from).
-import { cpSync, mkdirSync, existsSync, rmSync } from 'node:fs';
+import { cpSync, mkdirSync, existsSync, rmSync, statSync, writeFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -21,4 +21,6 @@ mkdirSync(to, { recursive: true });
 for (const f of ['items.json', 'categories.json', 'sources.json', 'forms.json']) cpSync(join(from, f), join(to, f));
 cpSync(join(from, 'categories'), join(to, 'categories'), { recursive: true });
 cpSync(join(from, 'forms'), join(to, 'forms'), { recursive: true });
+// When the pipeline last exported: the site shows "Updated 2h ago" from this, not from build time.
+writeFileSync(join(to, 'meta.json'), JSON.stringify({ updated: statSync(join(from, 'items.json')).mtime.toISOString() }) + '\n');
 console.log(`copied data from ${from}`);

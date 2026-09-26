@@ -35,7 +35,7 @@ const ext = { target: '_blank', rel: 'noopener noreferrer' };
 <Base wide>
   <div class="ticker">
     <b>LATEST NEWS:</b>
-    {latest.map((i) => <a href={i.link} {...ext}>{i.title}</a>)}
+    <div class="track">{latest.map((i) => <a href={i.link} {...ext}>{i.title}</a>)}</div>
   </div>
 
   {featured && (
@@ -47,7 +47,7 @@ const ext = { target: '_blank', rel: 'noopener noreferrer' };
         </a>
         <div>
           <h3><a href={featured.link} {...ext}>{featured.title}</a></h3>
-          <p class="meta">{featured.source} · {featured.published.slice(0, 10)}
+          <p class="meta">{featured.source} · <time datetime={featured.published}>{featured.published.slice(0, 10)}</time>
             {featured.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}</p>
           {featured.excerpt && <p class="ex">{featured.excerpt}…</p>}
           {featured.also?.length > 0 && (
@@ -70,13 +70,13 @@ const ext = { target: '_blank', rel: 'noopener noreferrer' };
             </a>
           )}
           <h3><a href={s.lead.link} {...ext}>{s.lead.title}</a></h3>
-          <p class="meta">{s.lead.source} · {s.lead.published.slice(0, 10)}</p>
+          <p class="meta">{s.lead.source} · <time datetime={s.lead.published}>{s.lead.published.slice(0, 10)}</time></p>
           {s.lead.excerpt && <p class="ex">{s.lead.excerpt.slice(0, 140)}…</p>}
         </div>
         {s.rest.map((i) => (
           <div class="line">
             <h3><a href={i.link} {...ext}>{i.title}</a></h3>
-            <p class="meta">{i.source} · {i.published.slice(0, 10)}</p>
+            <p class="meta">{i.source} · <time datetime={i.published}>{i.published.slice(0, 10)}</time></p>
           </div>
         ))}
         <p class="more"><a href={`/c/${s.slug}/`}>See more “{s.label}” ({s.total}) »</a></p>

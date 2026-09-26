@@ -1,12 +1,17 @@
 ---
 import categories from '../data/categories.json';
+import meta from '../data/meta.json';
 const { title = 'The Daily Motorcycle', description = 'A global view of what is happening with motorcycles.', wide = false } = Astro.props;
 const nav = categories.filter((c) => c.count > 0 && !c.parent);       // top-level only; children appear as chips on their parent
 const pathname = Astro.url.pathname;
-const d = new Date();
-const day = d.getDate();
-const suffix = day % 10 === 1 && day !== 11 ? 'st' : day % 10 === 2 && day !== 12 ? 'nd' : day % 10 === 3 && day !== 13 ? 'rd' : 'th';
-const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} ${d.getFullYear()}`;
+// Newspaper-style date. Built pages show when the data was last exported; the script below swaps in
+// the reader's today plus "updated 2h ago", so a stale build never claims to be today's paper.
+const longDate = (d) => {
+  const day = d.getDate();
+  const suffix = day % 10 === 1 && day !== 11 ? 'st' : day % 10 === 2 && day !== 12 ? 'nd' : day % 10 === 3 && day !== 13 ? 'rd' : 'th';
+  return `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} ${d.getFullYear()}`;
+};
+const updated = meta.updated;
 ---
 <!doctype html>
 <html lang="en">
@@ -31,9 +36,12 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       nav a { display: inline-block; margin: 0.15rem 0.7rem; color: #666; text-decoration: none; white-space: nowrap; }
       nav a:hover, nav a[aria-current] { color: var(--brand); }
       nav .n { color: #aaa; font-weight: 400; font-size: 0.72rem; }
-      .ticker { display: flex; gap: 0.8rem; align-items: center; border: 1px solid var(--line); margin: 1rem 0; font-size: 0.82rem; overflow: hidden; white-space: nowrap; }
+      .ticker { display: flex; align-items: center; border: 1px solid var(--line); margin: 1rem 0; font-size: 0.82rem; white-space: nowrap; }
       .ticker b { background: var(--alert); color: #fff; padding: 0.55rem 0.8rem; font-size: 0.72rem; letter-spacing: 0.03em; flex: none; }
+      .ticker .track { display: flex; gap: 0.8rem; padding-left: 0.8rem; overflow-x: auto; scrollbar-width: none; }
+      .ticker .track::-webkit-scrollbar { display: none; }
       .ticker a { text-decoration: none; color: #555; flex: none; }
+      .ticker a:hover { color: var(--brand); }
       .ticker a::before { content: '•'; margin-right: 0.8rem; color: #555; }
       h2 { font-size: 1.5rem; margin: 1.2rem 0 0.3rem; color: var(--sky); font-weight: 700; }
       h2 a { color: inherit; text-decoration: none; }
@@ -51,6 +59,7 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       .list .thumb { float: right; width: 7.5rem; margin: 0 0 0.3rem 0.9rem; }
       .hero { display: grid; grid-template-columns: 5fr 4fr; gap: 1.6rem; align-items: start; }
       .hero .img { aspect-ratio: 16 / 10; }
+      .hero.noimg { grid-template-columns: 1fr; }
       .hero h3 { font-size: 1.45rem; }
       .hero .ex { font-size: 0.95rem; }
       .sections { columns: 3 17rem; column-gap: 1.6rem; }
@@ -82,10 +91,6 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
         nav::-webkit-scrollbar { display: none; }
         nav a { flex: none; margin: 0; padding: 0.45rem 0.6rem; }
         nav a:last-child { margin-right: 2rem; }
-        .ticker { overflow-x: auto; scrollbar-width: none; }
-        .ticker::-webkit-scrollbar { display: none; }
-        .ticker b { position: sticky; left: 0; }
-        .ticker a:last-child { padding-right: 0.8rem; }
         .hero { grid-template-columns: 1fr; gap: 0.8rem; }
         .hero h3 { font-size: 1.25rem; }
         h2 { font-size: 1.35rem; }
@@ -99,7 +104,7 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
       <header>
         <h1><a href="/">TheDailyMotorcycle.com</a></h1>
         <p class="tag">Your daily dose from all over the web.</p>
-        <div class="date">{today}</div>
+        <div class="date" data-updated={updated}>Updated {longDate(new Date(updated))}</div>
       </header>
       <nav aria-label="Categories">
         <a href="/" aria-current={pathname === '/' ? 'page' : undefined}>Home</a>
@@ -116,5 +121,85 @@ const today = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} $
         Links out to the sources; articles belong to their publishers. Categories are assigned by a classifier and are sometimes wrong.
       </footer>
     </div>
+    <script>
+      // Small enhancements only; every page works without this.
+
+      // Freshness: header shows the reader's today plus how long ago the data was exported,
+      // and item dates within the last week read as "3h ago" (full date kept in the tooltip).
+      const ago = (iso: string) => {
+        const m = Math.round((Date.now() - Date.parse(iso)) / 60000);
+        if (!(m >= 0)) return null;
+        if (m < 60) return m < 2 ? 'just now' : `${m}m ago`;
+        if (m < 60 * 24) return `${Math.round(m / 60)}h ago`;
+        if (m < 60 * 24 * 7) return `${Math.round(m / 1440)}d ago`;
+        return null;
+      };
+      const stamp = document.querySelector<HTMLElement>('header .date');
+      if (stamp?.dataset.updated) {
+        const d = new Date();
+        const day = d.getDate();
+        const suffix = day % 10 === 1 && day !== 11 ? 'st' : day % 10 === 2 && day !== 12 ? 'nd' : day % 10 === 3 && day !== 13 ? 'rd' : 'th';
+        const since = ago(stamp.dataset.updated);
+        if (since) stamp.textContent = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} ${d.getFullYear()} · updated ${since}`;
+      }
+      document.querySelectorAll<HTMLTimeElement>('time[datetime]').forEach((t) => {
+        const since = ago(t.dateTime);
+        if (since) { t.title = t.textContent ?? ''; t.textContent = since; }
+      });
+
+      // Pictures are loaded from the sources' own servers; hide the box when one fails.
+      const dropImage = (img: HTMLImageElement) => {
+        const box = img.closest('.img');
+        box?.closest('.hero')?.classList.add('noimg');
+        box?.remove();
+      };
+      document.querySelectorAll<HTMLImageElement>('.img img').forEach((img) => {
+        if (img.complete && img.naturalWidth === 0) dropImage(img);
+        else img.addEventListener('error', () => dropImage(img), { once: true });
+      });
+
+      // Phones: bring the current section into view in the swipeable nav.
+      const nav = document.querySelector('nav');
+      const here = nav?.querySelector('[aria-current]');
+      if (nav && here && nav.scrollWidth > nav.clientWidth) {
+        const n = nav.getBoundingClientRect(), h = here.getBoundingClientRect();
+        nav.scrollLeft += h.left - n.left - (n.width - h.width) / 2;
+      }
+
+      // Ticker: drifts left in a loop; stops while the reader hovers, touches, focuses or swipes it,
+      // and never moves for readers who ask for reduced motion.
+      const track = document.querySelector<HTMLElement>('.ticker .track');
+      if (track && !matchMedia('(prefers-reduced-motion: reduce)').matches && track.scrollWidth > track.clientWidth) {
+        const originals = [...track.children] as HTMLElement[];
+        originals.forEach((a) => {
+          const copy = a.cloneNode(true) as HTMLElement;
+          copy.setAttribute('aria-hidden', 'true');
+          copy.tabIndex = -1;
+          track.append(copy);
+        });
+        const loop = (track.children[originals.length] as HTMLElement).offsetLeft - originals[0].offsetLeft;
+        let held = false, resumeAt = 0, pos = 0, last = 0;
+        const hold = () => { held = true; };
+        const release = (delay: number) => () => { held = false; resumeAt = performance.now() + delay; };
+        track.addEventListener('mouseenter', hold);
+        track.addEventListener('mouseleave', release(0));
+        track.addEventListener('focusin', hold);
+        track.addEventListener('focusout', release(0));
+        track.addEventListener('touchstart', hold, { passive: true });
+        track.addEventListener('touchend', release(2500));
+        const step = (now: number) => {
+          const dt = last ? Math.min(now - last, 100) : 0;
+          last = now;
+          if (held || now < resumeAt) pos = track.scrollLeft;   // the reader may have swiped; carry on from there
+          else {
+            pos += dt * 0.04;                                    // 40px per second
+            if (pos >= loop) pos -= loop;
+            track.scrollLeft = pos;
+          }
+          requestAnimationFrame(step);
+        };
+        requestAnimationFrame(step);
+      }
+    </script>
   </body>
 </html>
