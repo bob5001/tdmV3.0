@@ -53,6 +53,12 @@ launchctl load   ~/Library/LaunchAgents/com.tdm.publisher.plist   # start
 Failures write to the log; 3 in a row raise a macOS notification, and so does a failed Vercel deployment of the last
 push. Set `DISCORD_WEBHOOK_URL` in the publisher's `.env` to also post there (not required).
 
+## Git authentication
+
+The clone uses an HTTPS remote with `credential.helper = !gh auth git-credential`, i.e. the token the `gh` CLI already holds.
+SSH does not work headless here: the GitHub key is passphrase-protected and only reachable through a login session's agent.
+If `gh auth status` ever shows the token expired, the publisher fails with an auth error until `gh auth login` is redone.
+
 ## Known limits (deliberate for the MVP)
 
 - Each data push adds a snapshot commit (about 1 MB gzipped, less after git deltas). Fine for now; the upgrade path is

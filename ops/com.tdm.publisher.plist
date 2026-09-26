@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Install: cp ops/com.tdm.publisher.plist ~/Library/LaunchAgents/ && launchctl load ~/Library/LaunchAgents/com.tdm.publisher.plist -->
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.tdm.publisher</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/Users/robertkoch/Projects/tdm-publisher/launch.sh</string>
+  </array>
+  <key>StartInterval</key>
+  <integer>900</integer>
+  <key>RunAtLoad</key>
+  <true/>
+  <key>StandardOutPath</key>
+  <string>/Users/robertkoch/Library/Logs/tdm-publisher/publisher.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/robertkoch/Library/Logs/tdm-publisher/publisher.log</string>
+  <key>ProcessType</key>
+  <string>Background</string>
+  <key>EnvironmentVariables</key>
+  <dict>
+    <key>HOME</key>
+    <string>/Users/robertkoch</string>
+  </dict>
+</dict>
+</plist>

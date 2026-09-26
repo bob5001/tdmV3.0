@@ -6,7 +6,9 @@ set -euo pipefail
 # The interpreter that has feedparser/httpx/pyyaml (Homebrew's python3 does not). Override with TDM_PYTHON.
 PY="${TDM_PYTHON:-/Library/Frameworks/Python.framework/Versions/3.11/bin/python3}"
 export PATH=/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin
-export GIT_SSH_COMMAND="ssh -o BatchMode=yes -o ConnectTimeout=20"
+# Auth is HTTPS + the gh CLI's stored token (clone config: credential.helper = gh auth git-credential). The SSH key is
+# passphrase-protected and only usable through a login agent, which a launchd job does not have.
+export GIT_TERMINAL_PROMPT=0
 cd "$(dirname "$0")/repo"
 git fetch -q origin
 git reset -q --hard origin/main
