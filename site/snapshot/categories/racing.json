@@ -16,7 +16,7 @@
     {
       "slug": "motocross-supercross",
       "label": "Motocross & Supercross",
-      "count": 65
+      "count": 67
     }
   ],
   "items": [
@@ -677,87 +677,6 @@
       "also": []
     },
     {
-      "id": "a76550108a8f56fae88ac025b55754f55d2adc59",
-      "title": "Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship",
-      "link": "https://mxvice.com/2026/09/26/cole-davies-story-on-tvnz-sports-news-winning-pro-250mx-championship",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-26T11:10:55+00:00",
-      "excerpt": "Cole Davies story on TVNZ Sports News after winning Pro 250MX Championship at Ironman Raceway, Indiana on August 30, 2026. Film footage: Feld Motor Sports/NBC Sports. Photocredits \u2013 Align Media The post Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship appear",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.07,
-        "profile-interview": 0.55,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.94,
-        "event-preview": 0.03,
-        "press-release": 0.17,
-        "digest": 0.08,
-        "photo-gallery": 0.42,
-        "ride-report": 0.04,
-        "history": 0.18,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.21,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "32075af0031e5ec8e4e0eda6990788dd5322787a",
       "title": "Cremona WorldSBK: Lecuona fastest, Thompson takes maiden WorldSPB pole",
       "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-friday-results",
@@ -835,6 +754,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "56c84ade8216b4af1f82565e8f89e1bb3671d720",
+      "title": "2026 Ridgedale SMX \u2013 Latest News, Press Conference, & More",
+      "link": "https://mxvice.com/2026/09/26/2026-ridgedale-smx-latest-news-press-conference-more",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T11:37:26+00:00",
+      "excerpt": "We\u2019re in Ridgedale, Missouri for the final round of the 2026 SuperMotocross World Championship, where Media Day activities just wrapped up. Before racers hit the unique course for their opening laps of the weekend, we heard from championship points-leaders Jorge Prado and Levi Ki",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.32,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.21,
+        "event-preview": 0.95,
+        "press-release": 0.2,
+        "digest": 0.18,
+        "photo-gallery": 0.24,
+        "ride-report": 0.05,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.73,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.39,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -1864,83 +1864,6 @@
       "also": []
     },
     {
-      "id": "e24a1bce1d7c799a415287b1f4e6b88582ffa2f5",
-      "title": "Owens stays with Catmoto and moves up to MX2",
-      "link": "https://mxvice.com/2026/09/25/owens-stays-with-catmoto-and-moves-up-to-mx2",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T15:45:55+00:00",
-      "excerpt": "Liam Owens has extended his agreement with the Catmoto MX team. Owens will also make the move up to the MX2 class! The post Owens stays with Catmoto and moves up to MX2 appeared first on MX Vice .",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.12,
-        "press-release": 0.68,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "990c75a4d658bac6d5706c1b08ddd4153a945dd6",
       "title": "Classic TT 2026: Dunlop\u2019s treble, McGuinness\u2019s milestone and a race against the weather",
       "link": "https://www.mcnews.com.au/2026-classic-tt-review-results",
@@ -2004,6 +1927,83 @@
       "multi_subject": 0.71,
       "tags": [
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "d76099563e82710d5f3f60e8f35fe6dd364bbecd",
+      "title": "Watch ADAC Masters live today",
+      "link": "https://mxvice.com/2026/09/26/watch-adac-masters-live-today",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T11:25:26+00:00",
+      "excerpt": "The first motos of the ADAC Masters in Drehna can be watched live today. Check out the livestream below: The post Watch ADAC Masters live today appeared first on MX Vice .",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.94,
+        "motocross-supercross": 0.91
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.78,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.04,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.58,
+        "press-release": 0.31,
+        "digest": 0.07,
+        "photo-gallery": 0.49,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.22,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -2818,87 +2818,6 @@
       "also": []
     },
     {
-      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
-      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
-      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:41:40+00:00",
-      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.15,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.11,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.96,
-        "event-preview": 0.05,
-        "press-release": 0.24,
-        "digest": 0.51,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.65,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "884895250f8342febb428a75ec9bd6bca2bf1d47",
       "title": "BSB Assen: Scott Redding wins red flagged Sprint race",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/scott-redding-assen-sprint-win",
@@ -3043,6 +2962,87 @@
       "multi_subject": 0.08,
       "tags": [
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "a76550108a8f56fae88ac025b55754f55d2adc59",
+      "title": "Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship",
+      "link": "https://mxvice.com/2026/09/26/cole-davies-story-on-tvnz-sports-news-winning-pro-250mx-championship",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T11:10:55+00:00",
+      "excerpt": "Cole Davies story on TVNZ Sports News after winning Pro 250MX Championship at Ironman Raceway, Indiana on August 30, 2026. Film footage: Feld Motor Sports/NBC Sports. Photocredits \u2013 Align Media The post Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship appear",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.07,
+        "profile-interview": 0.55,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.94,
+        "event-preview": 0.03,
+        "press-release": 0.17,
+        "digest": 0.08,
+        "photo-gallery": 0.42,
+        "ride-report": 0.04,
+        "history": 0.18,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.21,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -3926,6 +3926,91 @@
       "also": []
     },
     {
+      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
+      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
+      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:50:06+00:00",
+      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
+      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.92,
+        "events-rides": 0.84,
+        "adventure": 0.77,
+        "racing": 0.67
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.08,
+        "comparison-test": 0.07,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.09,
+        "explainer": 0.21,
+        "opinion": 0.46,
+        "profile-interview": 0.16,
+        "tribute": 0.21,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.07,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.96,
+        "history": 0.19,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "dirt-mx",
+        "events-rides",
+        "adventure",
+        "racing"
+      ],
+      "also": []
+    },
+    {
       "id": "d136e2b3d8779fc941194fc5dd5eb3caa8a5c9d1",
       "title": "MotoGP: Mir Withdraws From Japanese and Indonesian GP",
       "link": "https://www.roadracingworld.com/news/motogp-mir-withdraws-from-japanese-and-indonesian-gp",
@@ -4044,176 +4129,6 @@
       ]
     },
     {
-      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
-      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
-      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T16:50:06+00:00",
-      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
-      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.92,
-        "events-rides": 0.84,
-        "adventure": 0.77,
-        "racing": 0.67
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ride-report",
-          "label": "Ride Report"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.08,
-        "comparison-test": 0.07,
-        "first-look": 0.09,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.09,
-        "explainer": 0.21,
-        "opinion": 0.46,
-        "profile-interview": 0.16,
-        "tribute": 0.21,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.07,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.96,
-        "history": 0.19,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.14,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "dirt-mx",
-        "events-rides",
-        "adventure",
-        "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
-      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
-      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:05:34+00:00",
-      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.21,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.98,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "546fc9c23d0fac26feace5476c3efd39b44d71c7",
       "title": "BSB Assen: Scott Redding dominates opening race to secure fifth victory of 2026",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/scott-redding-wins-assen-race-one",
@@ -4291,6 +4206,83 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "e24a1bce1d7c799a415287b1f4e6b88582ffa2f5",
+      "title": "Owens stays with Catmoto and moves up to MX2",
+      "link": "https://mxvice.com/2026/09/25/owens-stays-with-catmoto-and-moves-up-to-mx2",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T15:45:55+00:00",
+      "excerpt": "Liam Owens has extended his agreement with the Catmoto MX team. Owens will also make the move up to the MX2 class! The post Owens stays with Catmoto and moves up to MX2 appeared first on MX Vice .",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.12,
+        "press-release": 0.68,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -5033,87 +5025,6 @@
       "also": []
     },
     {
-      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
-      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
-      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-24T19:19:16+00:00",
-      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.08,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.06,
-        "event-report": 0.03,
-        "event-preview": 0.98,
-        "press-release": 0.68,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "01ec9531e26edef377684b4659b79911be369af4",
       "title": "Carl Fogarty to headline special classic bike anniversary weekend at Cadwell Park in Lincolnshire",
       "link": "https://www.motorcyclenews.com/news/2026/september/classic-bike-trackdays-cadwell-park",
@@ -5347,6 +5258,87 @@
         "q-and-a": 0.03
       },
       "multi_subject": 0.96,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
+      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
+      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:41:40+00:00",
+      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.15,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.11,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.96,
+        "event-preview": 0.05,
+        "press-release": 0.24,
+        "digest": 0.51,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.65,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6097,87 +6089,6 @@
       "also": []
     },
     {
-      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
-      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
-      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-24T18:50:34+00:00",
-      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.1,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "fa3d5c8253d22cbe5b58c9a3b2942c8e4d5fd3a6",
       "title": "BSB: Bradley Ray signs new deal with McAMS Yamaha for 2027",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/bradley-ray-mcams-yamaha-2027",
@@ -6324,6 +6235,91 @@
       "tags": [
         "racing",
         "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
+      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
+      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:05:34+00:00",
+      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.21,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.98,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -7049,75 +7045,6 @@
       "also": []
     },
     {
-      "id": "e6da2d525c4b3e3c9ac7ba8ad384e8334e0ca49f",
-      "title": "Injury sidelines Ross Branch for Rallye du Maroc",
-      "link": "https://mxvice.com/2026/09/23/injury-sidelines-ross-branch-for-rallye-du-maroc",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T18:34:09+00:00",
-      "excerpt": "oss Branch will not compete in the Rallye du Maroc. The Hero MotoSports rider suffered an injury in a training crash. Branch will not be fit in time to compete in Morocco and is now focusing on his recovery and a return in 2027. Missing the event is a major disappointment for Bra",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.89
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.47,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.22,
-        "press-release": 0.49,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "f4f10cbfc3cb0ff760f2919594e8ba93c4592173",
       "title": "BSB: Andrew Irwin to return from serious arm injury at Assen",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/andrew-irwin-return-assen",
@@ -7353,6 +7280,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
+      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
+      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T19:19:16+00:00",
+      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.08,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.68,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -8010,83 +8018,6 @@
       ]
     },
     {
-      "id": "cbefed0eb8510f4d2bd3654714cf28af695b6696",
-      "title": "Julius Mikula to Miss the 2026 Motocross of Nations",
-      "link": "https://mxvice.com/2026/09/23/mikula-to-miss-motocross-of-nations-due-to-shoulder-injury",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T13:54:19+00:00",
-      "excerpt": "Julius Mikula will miss this year\u2019s Motocross of Nations in Ern\u00e9e, France. The Czech rider injured his shoulder in a crash during the MXGP of China and underwent a series of further medical examinations after returning to the Czech Republic. Based on the results, it was decided t",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.11,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.37,
-        "press-release": 0.66,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.02,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "ae65484c8b0d25eedf754acc3a458ba46c086cb8",
       "title": "MotoGP: Joan Mir withdraws from Austrian Grand Prix on medical grounds",
       "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/joan-mir-miss-austrian-grand-prix",
@@ -8239,6 +8170,87 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
+      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
+      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T18:50:34+00:00",
+      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.1,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -8708,164 +8720,6 @@
       "also": []
     },
     {
-      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
-      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
-      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T13:42:57+00:00",
-      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.17,
-        "opinion": 0.48,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.78,
-        "press-release": 0.87,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.33,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "84d5f8cfa1edbc3ab30c8747d39d26001152d7a2",
-      "title": "WorldSBK: Tommy Bridewell to continue with Superbike Advocates Ducati in 2027",
-      "link": "https://www.motorcyclenews.com/sport/world-superbikes/2026/september/tommy-bridewell-superbike-advocates-ducati-2027",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T11:33:47+00:00",
-      "excerpt": "Tommy Bridewell will remain in the World Superbike Championship in 2027 after signing a new deal with Superbike Advocates Ducati. The team was originally set to debut in the British Superbike...",
-      "image": "https://www.motorcyclenews.com/wp-images/438190/390x260/tommy-bridewell-worldsbk.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.22,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.11,
-        "press-release": 0.62,
-        "digest": 0.09,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.07,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "a82222a9302f40a4e88e13bcb4b0bdcf2e12ec6f",
       "title": "Fernandez clinches Rookies Cup after final-corner drama in Austria",
       "link": "https://www.mcnews.com.au/2026-austria-red-bull-rookies-cup-results",
@@ -8943,6 +8797,75 @@
         "racing",
         "dirt-mx",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "e6da2d525c4b3e3c9ac7ba8ad384e8334e0ca49f",
+      "title": "Injury sidelines Ross Branch for Rallye du Maroc",
+      "link": "https://mxvice.com/2026/09/23/injury-sidelines-ross-branch-for-rallye-du-maroc",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T18:34:09+00:00",
+      "excerpt": "oss Branch will not compete in the Rallye du Maroc. The Hero MotoSports rider suffered an injury in a training crash. Branch will not be fit in time to compete in Morocco and is now focusing on his recovery and a return in 2027. Missing the event is a major disappointment for Bra",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.47,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.22,
+        "press-release": 0.49,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing"
       ],
       "also": []
     },
@@ -9517,6 +9440,83 @@
       "also": []
     },
     {
+      "id": "cbefed0eb8510f4d2bd3654714cf28af695b6696",
+      "title": "Julius Mikula to Miss the 2026 Motocross of Nations",
+      "link": "https://mxvice.com/2026/09/23/mikula-to-miss-motocross-of-nations-due-to-shoulder-injury",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:54:19+00:00",
+      "excerpt": "Julius Mikula will miss this year\u2019s Motocross of Nations in Ern\u00e9e, France. The Czech rider injured his shoulder in a crash during the MXGP of China and underwent a series of further medical examinations after returning to the Czech Republic. Based on the results, it was decided t",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.37,
+        "press-release": 0.66,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "853942dc2a6ab838f4c17a774daa150f9066eacb",
       "title": "MotoGP Austrian Grand Prix: Acosta tops Practice as KTM chases home win",
       "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-pedro-acosta-tops-practice-as-ktm-chases-home-win/10856888",
@@ -9825,6 +9825,87 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
+      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
+      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:42:57+00:00",
+      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.43,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.17,
+        "opinion": 0.48,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.78,
+        "press-release": 0.87,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.33,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -15241,6 +15322,83 @@
         "sport-bikes",
         "motogp",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "84d5f8cfa1edbc3ab30c8747d39d26001152d7a2",
+      "title": "WorldSBK: Tommy Bridewell to continue with Superbike Advocates Ducati in 2027",
+      "link": "https://www.motorcyclenews.com/sport/world-superbikes/2026/september/tommy-bridewell-superbike-advocates-ducati-2027",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T11:33:47+00:00",
+      "excerpt": "Tommy Bridewell will remain in the World Superbike Championship in 2027 after signing a new deal with Superbike Advocates Ducati. The team was originally set to debut in the British Superbike...",
+      "image": "https://www.motorcyclenews.com/wp-images/438190/390x260/tommy-bridewell-worldsbk.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.22,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.11,
+        "press-release": 0.62,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
