@@ -443,65 +443,146 @@
       "also": []
     },
     {
-      "id": "6168c756775afe75bbb8c03067bca37951182a01",
-      "title": "Flashback Friday: The Top 10 Custom Motorcycles of September 2025",
-      "link": "https://www.bikeexif.com/top-10-custom-motorcycles-september-2025",
+      "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
+      "title": "For Hooligans Only: Max Hazan's KTM 1190 Adventure R supermoto",
+      "link": "https://www.bikeexif.com/ktm-1190-adventure-r-max-hazan-2",
       "lang": "en",
       "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-25T18:00:00+00:00",
-      "excerpt": "If there is one thing September 2025 proved, it is that the custom motorcycle wo...",
-      "image": "https://images.bikeexif.com/2025/09/_1200x675_crop_center-center_82_line/aprilia-rsv4-rough-crafts-1.jpg",
+      "author": "Wesley Reyneke",
+      "published": "2026-09-26T18:00:00+00:00",
+      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+      "image": "https://images.bikeexif.com/2023/10/_1200x675_crop_center-center_82_line/ktm-1190-adventure-r-max-hazan.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.94,
+        "custom": 0.87,
+        "adventure": 0.72
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.55,
+        "comparison-test": 0.05,
+        "first-look": 0.13,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.1,
+        "how-to": 0.09,
+        "explainer": 0.19,
+        "opinion": 0.33,
+        "profile-interview": 0.49,
+        "tribute": 0.07,
+        "listing": 0.13,
+        "event-report": 0.08,
+        "event-preview": 0.04,
+        "press-release": 0.08,
+        "digest": 0.16,
+        "photo-gallery": 0.33,
+        "ride-report": 0.16,
+        "history": 0.17,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.89,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "custom",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
+      "title": "BMW R100 by Bolt Motor Company.",
+      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Martin Hodgson",
+      "published": "2026-09-21T10:46:21+00:00",
+      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "custom",
           "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.86
+        "custom": 0.94,
+        "classic": 0.79
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
+          "slug": "build-feature",
+          "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.11,
-        "review": 0.03,
-        "comparison-test": 0.27,
-        "first-look": 0.1,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.1,
-        "how-to": 0.04,
-        "explainer": 0.13,
-        "opinion": 0.46,
-        "profile-interview": 0.08,
-        "tribute": 0.13,
-        "listing": 0.03,
-        "event-report": 0.13,
-        "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.32,
-        "photo-gallery": 0.36,
+        "news": 0.16,
+        "review": 0.21,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.12,
+        "profile-interview": 0.59,
+        "tribute": 0.04,
+        "listing": 0.09,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
         "ride-report": 0.03,
-        "history": 0.33,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
+        "history": 0.22,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.89,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.72,
+      "multi_subject": 0.05,
       "tags": [
-        "custom"
+        "custom",
+        "classic"
       ],
       "also": []
     },
@@ -577,146 +658,65 @@
       "also": []
     },
     {
-      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
-      "title": "BMW R100 by Bolt Motor Company.",
-      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "id": "6168c756775afe75bbb8c03067bca37951182a01",
+      "title": "Flashback Friday: The Top 10 Custom Motorcycles of September 2025",
+      "link": "https://www.bikeexif.com/top-10-custom-motorcycles-september-2025",
       "lang": "en",
-      "source": "Pipeburn",
+      "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Martin Hodgson",
-      "published": "2026-09-21T10:46:21+00:00",
-      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
+      "author": "Tom Gosselin",
+      "published": "2026-09-25T18:00:00+00:00",
+      "excerpt": "If there is one thing September 2025 proved, it is that the custom motorcycle wo...",
+      "image": "https://images.bikeexif.com/2025/09/_1200x675_crop_center-center_82_line/aprilia-rsv4-rough-crafts-1.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "custom",
           "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94,
-        "classic": 0.79
+        "custom": 0.86
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.16,
-        "review": 0.21,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.12,
-        "profile-interview": 0.59,
-        "tribute": 0.04,
-        "listing": 0.09,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.15,
-        "ride-report": 0.03,
-        "history": 0.22,
-        "rumor": 0.07,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.89,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom",
-        "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "41914649d716f39449e855766d43c381d6394448",
-      "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
-      "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Dean Larson",
-      "published": "2026-09-24T17:00:00+00:00",
-      "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
-      "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.94,
-        "custom": 0.92,
-        "adventure": 0.63
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
+          "slug": "ranked-list",
+          "label": "Ten Best"
         }
       ],
       "form_scores": {
         "news": 0.11,
-        "review": 0.27,
-        "comparison-test": 0.04,
-        "first-look": 0.22,
-        "ranked-list": 0.05,
+        "review": 0.03,
+        "comparison-test": 0.27,
+        "first-look": 0.1,
+        "ranked-list": 0.97,
         "buyers-guide": 0.1,
-        "how-to": 0.06,
-        "explainer": 0.19,
-        "opinion": 0.16,
-        "profile-interview": 0.51,
-        "tribute": 0.12,
-        "listing": 0.11,
-        "event-report": 0.06,
-        "event-preview": 0.04,
-        "press-release": 0.16,
-        "digest": 0.09,
-        "photo-gallery": 0.47,
-        "ride-report": 0.06,
-        "history": 0.66,
-        "rumor": 0.05,
-        "safety-notice": 0.01,
-        "episode": 0.05,
-        "build-feature": 0.89,
+        "how-to": 0.04,
+        "explainer": 0.13,
+        "opinion": 0.46,
+        "profile-interview": 0.08,
+        "tribute": 0.13,
+        "listing": 0.03,
+        "event-report": 0.13,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.32,
+        "photo-gallery": 0.36,
+        "ride-report": 0.03,
+        "history": 0.33,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.72,
       "tags": [
-        "dirt-mx",
-        "custom",
-        "adventure"
+        "custom"
       ],
       "also": []
     },
@@ -787,81 +787,6 @@
         "dirt-mx",
         "custom",
         "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "c46571a1b5291b009d5c04e77107d86f4b413d97",
-      "title": "KAWASAKI 1200 ZRX \u2018Darth Vader\u2019 by Jerem.",
-      "link": "https://pipeburn.com/kawasaki-1200-zrx",
-      "lang": "en",
-      "source": "Pipeburn",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Martin Hodgson",
-      "published": "2026-09-16T08:37:36+00:00",
-      "excerpt": "Darth Vader famously preferred a TIE fighter for aerial duties, but had Kawasaki built the ZRX1200 in a galaxy far, far away, the big green bruiser would have made a pretty convincing option as his ground-based attack vehicle. French builder Jerem Motorcycles has taken Kawasaki\u2019s",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/KAWASAKI-1200-ZRX-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.94,
-        "classic": 0.55,
-        "sport-bikes": 0.52
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.13,
-        "review": 0.26,
-        "comparison-test": 0.03,
-        "first-look": 0.14,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.08,
-        "how-to": 0.05,
-        "explainer": 0.16,
-        "opinion": 0.26,
-        "profile-interview": 0.61,
-        "tribute": 0.04,
-        "listing": 0.13,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.09,
-        "digest": 0.09,
-        "photo-gallery": 0.33,
-        "ride-report": 0.03,
-        "history": 0.09,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.94,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom",
-        "classic",
-        "sport-bikes"
       ],
       "also": []
     },
@@ -953,47 +878,40 @@
       "also": []
     },
     {
-      "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
-      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
-      "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
+      "id": "41914649d716f39449e855766d43c381d6394448",
+      "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
+      "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
       "lang": "en",
       "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Chris Hunter",
-      "published": "2026-09-23T18:00:00+00:00",
-      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
+      "author": "Dean Larson",
+      "published": "2026-09-24T17:00:00+00:00",
+      "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
+      "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "classic",
-          "label": "Classic"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         },
         {
           "slug": "custom",
           "label": "Custom"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "classic",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "classic": 0.87,
-        "custom": 0.85,
-        "dirt-mx": 0.66,
-        "restomods": 0.52
+        "dirt-mx": 0.94,
+        "custom": 0.92,
+        "adventure": 0.63
       },
-      "subcategories": [
-        {
-          "slug": "restomods",
-          "label": "Restomods",
-          "parent": "custom"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "build-feature",
@@ -1001,37 +919,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.13,
-        "review": 0.55,
-        "comparison-test": 0.06,
-        "first-look": 0.17,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.18,
-        "how-to": 0.27,
-        "explainer": 0.47,
-        "opinion": 0.23,
-        "profile-interview": 0.22,
-        "tribute": 0.1,
-        "listing": 0.15,
+        "news": 0.11,
+        "review": 0.27,
+        "comparison-test": 0.04,
+        "first-look": 0.22,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.1,
+        "how-to": 0.06,
+        "explainer": 0.19,
+        "opinion": 0.16,
+        "profile-interview": 0.51,
+        "tribute": 0.12,
+        "listing": 0.11,
         "event-report": 0.06,
-        "event-preview": 0.03,
-        "press-release": 0.08,
-        "digest": 0.16,
-        "photo-gallery": 0.18,
-        "ride-report": 0.18,
-        "history": 0.26,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.07,
-        "build-feature": 0.8,
-        "q-and-a": 0.09
+        "event-preview": 0.04,
+        "press-release": 0.16,
+        "digest": 0.09,
+        "photo-gallery": 0.47,
+        "ride-report": 0.06,
+        "history": 0.66,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.89,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.05,
       "tags": [
-        "classic",
-        "custom",
         "dirt-mx",
-        "restomods"
+        "custom",
+        "adventure"
       ],
       "also": []
     },
@@ -1360,6 +1277,89 @@
       "also": []
     },
     {
+      "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
+      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
+      "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Hunter",
+      "published": "2026-09-23T18:00:00+00:00",
+      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.87,
+        "custom": 0.85,
+        "dirt-mx": 0.66,
+        "restomods": 0.52
+      },
+      "subcategories": [
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.55,
+        "comparison-test": 0.06,
+        "first-look": 0.17,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.18,
+        "how-to": 0.27,
+        "explainer": 0.47,
+        "opinion": 0.23,
+        "profile-interview": 0.22,
+        "tribute": 0.1,
+        "listing": 0.15,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.16,
+        "photo-gallery": 0.18,
+        "ride-report": 0.18,
+        "history": 0.26,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.07,
+        "build-feature": 0.8,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "classic",
+        "custom",
+        "dirt-mx",
+        "restomods"
+      ],
+      "also": []
+    },
+    {
       "id": "36a4f627ee011a09d0e2b0dbee8d3bac53c3428a",
       "title": "Top 20 Most Expensive Caf\u00e9 Racers Ever Sold at Auction",
       "link": "https://www.returnofthecaferacers.com/top-lists/top-20-most-expensive-cafe-racers-ever-sold-at-auction",
@@ -1425,89 +1425,6 @@
       "tags": [
         "classic",
         "custom"
-      ],
-      "also": []
-    },
-    {
-      "id": "50d16c5a47abb557bddacf8429b868d93dece029",
-      "title": "FOR SALE: 1985 BMW K100 Cafe Racer",
-      "link": "https://www.returnofthecaferacers.com/bmw-motorcycles-cafe-racer/for-sale-1985-bmw-k100-cafe-racer",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-16T10:06:47+00:00",
-      "excerpt": "A 1985 BMW K100 has been transformed from an early example of BMW\u2019s unconventional four-cylinder tourer into a stripped-back caf\u00e9 racer, and it is now offered on Bring a Trailer with no reserve. Acquired by the seller as a project in 2025, the motorcycle has since undergone an ex",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1985-BMW-K100-Cafe-Racer-2.webp",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "custom": 0.97,
-        "classic": 0.96,
-        "cafe-racers": 0.83
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.25,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.44,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.06,
-        "profile-interview": 0.04,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.61,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "custom",
-        "classic",
-        "cafe-racers"
       ],
       "also": []
     },
@@ -1939,6 +1856,164 @@
         "custom",
         "adventure",
         "trackers"
+      ],
+      "also": []
+    },
+    {
+      "id": "50d16c5a47abb557bddacf8429b868d93dece029",
+      "title": "FOR SALE: 1985 BMW K100 Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/bmw-motorcycles-cafe-racer/for-sale-1985-bmw-k100-cafe-racer",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-16T10:06:47+00:00",
+      "excerpt": "A 1985 BMW K100 has been transformed from an early example of BMW\u2019s unconventional four-cylinder tourer into a stripped-back caf\u00e9 racer, and it is now offered on Bring a Trailer with no reserve. Acquired by the seller as a project in 2025, the motorcycle has since undergone an ex",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1985-BMW-K100-Cafe-Racer-2.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "custom": 0.97,
+        "classic": 0.96,
+        "cafe-racers": 0.83
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.44,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.61,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
+        "custom",
+        "classic",
+        "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "c46571a1b5291b009d5c04e77107d86f4b413d97",
+      "title": "KAWASAKI 1200 ZRX \u2018Darth Vader\u2019 by Jerem.",
+      "link": "https://pipeburn.com/kawasaki-1200-zrx",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Martin Hodgson",
+      "published": "2026-09-16T08:37:36+00:00",
+      "excerpt": "Darth Vader famously preferred a TIE fighter for aerial duties, but had Kawasaki built the ZRX1200 in a galaxy far, far away, the big green bruiser would have made a pretty convincing option as his ground-based attack vehicle. French builder Jerem Motorcycles has taken Kawasaki\u2019s",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/KAWASAKI-1200-ZRX-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "classic": 0.55,
+        "sport-bikes": 0.52
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.26,
+        "comparison-test": 0.03,
+        "first-look": 0.14,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.08,
+        "how-to": 0.05,
+        "explainer": 0.16,
+        "opinion": 0.26,
+        "profile-interview": 0.61,
+        "tribute": 0.04,
+        "listing": 0.13,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.09,
+        "digest": 0.09,
+        "photo-gallery": 0.33,
+        "ride-report": 0.03,
+        "history": 0.09,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.94,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "classic",
+        "sport-bikes"
       ],
       "also": []
     },

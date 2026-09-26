@@ -603,16 +603,16 @@
       "also": []
     },
     {
-      "id": "ebddcd88dfb9ece667eef670c48655175c777881",
-      "title": "How To Install Tusk Threaded Bar Insert Kit",
-      "link": "https://dirtrider.net/how-to-install-tusk-threaded-bar-insert-kit",
+      "id": "41f05f22378d7f5d625812902b0c6afe3d8d7630",
+      "title": "Weege Show: The EXCLUSIVE Eli Tomac Exit Interview, Plus Beaumer, Minear, Davies",
+      "link": "https://dirtrider.net/weege-show-the-exclusive-eli-tomac-exit-interview-plus-beaumer-minear-davies",
       "lang": "en",
       "source": "DirtRider",
       "ownership": "commercial",
       "media": "article",
-      "author": "Rocky Mountain ATV MC",
-      "published": "2026-09-24T17:45:55+00:00",
-      "excerpt": "Shop Tusk Threaded Bar Inserts: https://rmatvmc.link/tusk-threaded-bar-insert-kit-install Tusk Threaded Bar End Inserts give your handguards a solid mounting point inside aluminum handlebars. If you\u2019re tired of friction-fit inserts spinning, loosening, or causing a sticky throttl",
+      "author": "Racer X",
+      "published": "2026-09-26T06:42:32+00:00",
+      "excerpt": "Jason Weigandt previews the final round of the Monster Energy Supermotocross World Championship with an exclusive Eli Tomac interview, a chat with Julien Beaumer, and then Kayden Minear leads his buddy Cole Davies by four points heading into the finale. They mess with each other,",
       "image": null,
       "audio": null,
       "categories": [
@@ -621,25 +621,28 @@
           "label": "MX & Dirt"
         },
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "gear": 0.8
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
-          "slug": "how-to",
-          "label": "How To"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
           "slug": "episode",
@@ -647,37 +650,45 @@
         }
       ],
       "form_scores": {
-        "news": 0.02,
-        "review": 0.17,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.23,
-        "how-to": 0.97,
-        "explainer": 0.88,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.09,
-        "event-report": 0.01,
-        "event-preview": 0.01,
-        "press-release": 0.18,
-        "digest": 0.05,
-        "photo-gallery": 0.14,
-        "ride-report": 0.01,
-        "history": 0.01,
+        "news": 0.16,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.18,
+        "profile-interview": 0.73,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.13,
+        "event-preview": 0.98,
+        "press-release": 0.14,
+        "digest": 0.44,
+        "photo-gallery": 0.17,
+        "ride-report": 0.02,
+        "history": 0.04,
         "rumor": 0.02,
         "safety-notice": 0.01,
-        "episode": 0.75,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "episode": 0.86,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.69,
       "tags": [
         "dirt-mx",
-        "gear"
+        "racing",
+        "motocross-supercross"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "Weege Show: The Exclusive Eli Tomac Exit Interview, Plus Beaumer, Minear, Davies",
+          "link": "https://racerxonline.com/2026/09/26/weege-show-the-exclusive-eli-tomac-exit-interview-plus-beaumer-minear-davies",
+          "published": "2026-09-26T12:35:00+00:00"
+        }
+      ]
     },
     {
       "id": "5067764b5aba35d3fc11bb4e23870292fb9f8df2",
@@ -840,6 +851,83 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "ebddcd88dfb9ece667eef670c48655175c777881",
+      "title": "How To Install Tusk Threaded Bar Insert Kit",
+      "link": "https://dirtrider.net/how-to-install-tusk-threaded-bar-insert-kit",
+      "lang": "en",
+      "source": "DirtRider",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Rocky Mountain ATV MC",
+      "published": "2026-09-24T17:45:55+00:00",
+      "excerpt": "Shop Tusk Threaded Bar Inserts: https://rmatvmc.link/tusk-threaded-bar-insert-kit-install Tusk Threaded Bar End Inserts give your handguards a solid mounting point inside aluminum handlebars. If you\u2019re tired of friction-fit inserts spinning, loosening, or causing a sticky throttl",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "gear": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "how-to",
+          "label": "How To"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.17,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.23,
+        "how-to": 0.97,
+        "explainer": 0.88,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.09,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.18,
+        "digest": 0.05,
+        "photo-gallery": 0.14,
+        "ride-report": 0.01,
+        "history": 0.01,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.75,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "gear"
       ],
       "also": []
     },
