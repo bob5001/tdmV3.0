@@ -11,12 +11,12 @@
     {
       "slug": "worldsbk-superbike",
       "label": "WorldSBK & Superbike",
-      "count": 58
+      "count": 59
     },
     {
       "slug": "motocross-supercross",
       "label": "Motocross & Supercross",
-      "count": 64
+      "count": 65
     }
   ],
   "items": [
@@ -486,83 +486,6 @@
       ]
     },
     {
-      "id": "e24a1bce1d7c799a415287b1f4e6b88582ffa2f5",
-      "title": "Owens stays with Catmoto and moves up to MX2",
-      "link": "https://mxvice.com/2026/09/25/owens-stays-with-catmoto-and-moves-up-to-mx2",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T15:45:55+00:00",
-      "excerpt": "Liam Owens has extended his agreement with the Catmoto MX team. Owens will also make the move up to the MX2 class! The post Owens stays with Catmoto and moves up to MX2 appeared first on MX Vice .",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.12,
-        "press-release": 0.68,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
       "title": "2027 MotoGP\u2122 Calendar Revealed",
       "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
@@ -746,6 +669,87 @@
         "q-and-a": 0.05
       },
       "multi_subject": 0.86,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "a76550108a8f56fae88ac025b55754f55d2adc59",
+      "title": "Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship",
+      "link": "https://mxvice.com/2026/09/26/cole-davies-story-on-tvnz-sports-news-winning-pro-250mx-championship",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T11:10:55+00:00",
+      "excerpt": "Cole Davies story on TVNZ Sports News after winning Pro 250MX Championship at Ironman Raceway, Indiana on August 30, 2026. Film footage: Feld Motor Sports/NBC Sports. Photocredits \u2013 Align Media The post Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship appear",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.07,
+        "profile-interview": 0.55,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.94,
+        "event-preview": 0.03,
+        "press-release": 0.17,
+        "digest": 0.08,
+        "photo-gallery": 0.42,
+        "ride-report": 0.04,
+        "history": 0.18,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.21,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1076,17 +1080,17 @@
       "also": []
     },
     {
-      "id": "b932da3baf3795760a051e00fefde6d6c9be71b8",
-      "title": "Cremona WorldSBK LIVE: Updates from Superpole in Italy",
-      "link": "https://www.crash.net/wsbk/live/1044287/cremona-worldsbk-live-updates-superpole-italy",
+      "id": "86792c6a27a70c5ddeec001fe5fe92462ec878a7",
+      "title": "Iker Lecuona explains Italian WorldSBK qualifying scare that almost cost him pole",
+      "link": "https://www.crash.net/wsbk/news/1105549/1/iker-lecuona-explains-italian-worldsbk-qualifying-scare-almost-cost-him-pole",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:30:00+00:00",
-      "excerpt": "Live updates from the Superpole session at the 2026 Cremona WorldSBK, the 10th round of 2026.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347611_hires.jpg?width=1200",
+      "published": "2026-09-26T10:36:24+00:00",
+      "excerpt": "Iker Lecuona says he \u201cdid everything the opposite\u201d of what he was told by his crew chief in Italian WorldSBK Superpole.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347662_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1101,7 +1105,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
+        "racing": 0.98,
         "sport-bikes": 0.95,
         "worldsbk-superbike": 0.98
       },
@@ -1112,59 +1116,49 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
       "form_scores": {
-        "news": 0.71,
+        "news": 0.66,
         "review": 0.02,
-        "comparison-test": 0.07,
-        "first-look": 0.06,
-        "ranked-list": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.11,
+        "profile-interview": 0.89,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.42,
-        "event-preview": 0.1,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.11,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "event-report": 0.87,
+        "event-preview": 0.04,
+        "press-release": 0.05,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.09,
+        "history": 0.11,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
       ],
-      "also": [
-        {
-          "source": "GPone",
-          "title": "LIVE Superpole Cremona: minute-by-minute updates",
-          "link": "https://www.gpone.com/en/2026/09/26/wsbk/live-superpole-cremona-minute-by-minute-updates.html",
-          "published": "2026-09-26T08:20:40+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "2026 Cremona WorldSBK, Superpole Results: Lecuona breaks Bulega's streak",
-          "link": "https://www.crash.net/wsbk/results/1105532/1/2026-cremona-worldsbk-superpole-results-lecuona-breaks-bulegas-streak",
-          "published": "2026-09-26T09:35:51+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "2026 Cremona WorldSBK, Superpole Results: Lecuona breaks Bulega's streak",
-          "link": "https://www.crash.net/node/1105531",
-          "published": "2026-09-26T09:35:51+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "869a45c3a1915d21e24d7cdb914ab2224fb00f8d",
@@ -1713,87 +1707,6 @@
       "also": []
     },
     {
-      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
-      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
-      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:41:40+00:00",
-      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.15,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.11,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.96,
-        "event-preview": 0.05,
-        "press-release": 0.24,
-        "digest": 0.51,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.65,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
       "title": "MotoGP: Grand Prix Commission Updates Regulations for 2027",
       "link": "https://www.roadracingworld.com/news/motogp-grand-prix-commission-updates-regulations-for-2027",
@@ -1943,6 +1856,83 @@
         "q-and-a": 0.15
       },
       "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "e24a1bce1d7c799a415287b1f4e6b88582ffa2f5",
+      "title": "Owens stays with Catmoto and moves up to MX2",
+      "link": "https://mxvice.com/2026/09/25/owens-stays-with-catmoto-and-moves-up-to-mx2",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T15:45:55+00:00",
+      "excerpt": "Liam Owens has extended his agreement with the Catmoto MX team. Owens will also make the move up to the MX2 class! The post Owens stays with Catmoto and moves up to MX2 appeared first on MX Vice .",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.12,
+        "press-release": 0.68,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -2166,17 +2156,17 @@
       "also": []
     },
     {
-      "id": "b9b10cde76e52365450539b3e46c150096fcc597",
-      "title": "Toprak Razgatlioglu reveals when he thought to \u201cstop racing\u201d",
-      "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
+      "id": "b932da3baf3795760a051e00fefde6d6c9be71b8",
+      "title": "Cremona WorldSBK LIVE: Updates from Superpole in Italy",
+      "link": "https://www.crash.net/wsbk/live/1044287/cremona-worldsbk-live-updates-superpole-italy",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:00:00+00:00",
-      "excerpt": "Toprak Razgatlioglu says his difficult MotoGP rookie season reminds him of 2018, when he even considered stopping racing.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-26T08:30:00+00:00",
+      "excerpt": "Live updates from the Superpole session at the 2026 Cremona WorldSBK, the 10th round of 2026.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347611_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -2192,62 +2182,69 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "sport-bikes": 0.84,
-        "motogp": 0.96,
-        "worldsbk-superbike": 0.51
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
         {
           "slug": "worldsbk-superbike",
           "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.64,
+        "news": 0.71,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
+        "comparison-test": 0.07,
+        "first-look": 0.06,
+        "ranked-list": 0.06,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.1,
-        "profile-interview": 0.93,
-        "tribute": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.03,
-        "press-release": 0.05,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.04,
-        "history": 0.15,
-        "rumor": 0.01,
+        "event-report": 0.42,
+        "event-preview": 0.1,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.11,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp",
         "worldsbk-superbike"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "GPone",
+          "title": "LIVE Superpole Cremona: minute-by-minute updates",
+          "link": "https://www.gpone.com/en/2026/09/26/wsbk/live-superpole-cremona-minute-by-minute-updates.html",
+          "published": "2026-09-26T08:20:40+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "2026 Cremona WorldSBK, Superpole Results: Lecuona breaks Bulega's streak",
+          "link": "https://www.crash.net/wsbk/results/1105532/1/2026-cremona-worldsbk-superpole-results-lecuona-breaks-bulegas-streak",
+          "published": "2026-09-26T09:35:51+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "2026 Cremona WorldSBK, Superpole Results: Lecuona breaks Bulega's streak",
+          "link": "https://www.crash.net/node/1105531",
+          "published": "2026-09-26T09:35:51+00:00"
+        }
+      ]
     },
     {
       "id": "2b8a0b24187cf7fd839dcf5385fde01fc40e6466",
@@ -2664,91 +2661,6 @@
       "also": []
     },
     {
-      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
-      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
-      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:05:34+00:00",
-      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.21,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.98,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "67ebcc02c7ef783b1a808cd8bd0bcf033ac63636",
       "title": "Harley-Davidson \u201cReset\u201d Eyes Backing Grass Roots Bagger Racing",
       "link": "https://www.roadracingworld.com/news/harley-davidson-reset-eyes-backing-grass-roots-bagger-racing",
@@ -2906,30 +2818,42 @@
       "also": []
     },
     {
-      "id": "09f10aefc3d25dcf571dd6345b259ae2f8fc0bb2",
-      "title": "Payne and Rousseau sweep Assen as Turners rebound for ninth",
-      "link": "https://www.mcnews.com.au/2026-assen-sidecar-world-championship-results",
+      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
+      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
+      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-23T01:09:50+00:00",
-      "excerpt": "Two wins at Assen put Payne and Rousseau within reach of the 2026 FIM Sidecar world title. Corey and Danyon Turner recovered from 19th in the Sprint to ninth in the Main race. Report and full results. The post Payne and Rousseau sweep Assen as Turners rebound for ninth appeared f",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-Sidecar-World-Championship-Assen-R2-Start.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:41:40+00:00",
+      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "event-report",
@@ -2941,34 +2865,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.06,
+        "news": 0.85,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.15,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.11,
+        "profile-interview": 0.1,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.06,
-        "press-release": 0.11,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
+        "event-report": 0.96,
+        "event-preview": 0.05,
+        "press-release": 0.24,
+        "digest": 0.51,
+        "photo-gallery": 0.03,
         "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.65,
       "tags": [
-        "racing"
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -3050,6 +2976,73 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "09f10aefc3d25dcf571dd6345b259ae2f8fc0bb2",
+      "title": "Payne and Rousseau sweep Assen as Turners rebound for ninth",
+      "link": "https://www.mcnews.com.au/2026-assen-sidecar-world-championship-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-23T01:09:50+00:00",
+      "excerpt": "Two wins at Assen put Payne and Rousseau within reach of the 2026 FIM Sidecar world title. Corey and Danyon Turner recovered from 19th in the Sprint to ninth in the Main race. Report and full results. The post Payne and Rousseau sweep Assen as Turners rebound for ninth appeared f",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-Sidecar-World-Championship-Assen-R2-Start.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.06,
+        "press-release": 0.11,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "racing"
       ],
       "also": []
     },
@@ -3287,17 +3280,17 @@
       "also": []
     },
     {
-      "id": "e9e050518ec4e9e4260c5c20f625d449898c4555",
-      "title": "2026 Cremona WorldSBK, FP3 Results: Bulega only 10th as Surra hits the top",
-      "link": "https://www.crash.net/wsbk/news/1105507/1/2026-cremona-worldsbk-fp3-results-bulega-only-10th-surra-hits-top",
+      "id": "b9b10cde76e52365450539b3e46c150096fcc597",
+      "title": "Toprak Razgatlioglu reveals when he thought to \u201cstop racing\u201d",
+      "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T07:35:59+00:00",
-      "excerpt": "Full results from the FP3 session at the 2026 Cremona WorldSBK in Italy.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347607_hires.jpg?width=1200",
+      "published": "2026-09-26T08:00:00+00:00",
+      "excerpt": "Toprak Razgatlioglu says his difficult MotoGP rookie season reminds him of 2018, when he even considered stopping racing.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3312,11 +3305,17 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.99
+        "racing": 0.97,
+        "sport-bikes": 0.84,
+        "motogp": 0.96,
+        "worldsbk-superbike": 0.51
       },
       "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
         {
           "slug": "worldsbk-superbike",
           "label": "WorldSBK & Superbike",
@@ -3325,44 +3324,41 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.64,
         "review": 0.02,
-        "comparison-test": 0.13,
-        "first-look": 0.05,
-        "ranked-list": 0.73,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.1,
+        "profile-interview": 0.93,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.12,
-        "press-release": 0.07,
+        "event-report": 0.09,
+        "event-preview": 0.03,
+        "press-release": 0.05,
         "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.07,
-        "rumor": 0.02,
+        "photo-gallery": 0.06,
+        "ride-report": 0.04,
+        "history": 0.15,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
+        "motogp",
         "worldsbk-superbike"
       ],
       "also": []
@@ -3930,87 +3926,6 @@
       "also": []
     },
     {
-      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
-      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
-      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-24T19:19:16+00:00",
-      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.08,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.06,
-        "event-report": 0.03,
-        "event-preview": 0.98,
-        "press-release": 0.68,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "d136e2b3d8779fc941194fc5dd5eb3caa8a5c9d1",
       "title": "MotoGP: Mir Withdraws From Japanese and Indonesian GP",
       "link": "https://www.roadracingworld.com/news/motogp-mir-withdraws-from-japanese-and-indonesian-gp",
@@ -4210,6 +4125,91 @@
         "events-rides",
         "adventure",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
+      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
+      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:05:34+00:00",
+      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.21,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.98,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -4550,9 +4550,9 @@
       "also": []
     },
     {
-      "id": "85673ebc1403cb06bd3e0b5bcdc656f4794507fa",
+      "id": "e9e050518ec4e9e4260c5c20f625d449898c4555",
       "title": "2026 Cremona WorldSBK, FP3 Results: Bulega only 10th as Surra hits the top",
-      "link": "https://www.crash.net/wsbk/results/1105507/1/2026-cremona-worldsbk-fp3-results-bulega-only-10th-surra-hits-top",
+      "link": "https://www.crash.net/wsbk/news/1105507/1/2026-cremona-worldsbk-fp3-results-bulega-only-10th-surra-hits-top",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
@@ -4577,7 +4577,7 @@
       "cat_scores": {
         "racing": 0.98,
         "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.98
+        "worldsbk-superbike": 0.99
       },
       "subcategories": [
         {
@@ -4597,29 +4597,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.15,
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.13,
         "first-look": 0.05,
         "ranked-list": 0.73,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.06,
         "opinion": 0.04,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.11,
-        "press-release": 0.08,
+        "event-report": 0.93,
+        "event-preview": 0.12,
+        "press-release": 0.07,
         "digest": 0.06,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.06,
+        "history": 0.07,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
       "multi_subject": 0.06,
@@ -4871,87 +4871,6 @@
       "also": []
     },
     {
-      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
-      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
-      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-24T18:50:34+00:00",
-      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.1,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
       "title": "MotoGP: Pirelli Advances 2027 Tire Development",
       "link": "https://www.roadracingworld.com/news/motogp-pirelli-advances-2027-tyre-development",
@@ -5114,17 +5033,17 @@
       "also": []
     },
     {
-      "id": "0bdb9c16420fc68f777bab180adb362404640c98",
-      "title": "Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Rally \u2013 Trials + more\u2026",
-      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-22-2026",
+      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
+      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
+      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Motorcycle News",
-      "published": "2026-09-22T02:24:07+00:00",
-      "excerpt": "Webb and Deegan clash, Triumph makes motocross history and Herlings extends his winning streak. Catch up on the Aussie results, Reed\u2019s Holeshot Challenge, Wilson and Bolt injury updates, rally news and TrialGP title deciders. The post Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Ral",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Moto-News-Weekly-Wrap-2026-09-22-1920x1080-1.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T19:19:16+00:00",
+      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
@@ -5139,8 +5058,8 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.98,
-        "racing": 0.95,
+        "dirt-mx": 1.0,
+        "racing": 0.96,
         "motocross-supercross": 0.95
       },
       "subcategories": [
@@ -5152,41 +5071,41 @@
       ],
       "forms": [
         {
-          "slug": "digest",
-          "label": "Digest"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.47,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.1,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.22,
-        "press-release": 0.11,
-        "digest": 0.95,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.08,
+        "news": 0.87,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.08,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.68,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.03,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.16,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.96,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -5351,6 +5270,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "0bdb9c16420fc68f777bab180adb362404640c98",
+      "title": "Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Rally \u2013 Trials + more\u2026",
+      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-22-2026",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Motorcycle News",
+      "published": "2026-09-22T02:24:07+00:00",
+      "excerpt": "Webb and Deegan clash, Triumph makes motocross history and Herlings extends his winning streak. Catch up on the Aussie results, Reed\u2019s Holeshot Challenge, Wilson and Bolt injury updates, rally news and TrialGP title deciders. The post Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Ral",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Moto-News-Weekly-Wrap-2026-09-22-1920x1080-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.98,
+        "racing": 0.95,
+        "motocross-supercross": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.47,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.1,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.22,
+        "press-release": 0.11,
+        "digest": 0.95,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.16,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.96,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -5679,17 +5679,17 @@
       "also": []
     },
     {
-      "id": "db2126be7974d4d5ac4a97952fb261993417df4a",
-      "title": "Nicolo Bulega left \u201cangry\u201d by dual Italian WorldSBK practice crashes",
-      "link": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
+      "id": "85673ebc1403cb06bd3e0b5bcdc656f4794507fa",
+      "title": "2026 Cremona WorldSBK, FP3 Results: Bulega only 10th as Surra hits the top",
+      "link": "https://www.crash.net/wsbk/results/1105507/1/2026-cremona-worldsbk-fp3-results-bulega-only-10th-surra-hits-top",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T17:56:58+00:00",
-      "excerpt": "Nicolo Bulega says he\u2019s \u201cangry\u201d after crashing twice in practice at the Italian WorldSBK.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
+      "published": "2026-09-26T07:35:59+00:00",
+      "excerpt": "Full results from the FP3 session at the 2026 Cremona WorldSBK in Italy.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347607_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5699,18 +5699,13 @@
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.95,
-        "law-safety": 0.63,
+        "racing": 0.98,
+        "sport-bikes": 0.96,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -5722,41 +5717,44 @@
       ],
       "forms": [
         {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.15,
+        "first-look": 0.05,
+        "ranked-list": 0.73,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.09,
-        "profile-interview": 0.39,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.57,
-        "event-preview": 0.1,
-        "press-release": 0.06,
-        "digest": 0.08,
+        "event-report": 0.94,
+        "event-preview": 0.11,
+        "press-release": 0.08,
+        "digest": 0.06,
         "photo-gallery": 0.09,
-        "ride-report": 0.03,
+        "ride-report": 0.02,
         "history": 0.06,
-        "rumor": 0.01,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
         "sport-bikes",
-        "law-safety",
         "worldsbk-superbike"
       ],
       "also": []
@@ -6020,75 +6018,6 @@
       "also": []
     },
     {
-      "id": "e6da2d525c4b3e3c9ac7ba8ad384e8334e0ca49f",
-      "title": "Injury sidelines Ross Branch for Rallye du Maroc",
-      "link": "https://mxvice.com/2026/09/23/injury-sidelines-ross-branch-for-rallye-du-maroc",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T18:34:09+00:00",
-      "excerpt": "oss Branch will not compete in the Rallye du Maroc. The Hero MotoSports rider suffered an injury in a training crash. Branch will not be fit in time to compete in Morocco and is now focusing on his recovery and a return in 2027. Missing the event is a major disappointment for Bra",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.89
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.47,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.22,
-        "press-release": 0.49,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "2c1260532fdf30c0c5ceb7ce907026c95c12774b",
       "title": "MotoGP Confirms Valencia GP as 2027 Season Finale",
       "link": "https://www.roadracingworld.com/news/motogp-confirms-valencia-gp-as-2027-season-finale",
@@ -6168,75 +6097,83 @@
       "also": []
     },
     {
-      "id": "633ad4e86ce67916a2a2ffe2e8a59e1717086744",
-      "title": "BMW wins Bol d\u2019Or to seal first EWC title by four points",
-      "link": "https://www.mcnews.com.au/2026-bol-dor-results-bmw-ewc-title",
+      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
+      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
+      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-21T01:17:12+00:00",
-      "excerpt": "A maximum 65-point Bol d\u2019Or weekend carried BMW to its first EWC title as YART fell agonisingly short. Full race report, hour-by-hour analysis, results and final championship standings from Paul Ricard. The post BMW wins Bol d\u2019Or to seal first EWC title by four points appeared fi",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-EWC-BolDor-BMW-Winners.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T18:50:34+00:00",
+      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "sport-bikes": 0.9
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.02,
-        "comparison-test": 0.07,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.05,
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.15,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.07,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.16,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "event-report": 0.03,
+        "event-preview": 0.1,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
+        "dirt-mx",
         "racing",
-        "sport-bikes"
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -6314,6 +6251,79 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "633ad4e86ce67916a2a2ffe2e8a59e1717086744",
+      "title": "BMW wins Bol d\u2019Or to seal first EWC title by four points",
+      "link": "https://www.mcnews.com.au/2026-bol-dor-results-bmw-ewc-title",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-21T01:17:12+00:00",
+      "excerpt": "A maximum 65-point Bol d\u2019Or weekend carried BMW to its first EWC title as YART fell agonisingly short. Full race report, hour-by-hour analysis, results and final championship standings from Paul Ricard. The post BMW wins Bol d\u2019Or to seal first EWC title by four points appeared fi",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-EWC-BolDor-BMW-Winners.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "sport-bikes": 0.9
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.02,
+        "comparison-test": 0.07,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.16,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -6547,17 +6557,17 @@
       "also": []
     },
     {
-      "id": "f26643031b5bf40db1fac29c328ccec25aad554d",
-      "title": "Iker Lecuona avoids Italian WorldSBK \u2018favourite\u2019 tag: \u201cNicolo Bulega is there\u201d",
-      "link": "https://www.crash.net/wsbk/news/1105503/1/iker-lecuona-avoids-italian-worldsbk-favourite-tag-nicolo-bulega-there",
+      "id": "db2126be7974d4d5ac4a97952fb261993417df4a",
+      "title": "Nicolo Bulega left \u201cangry\u201d by dual Italian WorldSBK practice crashes",
+      "link": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T17:49:51+00:00",
-      "excerpt": "Iker Lecuona denies he\u2019s the favourite for Italian WorldSBK victories despite topping both practices on Friday.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347505_hires.jpg?width=1200",
+      "published": "2026-09-25T17:56:58+00:00",
+      "excerpt": "Nicolo Bulega says he\u2019s \u201cangry\u201d after crashing twice in practice at the Italian WorldSBK.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -6567,13 +6577,18 @@
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.96,
+        "racing": 0.97,
+        "sport-bikes": 0.95,
+        "law-safety": 0.63,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -6590,35 +6605,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.9,
         "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.05,
-        "ranked-list": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.11,
-        "profile-interview": 0.72,
+        "explainer": 0.05,
+        "opinion": 0.09,
+        "profile-interview": 0.39,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.24,
-        "event-preview": 0.73,
+        "event-report": 0.57,
+        "event-preview": 0.1,
         "press-release": 0.06,
-        "digest": 0.04,
-        "photo-gallery": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.03,
-        "history": 0.04,
+        "history": 0.06,
         "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
+        "law-safety",
         "worldsbk-superbike"
       ],
       "also": []
@@ -6794,83 +6810,6 @@
           "published": "2026-09-21T13:22:28+00:00"
         }
       ]
-    },
-    {
-      "id": "cbefed0eb8510f4d2bd3654714cf28af695b6696",
-      "title": "Julius Mikula to Miss the 2026 Motocross of Nations",
-      "link": "https://mxvice.com/2026/09/23/mikula-to-miss-motocross-of-nations-due-to-shoulder-injury",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T13:54:19+00:00",
-      "excerpt": "Julius Mikula will miss this year\u2019s Motocross of Nations in Ern\u00e9e, France. The Czech rider injured his shoulder in a crash during the MXGP of China and underwent a series of further medical examinations after returning to the Czech Republic. Based on the results, it was decided t",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.11,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.37,
-        "press-release": 0.66,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.02,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
     },
     {
       "id": "793f72a69b59f81bb8033ff262c568eb7fb63dab",
@@ -7110,6 +7049,156 @@
       "also": []
     },
     {
+      "id": "e6da2d525c4b3e3c9ac7ba8ad384e8334e0ca49f",
+      "title": "Injury sidelines Ross Branch for Rallye du Maroc",
+      "link": "https://mxvice.com/2026/09/23/injury-sidelines-ross-branch-for-rallye-du-maroc",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T18:34:09+00:00",
+      "excerpt": "oss Branch will not compete in the Rallye du Maroc. The Hero MotoSports rider suffered an injury in a training crash. Branch will not be fit in time to compete in Morocco and is now focusing on his recovery and a return in 2027. Missing the event is a major disappointment for Bra",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.47,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.22,
+        "press-release": 0.49,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "f4f10cbfc3cb0ff760f2919594e8ba93c4592173",
+      "title": "BSB: Andrew Irwin to return from serious arm injury at Assen",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/andrew-irwin-return-assen",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T12:35:33+00:00",
+      "excerpt": "Andrew Irwin will make his British Superbike Championship return at Assen after missing the majority of the season through injury. For the second time in his career, Irwin sustained a fractured...",
+      "image": "https://www.motorcyclenews.com/wp-images/438239/390x260/andrew-irwin.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.93,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.92,
+        "press-release": 0.19,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "9013a6bc096cef732922debd22476095f49aae1c",
       "title": "MotoGP recruits F1 and Tottenham executives in management reshuffle",
       "link": "https://www.mcnews.com.au/motogp-recruits-f1-and-tottenham-executives-in-management-reshuffle",
@@ -7260,87 +7349,6 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.11,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "f4f10cbfc3cb0ff760f2919594e8ba93c4592173",
-      "title": "BSB: Andrew Irwin to return from serious arm injury at Assen",
-      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/andrew-irwin-return-assen",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T12:35:33+00:00",
-      "excerpt": "Andrew Irwin will make his British Superbike Championship return at Assen after missing the majority of the season through injury. For the second time in his career, Irwin sustained a fractured...",
-      "image": "https://www.motorcyclenews.com/wp-images/438239/390x260/andrew-irwin.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.93,
-        "worldsbk-superbike": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.17,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.92,
-        "press-release": 0.19,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -7586,17 +7594,17 @@
       "also": []
     },
     {
-      "id": "4bceb0629eb43245d83810413d52c3ee553dc51d",
-      "title": "BMW WorldSBK boss teases Danilo Petrucci\u2019s \u201coverseas\u201d future",
-      "link": "https://www.crash.net/wsbk/news/1105498/1/bmw-worldsbk-boss-teases-danilo-petruccis-overseas-future",
+      "id": "f26643031b5bf40db1fac29c328ccec25aad554d",
+      "title": "Iker Lecuona avoids Italian WorldSBK \u2018favourite\u2019 tag: \u201cNicolo Bulega is there\u201d",
+      "link": "https://www.crash.net/wsbk/news/1105503/1/iker-lecuona-avoids-italian-worldsbk-favourite-tag-nicolo-bulega-there",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T16:37:32+00:00",
-      "excerpt": "Danilo Petrucci could be headed to a non-European national championship after the conclusion of his WorldSBK career.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1335084_hires.jpg?width=1200",
+      "published": "2026-09-25T17:49:51+00:00",
+      "excerpt": "Iker Lecuona denies he\u2019s the favourite for Italian WorldSBK victories despite topping both practices on Friday.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347505_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -7611,9 +7619,9 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.97
+        "racing": 0.98,
+        "sport-bikes": 0.96,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
@@ -7622,34 +7630,39 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.31,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "news": 0.84,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.05,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.16,
-        "profile-interview": 0.28,
-        "tribute": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.11,
+        "profile-interview": 0.72,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.05,
-        "press-release": 0.17,
-        "digest": 0.07,
+        "event-report": 0.24,
+        "event-preview": 0.73,
+        "press-release": 0.06,
+        "digest": 0.04,
         "photo-gallery": 0.06,
-        "ride-report": 0.01,
+        "ride-report": 0.03,
         "history": 0.04,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
@@ -7800,87 +7813,6 @@
       "multi_subject": 0.06,
       "tags": [
         "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
-      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
-      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T13:42:57+00:00",
-      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.17,
-        "opinion": 0.48,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.78,
-        "press-release": 0.87,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.33,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
       ],
       "also": []
     },
@@ -8078,77 +8010,79 @@
       ]
     },
     {
-      "id": "68d39351ee514f5d87c5b40e16df334aacacf5a8",
-      "title": "Guevara fights back as Quiles moves within reach of Moto3 crown",
-      "link": "https://www.mcnews.com.au/2026-austria-moto2-moto3-race-results",
+      "id": "cbefed0eb8510f4d2bd3654714cf28af695b6696",
+      "title": "Julius Mikula to Miss the 2026 Motocross of Nations",
+      "link": "https://mxvice.com/2026/09/23/mikula-to-miss-motocross-of-nations-due-to-shoulder-injury",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-20T23:00:49+00:00",
-      "excerpt": "Guevara revived his Moto2 title challenge and Quiles moved closer to the Moto3 crown on a dramatic Austrian Sunday. Race reports, full results and standings, plus Agius\u2019s electronics setback and Kelso\u2019s close midfield fight. The post Guevara fights back as Quiles moves within rea",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-MotoGP-Rnd15-RedBullRing-Sunday-Moto2-Start.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:54:19+00:00",
+      "excerpt": "Julius Mikula will miss this year\u2019s Motocross of Nations in Ern\u00e9e, France. The Czech rider injured his shoulder in a crash during the MXGP of China and underwent a series of further medical examinations after returning to the Czech Republic. Based on the results, it was decided t",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
           "parent": "racing"
         }
       ],
       "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.08,
-        "profile-interview": 0.05,
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.11,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.96,
-        "event-preview": 0.04,
-        "press-release": 0.07,
-        "digest": 0.53,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.06,
+        "event-report": 0.11,
+        "event-preview": 0.37,
+        "press-release": 0.66,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.62,
+      "multi_subject": 0.02,
       "tags": [
+        "dirt-mx",
         "racing",
-        "motogp"
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -8229,6 +8163,81 @@
       "tags": [
         "racing",
         "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "68d39351ee514f5d87c5b40e16df334aacacf5a8",
+      "title": "Guevara fights back as Quiles moves within reach of Moto3 crown",
+      "link": "https://www.mcnews.com.au/2026-austria-moto2-moto3-race-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-20T23:00:49+00:00",
+      "excerpt": "Guevara revived his Moto2 title challenge and Quiles moved closer to the Moto3 crown on a dramatic Austrian Sunday. Race reports, full results and standings, plus Agius\u2019s electronics setback and Kelso\u2019s close midfield fight. The post Guevara fights back as Quiles moves within rea",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-MotoGP-Rnd15-RedBullRing-Sunday-Moto2-Start.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.08,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.96,
+        "event-preview": 0.04,
+        "press-release": 0.07,
+        "digest": 0.53,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.62,
+      "tags": [
+        "racing",
         "motogp"
       ],
       "also": []
@@ -8462,17 +8471,17 @@
       "also": []
     },
     {
-      "id": "3991c6fc2eaec812f4b7af4491027cdc89df0ad5",
-      "title": "Yamaha WorldSBK boss responds to Jack Miller ASBK off-season rumours",
-      "link": "https://www.crash.net/wsbk/news/1105496/1/yamaha-worldsbk-boss-responds-jack-miller-asbk-season-rumours",
+      "id": "4bceb0629eb43245d83810413d52c3ee553dc51d",
+      "title": "BMW WorldSBK boss teases Danilo Petrucci\u2019s \u201coverseas\u201d future",
+      "link": "https://www.crash.net/wsbk/news/1105498/1/bmw-worldsbk-boss-teases-danilo-petruccis-overseas-future",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T16:13:09+00:00",
-      "excerpt": "Niccolo Canepa says Yamaha would be open to Jack Miller racing the Australian Superbike Championship this winter.",
-      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1332896_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T16:37:32+00:00",
+      "excerpt": "Danilo Petrucci could be headed to a non-European national championship after the conclusion of his WorldSBK career.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1335084_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -8498,39 +8507,34 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.79,
+        "news": 0.31,
         "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.09,
-        "profile-interview": 0.52,
-        "tribute": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.16,
+        "profile-interview": 0.28,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.12,
-        "press-release": 0.33,
+        "event-report": 0.05,
+        "event-preview": 0.05,
+        "press-release": 0.17,
         "digest": 0.07,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.11,
+        "rumor": 0.09,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "sport-bikes",
@@ -8704,34 +8708,34 @@
       "also": []
     },
     {
-      "id": "a82222a9302f40a4e88e13bcb4b0bdcf2e12ec6f",
-      "title": "Fernandez clinches Rookies Cup after final-corner drama in Austria",
-      "link": "https://www.mcnews.com.au/2026-austria-red-bull-rookies-cup-results",
+      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
+      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
+      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-20T22:11:00+00:00",
-      "excerpt": "Be\u00f1at Fernandez held off Fernando Bujosa to win the 2026 Red Bull Rookies Cup by five points. The Austrian finale featured a maiden victory lost to track limits, a farewell win for David Gonz\u00e1lez and a tough finish for Archie Schmidt. The post Fernandez clinches Rookies Cup after",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-Red-Bull-Rookies-Cup-Rnd7-Red-Bull-Ring-Benat-Fernandez-Champion-7.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:42:57+00:00",
+      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.95,
-        "dirt-mx": 0.8,
-        "motocross-supercross": 0.7
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -8742,44 +8746,44 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "press-release",
+          "label": "Announcement"
         },
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
+        "news": 0.43,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.05,
+        "explainer": 0.17,
+        "opinion": 0.48,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
         "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.05,
-        "press-release": 0.15,
-        "digest": 0.11,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.08,
+        "event-report": 0.09,
+        "event-preview": 0.78,
+        "press-release": 0.87,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.33,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.16,
+      "multi_subject": 0.03,
       "tags": [
-        "racing",
         "dirt-mx",
+        "racing",
         "motocross-supercross"
       ],
       "also": []
@@ -8858,6 +8862,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "a82222a9302f40a4e88e13bcb4b0bdcf2e12ec6f",
+      "title": "Fernandez clinches Rookies Cup after final-corner drama in Austria",
+      "link": "https://www.mcnews.com.au/2026-austria-red-bull-rookies-cup-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-20T22:11:00+00:00",
+      "excerpt": "Be\u00f1at Fernandez held off Fernando Bujosa to win the 2026 Red Bull Rookies Cup by five points. The Austrian finale featured a maiden victory lost to track limits, a farewell win for David Gonz\u00e1lez and a tough finish for Archie Schmidt. The post Fernandez clinches Rookies Cup after",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-Red-Bull-Rookies-Cup-Rnd7-Red-Bull-Ring-Benat-Fernandez-Champion-7.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "dirt-mx": 0.8,
+        "motocross-supercross": 0.7
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.05,
+        "press-release": 0.15,
+        "digest": 0.11,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.16,
+      "tags": [
+        "racing",
+        "dirt-mx",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -9099,17 +9184,17 @@
       "also": []
     },
     {
-      "id": "b0cc9614391be9b04a3bd6e07d5a9e05f0844b91",
-      "title": "Nicolo Bulega caught in crossfire of Alvaro Bautista WorldSBK weight rule attack",
-      "link": "https://www.crash.net/wsbk/news/1105486/1/nicolo-bulega-caught-crossfire-alvaro-bautista-worldsbk-weight-rule-attack",
+      "id": "3991c6fc2eaec812f4b7af4491027cdc89df0ad5",
+      "title": "Yamaha WorldSBK boss responds to Jack Miller ASBK off-season rumours",
+      "link": "https://www.crash.net/wsbk/news/1105496/1/yamaha-worldsbk-boss-responds-jack-miller-asbk-season-rumours",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T15:09:52+00:00",
-      "excerpt": "Alvaro Bautista\u2019s latest attack on the WorldSBK weight rule has caught Nicolo Bulega in its crossfire.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347540_hires.jpg?width=1200",
+      "published": "2026-09-25T16:13:09+00:00",
+      "excerpt": "Niccolo Canepa says Yamaha would be open to Jack Miller racing the Australian Superbike Championship this winter.",
+      "image": "https://www.crash.net/sites/default/files/2026-08/gng_1332896_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -9125,7 +9210,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "sport-bikes": 0.94,
+        "sport-bikes": 0.95,
         "worldsbk-superbike": 0.97
       },
       "subcategories": [
@@ -9135,34 +9220,39 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.66,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.02,
+        "news": 0.79,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.16,
-        "opinion": 0.44,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.09,
+        "profile-interview": 0.52,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.07,
-        "press-release": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.12,
+        "press-release": 0.33,
         "digest": 0.07,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.07,
         "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.08,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "history": 0.04,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -9427,77 +9517,6 @@
       "also": []
     },
     {
-      "id": "57eb18655a592482ae579e7da3b551f07d107f74",
-      "title": "MotoGP: Senna Agius joins Luca Marini at Tech3 KTM for 2027",
-      "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/senna-agius-tech3-ktm-2027",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T10:29:40+00:00",
-      "excerpt": "Current Moto2 racer Senna Agius will make his MotoGP debut next year after signing for Tech3 KTM. The Aussie will line up alongside Luca Marini to create a brand-new line-up at the team, which...",
-      "image": "https://www.motorcyclenews.com/wp-images/438159/390x260/senna-agius-tech3-ktm.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.11,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.3,
-        "press-release": 0.5,
-        "digest": 0.07,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "853942dc2a6ab838f4c17a774daa150f9066eacb",
       "title": "MotoGP Austrian Grand Prix: Acosta tops Practice as KTM chases home win",
       "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-pedro-acosta-tops-practice-as-ktm-chases-home-win/10856888",
@@ -9654,17 +9673,17 @@
       "also": []
     },
     {
-      "id": "9ffe7d3199aaf99b9d70965ddf7e08b940a38fb5",
-      "title": "2026 Cremona WorldSBK, Friday Practice Results: Lecuona sweeps, Bulega crashes again",
-      "link": "https://www.crash.net/wsbk/results/1105337/1/2026-cremona-worldsbk-friday-practice-results",
+      "id": "b0cc9614391be9b04a3bd6e07d5a9e05f0844b91",
+      "title": "Nicolo Bulega caught in crossfire of Alvaro Bautista WorldSBK weight rule attack",
+      "link": "https://www.crash.net/wsbk/news/1105486/1/nicolo-bulega-caught-crossfire-alvaro-bautista-worldsbk-weight-rule-attack",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T14:00:00+00:00",
-      "excerpt": "Full results from the Friday practice sessions at the 2026 Italian WorldSBK at Cremona Circuit.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347447_hires.jpg?width=1200",
+      "published": "2026-09-25T15:09:52+00:00",
+      "excerpt": "Alvaro Bautista\u2019s latest attack on the WorldSBK weight rule has caught Nicolo Bulega in its crossfire.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347540_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -9679,9 +9698,9 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.98
+        "racing": 0.97,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.97
       },
       "subcategories": [
         {
@@ -9690,43 +9709,34 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.07,
-        "first-look": 0.05,
-        "ranked-list": 0.53,
+        "news": 0.66,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
+        "explainer": 0.16,
+        "opinion": 0.44,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.13,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.05,
+        "event-report": 0.1,
+        "event-preview": 0.07,
+        "press-release": 0.05,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.07,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
+        "safety-notice": 0.08,
+        "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "sport-bikes",
@@ -10060,17 +10070,17 @@
       "also": []
     },
     {
-      "id": "66dcd68556bf72c0870aaad40822981474e584ba",
-      "title": "Cremona WorldSBK LIVE: Reaction from Friday practice after Bulega crashes twice",
-      "link": "https://www.crash.net/wsbk/live/1044287/cremona-worldsbk-live-updates-friday-practice-italy",
+      "id": "9ffe7d3199aaf99b9d70965ddf7e08b940a38fb5",
+      "title": "2026 Cremona WorldSBK, Friday Practice Results: Lecuona sweeps, Bulega crashes again",
+      "link": "https://www.crash.net/wsbk/results/1105337/1/2026-cremona-worldsbk-friday-practice-results",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T12:15:00+00:00",
-      "excerpt": "Live coverage of the Friday practice sessions at the 2026 Cremona WorldSBK where Nicolo Bulega can win the title this weekend.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347392_hires.jpg?width=1200",
+      "published": "2026-09-25T14:00:00+00:00",
+      "excerpt": "Full results from the Friday practice sessions at the 2026 Italian WorldSBK at Cremona Circuit.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347447_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -10085,8 +10095,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.95,
+        "racing": 0.98,
+        "sport-bikes": 0.96,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -10096,34 +10106,43 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.74,
-        "review": 0.02,
-        "comparison-test": 0.03,
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.07,
         "first-look": 0.05,
-        "ranked-list": 0.03,
+        "ranked-list": 0.53,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.57,
-        "event-preview": 0.66,
-        "press-release": 0.05,
-        "digest": 0.05,
-        "photo-gallery": 0.15,
-        "ride-report": 0.03,
-        "history": 0.04,
-        "rumor": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.13,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.11,
+        "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.09,
       "tags": [
         "racing",
         "sport-bikes",
@@ -10360,26 +10379,22 @@
       "also": []
     },
     {
-      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
-      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
-      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
+      "id": "66dcd68556bf72c0870aaad40822981474e584ba",
+      "title": "Cremona WorldSBK LIVE: Reaction from Friday practice after Bulega crashes twice",
+      "link": "https://www.crash.net/wsbk/live/1044287/cremona-worldsbk-live-updates-friday-practice-italy",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T11:00:23+00:00",
-      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T12:15:00+00:00",
+      "excerpt": "Live coverage of the Friday practice sessions at the 2026 Cremona WorldSBK where Nicolo Bulega can win the title this weekend.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347392_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
         },
         {
           "slug": "sport-bikes",
@@ -10390,50 +10405,48 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "gear": 0.63,
-        "sport-bikes": 0.53,
-        "motogp": 0.98
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.46,
-        "review": 0.03,
-        "comparison-test": 0.05,
+        "news": 0.74,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.13,
-        "opinion": 0.69,
-        "profile-interview": 0.5,
-        "tribute": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.05,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
+        "event-report": 0.57,
+        "event-preview": 0.66,
+        "press-release": 0.05,
+        "digest": 0.05,
+        "photo-gallery": 0.15,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.11,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
         "racing",
-        "gear",
         "sport-bikes",
-        "motogp"
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -10744,29 +10757,39 @@
       "also": []
     },
     {
-      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
-      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
-      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
+      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
+      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
+      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T09:10:23+00:00",
-      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T11:00:23+00:00",
+      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.95,
-        "motogp": 0.96
+        "racing": 0.97,
+        "gear": 0.63,
+        "sport-bikes": 0.53,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -10777,34 +10800,36 @@
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.53,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
+        "news": 0.46,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
         "explainer": 0.13,
-        "opinion": 0.16,
-        "profile-interview": 0.65,
+        "opinion": 0.69,
+        "profile-interview": 0.5,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
+        "event-report": 0.12,
         "event-preview": 0.05,
-        "press-release": 0.32,
-        "digest": 0.07,
+        "press-release": 0.07,
+        "digest": 0.06,
         "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.06
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
+        "gear",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -10962,17 +10987,17 @@
       "also": []
     },
     {
-      "id": "7714949b2b76e9dda39648e309fa2a705e20d128",
-      "title": "Jorge Martin has \u201ctwo huge advantages\u201d over Marco Bezzecchi in MotoGP title fight",
-      "link": "https://www.crash.net/motogp/news/1105281/1/jorge-martin-has-two-huge-advantages-over-marco-bezzecchi-motogp-title-fight",
+      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
+      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
+      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T08:25:23+00:00",
-      "excerpt": "Aprilia CEO Massimo Rivola says Jorge Martin\u2019s MotoGP title experience is a huge advantage over Marco Bezzecchi, but Marc Marquez has it \u201cmultiplied by 10, 20, 30 times\u201d.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346888_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T09:10:23+00:00",
+      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -10983,8 +11008,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "motogp": 0.98
+        "racing": 0.95,
+        "motogp": 0.96
       },
       "subcategories": [
         {
@@ -10995,30 +11020,30 @@
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.58,
+        "news": 0.53,
         "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.01,
-        "ranked-list": 0.05,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.4,
-        "profile-interview": 0.32,
+        "explainer": 0.13,
+        "opinion": 0.16,
+        "profile-interview": 0.65,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.06,
-        "press-release": 0.14,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
+        "event-report": 0.06,
+        "event-preview": 0.05,
+        "press-release": 0.32,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
+        "history": 0.06,
+        "rumor": 0.06,
         "safety-notice": 0.01,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
@@ -11177,79 +11202,68 @@
       "also": []
     },
     {
-      "id": "ef053ea1163b1b7790c67bcc694523968b1ae4ca",
-      "title": "How Alvaro Bautista is trying to generate \u201cmore options\u201d for 2027 race seat",
-      "link": "https://www.crash.net/wsbk/news/1105253/1/how-alvaro-bautista-trying-generate-more-options-2027-race-seat",
+      "id": "7714949b2b76e9dda39648e309fa2a705e20d128",
+      "title": "Jorge Martin has \u201ctwo huge advantages\u201d over Marco Bezzecchi in MotoGP title fight",
+      "link": "https://www.crash.net/motogp/news/1105281/1/jorge-martin-has-two-huge-advantages-over-marco-bezzecchi-motogp-title-fight",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T17:04:42+00:00",
-      "excerpt": "WorldSBK champion Alvaro Bautista says his performance at the end of 2026 will be key to his chances of finding a good race seat for 2027.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1325230_hires.jpg?width=1200",
+      "published": "2026-09-25T08:25:23+00:00",
+      "excerpt": "Aprilia CEO Massimo Rivola says Jorge Martin\u2019s MotoGP title experience is a huge advantage over Marco Bezzecchi, but Marc Marquez has it \u201cmultiplied by 10, 20, 30 times\u201d.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346888_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.92,
-        "worldsbk-superbike": 0.97
+        "racing": 0.98,
+        "motogp": 0.98
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.52,
+        "news": 0.58,
         "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.01,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.16,
-        "opinion": 0.15,
-        "profile-interview": 0.84,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.4,
+        "profile-interview": 0.32,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.07,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.06,
+        "press-release": 0.14,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
         "history": 0.03,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.05
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -11419,17 +11433,17 @@
       "also": []
     },
     {
-      "id": "a5ca59ece3ee2d6748ef628ca50938c7dabf8c68",
-      "title": "Why Miguel Oliveira thinks Brad Binder is perfect for BMW in WorldSBK 2027",
-      "link": "https://www.crash.net/wsbk/news/1105251/1/why-miguel-oliveira-thinks-brad-binder-perfect-bmw-worldsbk-2027",
+      "id": "ef053ea1163b1b7790c67bcc694523968b1ae4ca",
+      "title": "How Alvaro Bautista is trying to generate \u201cmore options\u201d for 2027 race seat",
+      "link": "https://www.crash.net/wsbk/news/1105253/1/how-alvaro-bautista-trying-generate-more-options-2027-race-seat",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T16:29:35+00:00",
-      "excerpt": "Miguel Oliveira says Brad Binder is \u201cexactly what we need\u201d at BMW for the 2027 WorldSBK season.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347336_hires.jpg?width=1200",
+      "published": "2026-09-24T17:04:42+00:00",
+      "excerpt": "WorldSBK champion Alvaro Bautista says his performance at the end of 2026 will be key to his chances of finding a good race seat for 2027.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1325230_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -11444,8 +11458,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "sport-bikes": 0.93,
+        "racing": 0.97,
+        "sport-bikes": 0.92,
         "worldsbk-superbike": 0.97
       },
       "subcategories": [
@@ -11455,34 +11469,39 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
       "form_scores": {
-        "news": 0.44,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.06,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.03,
+        "news": 0.52,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.18,
-        "opinion": 0.73,
-        "profile-interview": 0.58,
-        "tribute": 0.02,
+        "explainer": 0.16,
+        "opinion": 0.15,
+        "profile-interview": 0.84,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.2,
-        "press-release": 0.17,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
+        "event-report": 0.06,
+        "event-preview": 0.07,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.14,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.02,
-        "q-and-a": 0.07
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -11647,73 +11666,74 @@
       "also": []
     },
     {
-      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
-      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
-      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
+      "id": "a5ca59ece3ee2d6748ef628ca50938c7dabf8c68",
+      "title": "Why Miguel Oliveira thinks Brad Binder is perfect for BMW in WorldSBK 2027",
+      "link": "https://www.crash.net/wsbk/news/1105251/1/why-miguel-oliveira-thinks-brad-binder-perfect-bmw-worldsbk-2027",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T15:52:19+00:00",
-      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-24T16:29:35+00:00",
+      "excerpt": "Miguel Oliveira says Brad Binder is \u201cexactly what we need\u201d at BMW for the 2027 WorldSBK season.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347336_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.89,
-        "motogp": 0.95
+        "racing": 0.96,
+        "sport-bikes": 0.93,
+        "worldsbk-superbike": 0.97
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
+        "news": 0.44,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.18,
+        "opinion": 0.73,
+        "profile-interview": 0.58,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.12,
-        "press-release": 0.47,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.2,
+        "press-release": 0.17,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "rumor": 0.14,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "motogp"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -11878,6 +11898,152 @@
       "also": []
     },
     {
+      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
+      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
+      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:52:19+00:00",
+      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.89,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.12,
+        "press-release": 0.47,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "679d9c87eb3c054ab992fce7641dff65990b9b80",
+      "title": "Pirro: \u201cBulega the favorite in the MotoGP? It\u2019s just pre-race tactics. Testing isn\u2019t the same as racing.\u201d",
+      "link": "https://www.gpone.com/en/2026/09/24/motogp/pirro-bulega-the-favorite-in-the-motogp-its-just-pre-race-tactics-testing-isnt-the-same-as-racing.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-09-24T15:38:11+00:00",
+      "excerpt": "\u201cIt\u2019s too early to judge. We\u2019ll see how things stand once we have some solid data. Ducati was expected to struggle at Misano but dominated. At Spielberg, it was expected to win easily but struggled. There\u2019s no logic to it. We\u2019re taking it one day at a time.\u201d",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/pirro-misano-2.jpg?itok=t9ADzZeE",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.24,
+        "review": 0.02,
+        "comparison-test": 0.06,
+        "first-look": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.8,
+        "profile-interview": 0.88,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.35,
+        "event-preview": 0.11,
+        "press-release": 0.04,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
       "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
       "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
@@ -11959,152 +12125,6 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "679d9c87eb3c054ab992fce7641dff65990b9b80",
-      "title": "Pirro: \u201cBulega the favorite in the MotoGP? It\u2019s just pre-race tactics. Testing isn\u2019t the same as racing.\u201d",
-      "link": "https://www.gpone.com/en/2026/09/24/motogp/pirro-bulega-the-favorite-in-the-motogp-its-just-pre-race-tactics-testing-isnt-the-same-as-racing.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-24T15:38:11+00:00",
-      "excerpt": "\u201cIt\u2019s too early to judge. We\u2019ll see how things stand once we have some solid data. Ducati was expected to struggle at Misano but dominated. At Spielberg, it was expected to win easily but struggled. There\u2019s no logic to it. We\u2019re taking it one day at a time.\u201d",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/pirro-misano-2.jpg?itok=t9ADzZeE",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.24,
-        "review": 0.02,
-        "comparison-test": 0.06,
-        "first-look": 0.07,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.8,
-        "profile-interview": 0.88,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.35,
-        "event-preview": 0.11,
-        "press-release": 0.04,
-        "digest": 0.07,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
-      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
-      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T15:13:14+00:00",
-      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.6,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.16,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.35,
-        "opinion": 0.76,
-        "profile-interview": 0.6,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.11,
-        "press-release": 0.31,
-        "digest": 0.05,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -12271,74 +12291,73 @@
       "also": []
     },
     {
-      "id": "11205b20f4583c65ce4d93dfa41c29495b6c7937",
-      "title": "Nicolo Bulega rival gives hopeless outlook for his own WorldSBK title chances",
-      "link": "https://www.crash.net/wsbk/news/1105241/1/nicolo-bulega-rival-gives-hopeless-outlook-his-own-worldsbk-title-chances",
+      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
+      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
+      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T14:29:00+00:00",
-      "excerpt": "Iker Lecuona admits Nicolo Bulega \u201cwill win the title\u201d at the Italian WorldSBK.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341429_hires.jpg?width=1200",
+      "published": "2026-09-24T15:13:14+00:00",
+      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.98
+        "racing": 0.97,
+        "motogp": 0.98
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
       "form_scores": {
         "news": 0.6,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.16,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.35,
-        "profile-interview": 0.68,
+        "how-to": 0.02,
+        "explainer": 0.35,
+        "opinion": 0.76,
+        "profile-interview": 0.6,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.16,
-        "event-preview": 0.59,
-        "press-release": 0.05,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.11,
+        "press-release": 0.31,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
         "history": 0.06,
-        "rumor": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.06,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.05
+        "q-and-a": 0.06
       },
       "multi_subject": 0.05,
       "tags": [
         "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -12427,73 +12446,74 @@
       "also": []
     },
     {
-      "id": "5a54cd9c11c79c41099a5d82ec782c6d5e50204f",
-      "title": "Finnish teenager gets \u201cdream\u201d KTM Ajo Moto3 chance",
-      "link": "https://www.crash.net/moto3/news/1105240/1/finnish-teenager-gets-dream-ktm-ajo-moto3-chance",
+      "id": "11205b20f4583c65ce4d93dfa41c29495b6c7937",
+      "title": "Nicolo Bulega rival gives hopeless outlook for his own WorldSBK title chances",
+      "link": "https://www.crash.net/wsbk/news/1105241/1/nicolo-bulega-rival-gives-hopeless-outlook-his-own-worldsbk-title-chances",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T14:18:49+00:00",
-      "excerpt": "Rico Salmela joins Red Bull KTM Ajo for 2027 Moto3 as Alvaro Carpe departs.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1342264_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-24T14:29:00+00:00",
+      "excerpt": "Iker Lecuona admits Nicolo Bulega \u201cwill win the title\u201d at the Italian WorldSBK.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341429_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.98
+        "racing": 0.98,
+        "sport-bikes": 0.96,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
+        "news": 0.6,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.27,
+        "explainer": 0.06,
+        "opinion": 0.35,
+        "profile-interview": 0.68,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.2,
-        "press-release": 0.62,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
+        "listing": 0.01,
+        "event-report": 0.16,
+        "event-preview": 0.59,
+        "press-release": 0.05,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "motogp"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -12659,17 +12679,17 @@
       "also": []
     },
     {
-      "id": "312a438b8228fc4861d8b0f3ed776b68fe34d21a",
-      "title": "Guenther Steiner explains \"very difficult\" Tech3 MotoGP line-up decision",
-      "link": "https://www.crash.net/motogp/news/1105093/1/guenther-steiner-explains-very-difficult-tech3-motogp-line-decision",
+      "id": "5a54cd9c11c79c41099a5d82ec782c6d5e50204f",
+      "title": "Finnish teenager gets \u201cdream\u201d KTM Ajo Moto3 chance",
+      "link": "https://www.crash.net/moto3/news/1105240/1/finnish-teenager-gets-dream-ktm-ajo-moto3-chance",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-23T15:56:35+00:00",
-      "excerpt": "Guenther Steiner says choosing between Senna Agius and Moto2 title leader Manuel Gonzalez for Tech3\u2019s 2027 MotoGP seat was \u201cvery difficult\".",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1344815_hires_1600x900_1600x900.jpg?width=1200",
+      "published": "2026-09-24T14:18:49+00:00",
+      "excerpt": "Rico Salmela joins Red Bull KTM Ajo for 2027 Moto3 as Alvaro Carpe departs.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1342264_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -12680,7 +12700,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
+        "racing": 0.96,
         "motogp": 0.98
       },
       "subcategories": [
@@ -12697,30 +12717,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.76,
-        "review": 0.01,
+        "news": 0.87,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.04,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.14,
-        "opinion": 0.1,
-        "profile-interview": 0.71,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.08,
-        "press-release": 0.21,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.27,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.2,
+        "press-release": 0.62,
         "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
         "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.06,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
@@ -12814,6 +12834,77 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "312a438b8228fc4861d8b0f3ed776b68fe34d21a",
+      "title": "Guenther Steiner explains \"very difficult\" Tech3 MotoGP line-up decision",
+      "link": "https://www.crash.net/motogp/news/1105093/1/guenther-steiner-explains-very-difficult-tech3-motogp-line-decision",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T15:56:35+00:00",
+      "excerpt": "Guenther Steiner says choosing between Senna Agius and Moto2 title leader Manuel Gonzalez for Tech3\u2019s 2027 MotoGP seat was \u201cvery difficult\".",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1344815_hires_1600x900_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.76,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.71,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.08,
+        "press-release": 0.21,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -15150,6 +15241,77 @@
         "sport-bikes",
         "motogp",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "57eb18655a592482ae579e7da3b551f07d107f74",
+      "title": "MotoGP: Senna Agius joins Luca Marini at Tech3 KTM for 2027",
+      "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/senna-agius-tech3-ktm-2027",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T10:29:40+00:00",
+      "excerpt": "Current Moto2 racer Senna Agius will make his MotoGP debut next year after signing for Tech3 KTM. The Aussie will line up alongside Luca Marini to create a brand-new line-up at the team, which...",
+      "image": "https://www.motorcyclenews.com/wp-images/438159/390x260/senna-agius-tech3-ktm.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.3,
+        "press-release": 0.5,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
