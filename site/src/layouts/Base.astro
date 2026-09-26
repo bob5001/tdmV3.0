@@ -27,7 +27,12 @@ const updated = meta.updated;
       .wrap { max-width: 46rem; margin: 0 auto; padding: 0 1rem; }
       .wrap.wide { max-width: 72rem; }
       a { color: inherit; }
-      header { text-align: center; padding: 1.4rem 0 0.7rem; position: relative; }
+      header { text-align: center; padding: 0.6rem 0 0.7rem; position: relative; }
+      .find { display: flex; justify-content: flex-end; margin-bottom: 0.3rem; min-height: 1.95rem; }
+      .find input { width: 13rem; font: inherit; font-size: 0.85rem; padding: 0.35rem 0.8rem; border: 1px solid #ccc; border-right: 0; border-radius: 1rem 0 0 1rem; background: #fff; color: var(--ink); }
+      .find input:focus { outline: none; border-color: var(--sky); box-shadow: 0 0 0 2px rgba(127,189,226,.35); }
+      .find button { display: grid; place-items: center; padding: 0 0.7rem; border: 1px solid var(--brand); border-radius: 0 1rem 1rem 0; background: var(--brand); color: #fff; cursor: pointer; }
+      .find button svg { width: 0.95rem; height: 0.95rem; }
       header h1 { margin: 0; font-size: clamp(1.7rem, 5vw, 2.5rem); font-weight: 700; }
       header h1 a { color: var(--brand); text-decoration: none; }
       header .tag { margin: 0; color: var(--sky); font-size: 0.95rem; }
@@ -85,7 +90,8 @@ const updated = meta.updated;
       h3, .ex, code { overflow-wrap: anywhere; }
       /* Phones: nav and ticker become single swipeable rows instead of wrapping into a wall of links. */
       @media (max-width: 40rem) {
-        header { padding: 1rem 0 0.5rem; }
+        header { padding: 0.6rem 0 0.5rem; }
+        .find input { flex: 0 1 15rem; width: auto; min-width: 0; }
         header .tag { font-size: 0.88rem; }
         nav { display: flex; overflow-x: auto; scrollbar-width: none; margin: 0 -1rem; padding: 0.5rem 1rem; text-align: left;
               -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
@@ -103,13 +109,18 @@ const updated = meta.updated;
   <body>
     <div class={`wrap${wide ? ' wide' : ''}`}>
       <header>
+        {pathname === '/search/' ? <div class="find"></div> : (   /* the search page has its own field; keep the masthead from shifting */
+          <form class="find" action="/search/" method="get" role="search">
+            <input type="search" name="q" placeholder="Search articles" aria-label="Search articles" />
+            <button aria-label="Search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" /><path d="m15.5 15.5 5 5" /></svg></button>
+          </form>
+        )}
         <h1><a href="/">TheDailyMotorcycle.com</a></h1>
         <p class="tag">Your daily dose from all over the web.</p>
         <div class="date" data-updated={updated}>Updated {longDate(new Date(updated))}</div>
       </header>
       <nav aria-label="Categories">
         <a href="/" aria-current={pathname === '/' ? 'page' : undefined}>Home</a>
-        <a href="/search/" aria-current={pathname === '/search/' ? 'page' : undefined}>Search</a>
         {nav.map((c) => (
           <a href={`/c/${c.slug}/`} aria-current={pathname === `/c/${c.slug}/` ? 'page' : undefined}>
             {c.label} <span class="n">{c.count}</span>
