@@ -405,84 +405,6 @@
       "also": []
     },
     {
-      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
-      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
-      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T11:00:23+00:00",
-      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "gear": 0.63,
-        "sport-bikes": 0.53,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.46,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.13,
-        "opinion": 0.69,
-        "profile-interview": 0.5,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.05,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "gear",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
       "title": "2027 MotoGP\u2122 Calendar Revealed",
       "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
@@ -593,6 +515,90 @@
       ]
     },
     {
+      "id": "b9b10cde76e52365450539b3e46c150096fcc597",
+      "title": "Toprak Razgatlioglu reveals when he thought to \u201cstop racing\u201d",
+      "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-26T08:00:00+00:00",
+      "excerpt": "Toprak Razgatlioglu says his difficult MotoGP rookie season reminds him of 2018, when he even considered stopping racing.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.84,
+        "motogp": 0.96,
+        "worldsbk-superbike": 0.51
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.64,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.1,
+        "profile-interview": 0.93,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.03,
+        "press-release": 0.05,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.04,
+        "history": 0.15,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
       "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
       "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
@@ -668,17 +674,17 @@
       "also": []
     },
     {
-      "id": "ca58457c9a4f27b8747ccd3aec1762f59b4ad67d",
-      "title": "THE BOOK Johann Zarco, victory and forgiveness",
-      "link": "https://www.gpone.com/en/2026/09/26/motogp/the-book-johann-zarco-victory-and-forgiveness.html",
+      "id": "5ed59a4506c36590369a3fc865aeebee50352815",
+      "title": "Luzzi: \u201cM\u00e1rquez has Stoner\u2019s talent and Lorenzo\u2019s determination\u201d",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/luzzi-marquez-has-stoners-talent-and-lorenzos-determination.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-09-26T06:48:52+00:00",
-      "excerpt": "Written in collaboration with Michel Turco, it is the result of 10 hours of interviews. There could be a sequel.",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/zarco-libro.jpg?itok=EAp7uZsg",
+      "published": "2026-09-26T07:39:44+00:00",
+      "excerpt": "The engineer, who has worked with all three, describes the qualities that make them champions: Jorge\u2019s determination, Casey\u2019s raw talent and Marc\u2019s ability to combine both.",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/cover-stoner-lorenzo-marquez001.jpg?itok=RlLTH9NH",
       "audio": null,
       "categories": [
         {
@@ -694,8 +700,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.56,
-        "motogp": 0.86
+        "sport-bikes": 0.51,
+        "motogp": 0.93
       },
       "subcategories": [
         {
@@ -711,32 +717,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.23,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.22,
-        "profile-interview": 0.92,
-        "tribute": 0.14,
-        "listing": 0.04,
-        "event-report": 0.22,
-        "event-preview": 0.04,
-        "press-release": 0.12,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.11,
-        "history": 0.48,
+        "news": 0.26,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.22,
+        "opinion": 0.53,
+        "profile-interview": 0.82,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.09,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1045,72 +1051,6 @@
       "also": []
     },
     {
-      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
-      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
-      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T09:10:23+00:00",
-      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.95,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.53,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.13,
-        "opinion": 0.16,
-        "profile-interview": 0.65,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.05,
-        "press-release": 0.32,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
       "title": "MotoGP: Grand Prix Commission Updates Regulations for 2027",
       "link": "https://www.roadracingworld.com/news/motogp-grand-prix-commission-updates-regulations-for-2027",
@@ -1196,6 +1136,84 @@
       "also": []
     },
     {
+      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
+      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
+      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:00:23+00:00",
+      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "gear": 0.63,
+        "sport-bikes": 0.53,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.46,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.13,
+        "opinion": 0.69,
+        "profile-interview": 0.5,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.05,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "398dd21778440c07688ac3d5dde4b79e4d163fec",
       "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
       "link": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262",
@@ -1267,17 +1285,17 @@
       "also": []
     },
     {
-      "id": "aeffc2d27090b9dce0f5365f71a96eda3867b9b6",
-      "title": "Lecuona: \u201cFor the first time, I can say that I\u2019m really enjoying riding the Ducati\u201d",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/lecuona-for-the-first-time-i-can-say-that-im-really-enjoying-riding-the-ducati.html",
+      "id": "ca58457c9a4f27b8747ccd3aec1762f59b4ad67d",
+      "title": "THE BOOK Johann Zarco, victory and forgiveness",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/the-book-johann-zarco-victory-and-forgiveness.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-25T21:03:04+00:00",
-      "excerpt": "\u201cI rode in my own style; I\u2019m consistent and had a little margin to work with. Bulega\u2019s stats? I looked at them\u2014he always does something better than I do. I feel stronger than I did at Donington, so why not aim for the win?\u201d",
-      "image": null,
+      "author": "GPOne",
+      "published": "2026-09-26T06:48:52+00:00",
+      "excerpt": "Written in collaboration with Michel Turco, it is the result of 10 hours of interviews. There could be a sequel.",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/zarco-libro.jpg?itok=EAp7uZsg",
       "audio": null,
       "categories": [
         {
@@ -1293,19 +1311,13 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.91,
-        "motogp": 0.95,
-        "worldsbk-superbike": 0.91
+        "sport-bikes": 0.56,
+        "motogp": 0.86
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -1316,37 +1328,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.42,
-        "review": 0.06,
-        "comparison-test": 0.04,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "news": 0.23,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.15,
-        "profile-interview": 0.94,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.51,
-        "event-preview": 0.11,
-        "press-release": 0.09,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.26,
-        "history": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.22,
+        "profile-interview": 0.92,
+        "tribute": 0.14,
+        "listing": 0.04,
+        "event-report": 0.22,
+        "event-preview": 0.04,
+        "press-release": 0.12,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.11,
+        "history": 0.48,
         "rumor": 0.02,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.06,
-        "build-feature": 0.02,
+        "build-feature": 0.04,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.08,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -1415,72 +1426,6 @@
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "7714949b2b76e9dda39648e309fa2a705e20d128",
-      "title": "Jorge Martin has \u201ctwo huge advantages\u201d over Marco Bezzecchi in MotoGP title fight",
-      "link": "https://www.crash.net/motogp/news/1105281/1/jorge-martin-has-two-huge-advantages-over-marco-bezzecchi-motogp-title-fight",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T08:25:23+00:00",
-      "excerpt": "Aprilia CEO Massimo Rivola says Jorge Martin\u2019s MotoGP title experience is a huge advantage over Marco Bezzecchi, but Marc Marquez has it \u201cmultiplied by 10, 20, 30 times\u201d.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346888_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.58,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.01,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.4,
-        "profile-interview": 0.32,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.06,
-        "press-release": 0.14,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -1606,6 +1551,72 @@
       ]
     },
     {
+      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
+      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
+      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T09:10:23+00:00",
+      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.53,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.13,
+        "opinion": 0.16,
+        "profile-interview": 0.65,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.05,
+        "press-release": 0.32,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "a1a485df1fd797627a0d9d039fb90710cf337a34",
       "title": "MotoGP boss: The idea is to hold the Qatar GP as planned",
       "link": "https://www.autosport.com/motogp/news/motogp-boss-the-idea-is-to-hold-the-qatar-gp-as-planned-in-november/10857248",
@@ -1681,16 +1692,16 @@
       "also": []
     },
     {
-      "id": "68df0e5476db22e20cc017225dd6037c8ff760f5",
-      "title": "Yamaha and Locatelli look for a breakthrough: new developments on the horizon for 2027",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/yamaha-and-locatelli-look-for-a-breakthrough-new-developments-on-the-horizon-for-2027.html",
+      "id": "aeffc2d27090b9dce0f5365f71a96eda3867b9b6",
+      "title": "Lecuona: \u201cFor the first time, I can say that I\u2019m really enjoying riding the Ducati\u201d",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/lecuona-for-the-first-time-i-can-say-that-im-really-enjoying-riding-the-ducati.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-25T18:47:43+00:00",
-      "excerpt": "Andrea is struggling with the R1, and the Japanese manufacturer wants to shake things up for next season. Here's what it's all about",
+      "author": "Daniela Piazza",
+      "published": "2026-09-25T21:03:04+00:00",
+      "excerpt": "\u201cI rode in my own style; I\u2019m consistent and had a little margin to work with. Bulega\u2019s stats? I looked at them\u2014he always does something better than I do. I feel stronger than I did at Donington, so why not aim for the win?\u201d",
       "image": null,
       "audio": null,
       "categories": [
@@ -1707,9 +1718,9 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.93,
-        "motogp": 0.93,
-        "worldsbk-superbike": 0.52
+        "sport-bikes": 0.91,
+        "motogp": 0.95,
+        "worldsbk-superbike": 0.91
       },
       "subcategories": [
         {
@@ -1723,34 +1734,39 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
       "form_scores": {
-        "news": 0.29,
-        "review": 0.05,
+        "news": 0.42,
+        "review": 0.06,
         "comparison-test": 0.04,
-        "first-look": 0.13,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.04,
-        "explainer": 0.2,
-        "opinion": 0.22,
-        "profile-interview": 0.27,
-        "tribute": 0.01,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.05,
+        "opinion": 0.15,
+        "profile-interview": 0.94,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.1,
-        "press-release": 0.26,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.53,
-        "safety-notice": 0.02,
-        "episode": 0.07,
+        "event-report": 0.51,
+        "event-preview": 0.11,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.26,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
         "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1979,77 +1995,6 @@
       "also": []
     },
     {
-      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
-      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
-      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T15:52:19+00:00",
-      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.89,
-        "motogp": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.12,
-        "press-release": 0.47,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
       "title": "MotoGP: Pirelli Advances 2027 Tire Development",
       "link": "https://www.roadracingworld.com/news/motogp-pirelli-advances-2027-tyre-development",
@@ -2126,6 +2071,72 @@
       "tags": [
         "racing",
         "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "7714949b2b76e9dda39648e309fa2a705e20d128",
+      "title": "Jorge Martin has \u201ctwo huge advantages\u201d over Marco Bezzecchi in MotoGP title fight",
+      "link": "https://www.crash.net/motogp/news/1105281/1/jorge-martin-has-two-huge-advantages-over-marco-bezzecchi-motogp-title-fight",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T08:25:23+00:00",
+      "excerpt": "Aprilia CEO Massimo Rivola says Jorge Martin\u2019s MotoGP title experience is a huge advantage over Marco Bezzecchi, but Marc Marquez has it \u201cmultiplied by 10, 20, 30 times\u201d.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346888_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.58,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.01,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.4,
+        "profile-interview": 0.32,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.06,
+        "press-release": 0.14,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
         "motogp"
       ],
       "also": []
@@ -2218,73 +2229,81 @@
       "also": []
     },
     {
-      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
-      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
-      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
+      "id": "68df0e5476db22e20cc017225dd6037c8ff760f5",
+      "title": "Yamaha and Locatelli look for a breakthrough: new developments on the horizon for 2027",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/yamaha-and-locatelli-look-for-a-breakthrough-new-developments-on-the-horizon-for-2027.html",
       "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
+      "source": "GPone",
+      "ownership": "independent",
       "media": "article",
-      "author": null,
-      "published": "2026-09-24T15:13:14+00:00",
-      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-25T18:47:43+00:00",
+      "excerpt": "Andrea is struggling with the R1, and the Japanese manufacturer wants to shake things up for next season. Here's what it's all about",
+      "image": null,
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "racing": 1.0,
+        "sport-bikes": 0.93,
+        "motogp": 0.93,
+        "worldsbk-superbike": 0.52
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
           "parent": "racing"
-        }
-      ],
-      "forms": [
+        },
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
         }
       ],
+      "forms": [],
       "form_scores": {
-        "news": 0.6,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.16,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.35,
-        "opinion": 0.76,
-        "profile-interview": 0.6,
-        "tribute": 0.02,
+        "news": 0.29,
+        "review": 0.05,
+        "comparison-test": 0.04,
+        "first-look": 0.13,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.2,
+        "opinion": 0.22,
+        "profile-interview": 0.27,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.11,
-        "press-release": 0.31,
-        "digest": 0.05,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.1,
+        "press-release": 0.26,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.53,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
-        "motogp"
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -2368,6 +2387,77 @@
       "also": []
     },
     {
+      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
+      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
+      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:52:19+00:00",
+      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.89,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.12,
+        "press-release": 0.47,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "61649f2287185fc06a946573f135a1c3dfdd4718",
       "title": "MotoGP Austrian GP: Martin claims sprint win after Acosta crashes out",
       "link": "https://www.autosport.com/motogp/news/motogp-austrian-gp-jorge-martin-claims-sprint-win-after-pedro-acosta-crashes-out/10857161",
@@ -2436,6 +2526,231 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
+      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
+      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-21T16:30:16+00:00",
+      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.21,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.43,
+        "opinion": 0.94,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.95,
+        "event-preview": 0.09,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.02,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.75,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
+      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
+      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:13:14+00:00",
+      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.6,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.16,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.35,
+        "opinion": 0.76,
+        "profile-interview": 0.6,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.11,
+        "press-release": 0.31,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "bbd99fa4290818e27182c86ea6c664720c74b7d8",
+      "title": "MotoGP Austrian Grand Prix: Martin snatches pole position",
+      "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-jorge-martin-snatches-pole-position/10857093",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-19T09:55:46+00:00",
+      "excerpt": "While all eyes were on Pedro Acosta's campaign to win his first grand prix on KTM's home ground in Austria, it was Aprilia's Jorge Martin who claimed pole position for the race in a tight qualifying session on Saturday. Acosta will start third behind the joint championship leader",
+      "image": "https://cdn-4.motorsport.com/images/amp/6grQmB7Y/s6/jorge-martin-aprilia-racing-te.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.76,
+        "event-preview": 0.71,
+        "press-release": 0.07,
+        "digest": 0.04,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -2531,6 +2846,118 @@
       "also": []
     },
     {
+      "id": "88d69d34304f99af8b341c4c290e065dea9c861e",
+      "title": "MotoGP: World Championship Race Results From Austria",
+      "link": "https://www.roadracingworld.com/news/motogp-world-championship-race-results-from-austria-2",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-20T13:22:46+00:00",
+      "excerpt": "Pedro Acosta won the MotoGP World Championship race Sunday at Red Bull Ring \u2013 Spielberg, in Austria. Riding his Red Bull KTM Factory Racing RC16 on Michelin control tires, the Spaniard won the 28-lap race by 1.017 seconds. It was Acosta\u2019s first MotoGP victory. Jorge Martin was th",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-122_1789925173-e1789925258285.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.58,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.22,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.16,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.99,
+        "event-preview": 0.03,
+        "press-release": 0.73,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "MotoGP Austrian GP: Acosta finally claims maiden win",
+          "link": "https://www.autosport.com/motogp/news/motogp-austrian-gp-acosta-finally-claims-maiden-win/10857454",
+          "published": "2026-09-20T12:55:43+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "Acosta's long road to his maiden MotoGP win",
+          "link": "https://www.autosport.com/motogp/news/acostas-road-to-motogp-victory/10857475",
+          "published": "2026-09-20T14:00:34+00:00"
+        },
+        {
+          "source": "MCNews Australia",
+          "title": "Acosta conquers Austria as Martin stretches MotoGP title lead",
+          "link": "https://www.mcnews.com.au/2026-austrian-motogp-race-results-acosta",
+          "published": "2026-09-20T23:09:51+00:00"
+        },
+        {
+          "source": "MCNews Australia",
+          "title": "Acosta\u2019s emotion, Marquez\u2019s brake scare and Yamaha frustration \u2013 Austrian MotoGP reactions",
+          "link": "https://www.mcnews.com.au/2026-austrian-motogp-rider-team-reactions",
+          "published": "2026-09-21T11:05:03+00:00"
+        },
+        {
+          "source": "Roadracing World",
+          "title": "MotoGP: More From Teams On Sunday In Austria",
+          "link": "https://www.roadracingworld.com/news/motogp-more-from-teams-on-sunday-in-austria",
+          "published": "2026-09-21T12:32:16+00:00"
+        }
+      ]
+    },
+    {
       "id": "5a54cd9c11c79c41099a5d82ec782c6d5e50204f",
       "title": "Finnish teenager gets \u201cdream\u201d KTM Ajo Moto3 chance",
       "link": "https://www.crash.net/moto3/news/1105240/1/finnish-teenager-gets-dream-ktm-ajo-moto3-chance",
@@ -2602,96 +3029,17 @@
       "also": []
     },
     {
-      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
-      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
-      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-21T16:30:16+00:00",
-      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.21,
-        "review": 0.04,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.43,
-        "opinion": 0.94,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.09,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.02,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.75,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "bbd99fa4290818e27182c86ea6c664720c74b7d8",
-      "title": "MotoGP Austrian Grand Prix: Martin snatches pole position",
-      "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-jorge-martin-snatches-pole-position/10857093",
+      "id": "41cf5483dee69ff5eb575486019f82f8d8f90751",
+      "title": "Can Ducati mount a serious victory challenge at the MotoGP Austrian Grand Prix?",
+      "link": "https://www.autosport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856971",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-19T09:55:46+00:00",
-      "excerpt": "While all eyes were on Pedro Acosta's campaign to win his first grand prix on KTM's home ground in Austria, it was Aprilia's Jorge Martin who claimed pole position for the race in a tight qualifying session on Saturday. Acosta will start third behind the joint championship leader",
-      "image": "https://cdn-4.motorsport.com/images/amp/6grQmB7Y/s6/jorge-martin-aprilia-racing-te.jpg",
+      "published": "2026-09-18T17:57:28+00:00",
+      "excerpt": "After a great day out on home ground at Misano last weekend, Ducati appears to be facing a much sterner challenge now that the MotoGP circus has moved north across the Dolomites. That's because this week's home squad, KTM, threw down the gauntlet in no uncertain terms as Friday u",
+      "image": "https://cdn-1.motorsport.com/images/amp/YE9E7nwY/s6/fermin-aldeguer-gresini-racing.jpg",
       "audio": null,
       "categories": [
         {
@@ -2714,39 +3062,35 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
+        "news": 0.34,
+        "review": 0.03,
+        "comparison-test": 0.18,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.07,
-        "profile-interview": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.62,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.76,
-        "event-preview": 0.71,
+        "event-report": 0.32,
+        "event-preview": 0.88,
         "press-release": 0.07,
-        "digest": 0.04,
+        "digest": 0.05,
         "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.01,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
         "safety-notice": 0.01,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.06
       },
       "multi_subject": 0.04,
       "tags": [
@@ -2911,129 +3255,17 @@
       "also": []
     },
     {
-      "id": "88d69d34304f99af8b341c4c290e065dea9c861e",
-      "title": "MotoGP: World Championship Race Results From Austria",
-      "link": "https://www.roadracingworld.com/news/motogp-world-championship-race-results-from-austria-2",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-20T13:22:46+00:00",
-      "excerpt": "Pedro Acosta won the MotoGP World Championship race Sunday at Red Bull Ring \u2013 Spielberg, in Austria. Riding his Red Bull KTM Factory Racing RC16 on Michelin control tires, the Spaniard won the 28-lap race by 1.017 seconds. It was Acosta\u2019s first MotoGP victory. Jorge Martin was th",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-122_1789925173-e1789925258285.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.58,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.22,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.16,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.99,
-        "event-preview": 0.03,
-        "press-release": 0.73,
-        "digest": 0.05,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "MotoGP Austrian GP: Acosta finally claims maiden win",
-          "link": "https://www.autosport.com/motogp/news/motogp-austrian-gp-acosta-finally-claims-maiden-win/10857454",
-          "published": "2026-09-20T12:55:43+00:00"
-        },
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "Acosta's long road to his maiden MotoGP win",
-          "link": "https://www.autosport.com/motogp/news/acostas-road-to-motogp-victory/10857475",
-          "published": "2026-09-20T14:00:34+00:00"
-        },
-        {
-          "source": "MCNews Australia",
-          "title": "Acosta conquers Austria as Martin stretches MotoGP title lead",
-          "link": "https://www.mcnews.com.au/2026-austrian-motogp-race-results-acosta",
-          "published": "2026-09-20T23:09:51+00:00"
-        },
-        {
-          "source": "MCNews Australia",
-          "title": "Acosta\u2019s emotion, Marquez\u2019s brake scare and Yamaha frustration \u2013 Austrian MotoGP reactions",
-          "link": "https://www.mcnews.com.au/2026-austrian-motogp-rider-team-reactions",
-          "published": "2026-09-21T11:05:03+00:00"
-        },
-        {
-          "source": "Roadracing World",
-          "title": "MotoGP: More From Teams On Sunday In Austria",
-          "link": "https://www.roadracingworld.com/news/motogp-more-from-teams-on-sunday-in-austria",
-          "published": "2026-09-21T12:32:16+00:00"
-        }
-      ]
-    },
-    {
-      "id": "41cf5483dee69ff5eb575486019f82f8d8f90751",
-      "title": "Can Ducati mount a serious victory challenge at the MotoGP Austrian Grand Prix?",
-      "link": "https://www.autosport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856971",
+      "id": "7ec2f6b37f1ccd573c1801c9244705d517a5a71b",
+      "title": "MotoGP plans to introduce two qualifying sessions each weekend, following F1 model",
+      "link": "https://www.autosport.com/motogp/news/motogp-plans-to-introduce-two-qualifying-sessions-each-weekend-following-f1-model/10856949",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-18T17:57:28+00:00",
-      "excerpt": "After a great day out on home ground at Misano last weekend, Ducati appears to be facing a much sterner challenge now that the MotoGP circus has moved north across the Dolomites. That's because this week's home squad, KTM, threw down the gauntlet in no uncertain terms as Friday u",
-      "image": "https://cdn-1.motorsport.com/images/amp/YE9E7nwY/s6/fermin-aldeguer-gresini-racing.jpg",
+      "published": "2026-09-18T16:31:39+00:00",
+      "excerpt": "MotoGP is planning to introduce two qualifying sessions each weekend, one for the main race and another for the sprint, following the model used by Formula 1, Autosport has learned. The initiative has already been put on the table at the dialogue forum involving the teams, the ch",
+      "image": "https://cdn-7.motorsport.com/images/amp/YpbAm1J0/s6/marc-marquez-ducati-team-diogo.jpg",
       "audio": null,
       "categories": [
         {
@@ -3045,7 +3277,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.98
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -3054,37 +3286,32 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.34,
-        "review": 0.03,
-        "comparison-test": 0.18,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
+        "news": 0.62,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.62,
-        "profile-interview": 0.08,
+        "explainer": 0.15,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.32,
-        "event-preview": 0.88,
-        "press-release": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.29,
+        "press-release": 0.14,
         "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.45,
+        "safety-notice": 0.08,
+        "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.06
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
@@ -3257,17 +3484,17 @@
       "also": []
     },
     {
-      "id": "7ec2f6b37f1ccd573c1801c9244705d517a5a71b",
-      "title": "MotoGP plans to introduce two qualifying sessions each weekend, following F1 model",
-      "link": "https://www.autosport.com/motogp/news/motogp-plans-to-introduce-two-qualifying-sessions-each-weekend-following-f1-model/10856949",
+      "id": "7a57becbacf5eeb7483f793b45d293a5112ea722",
+      "title": "Why KTM's Red Bull Ring advantage is looking particularly potent in 2026",
+      "link": "https://www.autosport.com/motogp/news/why-ktms-red-bull-ring-advantage-is-looking-particularly-potent-in-2026/10856938",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-18T16:31:39+00:00",
-      "excerpt": "MotoGP is planning to introduce two qualifying sessions each weekend, one for the main race and another for the sprint, following the model used by Formula 1, Autosport has learned. The initiative has already been put on the table at the dialogue forum involving the teams, the ch",
-      "image": "https://cdn-7.motorsport.com/images/amp/YpbAm1J0/s6/marc-marquez-ducati-team-diogo.jpg",
+      "published": "2026-09-18T16:14:13+00:00",
+      "excerpt": "Pedro Acosta\u2019s chart-topping time in Practice for the Austrian Grand Prix has raised hopes of KTM ending a four-year winless streak in MotoGP. The RC16 has always gone well around the Red Bull Ring, and star Acosta is in the midst of a purple patch in MotoGP, meaning expectations",
+      "image": "https://cdn-9.motorsport.com/images/amp/6VyK81vY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "audio": null,
       "categories": [
         {
@@ -3279,7 +3506,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.97
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -3288,32 +3515,41 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
       "form_scores": {
-        "news": 0.62,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
+        "news": 0.36,
+        "review": 0.03,
+        "comparison-test": 0.11,
+        "first-look": 0.08,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.15,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
+        "explainer": 0.32,
+        "opinion": 0.79,
+        "profile-interview": 0.14,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.29,
-        "press-release": 0.14,
+        "event-report": 0.34,
+        "event-preview": 0.89,
+        "press-release": 0.08,
         "digest": 0.05,
-        "photo-gallery": 0.02,
+        "photo-gallery": 0.04,
         "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.45,
-        "safety-notice": 0.08,
-        "episode": 0.02,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
@@ -3395,17 +3631,17 @@
       "also": []
     },
     {
-      "id": "7a57becbacf5eeb7483f793b45d293a5112ea722",
-      "title": "Why KTM's Red Bull Ring advantage is looking particularly potent in 2026",
-      "link": "https://www.autosport.com/motogp/news/why-ktms-red-bull-ring-advantage-is-looking-particularly-potent-in-2026/10856938",
+      "id": "853942dc2a6ab838f4c17a774daa150f9066eacb",
+      "title": "MotoGP Austrian Grand Prix: Acosta tops Practice as KTM chases home win",
+      "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-pedro-acosta-tops-practice-as-ktm-chases-home-win/10856888",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-18T16:14:13+00:00",
-      "excerpt": "Pedro Acosta\u2019s chart-topping time in Practice for the Austrian Grand Prix has raised hopes of KTM ending a four-year winless streak in MotoGP. The RC16 has always gone well around the Red Bull Ring, and star Acosta is in the midst of a purple patch in MotoGP, meaning expectations",
-      "image": "https://cdn-9.motorsport.com/images/amp/6VyK81vY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "published": "2026-09-18T14:32:36+00:00",
+      "excerpt": "Pedro Acosta completed a perfect first day at KTM's home race as the factory star led the way in Practice at the Austrian Grand Prix on Friday. Acosta, who is seeking his first MotoGP win before leaving KTM at the end of the year, will be joined in Q2 on Saturday by joint champio",
+      "image": "https://cdn-1.motorsport.com/images/amp/YpbAmZd0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
       "audio": null,
       "categories": [
         {
@@ -3417,7 +3653,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.98
+        "motogp": 0.99
       },
       "subcategories": [
         {
@@ -3428,39 +3664,39 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "news",
+          "label": "News"
         },
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.36,
-        "review": 0.03,
-        "comparison-test": 0.11,
-        "first-look": 0.08,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.03,
+        "news": 0.91,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.32,
-        "opinion": 0.79,
-        "profile-interview": 0.14,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.34,
-        "event-preview": 0.89,
-        "press-release": 0.08,
+        "event-report": 0.63,
+        "event-preview": 0.85,
+        "press-release": 0.11,
         "digest": 0.05,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
+        "history": 0.06,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
@@ -3554,17 +3790,17 @@
       "also": []
     },
     {
-      "id": "853942dc2a6ab838f4c17a774daa150f9066eacb",
-      "title": "MotoGP Austrian Grand Prix: Acosta tops Practice as KTM chases home win",
-      "link": "https://www.autosport.com/motogp/news/motogp-austrian-grand-prix-pedro-acosta-tops-practice-as-ktm-chases-home-win/10856888",
+      "id": "2a58497ab1be3f4483cfe45786b4968fe3f3b9fc",
+      "title": "Ogura set to make MotoGP return in Austria",
+      "link": "https://www.autosport.com/motogp/news/ogura-set-for-motogp-return/10856571",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-18T14:32:36+00:00",
-      "excerpt": "Pedro Acosta completed a perfect first day at KTM's home race as the factory star led the way in Practice at the Austrian Grand Prix on Friday. Acosta, who is seeking his first MotoGP win before leaving KTM at the end of the year, will be joined in Q2 on Saturday by joint champio",
-      "image": "https://cdn-1.motorsport.com/images/amp/YpbAmZd0/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "published": "2026-09-17T13:18:04+00:00",
+      "excerpt": "Ai Ogura's spell on the MotoGP sidelines will come to an end at this weekend's Austrian Grand Prix at Spielberg. The Japanese rider broke his thumb in a training accident following the British Grand Prix last month, and surgery ahead of the subsequent Aragon round saw him miss bo",
+      "image": "https://cdn-6.motorsport.com/images/amp/Y9lNokP2/s6/ai-ogura-trackhouse-racing-2.jpg",
       "audio": null,
       "categories": [
         {
@@ -3576,7 +3812,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.99
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -3587,41 +3823,41 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.02,
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
         "how-to": 0.02,
         "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.12,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.63,
-        "event-preview": 0.85,
-        "press-release": 0.11,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
+        "event-report": 0.06,
+        "event-preview": 0.97,
+        "press-release": 0.17,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "motogp"
@@ -3704,17 +3940,17 @@
       "also": []
     },
     {
-      "id": "2a58497ab1be3f4483cfe45786b4968fe3f3b9fc",
-      "title": "Ogura set to make MotoGP return in Austria",
-      "link": "https://www.autosport.com/motogp/news/ogura-set-for-motogp-return/10856571",
+      "id": "c1676a8fa31821e55a0b9d0f023adfb328a00559",
+      "title": "Bezzecchi still confident of MotoGP title glory despite error-prone 2026",
+      "link": "https://www.autosport.com/motogp/news/bezzecchi-still-confident-of-motogp-glory/10856544",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-17T13:18:04+00:00",
-      "excerpt": "Ai Ogura's spell on the MotoGP sidelines will come to an end at this weekend's Austrian Grand Prix at Spielberg. The Japanese rider broke his thumb in a training accident following the British Grand Prix last month, and surgery ahead of the subsequent Aragon round saw him miss bo",
-      "image": "https://cdn-6.motorsport.com/images/amp/Y9lNokP2/s6/ai-ogura-trackhouse-racing-2.jpg",
+      "published": "2026-09-17T12:22:25+00:00",
+      "excerpt": "Aprilia\u2019s Marco Bezzecchi says he is determined to take the 2026 MotoGP title fight down to the wire despite losing significant ground to his rivals at last weekend\u2019s San Marino Grand Prix. Bezzecchi let a potential victory at Misano slip out of reach when he crashed from the lea",
+      "image": "https://cdn-1.motorsport.com/images/amp/6VyK8r7Y/s6/marco-bezzecchi-aprilia-racing-2.jpg",
       "audio": null,
       "categories": [
         {
@@ -3737,8 +3973,8 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
           "slug": "news",
@@ -3746,32 +3982,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.01,
+        "news": 0.81,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.12,
+        "opinion": 0.16,
+        "profile-interview": 0.68,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.97,
-        "press-release": 0.17,
-        "digest": 0.04,
+        "event-report": 0.93,
+        "event-preview": 0.07,
+        "press-release": 0.07,
+        "digest": 0.05,
         "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.02,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -3854,17 +4090,17 @@
       "also": []
     },
     {
-      "id": "c1676a8fa31821e55a0b9d0f023adfb328a00559",
-      "title": "Bezzecchi still confident of MotoGP title glory despite error-prone 2026",
-      "link": "https://www.autosport.com/motogp/news/bezzecchi-still-confident-of-motogp-glory/10856544",
+      "id": "903eb3a2c29932b0703a0a043eabaea063fc559e",
+      "title": "Marquez \"silencing\" theory on 'Aprilia or Ducati tracks' - di Giannantonio",
+      "link": "https://www.autosport.com/motogp/news/marquez-silencing-ducati-or-aprilia-track-theory-di-giannantonio/10856463",
       "lang": "en",
       "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-17T12:22:25+00:00",
-      "excerpt": "Aprilia\u2019s Marco Bezzecchi says he is determined to take the 2026 MotoGP title fight down to the wire despite losing significant ground to his rivals at last weekend\u2019s San Marino Grand Prix. Bezzecchi let a potential victory at Misano slip out of reach when he crashed from the lea",
-      "image": "https://cdn-1.motorsport.com/images/amp/6VyK8r7Y/s6/marco-bezzecchi-aprilia-racing-2.jpg",
+      "published": "2026-09-17T08:53:34+00:00",
+      "excerpt": "VR46\u2019s Fabio Di Giannantonio believes the riders are ultimately making a bigger difference than track characteristics in the battle between Ducati and Aprilia in the 2026 MotoGP season. The current championship has ebbed and flowed between MotoGP\u2019s two Italian manufacturers, with",
+      "image": "https://cdn-9.motorsport.com/images/amp/6lmA1eD0/s6/marc-marquez-ducati-team-2.jpg",
       "audio": null,
       "categories": [
         {
@@ -3885,41 +4121,32 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.81,
+        "news": 0.35,
         "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "comparison-test": 0.17,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.16,
-        "profile-interview": 0.68,
+        "explainer": 0.22,
+        "opinion": 0.67,
+        "profile-interview": 0.59,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.07,
-        "press-release": 0.07,
+        "event-report": 0.09,
+        "event-preview": 0.09,
+        "press-release": 0.06,
         "digest": 0.05,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
@@ -4001,72 +4228,6 @@
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "903eb3a2c29932b0703a0a043eabaea063fc559e",
-      "title": "Marquez \"silencing\" theory on 'Aprilia or Ducati tracks' - di Giannantonio",
-      "link": "https://www.autosport.com/motogp/news/marquez-silencing-ducati-or-aprilia-track-theory-di-giannantonio/10856463",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T08:53:34+00:00",
-      "excerpt": "VR46\u2019s Fabio Di Giannantonio believes the riders are ultimately making a bigger difference than track characteristics in the battle between Ducati and Aprilia in the 2026 MotoGP season. The current championship has ebbed and flowed between MotoGP\u2019s two Italian manufacturers, with",
-      "image": "https://cdn-9.motorsport.com/images/amp/6lmA1eD0/s6/marc-marquez-ducati-team-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.35,
-        "review": 0.02,
-        "comparison-test": 0.17,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.22,
-        "opinion": 0.67,
-        "profile-interview": 0.59,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.09,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
         "motogp"
       ],
       "also": []
