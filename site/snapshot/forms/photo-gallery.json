@@ -3,6 +3,97 @@
   "label": "Photo Gallery",
   "items": [
     {
+      "id": "80e09f05eb59024e11da959cb1a6cf9bb72d2300",
+      "title": "CATCH UP ON THE LATEST VIDEOS: THE INTERNET DELIVERED THIS WEEK",
+      "link": "https://motocrossactionmag.com/catch-up-on-the-latest-videos-the-internet-delivered-this-week",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-24T23:30:04+00:00",
+      "excerpt": "CATCH UP ON THE LATEST VIDEOS: THE INTERNET DELIVERED THIS WEEK Just in case you haven\u2019t had time to scour the internet for your weekly fix of motocross and Supercross videos, the MXA wrecking crew has done the work for you. This week, we start with Axell Hodges getting his first",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/ng3nxlrzwky.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.76,
+        "new-models": 0.76,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
+        }
+      ],
+      "form_scores": {
+        "news": 0.17,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.92,
+        "ranked-list": 0.16,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.08,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.23,
+        "event-preview": 0.08,
+        "press-release": 0.09,
+        "digest": 0.91,
+        "photo-gallery": 0.75,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.22,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.96,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "new-models",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "8652242b5f8b3df2dc91ef1cfa4d52409fb24cf5",
       "title": "Watch: 2019 WW Ranch 450 Moto 1",
       "link": "https://racerxonline.com/2026/09/24/watch-2019-ww-ranch-450-moto-1",
@@ -50,9 +141,9 @@
         }
       ],
       "form_scores": {
-        "news": 0.36,
+        "news": 0.34,
         "review": 0.02,
-        "comparison-test": 0.05,
+        "comparison-test": 0.06,
         "first-look": 0.03,
         "ranked-list": 0.04,
         "buyers-guide": 0.02,
@@ -61,14 +152,14 @@
         "opinion": 0.04,
         "profile-interview": 0.03,
         "tribute": 0.02,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.85,
         "event-preview": 0.05,
         "press-release": 0.06,
         "digest": 0.05,
         "photo-gallery": 0.81,
         "ride-report": 0.02,
-        "history": 0.15,
+        "history": 0.16,
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.68,
@@ -122,20 +213,20 @@
       ],
       "forms": [
         {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
           "slug": "photo-gallery",
           "label": "Photo Gallery"
         },
         {
           "slug": "ranked-list",
           "label": "Ten Best"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.47,
+        "news": 0.49,
         "review": 0.02,
         "comparison-test": 0.04,
         "first-look": 0.03,
@@ -147,11 +238,11 @@
         "profile-interview": 0.04,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.85,
+        "event-report": 0.87,
         "event-preview": 0.04,
-        "press-release": 0.08,
+        "press-release": 0.09,
         "digest": 0.07,
-        "photo-gallery": 0.87,
+        "photo-gallery": 0.86,
         "ride-report": 0.04,
         "history": 0.1,
         "rumor": 0.02,
@@ -160,7 +251,7 @@
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
@@ -194,8 +285,8 @@
       "primary": "racing",
       "confident": false,
       "cat_scores": {
-        "racing": 0.83,
-        "classic": 0.78
+        "racing": 0.84,
+        "classic": 0.8
       },
       "subcategories": [],
       "forms": [
@@ -223,19 +314,19 @@
         "explainer": 0.05,
         "opinion": 0.04,
         "profile-interview": 0.04,
-        "tribute": 0.03,
+        "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.9,
-        "event-preview": 0.07,
+        "event-report": 0.89,
+        "event-preview": 0.06,
         "press-release": 0.18,
-        "digest": 0.19,
-        "photo-gallery": 0.81,
-        "ride-report": 0.04,
-        "history": 0.11,
+        "digest": 0.2,
+        "photo-gallery": 0.82,
+        "ride-report": 0.05,
+        "history": 0.12,
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.06,
-        "build-feature": 0.03,
+        "build-feature": 0.04,
         "q-and-a": 0.02
       },
       "multi_subject": 0.29,
@@ -287,7 +378,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.09,
+        "news": 0.1,
         "review": 0.05,
         "comparison-test": 0.03,
         "first-look": 0.06,
@@ -296,23 +387,23 @@
         "how-to": 0.02,
         "explainer": 0.05,
         "opinion": 0.06,
-        "profile-interview": 0.08,
+        "profile-interview": 0.09,
         "tribute": 0.04,
         "listing": 0.02,
         "event-report": 0.23,
         "event-preview": 0.08,
         "press-release": 0.1,
-        "digest": 0.15,
+        "digest": 0.14,
         "photo-gallery": 0.9,
-        "ride-report": 0.06,
+        "ride-report": 0.07,
         "history": 0.11,
         "rumor": 0.07,
         "safety-notice": 0.01,
         "episode": 0.05,
-        "build-feature": 0.31,
+        "build-feature": 0.29,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.15,
+      "multi_subject": 0.16,
       "tags": [
         "custom",
         "classic",
@@ -339,12 +430,12 @@
           "label": "Custom"
         },
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
         },
         {
           "slug": "classic",
@@ -355,10 +446,10 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.92,
-        "events-rides": 0.9,
         "dirt-mx": 0.89,
-        "classic": 0.5,
-        "scramblers": 0.5
+        "events-rides": 0.88,
+        "classic": 0.51,
+        "scramblers": 0.51
       },
       "subcategories": [
         {
@@ -377,33 +468,33 @@
         "news": 0.24,
         "review": 0.04,
         "comparison-test": 0.03,
-        "first-look": 0.05,
+        "first-look": 0.04,
         "ranked-list": 0.04,
         "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.41,
+        "listing": 0.03,
+        "event-report": 0.45,
         "event-preview": 0.06,
         "press-release": 0.08,
-        "digest": 0.12,
-        "photo-gallery": 0.9,
+        "digest": 0.13,
+        "photo-gallery": 0.89,
         "ride-report": 0.05,
         "history": 0.06,
         "rumor": 0.05,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.22,
+        "episode": 0.04,
+        "build-feature": 0.25,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.1,
       "tags": [
         "custom",
-        "events-rides",
         "dirt-mx",
+        "events-rides",
         "classic",
         "scramblers"
       ],

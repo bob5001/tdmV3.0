@@ -29,7 +29,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.59,
+        "industry": 0.68,
         "motogp": 0.98
       },
       "subcategories": [
@@ -54,23 +54,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.92,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.03,
-        "explainer": 0.28,
+        "explainer": 0.29,
         "opinion": 0.03,
         "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.06,
-        "event-preview": 0.14,
-        "press-release": 0.78,
+        "event-preview": 0.13,
+        "press-release": 0.76,
         "digest": 0.2,
-        "photo-gallery": 0.02,
+        "photo-gallery": 0.01,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.03,
@@ -79,7 +79,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.37,
+      "multi_subject": 0.36,
       "tags": [
         "racing",
         "industry",
@@ -98,7 +98,7 @@
       "author": "GPOne",
       "published": "2026-09-23T15:38:53+00:00",
       "excerpt": "The Grand Prix Commission has decided on several rule changes. No concessions for Moto2; the introduction of non-fossil fuels for the lower classes has been postponed to 2028.",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/marquez-pitlane.jpg?itok=Z1Kvk_lE",
+      "image": null,
       "audio": null,
       "categories": [
         {
@@ -143,19 +143,19 @@
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.06,
-        "event-preview": 0.1,
-        "press-release": 0.46,
-        "digest": 0.48,
+        "event-preview": 0.11,
+        "press-release": 0.45,
+        "digest": 0.5,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.03,
         "rumor": 0.04,
-        "safety-notice": 0.89,
-        "episode": 0.03,
+        "safety-notice": 0.88,
+        "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.76,
+      "multi_subject": 0.72,
       "tags": [
         "racing",
         "motogp"
@@ -163,77 +163,71 @@
       "also": []
     },
     {
-      "id": "26c0fc9b2b45bdc0b2ece7485f696db08e8b495b",
-      "title": "MotoGP adds 20,000RPM limit to regulations, pit lane practice starts banned",
-      "link": "https://www.crash.net/motogp/news/1105087/1/motogp-adds-20000rpm-limit-regulations-pit-lane-practice-starts-banned",
+      "id": "99f99919d27025e62ceb9401a24253338b2dab21",
+      "title": "DfT wants new motorcycle emissions laws, but admits it has no evidence to justify them",
+      "link": "https://www.visordown.com/news/dft-wants-new-motorcycle-emissions-law-admits-it-has-no-evidence-justify-it",
       "lang": "en",
-      "source": "Crash.net",
+      "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-23T13:46:01+00:00",
-      "excerpt": "The Grand Prix Commission has announced decisions covering MotoGP RPM limits, practice starts, Moto2 concessions and non-fossil fuel introduction.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345899_hires_1600x900_0.jpg?width=1200",
+      "published": "2026-09-23T14:17:20+00:00",
+      "excerpt": "The Government wants to extend an existing emissions law to motorcycles, despite the DfT admitting it has no evidence showing that bikes need to be brought under the rules.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/street-triple-r-detail-20my-az4i0465-ab-1_0.jpeg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
-      "primary": "racing",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "industry": 0.88,
+        "law-safety": 0.85
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
         {
           "slug": "safety-notice",
           "label": "Safety & Rules"
         }
       ],
       "form_scores": {
-        "news": 0.92,
+        "news": 0.7,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.1,
+        "opinion": 0.2,
+        "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.16,
-        "press-release": 0.7,
-        "digest": 0.48,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.86,
-        "episode": 0.04,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.75,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.81,
+      "multi_subject": 0.04,
       "tags": [
-        "racing",
-        "motogp"
+        "industry",
+        "law-safety"
       ],
       "also": []
     },
@@ -269,7 +263,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "industry": 0.97,
-        "law-safety": 0.78
+        "law-safety": 0.76
       },
       "subcategories": [],
       "forms": [
@@ -283,32 +277,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.52,
+        "news": 0.5,
         "review": 0.02,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.21,
-        "how-to": 0.72,
+        "buyers-guide": 0.19,
+        "how-to": 0.66,
         "explainer": 0.36,
         "opinion": 0.04,
         "profile-interview": 0.02,
-        "tribute": 0.33,
+        "tribute": 0.36,
         "listing": 0.02,
-        "event-report": 0.01,
+        "event-report": 0.02,
         "event-preview": 0.01,
-        "press-release": 0.83,
-        "digest": 0.05,
+        "press-release": 0.84,
+        "digest": 0.06,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.63,
-        "rumor": 0.02,
+        "history": 0.65,
+        "rumor": 0.01,
         "safety-notice": 0.97,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "industry",
@@ -348,46 +342,46 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.77
+        "industry": 0.76
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
-        {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
         }
       ],
       "form_scores": {
-        "news": 0.79,
+        "news": 0.8,
         "review": 0.03,
         "comparison-test": 0.03,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.27,
+        "buyers-guide": 0.25,
         "how-to": 0.04,
-        "explainer": 0.23,
+        "explainer": 0.24,
         "opinion": 0.07,
-        "profile-interview": 0.08,
+        "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.24,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.22,
         "digest": 0.08,
-        "photo-gallery": 0.05,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.02,
-        "safety-notice": 0.81,
-        "episode": 0.03,
+        "safety-notice": 0.79,
+        "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "gear",
         "law-safety",
@@ -422,7 +416,7 @@
       "confident": true,
       "cat_scores": {
         "law-safety": 0.89,
-        "industry": 0.78
+        "industry": 0.76
       },
       "subcategories": [],
       "forms": [
@@ -432,7 +426,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.66,
+        "news": 0.65,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
@@ -446,13 +440,13 @@
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.11,
+        "press-release": 0.12,
         "digest": 0.08,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.07,
-        "safety-notice": 0.9,
+        "rumor": 0.08,
+        "safety-notice": 0.91,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.06

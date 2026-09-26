@@ -3,6 +3,77 @@
   "label": "Rumor & Spy Shots",
   "items": [
     {
+      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
+      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
+      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T14:49:42+00:00",
+      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.75,
+        "motogp": 0.75
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.84,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "6a1e61aaf0318e8189b94c38fc789b38d32afb0e",
       "title": "BMW looking ahead to 2027: new Ducati-style swingarm debuting in Cremona!",
       "link": "https://www.gpone.com/en/2026/09/25/wsbk/bmw-looking-ahead-to-2027-new-ducati-style-swingarm-debuting-in-cremona.html",
@@ -29,9 +100,9 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.83,
-        "motogp": 0.89,
-        "worldsbk-superbike": 0.7
+        "sport-bikes": 0.82,
+        "motogp": 0.91,
+        "worldsbk-superbike": 0.72
       },
       "subcategories": [
         {
@@ -54,28 +125,28 @@
       "form_scores": {
         "news": 0.66,
         "review": 0.08,
-        "comparison-test": 0.07,
-        "first-look": 0.6,
+        "comparison-test": 0.06,
+        "first-look": 0.56,
         "ranked-list": 0.03,
         "buyers-guide": 0.05,
         "how-to": 0.03,
         "explainer": 0.22,
         "opinion": 0.1,
-        "profile-interview": 0.17,
+        "profile-interview": 0.16,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.31,
-        "event-preview": 0.37,
-        "press-release": 0.55,
+        "event-report": 0.3,
+        "event-preview": 0.35,
+        "press-release": 0.52,
         "digest": 0.12,
-        "photo-gallery": 0.13,
+        "photo-gallery": 0.12,
         "ride-report": 0.02,
         "history": 0.05,
         "rumor": 0.76,
         "safety-notice": 0.02,
         "episode": 0.06,
-        "build-feature": 0.06,
-        "q-and-a": 0.04
+        "build-feature": 0.05,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.07,
       "tags": [
@@ -118,26 +189,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.28,
+        "news": 0.26,
         "review": 0.07,
         "comparison-test": 0.03,
-        "first-look": 0.35,
+        "first-look": 0.36,
         "ranked-list": 0.03,
         "buyers-guide": 0.1,
         "how-to": 0.03,
-        "explainer": 0.21,
-        "opinion": 0.71,
+        "explainer": 0.22,
+        "opinion": 0.72,
         "profile-interview": 0.07,
         "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.05,
-        "event-preview": 0.03,
+        "event-preview": 0.04,
         "press-release": 0.18,
         "digest": 0.07,
-        "photo-gallery": 0.13,
+        "photo-gallery": 0.14,
         "ride-report": 0.03,
-        "history": 0.05,
-        "rumor": 0.77,
+        "history": 0.04,
+        "rumor": 0.76,
         "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.08,
@@ -195,7 +266,7 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.85,
-        "adventure": 0.5
+        "adventure": 0.57
       },
       "subcategories": [],
       "forms": [
@@ -205,251 +276,63 @@
         }
       ],
       "form_scores": {
-        "news": 0.43,
-        "review": 0.06,
+        "news": 0.41,
+        "review": 0.05,
         "comparison-test": 0.02,
-        "first-look": 0.22,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.17,
+        "first-look": 0.23,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.15,
         "how-to": 0.02,
-        "explainer": 0.38,
-        "opinion": 0.2,
+        "explainer": 0.36,
+        "opinion": 0.18,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.18,
-        "press-release": 0.46,
+        "event-preview": 0.14,
+        "press-release": 0.44,
         "digest": 0.05,
         "photo-gallery": 0.05,
-        "ride-report": 0.02,
+        "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.75,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.02,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "new-models",
         "adventure"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
+          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
+          "published": "2026-09-24T16:31:02+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "BMW F450 R parallel twin-cylinder naked teased",
+          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
+          "published": "2026-09-25T08:57:18+00:00"
+        }
+      ]
     },
     {
-      "id": "6fde6c650f1958257cf01f7a4aa6496411df1808",
-      "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
-      "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
+      "id": "5c3f1a68b2f0814bdd618643b084ce0f378d067d",
+      "title": "Suzuki SV650 comeback teased! Could popular V-twin be reintroduced this November?",
+      "link": "https://www.motorcyclenews.com/news/2026/september/return-of-the-suzuki-sv650",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T16:31:02+00:00",
-      "excerpt": "BMW look set to reveal a highly anticipated F450R naked roadster next week, having shown the blacked-out silhouette of a new small-capacity street bike on social media on Wednesday, September...",
-      "image": "https://www.motorcyclenews.com/wp-images/439272/390x260/bmw-teaser-screen-shot.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.9
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.65,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.39,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.12,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.49,
-        "press-release": 0.53,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.89,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
-      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
-      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T14:49:42+00:00",
-      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.8,
-        "motogp": 0.79
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.05,
-        "comparison-test": 0.03,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.05,
-        "how-to": 0.02,
-        "explainer": 0.15,
-        "opinion": 0.11,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.85,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "4354adb3ca6940a132c685c0f79c7eb8fa4a5e2e",
-      "title": "BMW F450 R parallel twin-cylinder naked teased",
-      "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T08:57:18+00:00",
-      "excerpt": "BMW has teased a new F450 R naked bike, using the same 420cc parallel twin as the F450 GS and due to be revealed on October 1.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-25-at-09.45.01.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.87
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.37,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.37,
-        "press-release": 0.64,
-        "digest": 0.06,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.8,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "69b86d5f6cabf120d4b30e1a97d84abaf04bd221",
-      "title": "Iconic Suzuki SV650 set to be revived using SV-7GX engine",
-      "link": "https://www.visordown.com/news/iconic-suzuki-sv650-set-be-revived-using-sv-7gx-engine",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-18T10:29:06+00:00",
-      "excerpt": "Suzuki\u2019s iconic SV650 looks set to be revived using the same engine platform as the recently-launched SV-7GX, which could happen as early as November.",
-      "image": "https://www.visordown.com/sites/default/files/2024-08/sv650am5_action_1.jpg?width=1200",
+      "published": "2026-09-17T10:24:07+00:00",
+      "excerpt": "Suzuki\u2019s long-standing SV650 V-twin roadster could be making a comeback for 2027, with documents shared by the California Air Resources Board (CARB) showing both an SV-7GX tourer and SV650 in the...",
+      "image": "https://www.motorcyclenews.com/wp-images/438194/390x260/suzukisv650_2025_061.jpg",
       "audio": null,
       "categories": [
         {
@@ -468,104 +351,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.45,
-        "review": 0.05,
+        "news": 0.36,
+        "review": 0.04,
         "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.06,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.07,
-        "press-release": 0.24,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.83,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "odd-ball"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Suzuki SV650 comeback teased! Could popular V-twin be reintroduced this November?",
-          "link": "https://www.motorcyclenews.com/news/2026/september/return-of-the-suzuki-sv650",
-          "published": "2026-09-17T10:24:07+00:00"
-        }
-      ]
-    },
-    {
-      "id": "89449446db8d7bb20700e8cf73e88d787bb87d66",
-      "title": "CARB filing reveals new Ducati Streetfighter V4 SP for 2027",
-      "link": "https://www.visordown.com/news/carb-filing-reveals-new-ducati-streetfighter-v4-sp-2027",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T09:43:25+00:00",
-      "excerpt": "Ducati looks set to bring back the \u2018Sport Production\u2019 offering to its naked range with a new Streetfighter V4 SP model in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/field/image/MY23_Ducati_Streetfighter_V4SP2 _14__UC445894_High.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": false,
-      "cat_scores": {
-        "new-models": 0.77
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.72,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.11,
+        "first-look": 0.08,
         "ranked-list": 0.02,
         "buyers-guide": 0.1,
         "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.07,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.42,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
+        "explainer": 0.08,
+        "opinion": 0.11,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.06,
+        "press-release": 0.14,
+        "digest": 0.06,
+        "photo-gallery": 0.04,
         "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.83,
-        "safety-notice": 0.22,
+        "history": 0.03,
+        "rumor": 0.93,
+        "safety-notice": 0.07,
         "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "new-models"
+        "odd-ball"
       ],
       "also": []
     },
@@ -591,8 +404,8 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.89,
-        "cafe-racers": 0.56
+        "custom": 0.87,
+        "cafe-racers": 0.55
       },
       "subcategories": [
         {
@@ -608,19 +421,19 @@
         }
       ],
       "form_scores": {
-        "news": 0.38,
+        "news": 0.37,
         "review": 0.08,
         "comparison-test": 0.03,
-        "first-look": 0.19,
+        "first-look": 0.18,
         "ranked-list": 0.02,
         "buyers-guide": 0.07,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.19,
-        "opinion": 0.43,
+        "opinion": 0.39,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.03,
+        "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.12,
         "digest": 0.06,
@@ -667,7 +480,7 @@
       "confident": true,
       "cat_scores": {
         "sport-bikes": 0.93,
-        "new-models": 0.63
+        "new-models": 0.65
       },
       "subcategories": [],
       "forms": [
@@ -677,26 +490,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.62,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.22,
+        "news": 0.61,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.26,
         "ranked-list": 0.02,
         "buyers-guide": 0.08,
         "how-to": 0.02,
         "explainer": 0.09,
-        "opinion": 0.12,
+        "opinion": 0.11,
         "profile-interview": 0.06,
         "tribute": 0.01,
-        "listing": 0.02,
+        "listing": 0.01,
         "event-report": 0.04,
         "event-preview": 0.2,
-        "press-release": 0.33,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
+        "press-release": 0.37,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.87,
+        "history": 0.03,
+        "rumor": 0.88,
         "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.02,
@@ -744,27 +557,27 @@
       ],
       "form_scores": {
         "news": 0.86,
-        "review": 0.03,
+        "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.06,
         "ranked-list": 0.02,
-        "buyers-guide": 0.07,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.62,
+        "explainer": 0.61,
         "opinion": 0.06,
-        "profile-interview": 0.09,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.28,
+        "press-release": 0.27,
         "digest": 0.08,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.93,
-        "safety-notice": 0.04,
-        "episode": 0.03,
+        "history": 0.04,
+        "rumor": 0.94,
+        "safety-notice": 0.03,
+        "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
@@ -806,26 +619,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.41,
+        "news": 0.42,
         "review": 0.04,
         "comparison-test": 0.02,
-        "first-look": 0.21,
+        "first-look": 0.24,
         "ranked-list": 0.02,
         "buyers-guide": 0.08,
         "how-to": 0.02,
         "explainer": 0.08,
         "opinion": 0.19,
-        "profile-interview": 0.05,
+        "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.08,
-        "press-release": 0.16,
-        "digest": 0.06,
+        "press-release": 0.17,
+        "digest": 0.07,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.94,
+        "rumor": 0.93,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.02,

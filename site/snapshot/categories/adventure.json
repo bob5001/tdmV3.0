@@ -39,9 +39,9 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.9,
-        "dirt-mx": 0.83,
+        "dirt-mx": 0.85,
         "racing": 0.79,
-        "events-rides": 0.57
+        "events-rides": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -51,7 +51,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.46,
+        "news": 0.5,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
@@ -59,19 +59,19 @@
         "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.1,
-        "opinion": 0.61,
-        "profile-interview": 0.18,
+        "opinion": 0.57,
+        "profile-interview": 0.16,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.05,
-        "event-preview": 0.77,
+        "event-preview": 0.76,
         "press-release": 0.15,
         "digest": 0.07,
         "photo-gallery": 0.07,
         "ride-report": 0.03,
         "history": 0.03,
         "rumor": 0.03,
-        "safety-notice": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.06,
         "build-feature": 0.02,
         "q-and-a": 0.14
@@ -128,9 +128,9 @@
       "cat_scores": {
         "for-sale": 0.99,
         "adventure": 0.85,
-        "dirt-mx": 0.63,
-        "custom": 0.53,
-        "scramblers": 0.86
+        "dirt-mx": 0.66,
+        "custom": 0.59,
+        "scramblers": 0.87
       },
       "subcategories": [
         {
@@ -151,24 +151,24 @@
         "comparison-test": 0.01,
         "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.56,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.03,
+        "buyers-guide": 0.54,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.04,
         "profile-interview": 0.04,
         "tribute": 0.01,
-        "listing": 0.98,
-        "event-report": 0.23,
+        "listing": 0.99,
+        "event-report": 0.22,
         "event-preview": 0.03,
         "press-release": 0.06,
-        "digest": 0.11,
+        "digest": 0.1,
         "photo-gallery": 0.05,
         "ride-report": 0.02,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.33,
+        "build-feature": 0.39,
         "q-and-a": 0.01
       },
       "multi_subject": 0.05,
@@ -211,8 +211,8 @@
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.97,
-        "adventure": 0.96,
+        "events-rides": 0.98,
+        "adventure": 0.95,
         "dirt-mx": 0.94
       },
       "subcategories": [],
@@ -227,7 +227,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.88,
         "review": 0.04,
         "comparison-test": 0.04,
         "first-look": 0.05,
@@ -236,23 +236,23 @@
         "how-to": 0.03,
         "explainer": 0.09,
         "opinion": 0.07,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.02,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.01,
         "event-report": 0.91,
-        "event-preview": 0.12,
-        "press-release": 0.66,
-        "digest": 0.09,
+        "event-preview": 0.1,
+        "press-release": 0.67,
+        "digest": 0.08,
         "photo-gallery": 0.11,
         "ride-report": 0.12,
         "history": 0.16,
         "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.07,
       "tags": [
         "events-rides",
         "adventure",
@@ -287,21 +287,21 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.96,
-        "dirt-mx": 0.81
+        "dirt-mx": 0.79
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.92,
         "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.03,
@@ -311,22 +311,22 @@
         "explainer": 0.06,
         "opinion": 0.03,
         "profile-interview": 0.12,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.92,
         "event-preview": 0.04,
-        "press-release": 0.27,
-        "digest": 0.09,
+        "press-release": 0.26,
+        "digest": 0.08,
         "photo-gallery": 0.08,
         "ride-report": 0.05,
-        "history": 0.1,
+        "history": 0.11,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "adventure",
         "dirt-mx"
@@ -358,10 +358,6 @@
         {
           "slug": "events-rides",
           "label": "Events & Rides"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
         }
       ],
       "primary": "adventure",
@@ -369,8 +365,7 @@
       "cat_scores": {
         "adventure": 0.97,
         "dirt-mx": 0.92,
-        "events-rides": 0.62,
-        "racing": 0.5
+        "events-rides": 0.58
       },
       "subcategories": [],
       "forms": [
@@ -380,37 +375,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.51,
+        "news": 0.52,
         "review": 0.04,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.04,
         "buyers-guide": 0.04,
         "how-to": 0.03,
-        "explainer": 0.08,
-        "opinion": 0.11,
+        "explainer": 0.09,
+        "opinion": 0.12,
         "profile-interview": 0.73,
         "tribute": 0.05,
         "listing": 0.01,
-        "event-report": 0.79,
+        "event-report": 0.77,
         "event-preview": 0.05,
-        "press-release": 0.13,
+        "press-release": 0.12,
         "digest": 0.13,
         "photo-gallery": 0.11,
-        "ride-report": 0.55,
-        "history": 0.45,
+        "ride-report": 0.51,
+        "history": 0.44,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.08,
+        "episode": 0.07,
         "build-feature": 0.05,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.17,
+      "multi_subject": 0.15,
       "tags": [
         "adventure",
         "dirt-mx",
-        "events-rides",
-        "racing"
+        "events-rides"
       ],
       "also": []
     },
@@ -444,9 +438,9 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.88,
+        "adventure": 0.89,
         "new-models": 0.74,
-        "events-rides": 0.67
+        "events-rides": 0.63
       },
       "subcategories": [],
       "forms": [
@@ -456,32 +450,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.26,
+        "news": 0.25,
         "review": 0.92,
         "comparison-test": 0.07,
         "first-look": 0.15,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.2,
-        "how-to": 0.05,
-        "explainer": 0.11,
-        "opinion": 0.25,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.21,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.26,
         "profile-interview": 0.06,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.45,
-        "event-preview": 0.07,
-        "press-release": 0.24,
+        "event-report": 0.44,
+        "event-preview": 0.06,
+        "press-release": 0.22,
         "digest": 0.09,
-        "photo-gallery": 0.12,
+        "photo-gallery": 0.13,
         "ride-report": 0.61,
-        "history": 0.08,
+        "history": 0.09,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.04,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.09,
       "tags": [
         "adventure",
         "new-models",
@@ -519,9 +513,9 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.98,
+        "adventure": 0.99,
         "new-models": 0.97,
-        "dirt-mx": 0.72
+        "dirt-mx": 0.74
       },
       "subcategories": [],
       "forms": [
@@ -531,24 +525,24 @@
         }
       ],
       "form_scores": {
-        "news": 0.19,
-        "review": 0.98,
+        "news": 0.18,
+        "review": 0.97,
         "comparison-test": 0.06,
-        "first-look": 0.33,
+        "first-look": 0.34,
         "ranked-list": 0.03,
-        "buyers-guide": 0.57,
+        "buyers-guide": 0.6,
         "how-to": 0.05,
-        "explainer": 0.19,
+        "explainer": 0.18,
         "opinion": 0.48,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.22,
+        "event-report": 0.2,
         "event-preview": 0.03,
         "press-release": 0.11,
         "digest": 0.07,
         "photo-gallery": 0.07,
-        "ride-report": 0.56,
+        "ride-report": 0.55,
         "history": 0.04,
         "rumor": 0.05,
         "safety-notice": 0.02,
@@ -599,9 +593,9 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "dirt-mx": 0.71,
-        "racing": 0.66,
-        "events-rides": 0.54
+        "dirt-mx": 0.7,
+        "racing": 0.64,
+        "events-rides": 0.56
       },
       "subcategories": [],
       "forms": [
@@ -615,7 +609,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.88,
         "review": 0.05,
         "comparison-test": 0.06,
         "first-look": 0.03,
@@ -624,16 +618,16 @@
         "how-to": 0.02,
         "explainer": 0.1,
         "opinion": 0.06,
-        "profile-interview": 0.12,
+        "profile-interview": 0.13,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.98,
         "event-preview": 0.03,
-        "press-release": 0.53,
-        "digest": 0.04,
+        "press-release": 0.52,
+        "digest": 0.05,
         "photo-gallery": 0.03,
         "ride-report": 0.02,
-        "history": 0.1,
+        "history": 0.11,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
@@ -688,7 +682,7 @@
       "cat_scores": {
         "adventure": 0.97,
         "new-models": 0.94,
-        "dirt-mx": 0.9
+        "dirt-mx": 0.89
       },
       "subcategories": [],
       "forms": [
@@ -699,28 +693,28 @@
       ],
       "form_scores": {
         "news": 0.88,
-        "review": 0.2,
+        "review": 0.21,
         "comparison-test": 0.11,
-        "first-look": 0.24,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.3,
+        "first-look": 0.25,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.32,
         "how-to": 0.02,
         "explainer": 0.09,
         "opinion": 0.1,
         "profile-interview": 0.06,
         "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.05,
+        "listing": 0.05,
+        "event-report": 0.04,
         "event-preview": 0.03,
-        "press-release": 0.66,
+        "press-release": 0.67,
         "digest": 0.09,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.16,
+        "rumor": 0.15,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
@@ -762,8 +756,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.97,
-        "new-models": 0.88,
-        "dirt-mx": 0.59
+        "new-models": 0.87,
+        "dirt-mx": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -774,28 +768,28 @@
       ],
       "form_scores": {
         "news": 0.54,
-        "review": 0.75,
+        "review": 0.76,
         "comparison-test": 0.13,
-        "first-look": 0.61,
+        "first-look": 0.63,
         "ranked-list": 0.07,
         "buyers-guide": 0.41,
         "how-to": 0.09,
-        "explainer": 0.26,
-        "opinion": 0.18,
-        "profile-interview": 0.09,
+        "explainer": 0.25,
+        "opinion": 0.19,
+        "profile-interview": 0.08,
         "tribute": 0.03,
-        "listing": 0.27,
-        "event-report": 0.08,
-        "event-preview": 0.06,
+        "listing": 0.3,
+        "event-report": 0.09,
+        "event-preview": 0.05,
         "press-release": 0.6,
         "digest": 0.09,
-        "photo-gallery": 0.21,
+        "photo-gallery": 0.22,
         "ride-report": 0.14,
         "history": 0.04,
-        "rumor": 0.58,
-        "safety-notice": 0.09,
+        "rumor": 0.51,
+        "safety-notice": 0.08,
         "episode": 0.06,
-        "build-feature": 0.06,
+        "build-feature": 0.05,
         "q-and-a": 0.08
       },
       "multi_subject": 0.07,
@@ -838,7 +832,7 @@
       "cat_scores": {
         "adventure": 0.99,
         "new-models": 0.93,
-        "dirt-mx": 0.87
+        "dirt-mx": 0.86
       },
       "subcategories": [],
       "forms": [
@@ -848,26 +842,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.83,
-        "review": 0.11,
-        "comparison-test": 0.16,
-        "first-look": 0.2,
+        "news": 0.84,
+        "review": 0.1,
+        "comparison-test": 0.14,
+        "first-look": 0.18,
         "ranked-list": 0.02,
         "buyers-guide": 0.49,
         "how-to": 0.02,
         "explainer": 0.15,
-        "opinion": 0.35,
+        "opinion": 0.37,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.57,
+        "press-release": 0.54,
         "digest": 0.05,
         "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.05,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.01,
@@ -911,9 +905,9 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.92,
-        "events-rides": 0.78,
-        "dirt-mx": 0.72
+        "adventure": 0.91,
+        "events-rides": 0.81,
+        "dirt-mx": 0.74
       },
       "subcategories": [],
       "forms": [
@@ -931,30 +925,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.89,
         "review": 0.05,
         "comparison-test": 0.07,
         "first-look": 0.05,
         "ranked-list": 0.04,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.07,
         "how-to": 0.05,
         "explainer": 0.14,
         "opinion": 0.05,
-        "profile-interview": 0.07,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.07,
+        "event-report": 0.08,
         "event-preview": 0.97,
-        "press-release": 0.86,
+        "press-release": 0.85,
         "digest": 0.1,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.04,
-        "history": 0.03,
-        "rumor": 0.06,
+        "history": 0.04,
+        "rumor": 0.07,
         "safety-notice": 0.03,
         "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
@@ -985,13 +979,23 @@
         {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.69,
-        "new-models": 0.61
+        "adventure": 0.67,
+        "new-models": 0.62,
+        "racing": 0.54,
+        "sport-bikes": 0.52
       },
       "subcategories": [],
       "forms": [
@@ -1005,21 +1009,21 @@
         }
       ],
       "form_scores": {
-        "news": 0.8,
+        "news": 0.81,
         "review": 0.16,
         "comparison-test": 0.03,
-        "first-look": 0.22,
+        "first-look": 0.24,
         "ranked-list": 0.02,
         "buyers-guide": 0.1,
         "how-to": 0.02,
         "explainer": 0.21,
         "opinion": 0.07,
-        "profile-interview": 0.11,
+        "profile-interview": 0.1,
         "tribute": 0.08,
-        "listing": 0.04,
+        "listing": 0.03,
         "event-report": 0.08,
-        "event-preview": 0.21,
-        "press-release": 0.88,
+        "event-preview": 0.22,
+        "press-release": 0.87,
         "digest": 0.08,
         "photo-gallery": 0.13,
         "ride-report": 0.03,
@@ -1033,7 +1037,9 @@
       "multi_subject": 0.05,
       "tags": [
         "adventure",
-        "new-models"
+        "new-models",
+        "racing",
+        "sport-bikes"
       ],
       "also": [
         {
@@ -1049,6 +1055,81 @@
           "published": "2026-09-24T16:32:54+00:00"
         }
       ]
+    },
+    {
+      "id": "41914649d716f39449e855766d43c381d6394448",
+      "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
+      "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Dean Larson",
+      "published": "2026-09-24T17:00:00+00:00",
+      "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
+      "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.94,
+        "custom": 0.92,
+        "adventure": 0.63
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.27,
+        "comparison-test": 0.04,
+        "first-look": 0.22,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.1,
+        "how-to": 0.06,
+        "explainer": 0.19,
+        "opinion": 0.16,
+        "profile-interview": 0.51,
+        "tribute": 0.12,
+        "listing": 0.11,
+        "event-report": 0.06,
+        "event-preview": 0.04,
+        "press-release": 0.16,
+        "digest": 0.09,
+        "photo-gallery": 0.47,
+        "ride-report": 0.06,
+        "history": 0.66,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.89,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "custom",
+        "adventure"
+      ],
+      "also": []
     },
     {
       "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
@@ -1086,8 +1167,8 @@
       "cat_scores": {
         "dirt-mx": 0.92,
         "events-rides": 0.84,
-        "adventure": 0.75,
-        "racing": 0.71
+        "adventure": 0.77,
+        "racing": 0.67
       },
       "subcategories": [],
       "forms": [
@@ -1104,16 +1185,16 @@
         "news": 0.1,
         "review": 0.08,
         "comparison-test": 0.07,
-        "first-look": 0.08,
+        "first-look": 0.09,
         "ranked-list": 0.03,
         "buyers-guide": 0.06,
         "how-to": 0.09,
-        "explainer": 0.19,
-        "opinion": 0.45,
-        "profile-interview": 0.15,
-        "tribute": 0.18,
+        "explainer": 0.21,
+        "opinion": 0.46,
+        "profile-interview": 0.16,
+        "tribute": 0.21,
         "listing": 0.01,
-        "event-report": 0.78,
+        "event-report": 0.79,
         "event-preview": 0.07,
         "press-release": 0.04,
         "digest": 0.06,
@@ -1123,10 +1204,10 @@
         "rumor": 0.02,
         "safety-notice": 0.04,
         "episode": 0.04,
-        "build-feature": 0.12,
-        "q-and-a": 0.06
+        "build-feature": 0.14,
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
         "events-rides",
@@ -1162,7 +1243,7 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.85,
-        "adventure": 0.5
+        "adventure": 0.57
       },
       "subcategories": [],
       "forms": [
@@ -1172,112 +1253,50 @@
         }
       ],
       "form_scores": {
-        "news": 0.43,
-        "review": 0.06,
+        "news": 0.41,
+        "review": 0.05,
         "comparison-test": 0.02,
-        "first-look": 0.22,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.17,
+        "first-look": 0.23,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.15,
         "how-to": 0.02,
-        "explainer": 0.38,
-        "opinion": 0.2,
+        "explainer": 0.36,
+        "opinion": 0.18,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.18,
-        "press-release": 0.46,
+        "event-preview": 0.14,
+        "press-release": 0.44,
         "digest": 0.05,
         "photo-gallery": 0.05,
-        "ride-report": 0.02,
+        "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.75,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.02,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "new-models",
         "adventure"
       ],
-      "also": []
-    },
-    {
-      "id": "41914649d716f39449e855766d43c381d6394448",
-      "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
-      "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Dean Larson",
-      "published": "2026-09-24T17:00:00+00:00",
-      "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
-      "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
-      "audio": null,
-      "categories": [
+      "also": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "source": "Motorcycle News (MCN)",
+          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
+          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
+          "published": "2026-09-24T16:31:02+00:00"
         },
         {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
+          "source": "Visordown",
+          "title": "BMW F450 R parallel twin-cylinder naked teased",
+          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
+          "published": "2026-09-25T08:57:18+00:00"
         }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.95,
-        "custom": 0.92,
-        "adventure": 0.6
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.32,
-        "comparison-test": 0.04,
-        "first-look": 0.24,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.1,
-        "how-to": 0.06,
-        "explainer": 0.19,
-        "opinion": 0.16,
-        "profile-interview": 0.49,
-        "tribute": 0.12,
-        "listing": 0.12,
-        "event-report": 0.06,
-        "event-preview": 0.04,
-        "press-release": 0.16,
-        "digest": 0.09,
-        "photo-gallery": 0.47,
-        "ride-report": 0.06,
-        "history": 0.64,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.89,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "custom",
-        "adventure"
-      ],
-      "also": []
+      ]
     },
     {
       "id": "1a55d671067d17f1fd3be4da47d8307fe6740d96",
@@ -1313,10 +1332,10 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.91,
+        "dirt-mx": 0.89,
         "adventure": 0.87,
         "new-models": 0.82,
-        "industry": 0.69
+        "industry": 0.7
       },
       "subcategories": [],
       "forms": [
@@ -1326,26 +1345,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.64,
+        "news": 0.63,
         "review": 0.09,
         "comparison-test": 0.02,
-        "first-look": 0.08,
+        "first-look": 0.09,
         "ranked-list": 0.02,
         "buyers-guide": 0.36,
         "how-to": 0.03,
-        "explainer": 0.3,
-        "opinion": 0.51,
-        "profile-interview": 0.06,
+        "explainer": 0.31,
+        "opinion": 0.5,
+        "profile-interview": 0.07,
         "tribute": 0.01,
-        "listing": 0.06,
+        "listing": 0.07,
         "event-report": 0.04,
         "event-preview": 0.05,
-        "press-release": 0.78,
-        "digest": 0.05,
+        "press-release": 0.77,
+        "digest": 0.06,
         "photo-gallery": 0.02,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.07,
+        "rumor": 0.08,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.02,
@@ -1374,17 +1393,17 @@
       ]
     },
     {
-      "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
-      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
-      "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
+      "id": "9fdce52a78d41b5b872c09752c80f23bd865e953",
+      "title": "Throwback Thursday\u2014Hometown Hero: A SR150 Scrambler from Taiwan",
+      "link": "https://www.bikeexif.com/throwback-thursday-sr150-scrambler-from-taiwan",
       "lang": "en",
       "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Chris Hunter",
-      "published": "2026-09-23T18:00:00+00:00",
-      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
+      "author": "Wesley Reyneke",
+      "published": "2026-09-17T17:00:00+00:00",
+      "excerpt": "Yamaha's beloved SR has come in an array of sizes over the years, all closely re...",
+      "image": "https://images.bikeexif.com/2022/09/_1200x675_crop_center-center_82_line/yamaha-sr-scrambler.jpg",
       "audio": null,
       "categories": [
         {
@@ -1396,10 +1415,6 @@
           "label": "Classic"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
         }
@@ -1407,58 +1422,60 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.87,
-        "classic": 0.85,
-        "dirt-mx": 0.72,
-        "adventure": 0.5,
-        "restomods": 0.51
+        "custom": 0.94,
+        "classic": 0.72,
+        "adventure": 0.59,
+        "scramblers": 0.82
       },
       "subcategories": [
         {
-          "slug": "restomods",
-          "label": "Restomods",
+          "slug": "scramblers",
+          "label": "Scramblers",
           "parent": "custom"
         }
       ],
       "forms": [
+        {
+          "slug": "history",
+          "label": "History"
+        },
         {
           "slug": "build-feature",
           "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.13,
-        "review": 0.53,
-        "comparison-test": 0.06,
-        "first-look": 0.18,
+        "news": 0.06,
+        "review": 0.43,
+        "comparison-test": 0.05,
+        "first-look": 0.08,
         "ranked-list": 0.06,
-        "buyers-guide": 0.19,
-        "how-to": 0.27,
-        "explainer": 0.47,
-        "opinion": 0.23,
-        "profile-interview": 0.22,
-        "tribute": 0.08,
-        "listing": 0.18,
-        "event-report": 0.06,
-        "event-preview": 0.03,
-        "press-release": 0.09,
-        "digest": 0.16,
-        "photo-gallery": 0.17,
-        "ride-report": 0.16,
-        "history": 0.26,
+        "buyers-guide": 0.18,
+        "how-to": 0.07,
+        "explainer": 0.24,
+        "opinion": 0.17,
+        "profile-interview": 0.38,
+        "tribute": 0.3,
+        "listing": 0.14,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.24,
+        "ride-report": 0.1,
+        "history": 0.84,
         "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.06,
+        "episode": 0.04,
         "build-feature": 0.8,
-        "q-and-a": 0.09
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.06,
       "tags": [
         "custom",
         "classic",
-        "dirt-mx",
         "adventure",
-        "restomods"
+        "scramblers"
       ],
       "also": []
     },
@@ -1498,24 +1515,24 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.12,
+        "news": 0.85,
+        "review": 0.1,
         "comparison-test": 0.02,
-        "first-look": 0.18,
+        "first-look": 0.19,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.05,
         "how-to": 0.02,
-        "explainer": 0.1,
+        "explainer": 0.09,
         "opinion": 0.05,
         "profile-interview": 0.09,
         "tribute": 0.02,
         "listing": 0.03,
         "event-report": 0.07,
-        "event-preview": 0.57,
+        "event-preview": 0.54,
         "press-release": 0.8,
-        "digest": 0.07,
+        "digest": 0.08,
         "photo-gallery": 0.2,
-        "ride-report": 0.02,
+        "ride-report": 0.03,
         "history": 0.04,
         "rumor": 0.1,
         "safety-notice": 0.02,
@@ -1530,26 +1547,22 @@
       "also": []
     },
     {
-      "id": "9fdce52a78d41b5b872c09752c80f23bd865e953",
-      "title": "Throwback Thursday\u2014Hometown Hero: A SR150 Scrambler from Taiwan",
-      "link": "https://www.bikeexif.com/throwback-thursday-sr150-scrambler-from-taiwan",
+      "id": "92bf7a70d5ad89227438006c463bcfb46c086e84",
+      "title": "The Tiger of Nagpur: Garuda Machina's Royal Enfield Hunter 350 Tracker",
+      "link": "https://www.bikeexif.com/garuda-machinas-royal-enfield-hunter-350-tracker",
       "lang": "en",
       "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Wesley Reyneke",
-      "published": "2026-09-17T17:00:00+00:00",
-      "excerpt": "Yamaha's beloved SR has come in an array of sizes over the years, all closely re...",
-      "image": "https://images.bikeexif.com/2022/09/_1200x675_crop_center-center_82_line/yamaha-sr-scrambler.jpg",
+      "author": "Tom Gosselin",
+      "published": "2026-09-16T18:00:00+00:00",
+      "excerpt": "When Royal Enfield introduced the Hunter 350, it quickly became a darling of the...",
+      "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/Garuda-Machina-Royal-Enfield-Hunter-350-3_2026-09-05-181618_tyed.JPG?v=1788632178",
       "audio": null,
       "categories": [
         {
           "slug": "custom",
           "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
         },
         {
           "slug": "adventure",
@@ -1559,60 +1572,54 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.93,
-        "classic": 0.76,
-        "adventure": 0.6,
-        "scramblers": 0.82
+        "custom": 0.96,
+        "adventure": 0.54,
+        "trackers": 0.7
       },
       "subcategories": [
         {
-          "slug": "scramblers",
-          "label": "Scramblers",
+          "slug": "trackers",
+          "label": "Trackers",
           "parent": "custom"
         }
       ],
       "forms": [
-        {
-          "slug": "history",
-          "label": "History"
-        },
         {
           "slug": "build-feature",
           "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.06,
-        "review": 0.4,
-        "comparison-test": 0.05,
-        "first-look": 0.09,
-        "ranked-list": 0.05,
+        "news": 0.13,
+        "review": 0.58,
+        "comparison-test": 0.07,
+        "first-look": 0.2,
+        "ranked-list": 0.06,
         "buyers-guide": 0.18,
-        "how-to": 0.07,
-        "explainer": 0.24,
-        "opinion": 0.17,
+        "how-to": 0.08,
+        "explainer": 0.25,
+        "opinion": 0.34,
         "profile-interview": 0.35,
-        "tribute": 0.33,
-        "listing": 0.14,
-        "event-report": 0.06,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.25,
-        "ride-report": 0.1,
-        "history": 0.86,
-        "rumor": 0.04,
+        "tribute": 0.05,
+        "listing": 0.09,
+        "event-report": 0.08,
+        "event-preview": 0.04,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.21,
+        "ride-report": 0.15,
+        "history": 0.12,
+        "rumor": 0.05,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.79,
-        "q-and-a": 0.05
+        "episode": 0.05,
+        "build-feature": 0.82,
+        "q-and-a": 0.04
       },
       "multi_subject": 0.06,
       "tags": [
         "custom",
-        "classic",
         "adventure",
-        "scramblers"
+        "trackers"
       ],
       "also": []
     },
@@ -1638,7 +1645,7 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.71
+        "adventure": 0.75
       },
       "subcategories": [],
       "forms": [
@@ -1652,29 +1659,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.86,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.09,
+        "explainer": 0.08,
         "opinion": 0.04,
-        "profile-interview": 0.29,
+        "profile-interview": 0.32,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.05,
-        "event-preview": 0.78,
-        "press-release": 0.73,
+        "event-preview": 0.77,
+        "press-release": 0.71,
         "digest": 0.1,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.04,
         "history": 0.04,
         "rumor": 0.05,
         "safety-notice": 0.02,
         "episode": 0.05,
-        "build-feature": 0.05,
+        "build-feature": 0.06,
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
@@ -1713,8 +1720,8 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.85,
-        "gear": 0.83,
+        "adventure": 0.87,
+        "gear": 0.85,
         "dirt-mx": 0.7
       },
       "subcategories": [],
@@ -1732,23 +1739,23 @@
         "news": 0.89,
         "review": 0.16,
         "comparison-test": 0.03,
-        "first-look": 0.17,
+        "first-look": 0.16,
         "ranked-list": 0.03,
         "buyers-guide": 0.17,
         "how-to": 0.04,
-        "explainer": 0.14,
+        "explainer": 0.15,
         "opinion": 0.05,
-        "profile-interview": 0.14,
+        "profile-interview": 0.15,
         "tribute": 0.01,
-        "listing": 0.08,
-        "event-report": 0.02,
-        "event-preview": 0.03,
+        "listing": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.04,
         "press-release": 0.91,
-        "digest": 0.17,
-        "photo-gallery": 0.13,
+        "digest": 0.18,
+        "photo-gallery": 0.14,
         "ride-report": 0.02,
         "history": 0.04,
-        "rumor": 0.27,
+        "rumor": 0.26,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.03,
@@ -1784,40 +1791,35 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.75
+        "adventure": 0.74
       },
       "subcategories": [],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.73,
+        "news": 0.72,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.04,
+        "first-look": 0.03,
         "ranked-list": 0.03,
         "buyers-guide": 0.05,
         "how-to": 0.03,
         "explainer": 0.11,
         "opinion": 0.07,
-        "profile-interview": 0.76,
+        "profile-interview": 0.74,
         "tribute": 0.03,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.07,
-        "event-preview": 0.61,
-        "press-release": 0.23,
+        "event-preview": 0.6,
+        "press-release": 0.26,
         "digest": 0.07,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.07,
         "ride-report": 0.07,
         "history": 0.07,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.04,
-        "q-and-a": 0.05
+        "q-and-a": 0.04
       },
       "multi_subject": 0.05,
       "tags": [
@@ -1850,138 +1852,48 @@
         {
           "slug": "adventure",
           "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.92,
+        "dirt-mx": 0.91,
         "custom": 0.88,
-        "adventure": 0.73,
-        "events-rides": 0.51
+        "adventure": 0.71
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
         "news": 0.73,
         "review": 0.03,
-        "comparison-test": 0.27,
-        "first-look": 0.1,
-        "ranked-list": 0.27,
-        "buyers-guide": 0.11,
+        "comparison-test": 0.28,
+        "first-look": 0.09,
+        "ranked-list": 0.28,
+        "buyers-guide": 0.12,
         "how-to": 0.03,
         "explainer": 0.11,
-        "opinion": 0.08,
-        "profile-interview": 0.1,
+        "opinion": 0.09,
+        "profile-interview": 0.11,
         "tribute": 0.05,
         "listing": 0.05,
-        "event-report": 0.11,
-        "event-preview": 0.53,
+        "event-report": 0.12,
+        "event-preview": 0.51,
         "press-release": 0.52,
         "digest": 0.16,
         "photo-gallery": 0.26,
-        "ride-report": 0.02,
+        "ride-report": 0.03,
         "history": 0.06,
         "rumor": 0.05,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.06,
         "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.54,
+      "multi_subject": 0.52,
       "tags": [
         "dirt-mx",
         "custom",
-        "adventure",
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "92bf7a70d5ad89227438006c463bcfb46c086e84",
-      "title": "The Tiger of Nagpur: Garuda Machina's Royal Enfield Hunter 350 Tracker",
-      "link": "https://www.bikeexif.com/garuda-machinas-royal-enfield-hunter-350-tracker",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-16T18:00:00+00:00",
-      "excerpt": "When Royal Enfield introduced the Hunter 350, it quickly became a darling of the...",
-      "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/Garuda-Machina-Royal-Enfield-Hunter-350-3_2026-09-05-181618_tyed.JPG?v=1788632178",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.96,
-        "adventure": 0.58,
-        "scramblers": 0.53,
-        "trackers": 0.71
-      },
-      "subcategories": [
-        {
-          "slug": "scramblers",
-          "label": "Scramblers",
-          "parent": "custom"
-        },
-        {
-          "slug": "trackers",
-          "label": "Trackers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.13,
-        "review": 0.54,
-        "comparison-test": 0.07,
-        "first-look": 0.21,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.18,
-        "how-to": 0.09,
-        "explainer": 0.25,
-        "opinion": 0.35,
-        "profile-interview": 0.39,
-        "tribute": 0.05,
-        "listing": 0.08,
-        "event-report": 0.08,
-        "event-preview": 0.04,
-        "press-release": 0.1,
-        "digest": 0.07,
-        "photo-gallery": 0.2,
-        "ride-report": 0.17,
-        "history": 0.12,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.82,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom",
-        "adventure",
-        "scramblers",
-        "trackers"
+        "adventure"
       ],
       "also": []
     },
@@ -2011,36 +1923,36 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.95,
-        "adventure": 0.59
+        "dirt-mx": 0.96,
+        "adventure": 0.58
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.09,
-        "review": 0.46,
-        "comparison-test": 0.06,
-        "first-look": 0.25,
+        "news": 0.08,
+        "review": 0.43,
+        "comparison-test": 0.05,
+        "first-look": 0.23,
         "ranked-list": 0.04,
-        "buyers-guide": 0.18,
-        "how-to": 0.16,
+        "buyers-guide": 0.17,
+        "how-to": 0.15,
         "explainer": 0.34,
         "opinion": 0.55,
-        "profile-interview": 0.19,
-        "tribute": 0.03,
+        "profile-interview": 0.21,
+        "tribute": 0.04,
         "listing": 0.03,
         "event-report": 0.11,
         "event-preview": 0.05,
         "press-release": 0.13,
-        "digest": 0.1,
+        "digest": 0.09,
         "photo-gallery": 0.13,
-        "ride-report": 0.45,
-        "history": 0.08,
+        "ride-report": 0.44,
+        "history": 0.07,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.07,
         "build-feature": 0.04,
-        "q-and-a": 0.06
+        "q-and-a": 0.05
       },
       "multi_subject": 0.07,
       "tags": [
@@ -2068,44 +1980,44 @@
           "label": "Adventure"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
         "adventure": 0.97,
-        "new-models": 0.59,
-        "dirt-mx": 0.58
+        "dirt-mx": 0.61,
+        "new-models": 0.57
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.68,
-        "review": 0.19,
+        "news": 0.67,
+        "review": 0.2,
         "comparison-test": 0.04,
-        "first-look": 0.55,
+        "first-look": 0.51,
         "ranked-list": 0.02,
-        "buyers-guide": 0.1,
+        "buyers-guide": 0.11,
         "how-to": 0.03,
-        "explainer": 0.16,
-        "opinion": 0.09,
-        "profile-interview": 0.15,
-        "tribute": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.1,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.14,
-        "event-preview": 0.09,
-        "press-release": 0.36,
+        "event-report": 0.15,
+        "event-preview": 0.08,
+        "press-release": 0.37,
         "digest": 0.09,
-        "photo-gallery": 0.12,
+        "photo-gallery": 0.13,
         "ride-report": 0.05,
         "history": 0.06,
-        "rumor": 0.66,
+        "rumor": 0.65,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.04,
@@ -2114,8 +2026,8 @@
       "multi_subject": 0.06,
       "tags": [
         "adventure",
-        "new-models",
-        "dirt-mx"
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
@@ -2146,37 +2058,37 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.91,
-        "new-models": 0.57
+        "new-models": 0.58
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.17,
+        "news": 0.18,
         "review": 0.33,
-        "comparison-test": 0.26,
-        "first-look": 0.44,
+        "comparison-test": 0.24,
+        "first-look": 0.46,
         "ranked-list": 0.14,
         "buyers-guide": 0.68,
-        "how-to": 0.05,
+        "how-to": 0.06,
         "explainer": 0.45,
-        "opinion": 0.72,
+        "opinion": 0.74,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.04,
-        "event-preview": 0.03,
+        "event-preview": 0.02,
         "press-release": 0.12,
         "digest": 0.07,
         "photo-gallery": 0.06,
         "ride-report": 0.05,
         "history": 0.04,
-        "rumor": 0.06,
+        "rumor": 0.07,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.25
+        "q-and-a": 0.22
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.06,
       "tags": [
         "adventure",
         "new-models"
@@ -2209,9 +2121,9 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.95,
-        "adventure": 0.64,
-        "scramblers": 0.75
+        "custom": 0.94,
+        "adventure": 0.69,
+        "scramblers": 0.77
       },
       "subcategories": [
         {
@@ -2232,29 +2144,29 @@
       ],
       "form_scores": {
         "news": 0.15,
-        "review": 0.52,
-        "comparison-test": 0.04,
+        "review": 0.57,
+        "comparison-test": 0.05,
         "first-look": 0.15,
         "ranked-list": 0.06,
-        "buyers-guide": 0.14,
+        "buyers-guide": 0.16,
         "how-to": 0.06,
-        "explainer": 0.18,
-        "opinion": 0.16,
-        "profile-interview": 0.78,
+        "explainer": 0.19,
+        "opinion": 0.17,
+        "profile-interview": 0.79,
         "tribute": 0.05,
-        "listing": 0.21,
-        "event-report": 0.07,
+        "listing": 0.22,
+        "event-report": 0.06,
         "event-preview": 0.04,
-        "press-release": 0.14,
-        "digest": 0.09,
+        "press-release": 0.15,
+        "digest": 0.08,
         "photo-gallery": 0.3,
         "ride-report": 0.09,
-        "history": 0.13,
-        "rumor": 0.06,
+        "history": 0.12,
+        "rumor": 0.07,
         "safety-notice": 0.02,
-        "episode": 0.06,
+        "episode": 0.07,
         "build-feature": 0.9,
-        "q-and-a": 0.05
+        "q-and-a": 0.04
       },
       "multi_subject": 0.06,
       "tags": [
@@ -2295,35 +2207,35 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "dirt-mx": 0.56,
-        "custom": 0.5
+        "dirt-mx": 0.57,
+        "custom": 0.52
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
         "news": 0.25,
         "review": 0.37,
-        "comparison-test": 0.13,
-        "first-look": 0.29,
+        "comparison-test": 0.14,
+        "first-look": 0.3,
         "ranked-list": 0.11,
-        "buyers-guide": 0.2,
-        "how-to": 0.17,
+        "buyers-guide": 0.19,
+        "how-to": 0.18,
         "explainer": 0.24,
         "opinion": 0.39,
         "profile-interview": 0.71,
         "tribute": 0.4,
         "listing": 0.24,
         "event-report": 0.29,
-        "event-preview": 0.17,
+        "event-preview": 0.18,
         "press-release": 0.14,
-        "digest": 0.2,
-        "photo-gallery": 0.25,
+        "digest": 0.18,
+        "photo-gallery": 0.24,
         "ride-report": 0.38,
-        "history": 0.48,
-        "rumor": 0.23,
+        "history": 0.46,
+        "rumor": 0.26,
         "safety-notice": 0.11,
-        "episode": 0.17,
-        "build-feature": 0.48,
+        "episode": 0.16,
+        "build-feature": 0.47,
         "q-and-a": 0.18
       },
       "multi_subject": 0.19,
@@ -2364,9 +2276,9 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.89,
-        "electric": 0.59,
-        "adventure": 0.58
+        "gear": 0.86,
+        "electric": 0.62,
+        "adventure": 0.6
       },
       "subcategories": [],
       "forms": [
@@ -2380,32 +2292,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.17,
+        "news": 0.16,
         "review": 0.88,
-        "comparison-test": 0.16,
+        "comparison-test": 0.15,
         "first-look": 0.73,
         "ranked-list": 0.05,
-        "buyers-guide": 0.39,
+        "buyers-guide": 0.41,
         "how-to": 0.06,
-        "explainer": 0.52,
+        "explainer": 0.54,
         "opinion": 0.9,
-        "profile-interview": 0.14,
+        "profile-interview": 0.13,
         "tribute": 0.03,
         "listing": 0.04,
         "event-report": 0.05,
         "event-preview": 0.03,
-        "press-release": 0.19,
-        "digest": 0.07,
-        "photo-gallery": 0.09,
-        "ride-report": 0.17,
+        "press-release": 0.2,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.19,
         "history": 0.04,
-        "rumor": 0.09,
+        "rumor": 0.1,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.08,
-        "q-and-a": 0.06
+        "build-feature": 0.1,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.07,
       "tags": [
         "gear",
         "electric",
@@ -2444,7 +2356,7 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.97,
-        "new-models": 0.95,
+        "new-models": 0.94,
         "dirt-mx": 0.73
       },
       "subcategories": [],
@@ -2460,122 +2372,35 @@
       ],
       "form_scores": {
         "news": 0.85,
-        "review": 0.16,
+        "review": 0.17,
         "comparison-test": 0.03,
-        "first-look": 0.31,
+        "first-look": 0.32,
         "ranked-list": 0.02,
         "buyers-guide": 0.29,
         "how-to": 0.02,
         "explainer": 0.12,
-        "opinion": 0.07,
+        "opinion": 0.06,
         "profile-interview": 0.06,
         "tribute": 0.03,
         "listing": 0.04,
         "event-report": 0.05,
         "event-preview": 0.07,
-        "press-release": 0.8,
+        "press-release": 0.81,
         "digest": 0.06,
         "photo-gallery": 0.06,
         "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.17,
+        "history": 0.04,
+        "rumor": 0.16,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
         "adventure",
         "new-models",
         "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "913f8d46d470059a957c6bb03c12a83c0a824edf",
-      "title": "The more time I spend riding other bikes, the appeal of the Scrambler 900's wanes... is it just me?",
-      "link": "https://www.motorcyclenews.com/mcn-fleet/triumph-scrambler-900/spoilt-for-choice",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-08T08:56:48+00:00",
-      "excerpt": "2500 miles in and picking any major faults with the Triumph Scrambler 900 is becoming increasingly difficult. Six months into ownership, this is usually when a bike starts revealing those little...",
-      "image": "https://www.motorcyclenews.com/wp-images/436568/390x260/mcn_fleet_triumph_scrambler_900_5.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "new-models",
-      "confident": false,
-      "cat_scores": {
-        "new-models": 0.74,
-        "custom": 0.61,
-        "adventure": 0.51,
-        "scramblers": 0.53
-      },
-      "subcategories": [
-        {
-          "slug": "scramblers",
-          "label": "Scramblers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "review",
-          "label": "Review"
-        }
-      ],
-      "form_scores": {
-        "news": 0.04,
-        "review": 0.87,
-        "comparison-test": 0.22,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.47,
-        "how-to": 0.05,
-        "explainer": 0.12,
-        "opinion": 0.94,
-        "profile-interview": 0.09,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.36,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.2
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "new-models",
-        "custom",
-        "adventure",
-        "scramblers"
       ],
       "also": []
     },
@@ -2620,22 +2445,22 @@
         }
       ],
       "form_scores": {
-        "news": 0.08,
+        "news": 0.07,
         "review": 0.97,
         "comparison-test": 0.04,
-        "first-look": 0.31,
+        "first-look": 0.35,
         "ranked-list": 0.03,
-        "buyers-guide": 0.41,
+        "buyers-guide": 0.42,
         "how-to": 0.06,
-        "explainer": 0.18,
+        "explainer": 0.17,
         "opinion": 0.6,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.03,
         "event-report": 0.04,
-        "event-preview": 0.01,
+        "event-preview": 0.02,
         "press-release": 0.05,
-        "digest": 0.06,
+        "digest": 0.07,
         "photo-gallery": 0.08,
         "ride-report": 0.97,
         "history": 0.15,
@@ -2679,7 +2504,7 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.93,
-        "new-models": 0.81
+        "new-models": 0.82
       },
       "subcategories": [],
       "forms": [
@@ -2689,15 +2514,15 @@
         }
       ],
       "form_scores": {
-        "news": 0.1,
+        "news": 0.09,
         "review": 0.12,
         "comparison-test": 0.87,
-        "first-look": 0.41,
-        "ranked-list": 0.25,
-        "buyers-guide": 0.63,
+        "first-look": 0.43,
+        "ranked-list": 0.22,
+        "buyers-guide": 0.62,
         "how-to": 0.05,
         "explainer": 0.16,
-        "opinion": 0.71,
+        "opinion": 0.69,
         "profile-interview": 0.06,
         "tribute": 0.02,
         "listing": 0.02,
@@ -2705,12 +2530,12 @@
         "event-preview": 0.04,
         "press-release": 0.09,
         "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.17,
+        "photo-gallery": 0.08,
+        "ride-report": 0.16,
         "history": 0.04,
         "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.06,
+        "episode": 0.05,
         "build-feature": 0.03,
         "q-and-a": 0.08
       },
@@ -2748,7 +2573,7 @@
       "confident": true,
       "cat_scores": {
         "custom": 0.99,
-        "adventure": 0.85,
+        "adventure": 0.83,
         "scramblers": 0.88
       },
       "subcategories": [
@@ -2766,21 +2591,21 @@
       ],
       "form_scores": {
         "news": 0.13,
-        "review": 0.27,
+        "review": 0.3,
         "comparison-test": 0.03,
         "first-look": 0.14,
         "ranked-list": 0.03,
-        "buyers-guide": 0.11,
+        "buyers-guide": 0.12,
         "how-to": 0.05,
-        "explainer": 0.3,
-        "opinion": 0.26,
-        "profile-interview": 0.58,
+        "explainer": 0.31,
+        "opinion": 0.24,
+        "profile-interview": 0.6,
         "tribute": 0.15,
         "listing": 0.05,
         "event-report": 0.04,
         "event-preview": 0.02,
-        "press-release": 0.23,
-        "digest": 0.06,
+        "press-release": 0.22,
+        "digest": 0.07,
         "photo-gallery": 0.14,
         "ride-report": 0.04,
         "history": 0.09,
@@ -2813,19 +2638,19 @@
       "audio": null,
       "categories": [
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
         }
       ],
-      "primary": "events-rides",
+      "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "events-rides": 0.83,
-        "adventure": 0.81
+        "adventure": 0.82,
+        "events-rides": 0.81
       },
       "subcategories": [],
       "forms": [
@@ -2843,9 +2668,9 @@
         "buyers-guide": 0.06,
         "how-to": 0.07,
         "explainer": 0.12,
-        "opinion": 0.18,
+        "opinion": 0.2,
         "profile-interview": 0.08,
-        "tribute": 0.1,
+        "tribute": 0.08,
         "listing": 0.02,
         "event-report": 0.07,
         "event-preview": 0.06,
@@ -2853,17 +2678,17 @@
         "digest": 0.1,
         "photo-gallery": 0.18,
         "ride-report": 0.94,
-        "history": 0.16,
+        "history": 0.2,
         "rumor": 0.02,
-        "safety-notice": 0.03,
+        "safety-notice": 0.02,
         "episode": 0.08,
-        "build-feature": 0.06,
+        "build-feature": 0.05,
         "q-and-a": 0.05
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
-        "events-rides",
-        "adventure"
+        "adventure",
+        "events-rides"
       ],
       "also": []
     },
@@ -2893,8 +2718,8 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.78,
-        "dirt-mx": 0.64
+        "adventure": 0.79,
+        "dirt-mx": 0.65
       },
       "subcategories": [],
       "forms": [
@@ -2906,30 +2731,30 @@
       "form_scores": {
         "news": 0.06,
         "review": 0.51,
-        "comparison-test": 0.04,
+        "comparison-test": 0.05,
         "first-look": 0.15,
         "ranked-list": 0.06,
-        "buyers-guide": 0.11,
-        "how-to": 0.08,
-        "explainer": 0.19,
+        "buyers-guide": 0.1,
+        "how-to": 0.09,
+        "explainer": 0.18,
         "opinion": 0.76,
         "profile-interview": 0.1,
         "tribute": 0.08,
-        "listing": 0.04,
+        "listing": 0.05,
         "event-report": 0.06,
         "event-preview": 0.04,
-        "press-release": 0.08,
-        "digest": 0.12,
-        "photo-gallery": 0.33,
+        "press-release": 0.07,
+        "digest": 0.13,
+        "photo-gallery": 0.32,
         "ride-report": 0.56,
         "history": 0.09,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.08,
-        "build-feature": 0.16,
+        "build-feature": 0.17,
         "q-and-a": 0.07
       },
-      "multi_subject": 0.11,
+      "multi_subject": 0.12,
       "tags": [
         "adventure",
         "dirt-mx"
@@ -2962,19 +2787,19 @@
       "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.91,
-        "adventure": 0.74
+        "new-models": 0.9,
+        "adventure": 0.78
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.22,
+        "news": 0.21,
         "review": 0.05,
-        "comparison-test": 0.07,
+        "comparison-test": 0.08,
         "first-look": 0.2,
         "ranked-list": 0.05,
-        "buyers-guide": 0.5,
-        "how-to": 0.02,
+        "buyers-guide": 0.46,
+        "how-to": 0.03,
         "explainer": 0.15,
         "opinion": 0.04,
         "profile-interview": 0.02,
@@ -2982,176 +2807,20 @@
         "listing": 0.03,
         "event-report": 0.02,
         "event-preview": 0.03,
-        "press-release": 0.31,
-        "digest": 0.1,
+        "press-release": 0.32,
+        "digest": 0.11,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.01,
         "rumor": 0.41,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.01,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.17,
+      "multi_subject": 0.18,
       "tags": [
         "new-models",
-        "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "b0b4fe8988d3c63c141dd34c13d940c94e1fa7c9",
-      "title": "No Reserve: 1970 Honda SL350 Motosport",
-      "link": "https://bringatrailer.com/listing/1970-honda-sl350-6",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-02T18:01:07+00:00",
-      "excerpt": "This 1970 Honda SL350 Motosport was purchased in 2025 and subsequently refurbished with work that reportedly included over-boring and rebuilding the 326cc four-stroke parallel-twin, overhauling the carburetors, and refinishing the bodywork in Candy Sapphire Blue along with replac",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/1970_honda_sl350_img_1132-69995.jpeg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "classic": 0.97,
-        "dirt-mx": 0.7,
-        "adventure": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.09,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.41,
-        "how-to": 0.03,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.42,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic",
-        "dirt-mx",
-        "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "163f44192dda23311a8c0887e14111494daf1863",
-      "title": "Master of the Thumper: HB-Custom\u2019s Latest Honda NX650 Supermoto",
-      "link": "https://www.bikeexif.com/hb-custom-honda-nx650-supermoto-build",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Dean Larson",
-      "published": "2026-09-02T17:00:00+00:00",
-      "excerpt": "At the risk of offending thousands of enthusiasts, I\u2019ll say that the Honda NX650...",
-      "image": "https://images.bikeexif.com/2026/08/_1200x675_crop_center-center_82_line/hb-custom-nx650-5-4.jpg?v=1787326158",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.95,
-        "custom": 0.94,
-        "adventure": 0.51
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.15,
-        "review": 0.71,
-        "comparison-test": 0.06,
-        "first-look": 0.48,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.19,
-        "how-to": 0.08,
-        "explainer": 0.24,
-        "opinion": 0.62,
-        "profile-interview": 0.54,
-        "tribute": 0.07,
-        "listing": 0.14,
-        "event-report": 0.06,
-        "event-preview": 0.04,
-        "press-release": 0.12,
-        "digest": 0.07,
-        "photo-gallery": 0.16,
-        "ride-report": 0.15,
-        "history": 0.11,
-        "rumor": 0.07,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.87,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "custom",
         "adventure"
       ],
       "also": []
@@ -3187,8 +2856,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "new-models": 0.86,
-        "dirt-mx": 0.59
+        "new-models": 0.85,
+        "dirt-mx": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -3207,24 +2876,24 @@
       ],
       "form_scores": {
         "news": 0.06,
-        "review": 0.95,
+        "review": 0.94,
         "comparison-test": 0.07,
         "first-look": 0.15,
         "ranked-list": 0.03,
-        "buyers-guide": 0.52,
+        "buyers-guide": 0.51,
         "how-to": 0.08,
-        "explainer": 0.32,
-        "opinion": 0.87,
+        "explainer": 0.33,
+        "opinion": 0.86,
         "profile-interview": 0.05,
-        "tribute": 0.01,
+        "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.07,
         "event-preview": 0.03,
         "press-release": 0.06,
         "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.91,
-        "history": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.9,
+        "history": 0.04,
         "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.04,
@@ -3271,40 +2940,36 @@
       "cat_scores": {
         "gear": 0.98,
         "dirt-mx": 0.86,
-        "adventure": 0.75
+        "adventure": 0.78
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "first-look",
           "label": "First Look"
-        },
-        {
-          "slug": "review",
-          "label": "Review"
         }
       ],
       "form_scores": {
-        "news": 0.64,
-        "review": 0.75,
+        "news": 0.63,
+        "review": 0.72,
         "comparison-test": 0.05,
-        "first-look": 0.93,
+        "first-look": 0.92,
         "ranked-list": 0.02,
         "buyers-guide": 0.22,
         "how-to": 0.04,
-        "explainer": 0.2,
+        "explainer": 0.19,
         "opinion": 0.13,
-        "profile-interview": 0.33,
+        "profile-interview": 0.36,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.13,
         "event-preview": 0.06,
-        "press-release": 0.31,
+        "press-release": 0.34,
         "digest": 0.06,
         "photo-gallery": 0.11,
         "ride-report": 0.42,
         "history": 0.02,
-        "rumor": 0.45,
+        "rumor": 0.49,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.02,
@@ -3313,6 +2978,81 @@
       "multi_subject": 0.04,
       "tags": [
         "gear",
+        "dirt-mx",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "f5d7b0dce90813b1e12bb9405f220570e85c2d33",
+      "title": "2000 Honda XR650R",
+      "link": "https://bringatrailer.com/listing/2000-honda-xr650r-2",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-30T01:32:30+00:00",
+      "excerpt": "This 2000 Honda XR650R was purchased by the seller in 2008, reportedly from its original owner, and has been outfitted with an electric starter, aftermarket lighting, a ProTaper handlebar, hand guards, a digital dashboard, a rear rack, and more. Wearing Fighting Red and white bod",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_1681-scaled-copy-2026-09-11-s7y-89249.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "dirt-mx": 0.95,
+        "adventure": 0.88
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.13,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.39,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.19,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
         "dirt-mx",
         "adventure"
       ],
@@ -3350,26 +3090,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.41,
+        "news": 0.42,
         "review": 0.04,
         "comparison-test": 0.02,
-        "first-look": 0.21,
+        "first-look": 0.24,
         "ranked-list": 0.02,
         "buyers-guide": 0.08,
         "how-to": 0.02,
         "explainer": 0.08,
         "opinion": 0.19,
-        "profile-interview": 0.05,
+        "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.08,
-        "press-release": 0.16,
-        "digest": 0.06,
+        "press-release": 0.17,
+        "digest": 0.07,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.94,
+        "rumor": 0.93,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.02,
@@ -3412,8 +3152,8 @@
       "confident": false,
       "cat_scores": {
         "new-models": 0.81,
-        "dirt-mx": 0.72,
-        "adventure": 0.67
+        "dirt-mx": 0.74,
+        "adventure": 0.7
       },
       "subcategories": [],
       "forms": [
@@ -3423,27 +3163,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.58,
+        "news": 0.56,
         "review": 0.75,
-        "comparison-test": 0.12,
-        "first-look": 0.54,
+        "comparison-test": 0.11,
+        "first-look": 0.53,
         "ranked-list": 0.06,
-        "buyers-guide": 0.41,
-        "how-to": 0.11,
-        "explainer": 0.28,
+        "buyers-guide": 0.4,
+        "how-to": 0.12,
+        "explainer": 0.27,
         "opinion": 0.18,
-        "profile-interview": 0.08,
+        "profile-interview": 0.09,
         "tribute": 0.03,
-        "listing": 0.24,
+        "listing": 0.23,
         "event-report": 0.07,
         "event-preview": 0.05,
-        "press-release": 0.58,
+        "press-release": 0.59,
         "digest": 0.11,
-        "photo-gallery": 0.2,
-        "ride-report": 0.12,
+        "photo-gallery": 0.21,
+        "ride-report": 0.11,
         "history": 0.05,
-        "rumor": 0.5,
-        "safety-notice": 0.14,
+        "rumor": 0.48,
+        "safety-notice": 0.13,
         "episode": 0.06,
         "build-feature": 0.06,
         "q-and-a": 0.1
@@ -3483,7 +3223,7 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "events-rides": 0.77
+        "events-rides": 0.76
       },
       "subcategories": [],
       "forms": [],
@@ -3495,17 +3235,17 @@
         "ranked-list": 0.11,
         "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.24,
-        "opinion": 0.63,
+        "explainer": 0.25,
+        "opinion": 0.62,
         "profile-interview": 0.09,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.03,
-        "press-release": 0.11,
+        "press-release": 0.1,
         "digest": 0.04,
         "photo-gallery": 0.03,
-        "ride-report": 0.2,
+        "ride-report": 0.22,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
@@ -3517,81 +3257,6 @@
       "tags": [
         "adventure",
         "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "9785dfd2b3ccf73161f914d596c2b71187adc4cb",
-      "title": "KTM 125 ENDURO R 1787762353000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/ktm/125-enduro-r/2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-08-26T16:38:50+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/434352/390x260/ktm_125_enduro_r_image_2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.95,
-        "new-models": 0.82,
-        "adventure": 0.81
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        }
-      ],
-      "form_scores": {
-        "news": 0.52,
-        "review": 0.75,
-        "comparison-test": 0.12,
-        "first-look": 0.54,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.36,
-        "how-to": 0.12,
-        "explainer": 0.28,
-        "opinion": 0.16,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
-        "listing": 0.36,
-        "event-report": 0.09,
-        "event-preview": 0.06,
-        "press-release": 0.58,
-        "digest": 0.11,
-        "photo-gallery": 0.23,
-        "ride-report": 0.11,
-        "history": 0.04,
-        "rumor": 0.49,
-        "safety-notice": 0.13,
-        "episode": 0.05,
-        "build-feature": 0.06,
-        "q-and-a": 0.09
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "dirt-mx",
-        "new-models",
-        "adventure"
       ],
       "also": []
     },
@@ -3631,24 +3296,24 @@
         "review": 0.02,
         "comparison-test": 0.05,
         "first-look": 0.02,
-        "ranked-list": 0.12,
+        "ranked-list": 0.14,
         "buyers-guide": 0.12,
         "how-to": 0.06,
-        "explainer": 0.59,
-        "opinion": 0.25,
+        "explainer": 0.6,
+        "opinion": 0.27,
         "profile-interview": 0.14,
         "tribute": 0.02,
-        "listing": 0.05,
+        "listing": 0.06,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.23,
         "digest": 0.05,
-        "photo-gallery": 0.02,
-        "ride-report": 0.16,
+        "photo-gallery": 0.03,
+        "ride-report": 0.17,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.05
       },
@@ -3678,54 +3343,140 @@
           "label": "Events & Rides"
         },
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
           "slug": "classic",
           "label": "Classic"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.89,
-        "adventure": 0.69,
-        "classic": 0.68
+        "events-rides": 0.91,
+        "classic": 0.67,
+        "adventure": 0.66
       },
       "subcategories": [],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        }
+      ],
       "form_scores": {
-        "news": 0.15,
-        "review": 0.18,
+        "news": 0.14,
+        "review": 0.15,
         "comparison-test": 0.16,
-        "first-look": 0.13,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.09,
+        "first-look": 0.11,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.08,
         "how-to": 0.09,
-        "explainer": 0.31,
+        "explainer": 0.28,
         "opinion": 0.56,
-        "profile-interview": 0.17,
-        "tribute": 0.29,
-        "listing": 0.04,
-        "event-report": 0.66,
-        "event-preview": 0.2,
-        "press-release": 0.1,
-        "digest": 0.12,
+        "profile-interview": 0.15,
+        "tribute": 0.26,
+        "listing": 0.03,
+        "event-report": 0.68,
+        "event-preview": 0.21,
+        "press-release": 0.09,
+        "digest": 0.13,
         "photo-gallery": 0.24,
-        "ride-report": 0.74,
-        "history": 0.51,
-        "rumor": 0.05,
+        "ride-report": 0.76,
+        "history": 0.52,
+        "rumor": 0.03,
         "safety-notice": 0.03,
-        "episode": 0.07,
-        "build-feature": 0.17,
+        "episode": 0.08,
+        "build-feature": 0.16,
         "q-and-a": 0.07
       },
-      "multi_subject": 0.14,
+      "multi_subject": 0.11,
       "tags": [
         "events-rides",
-        "adventure",
-        "classic"
+        "classic",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "1eebe0603a5b1f5f5eb37d010dceb1c834b9d3dc",
+      "title": "No Reserve: 1971 Honda SL175 Motosport",
+      "link": "https://bringatrailer.com/listing/1971-honda-sl175-3",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-24T20:07:02+00:00",
+      "excerpt": "This 1971 Honda SL175 Motosport spent time in Ohio before it was the subject of a 2022 refurbishment, which is said to have involved re-plating various chrome-finished components, repainting the bodywork in metallic red with white graphics, and rebuilding the air-cooled 174cc SOH",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1971_honda_sl175_1971_honda_sl175_3c3c9c8b-d2fc-4b23-86d6-a7270f9ef0a1-tyqk4k-70602-76922.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.98,
+        "for-sale": 0.98,
+        "dirt-mx": 0.78,
+        "adventure": 0.6
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.11,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.42,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.03,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.29,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "classic",
+        "for-sale",
+        "dirt-mx",
+        "adventure"
       ],
       "also": []
     },
@@ -3755,8 +3506,8 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.93,
-        "dirt-mx": 0.6
+        "adventure": 0.94,
+        "dirt-mx": 0.59
       },
       "subcategories": [],
       "forms": [
@@ -3767,27 +3518,27 @@
       ],
       "form_scores": {
         "news": 0.04,
-        "review": 0.02,
+        "review": 0.03,
         "comparison-test": 0.01,
         "first-look": 0.02,
         "ranked-list": 0.01,
         "buyers-guide": 0.02,
-        "how-to": 0.06,
-        "explainer": 0.28,
+        "how-to": 0.05,
+        "explainer": 0.29,
         "opinion": 0.16,
         "profile-interview": 0.05,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.01,
         "press-release": 0.02,
-        "digest": 0.03,
+        "digest": 0.04,
         "photo-gallery": 0.05,
         "ride-report": 0.98,
         "history": 0.04,
         "rumor": 0.01,
         "safety-notice": 0.03,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
@@ -3831,29 +3582,29 @@
       "forms": [],
       "form_scores": {
         "news": 0.04,
-        "review": 0.04,
+        "review": 0.05,
         "comparison-test": 0.03,
         "first-look": 0.01,
         "ranked-list": 0.04,
-        "buyers-guide": 0.33,
+        "buyers-guide": 0.29,
         "how-to": 0.43,
-        "explainer": 0.61,
-        "opinion": 0.39,
+        "explainer": 0.6,
+        "opinion": 0.37,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.01,
-        "press-release": 0.05,
-        "digest": 0.1,
+        "press-release": 0.06,
+        "digest": 0.11,
         "photo-gallery": 0.05,
-        "ride-report": 0.42,
+        "ride-report": 0.41,
         "history": 0.04,
         "rumor": 0.01,
-        "safety-notice": 0.06,
+        "safety-notice": 0.05,
         "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.24
+        "build-feature": 0.02,
+        "q-and-a": 0.25
       },
       "multi_subject": 0.08,
       "tags": [
@@ -3877,19 +3628,19 @@
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "new-models",
+      "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.95,
-        "adventure": 0.94
+        "adventure": 0.94,
+        "new-models": 0.94
       },
       "subcategories": [],
       "forms": [
@@ -3900,34 +3651,34 @@
       ],
       "form_scores": {
         "news": 0.05,
-        "review": 0.97,
-        "comparison-test": 0.06,
-        "first-look": 0.39,
+        "review": 0.96,
+        "comparison-test": 0.07,
+        "first-look": 0.38,
         "ranked-list": 0.04,
-        "buyers-guide": 0.49,
-        "how-to": 0.04,
-        "explainer": 0.17,
-        "opinion": 0.64,
+        "buyers-guide": 0.48,
+        "how-to": 0.03,
+        "explainer": 0.18,
+        "opinion": 0.62,
         "profile-interview": 0.05,
-        "tribute": 0.02,
+        "tribute": 0.03,
         "listing": 0.04,
         "event-report": 0.03,
         "event-preview": 0.01,
-        "press-release": 0.07,
+        "press-release": 0.08,
         "digest": 0.07,
         "photo-gallery": 0.06,
-        "ride-report": 0.18,
+        "ride-report": 0.17,
         "history": 0.04,
         "rumor": 0.04,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.1,
         "build-feature": 0.05,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "new-models",
-        "adventure"
+        "adventure",
+        "new-models"
       ],
       "also": []
     },
@@ -3961,9 +3712,9 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.96,
-        "sport-bikes": 0.55,
-        "adventure": 0.53
+        "custom": 0.95,
+        "sport-bikes": 0.52,
+        "adventure": 0.5
       },
       "subcategories": [],
       "forms": [
@@ -3973,29 +3724,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.22,
-        "review": 0.18,
+        "news": 0.21,
+        "review": 0.16,
         "comparison-test": 0.03,
-        "first-look": 0.12,
+        "first-look": 0.13,
         "ranked-list": 0.04,
-        "buyers-guide": 0.12,
+        "buyers-guide": 0.11,
         "how-to": 0.06,
-        "explainer": 0.17,
+        "explainer": 0.18,
         "opinion": 0.29,
-        "profile-interview": 0.58,
+        "profile-interview": 0.56,
         "tribute": 0.04,
-        "listing": 0.14,
+        "listing": 0.16,
         "event-report": 0.04,
-        "event-preview": 0.02,
+        "event-preview": 0.03,
         "press-release": 0.18,
-        "digest": 0.09,
-        "photo-gallery": 0.17,
+        "digest": 0.08,
+        "photo-gallery": 0.18,
         "ride-report": 0.04,
-        "history": 0.11,
+        "history": 0.12,
         "rumor": 0.05,
         "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.91,
+        "episode": 0.05,
+        "build-feature": 0.9,
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
@@ -4032,7 +3783,7 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.99,
+        "adventure": 0.98,
         "new-models": 0.96
       },
       "subcategories": [],
@@ -4043,26 +3794,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.6,
-        "review": 0.31,
+        "news": 0.61,
+        "review": 0.3,
         "comparison-test": 0.03,
-        "first-look": 0.92,
+        "first-look": 0.93,
         "ranked-list": 0.02,
-        "buyers-guide": 0.24,
+        "buyers-guide": 0.23,
         "how-to": 0.02,
         "explainer": 0.12,
-        "opinion": 0.08,
+        "opinion": 0.09,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.67,
+        "press-release": 0.68,
         "digest": 0.04,
-        "photo-gallery": 0.03,
+        "photo-gallery": 0.02,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.51,
+        "rumor": 0.46,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
@@ -4072,70 +3823,6 @@
       "tags": [
         "adventure",
         "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "6086d871b6b68d9b8f6fd10dcc7e389076502571",
-      "title": "DJI Osmo Action 5 Vs 6 for photos",
-      "link": "https://motorcycleparadise.net/2026/08/dji-osmo-action-5-vs-6-for-photos.html",
-      "lang": "en",
-      "source": "Motorcycle Paradise",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Warren",
-      "published": "2026-08-10T10:42:25+00:00",
-      "excerpt": "I had no plans to buy a DJI Osmo Action 6 but as I mentioned in my Canada ride report I misplaced my Osmo Action 5 in route to Vancouver and that being once in a lifetime ride I decided to buy a new cam then I recovered my Action [\u2026] The post DJI Osmo Action 5 Vs 6 for photos fir",
-      "image": "https://motorcycleparadise.net/wp-content/uploads/2019/11/cropped-mountain-road3sm3.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 1.0,
-        "gear": 0.84
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.23,
-        "comparison-test": 0.73,
-        "first-look": 0.38,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.59,
-        "how-to": 0.08,
-        "explainer": 0.25,
-        "opinion": 0.52,
-        "profile-interview": 0.05,
-        "tribute": 0.04,
-        "listing": 0.04,
-        "event-report": 0.14,
-        "event-preview": 0.02,
-        "press-release": 0.07,
-        "digest": 0.11,
-        "photo-gallery": 0.17,
-        "ride-report": 0.6,
-        "history": 0.07,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.08,
-        "build-feature": 0.02,
-        "q-and-a": 0.12
-      },
-      "multi_subject": 0.12,
-      "tags": [
-        "adventure",
-        "gear"
       ],
       "also": []
     },
@@ -4165,7 +3852,7 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.59,
+        "adventure": 0.58,
         "events-rides": 0.57
       },
       "subcategories": [],
@@ -4183,25 +3870,25 @@
         "news": 0.07,
         "review": 0.03,
         "comparison-test": 0.05,
-        "first-look": 0.06,
-        "ranked-list": 0.07,
+        "first-look": 0.07,
+        "ranked-list": 0.08,
         "buyers-guide": 0.11,
         "how-to": 0.11,
         "explainer": 0.16,
-        "opinion": 0.18,
+        "opinion": 0.21,
         "profile-interview": 0.09,
         "tribute": 0.02,
         "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.91,
-        "press-release": 0.12,
-        "digest": 0.23,
+        "event-report": 0.06,
+        "event-preview": 0.9,
+        "press-release": 0.11,
+        "digest": 0.24,
         "photo-gallery": 0.04,
         "ride-report": 0.06,
         "history": 0.03,
         "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.98,
+        "episode": 0.97,
         "build-feature": 0.02,
         "q-and-a": 0.05
       },
@@ -4248,25 +3935,25 @@
         "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.03,
-        "ranked-list": 0.07,
+        "ranked-list": 0.06,
         "buyers-guide": 0.04,
-        "how-to": 0.05,
+        "how-to": 0.04,
         "explainer": 0.08,
         "opinion": 0.26,
         "profile-interview": 0.09,
-        "tribute": 0.05,
+        "tribute": 0.04,
         "listing": 0.02,
         "event-report": 0.04,
         "event-preview": 0.03,
         "press-release": 0.04,
         "digest": 0.1,
-        "photo-gallery": 0.15,
+        "photo-gallery": 0.13,
         "ride-report": 0.86,
         "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.03,
         "episode": 0.07,
-        "build-feature": 0.03,
+        "build-feature": 0.04,
         "q-and-a": 0.07
       },
       "multi_subject": 0.08,
@@ -4294,25 +3981,25 @@
           "label": "Events & Rides"
         },
         {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
           "slug": "adventure",
           "label": "Adventure"
         },
         {
           "slug": "classic",
           "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
         }
       ],
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.9,
-        "adventure": 0.76,
-        "classic": 0.73,
-        "dirt-mx": 0.72
+        "events-rides": 0.89,
+        "dirt-mx": 0.72,
+        "adventure": 0.71,
+        "classic": 0.71
       },
       "subcategories": [],
       "forms": [
@@ -4322,25 +4009,25 @@
         }
       ],
       "form_scores": {
-        "news": 0.53,
+        "news": 0.5,
         "review": 0.05,
         "comparison-test": 0.06,
         "first-look": 0.06,
         "ranked-list": 0.04,
         "buyers-guide": 0.05,
         "how-to": 0.04,
-        "explainer": 0.21,
+        "explainer": 0.24,
         "opinion": 0.21,
         "profile-interview": 0.09,
-        "tribute": 0.17,
+        "tribute": 0.18,
         "listing": 0.02,
         "event-report": 0.83,
-        "event-preview": 0.13,
+        "event-preview": 0.14,
         "press-release": 0.1,
         "digest": 0.11,
-        "photo-gallery": 0.22,
-        "ride-report": 0.17,
-        "history": 0.68,
+        "photo-gallery": 0.24,
+        "ride-report": 0.18,
+        "history": 0.7,
         "rumor": 0.02,
         "safety-notice": 0.03,
         "episode": 0.06,
@@ -4350,9 +4037,9 @@
       "multi_subject": 0.08,
       "tags": [
         "events-rides",
+        "dirt-mx",
         "adventure",
-        "classic",
-        "dirt-mx"
+        "classic"
       ],
       "also": []
     },
@@ -4387,8 +4074,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "dirt-mx": 0.74,
-        "law-safety": 0.61
+        "dirt-mx": 0.75,
+        "law-safety": 0.63
       },
       "subcategories": [],
       "forms": [
@@ -4402,7 +4089,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.06,
+        "news": 0.07,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
@@ -4414,20 +4101,20 @@
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.14,
+        "event-report": 0.15,
         "event-preview": 0.01,
         "press-release": 0.01,
-        "digest": 0.09,
-        "photo-gallery": 0.09,
-        "ride-report": 0.83,
-        "history": 0.03,
+        "digest": 0.1,
+        "photo-gallery": 0.1,
+        "ride-report": 0.81,
+        "history": 0.04,
         "rumor": 0.01,
-        "safety-notice": 0.05,
-        "episode": 0.14,
+        "safety-notice": 0.04,
+        "episode": 0.15,
         "build-feature": 0.02,
-        "q-and-a": 0.06
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.17,
+      "multi_subject": 0.2,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -4463,28 +4150,28 @@
       "forms": [],
       "form_scores": {
         "news": 0.05,
-        "review": 0.24,
+        "review": 0.25,
         "comparison-test": 0.05,
-        "first-look": 0.08,
-        "ranked-list": 0.05,
+        "first-look": 0.09,
+        "ranked-list": 0.06,
         "buyers-guide": 0.12,
-        "how-to": 0.11,
-        "explainer": 0.43,
-        "opinion": 0.34,
-        "profile-interview": 0.07,
+        "how-to": 0.12,
+        "explainer": 0.45,
+        "opinion": 0.35,
+        "profile-interview": 0.08,
         "tribute": 0.03,
-        "listing": 0.03,
+        "listing": 0.04,
         "event-report": 0.04,
         "event-preview": 0.02,
         "press-release": 0.07,
         "digest": 0.11,
         "photo-gallery": 0.07,
-        "ride-report": 0.22,
+        "ride-report": 0.23,
         "history": 0.06,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.04,
+        "build-feature": 0.05,
         "q-and-a": 0.05
       },
       "multi_subject": 0.11,
@@ -4524,8 +4211,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "events-rides": 0.76,
-        "sport-bikes": 0.67
+        "events-rides": 0.77,
+        "sport-bikes": 0.68
       },
       "subcategories": [],
       "forms": [
@@ -4535,25 +4222,25 @@
         }
       ],
       "form_scores": {
-        "news": 0.06,
-        "review": 0.06,
+        "news": 0.07,
+        "review": 0.05,
         "comparison-test": 0.03,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
         "buyers-guide": 0.02,
         "how-to": 0.03,
         "explainer": 0.04,
-        "opinion": 0.4,
+        "opinion": 0.43,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.13,
+        "event-report": 0.11,
         "event-preview": 0.02,
         "press-release": 0.02,
         "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.97,
-        "history": 0.14,
+        "photo-gallery": 0.04,
+        "ride-report": 0.96,
+        "history": 0.13,
         "rumor": 0.01,
         "safety-notice": 0.02,
         "episode": 0.04,
@@ -4565,87 +4252,6 @@
         "adventure",
         "events-rides",
         "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "3b447de266d71d6fe5558325d15d6156a9004891",
-      "title": "No Reserve: 1971 Honda CT70H Trail",
-      "link": "https://bringatrailer.com/listing/1971-honda-ct70h-trail-30",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-07-10T21:41:47+00:00",
-      "excerpt": "This 1971 Honda CT70H Trail was refurbished in January 2026 under prior ownership and acquired shortly thereafter by the seller. The bike is finished in Candy Emerald Green and equipped with a 72cc four-stroke single paired with a four-speed manual transmission. Details include a",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1971_honda_ct70h-trail_img_4264-scaled-19124-24448.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "classic": 0.96,
-        "dirt-mx": 0.59,
-        "adventure": 0.55
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.05,
-        "review": 0.13,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.39,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.22,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic",
-        "dirt-mx",
-        "adventure"
       ],
       "also": []
     },
@@ -4681,30 +4287,30 @@
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.03,
+        "news": 0.04,
         "review": 0.06,
         "comparison-test": 0.06,
         "first-look": 0.03,
-        "ranked-list": 0.1,
-        "buyers-guide": 0.2,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.21,
         "how-to": 0.08,
-        "explainer": 0.13,
+        "explainer": 0.12,
         "opinion": 0.12,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.02,
-        "event-preview": 0.05,
+        "event-preview": 0.04,
         "press-release": 0.06,
-        "digest": 0.11,
-        "photo-gallery": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.07,
         "ride-report": 0.7,
         "history": 0.02,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.12
+        "q-and-a": 0.13
       },
       "multi_subject": 0.12,
       "tags": [

@@ -39,29 +39,29 @@
       ],
       "form_scores": {
         "news": 0.14,
-        "review": 0.89,
-        "comparison-test": 0.11,
-        "first-look": 0.78,
+        "review": 0.91,
+        "comparison-test": 0.12,
+        "first-look": 0.77,
         "ranked-list": 0.06,
-        "buyers-guide": 0.62,
-        "how-to": 0.07,
+        "buyers-guide": 0.63,
+        "how-to": 0.06,
         "explainer": 0.19,
-        "opinion": 0.72,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
+        "opinion": 0.69,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
         "listing": 0.03,
         "event-report": 0.04,
         "event-preview": 0.02,
         "press-release": 0.11,
-        "digest": 0.09,
+        "digest": 0.08,
         "photo-gallery": 0.07,
         "ride-report": 0.2,
         "history": 0.04,
         "rumor": 0.06,
-        "safety-notice": 0.08,
+        "safety-notice": 0.07,
         "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.11
+        "q-and-a": 0.09
       },
       "multi_subject": 0.07,
       "tags": [
@@ -88,20 +88,20 @@
           "label": "MX & Dirt"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "new-models": 0.78,
-        "racing": 0.77,
+        "racing": 0.76,
+        "new-models": 0.76,
         "motocross-supercross": 0.97
       },
       "subcategories": [
@@ -119,6 +119,10 @@
         {
           "slug": "digest",
           "label": "Digest"
+        },
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
@@ -126,7 +130,7 @@
         "review": 0.04,
         "comparison-test": 0.05,
         "first-look": 0.92,
-        "ranked-list": 0.17,
+        "ranked-list": 0.16,
         "buyers-guide": 0.04,
         "how-to": 0.02,
         "explainer": 0.05,
@@ -134,250 +138,25 @@
         "profile-interview": 0.04,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.22,
+        "event-report": 0.23,
         "event-preview": 0.08,
-        "press-release": 0.1,
+        "press-release": 0.09,
         "digest": 0.91,
-        "photo-gallery": 0.74,
+        "photo-gallery": 0.75,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.06,
+        "rumor": 0.07,
         "safety-notice": 0.01,
-        "episode": 0.2,
+        "episode": 0.22,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.96,
       "tags": [
         "dirt-mx",
-        "new-models",
         "racing",
+        "new-models",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "67b6f13f656e43e3f2a71f12ab1b0c23dd1b349e",
-      "title": "October 2026",
-      "link": "https://ridermagazine.com/october-2026",
-      "lang": "en",
-      "source": "Rider Magazine",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "The Staff",
-      "published": "2026-09-22T16:20:52+00:00",
-      "excerpt": "The October 2026 issue of Rider Magazine has arrived! On the cover: Cruising down the streets of St. Augustine, Florida, aboard the Royal Enfield Classic 650. Photo by Royal Enfield Subscribe Now Additional stories in the October 2026 issue of Rider Magazine. Keeping it Classic |",
-      "image": "https://ridermagazine.com/wp-content/uploads/2026/09/Rider-October-2026-Cover.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.93
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.64,
-        "review": 0.1,
-        "comparison-test": 0.06,
-        "first-look": 0.89,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.15,
-        "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.05,
-        "listing": 0.03,
-        "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.51,
-        "digest": 0.77,
-        "photo-gallery": 0.13,
-        "ride-report": 0.06,
-        "history": 0.32,
-        "rumor": 0.08,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.04,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.92,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "70cf52b214c79d339192c2482c8772baabee3fb0",
-      "title": "Honda CB750 E-Clutch + Biketoberfest Itinerary + Ryder-Gear Tony Bracalente",
-      "link": "https://motosandfriends.podbean.com/e/honda-cb750-e-clutch-biketoberfest-itinerary-ryder-gear-tony-bracalente",
-      "lang": "en",
-      "source": "Motos and Friends",
-      "ownership": "commercial",
-      "media": "podcast",
-      "author": "Motos and Friends by Ultimate Motorcycle",
-      "published": "2026-09-16T18:58:32+00:00",
-      "excerpt": "Hello and welcome again to the Motos and Friends Podcast. This episode is brought to you by the 34th Annual Biketoberfest October 15th through 18th * * * * * In our first segment this episode Don Williams tries out his first e-clutch motorcycle: the new Honda CB750 Hornet . The H",
-      "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog10714790/2025-honda-cb750-hornet-review-3-1536x1024_cybhnq.jpeg",
-      "audio": "https://mcdn.podbean.com/mf/web/sqzj6k9q3y6zn5nd/S6_Honda_CB750_Hornet_Biketoberfest_Bryan_Bentley_Tony_Bracalente_Ryder-Gear973el.m4a",
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.85,
-        "events-rides": 0.8
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.07,
-        "review": 0.24,
-        "comparison-test": 0.05,
-        "first-look": 0.89,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.28,
-        "how-to": 0.12,
-        "explainer": 0.89,
-        "opinion": 0.18,
-        "profile-interview": 0.79,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.06,
-        "event-preview": 0.94,
-        "press-release": 0.17,
-        "digest": 0.63,
-        "photo-gallery": 0.02,
-        "ride-report": 0.1,
-        "history": 0.04,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.97,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.92,
-      "tags": [
-        "new-models",
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "f1c5b1f9cfd187278eec47003d290f007ec15a48",
-      "title": "Inside Impression: 2026 CFMOTO 450SS",
-      "link": "https://www.insidemotorcycles.com/inside-impression-2026-cfmoto-450ss",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-16T00:59:42+00:00",
-      "excerpt": "Fresh off Inside Motorcycles\u2019 review of the CFMOTO dual-sport IBEX 450 and 800 models (click here to read), the brand\u2019s Canadian distributor, Canada Moteurs Importation Inc., reached out with an offer to take their lightweight 450SS sport bike out for a test. Always ready to expe",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/IMG_5073-2-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.94,
-        "sport-bikes": 0.9
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
-          "slug": "review",
-          "label": "Review"
-        }
-      ],
-      "form_scores": {
-        "news": 0.16,
-        "review": 0.91,
-        "comparison-test": 0.05,
-        "first-look": 0.93,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.36,
-        "how-to": 0.04,
-        "explainer": 0.13,
-        "opinion": 0.41,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.17,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.7,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "new-models",
-        "sport-bikes"
       ],
       "also": []
     },
@@ -429,10 +208,10 @@
         }
       ],
       "form_scores": {
-        "news": 0.2,
-        "review": 0.45,
-        "comparison-test": 0.25,
-        "first-look": 0.9,
+        "news": 0.21,
+        "review": 0.46,
+        "comparison-test": 0.29,
+        "first-look": 0.91,
         "ranked-list": 0.04,
         "buyers-guide": 0.06,
         "how-to": 0.02,
@@ -440,25 +219,250 @@
         "opinion": 0.83,
         "profile-interview": 0.12,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.61,
+        "listing": 0.01,
+        "event-report": 0.59,
         "event-preview": 0.15,
         "press-release": 0.14,
         "digest": 0.08,
         "photo-gallery": 0.06,
-        "ride-report": 0.05,
+        "ride-report": 0.06,
         "history": 0.04,
         "rumor": 0.59,
         "safety-notice": 0.02,
         "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
+        "build-feature": 0.04,
+        "q-and-a": 0.04
       },
       "multi_subject": 0.05,
       "tags": [
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "67b6f13f656e43e3f2a71f12ab1b0c23dd1b349e",
+      "title": "October 2026",
+      "link": "https://ridermagazine.com/october-2026",
+      "lang": "en",
+      "source": "Rider Magazine",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "The Staff",
+      "published": "2026-09-22T16:20:52+00:00",
+      "excerpt": "The October 2026 issue of Rider Magazine has arrived! On the cover: Cruising down the streets of St. Augustine, Florida, aboard the Royal Enfield Classic 650. Photo by Royal Enfield Subscribe Now Additional stories in the October 2026 issue of Rider Magazine. Keeping it Classic |",
+      "image": "https://ridermagazine.com/wp-content/uploads/2026/09/Rider-October-2026-Cover.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.93
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.68,
+        "review": 0.09,
+        "comparison-test": 0.06,
+        "first-look": 0.9,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.13,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.06,
+        "profile-interview": 0.12,
+        "tribute": 0.04,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.54,
+        "digest": 0.8,
+        "photo-gallery": 0.12,
+        "ride-report": 0.06,
+        "history": 0.3,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.93,
+      "tags": [
+        "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "70cf52b214c79d339192c2482c8772baabee3fb0",
+      "title": "Honda CB750 E-Clutch + Biketoberfest Itinerary + Ryder-Gear Tony Bracalente",
+      "link": "https://motosandfriends.podbean.com/e/honda-cb750-e-clutch-biketoberfest-itinerary-ryder-gear-tony-bracalente",
+      "lang": "en",
+      "source": "Motos and Friends",
+      "ownership": "commercial",
+      "media": "podcast",
+      "author": "Motos and Friends by Ultimate Motorcycle",
+      "published": "2026-09-16T18:58:32+00:00",
+      "excerpt": "Hello and welcome again to the Motos and Friends Podcast. This episode is brought to you by the 34th Annual Biketoberfest October 15th through 18th * * * * * In our first segment this episode Don Williams tries out his first e-clutch motorcycle: the new Honda CB750 Hornet . The H",
+      "image": "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog10714790/2025-honda-cb750-hornet-review-3-1536x1024_cybhnq_1200x628.jpg?s=7b68856a1f44e6e504cae38a75a86759&e=jpeg",
+      "audio": "https://mcdn.podbean.com/mf/web/sqzj6k9q3y6zn5nd/S6_Honda_CB750_Hornet_Biketoberfest_Bryan_Bentley_Tony_Bracalente_Ryder-Gear973el.m4a",
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.85,
+        "events-rides": 0.82
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.25,
+        "comparison-test": 0.05,
+        "first-look": 0.9,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.28,
+        "how-to": 0.12,
+        "explainer": 0.89,
+        "opinion": 0.18,
+        "profile-interview": 0.77,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.95,
+        "press-release": 0.16,
+        "digest": 0.59,
+        "photo-gallery": 0.02,
+        "ride-report": 0.09,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.97,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.91,
+      "tags": [
+        "new-models",
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
+      "id": "f1c5b1f9cfd187278eec47003d290f007ec15a48",
+      "title": "Inside Impression: 2026 CFMOTO 450SS",
+      "link": "https://www.insidemotorcycles.com/inside-impression-2026-cfmoto-450ss",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-16T00:59:42+00:00",
+      "excerpt": "Fresh off Inside Motorcycles\u2019 review of the CFMOTO dual-sport IBEX 450 and 800 models (click here to read), the brand\u2019s Canadian distributor, Canada Moteurs Importation Inc., reached out with an offer to take their lightweight 450SS sport bike out for a test. Always ready to expe",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/IMG_5073-2-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.94,
+        "sport-bikes": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.91,
+        "comparison-test": 0.06,
+        "first-look": 0.93,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.35,
+        "how-to": 0.04,
+        "explainer": 0.14,
+        "opinion": 0.42,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.18,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.68,
+        "history": 0.03,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "new-models",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -503,30 +507,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.09,
+        "news": 0.08,
         "review": 0.98,
         "comparison-test": 0.07,
-        "first-look": 0.79,
+        "first-look": 0.77,
         "ranked-list": 0.03,
         "buyers-guide": 0.59,
         "how-to": 0.05,
         "explainer": 0.28,
-        "opinion": 0.41,
+        "opinion": 0.43,
         "profile-interview": 0.05,
         "tribute": 0.02,
-        "listing": 0.03,
+        "listing": 0.04,
         "event-report": 0.05,
         "event-preview": 0.02,
-        "press-release": 0.15,
+        "press-release": 0.16,
         "digest": 0.06,
         "photo-gallery": 0.09,
-        "ride-report": 0.57,
+        "ride-report": 0.58,
         "history": 0.03,
-        "rumor": 0.17,
+        "rumor": 0.18,
         "safety-notice": 0.02,
         "episode": 0.07,
         "build-feature": 0.05,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
@@ -541,85 +545,6 @@
           "published": "2026-09-23T15:50:16+00:00"
         }
       ]
-    },
-    {
-      "id": "362897fdeff1994617b105716dc4986e876f1b5b",
-      "title": "MotoGP 1000 and 850 join forces for Pirelli tests at the Red Bull Ring: Acosta also on track",
-      "link": "https://www.gpone.com/en/2026/09/21/motogp/motogp-1000-and-850-join-forces-for-pirelli-tests-at-the-red-bull-ring-acosta-also-on-track.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-21T16:31:17+00:00",
-      "excerpt": "The final day of group practice sessions before the Valencia tests. Guevara and Agius get their first taste of 2027, while Moreira makes his debut on the 850. Morbidelli replaces Bulega on the Ducati.",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.03,
-        "comparison-test": 0.62,
-        "first-look": 0.76,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.04,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.42,
-        "event-preview": 0.76,
-        "press-release": 0.35,
-        "digest": 0.27,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.15,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.29,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
     },
     {
       "id": "3b76404517da5eacc1d4bc355578b1db84482a31",
@@ -651,9 +576,9 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.98,
-        "law-safety": 0.84,
-        "racing": 0.5
+        "gear": 0.99,
+        "law-safety": 0.85,
+        "racing": 0.51
       },
       "subcategories": [],
       "forms": [
@@ -676,26 +601,26 @@
       ],
       "form_scores": {
         "news": 0.87,
-        "review": 0.8,
+        "review": 0.77,
         "comparison-test": 0.05,
-        "first-look": 0.83,
+        "first-look": 0.82,
         "ranked-list": 0.03,
-        "buyers-guide": 0.28,
+        "buyers-guide": 0.27,
         "how-to": 0.03,
         "explainer": 0.26,
         "opinion": 0.15,
-        "profile-interview": 0.17,
+        "profile-interview": 0.16,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.1,
         "event-preview": 0.07,
-        "press-release": 0.88,
+        "press-release": 0.89,
         "digest": 0.07,
         "photo-gallery": 0.11,
         "ride-report": 0.02,
-        "history": 0.03,
+        "history": 0.02,
         "rumor": 0.07,
-        "safety-notice": 0.03,
+        "safety-notice": 0.04,
         "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.03
@@ -734,8 +659,8 @@
       "primary": "new-models",
       "confident": false,
       "cat_scores": {
-        "new-models": 0.77,
-        "sport-bikes": 0.5
+        "new-models": 0.79,
+        "sport-bikes": 0.56
       },
       "subcategories": [],
       "forms": [
@@ -750,28 +675,28 @@
       ],
       "form_scores": {
         "news": 0.85,
-        "review": 0.69,
+        "review": 0.7,
         "comparison-test": 0.04,
         "first-look": 0.94,
         "ranked-list": 0.02,
-        "buyers-guide": 0.09,
+        "buyers-guide": 0.1,
         "how-to": 0.04,
-        "explainer": 0.17,
-        "opinion": 0.1,
+        "explainer": 0.16,
+        "opinion": 0.11,
         "profile-interview": 0.41,
         "tribute": 0.03,
         "listing": 0.05,
-        "event-report": 0.19,
+        "event-report": 0.2,
         "event-preview": 0.06,
-        "press-release": 0.33,
+        "press-release": 0.34,
         "digest": 0.06,
         "photo-gallery": 0.1,
         "ride-report": 0.13,
         "history": 0.06,
-        "rumor": 0.14,
-        "safety-notice": 0.02,
+        "rumor": 0.13,
+        "safety-notice": 0.03,
         "episode": 0.04,
-        "build-feature": 0.72,
+        "build-feature": 0.71,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
@@ -813,40 +738,36 @@
       "cat_scores": {
         "gear": 0.98,
         "dirt-mx": 0.86,
-        "adventure": 0.75
+        "adventure": 0.78
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "first-look",
           "label": "First Look"
-        },
-        {
-          "slug": "review",
-          "label": "Review"
         }
       ],
       "form_scores": {
-        "news": 0.64,
-        "review": 0.75,
+        "news": 0.63,
+        "review": 0.72,
         "comparison-test": 0.05,
-        "first-look": 0.93,
+        "first-look": 0.92,
         "ranked-list": 0.02,
         "buyers-guide": 0.22,
         "how-to": 0.04,
-        "explainer": 0.2,
+        "explainer": 0.19,
         "opinion": 0.13,
-        "profile-interview": 0.33,
+        "profile-interview": 0.36,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.13,
         "event-preview": 0.06,
-        "press-release": 0.31,
+        "press-release": 0.34,
         "digest": 0.06,
         "photo-gallery": 0.11,
         "ride-report": 0.42,
         "history": 0.02,
-        "rumor": 0.45,
+        "rumor": 0.49,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.02,
@@ -886,8 +807,8 @@
       "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.95,
-        "custom": 0.76
+        "new-models": 0.94,
+        "custom": 0.75
       },
       "subcategories": [],
       "forms": [
@@ -898,11 +819,11 @@
       ],
       "form_scores": {
         "news": 0.08,
-        "review": 0.13,
-        "comparison-test": 0.56,
+        "review": 0.14,
+        "comparison-test": 0.59,
         "first-look": 0.83,
         "ranked-list": 0.05,
-        "buyers-guide": 0.47,
+        "buyers-guide": 0.45,
         "how-to": 0.05,
         "explainer": 0.18,
         "opinion": 0.5,
@@ -911,13 +832,13 @@
         "listing": 0.02,
         "event-report": 0.04,
         "event-preview": 0.04,
-        "press-release": 0.21,
-        "digest": 0.07,
-        "photo-gallery": 0.1,
+        "press-release": 0.22,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.63,
         "history": 0.04,
         "rumor": 0.04,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.06,
         "build-feature": 0.06,
         "q-and-a": 0.03
@@ -940,7 +861,7 @@
       "author": "Motos and Friends by Ultimate Motorcycle",
       "published": "2026-08-19T20:14:01+00:00",
       "excerpt": "This episode is brought to you by the 34th Annual Biketoberfest October 15 to 18 * * * * * The modern superbike class is an arms race fought on several fronts. There\u2019s still the battle for horsepower supremacy, that fuels endless spec-sheet skirmishes on internet forums. But what",
-      "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog10714790/2026-kawasaki-ninja-zx-10r-review-12-1536x1024_i6fzri.jpeg",
+      "image": "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog10714790/2026-kawasaki-ninja-zx-10r-review-12-1536x1024_i6fzri_1200x628.jpg?s=a57207dfc18e59e7f6194e1070536855&e=jpeg",
       "audio": "https://mcdn.podbean.com/mf/web/gmhfkz49mea3ifga/GMT20260819-152853_Recording_separate1.m4a",
       "categories": [
         {
@@ -960,8 +881,8 @@
       "confident": true,
       "cat_scores": {
         "sport-bikes": 0.96,
-        "new-models": 0.91,
-        "events-rides": 0.74
+        "new-models": 0.9,
+        "events-rides": 0.75
       },
       "subcategories": [],
       "forms": [
@@ -984,24 +905,24 @@
       ],
       "form_scores": {
         "news": 0.17,
-        "review": 0.55,
+        "review": 0.54,
         "comparison-test": 0.06,
         "first-look": 0.88,
         "ranked-list": 0.02,
         "buyers-guide": 0.1,
         "how-to": 0.1,
-        "explainer": 0.43,
-        "opinion": 0.17,
-        "profile-interview": 0.37,
+        "explainer": 0.44,
+        "opinion": 0.16,
+        "profile-interview": 0.42,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.11,
         "event-preview": 0.97,
-        "press-release": 0.42,
+        "press-release": 0.45,
         "digest": 0.8,
         "photo-gallery": 0.02,
-        "ride-report": 0.23,
-        "history": 0.05,
+        "ride-report": 0.21,
+        "history": 0.04,
         "rumor": 0.04,
         "safety-notice": 0.02,
         "episode": 0.96,
@@ -1052,29 +973,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.65,
+        "news": 0.66,
         "review": 0.07,
         "comparison-test": 0.05,
         "first-look": 0.9,
         "ranked-list": 0.09,
         "buyers-guide": 0.18,
         "how-to": 0.03,
-        "explainer": 0.08,
+        "explainer": 0.09,
         "opinion": 0.07,
         "profile-interview": 0.06,
-        "tribute": 0.15,
+        "tribute": 0.14,
         "listing": 0.03,
         "event-report": 0.04,
         "event-preview": 0.07,
-        "press-release": 0.38,
+        "press-release": 0.42,
         "digest": 0.86,
         "photo-gallery": 0.08,
         "ride-report": 0.18,
-        "history": 0.08,
+        "history": 0.07,
         "rumor": 0.04,
         "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.02,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
       "multi_subject": 0.94,
@@ -1109,7 +1030,7 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.99,
+        "adventure": 0.98,
         "new-models": 0.96
       },
       "subcategories": [],
@@ -1120,26 +1041,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.6,
-        "review": 0.31,
+        "news": 0.61,
+        "review": 0.3,
         "comparison-test": 0.03,
-        "first-look": 0.92,
+        "first-look": 0.93,
         "ranked-list": 0.02,
-        "buyers-guide": 0.24,
+        "buyers-guide": 0.23,
         "how-to": 0.02,
         "explainer": 0.12,
-        "opinion": 0.08,
+        "opinion": 0.09,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.67,
+        "press-release": 0.68,
         "digest": 0.04,
-        "photo-gallery": 0.03,
+        "photo-gallery": 0.02,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.51,
+        "rumor": 0.46,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
@@ -1163,7 +1084,7 @@
       "author": "Motos and Friends by Ultimate Motorcycle",
       "published": "2026-08-05T20:01:00+00:00",
       "excerpt": "This episode is brought to you by the 34th Annual Biketoberfest October 15 to 18 * * * * * The 2026 Harley-Davidson Deadwood is the newest cruiser in the Softail lineup, and it arrives with a familiar recipe. The Motor Company took the Heritage Classic, lowered the rear end, chop",
-      "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog10714790/2026-harley-davidson-deadwood-review-softail-cruiser-11-1536x1024_myegis.jpeg",
+      "image": "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog10714790/2026-harley-davidson-deadwood-review-softail-cruiser-11-1536x1024_myegis_1200x628.jpg?s=8b1630f85c413fc5df9e94de3c8f5dcb&e=jpeg",
       "audio": "https://mcdn.podbean.com/mf/web/zpfnkydatbz3jg8x/S6_H-D_Deadwood_Biketoberfest_Superbike_School_w_TJ_Adams9gw14.m4a",
       "categories": [
         {
@@ -1182,56 +1103,52 @@
       "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.95,
-        "events-rides": 0.85,
-        "cruisers": 0.79
+        "new-models": 0.94,
+        "events-rides": 0.84,
+        "cruisers": 0.78
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
         {
           "slug": "episode",
           "label": "Episode"
         },
         {
-          "slug": "first-look",
-          "label": "First Look"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
-          "slug": "digest",
-          "label": "Digest"
+          "slug": "first-look",
+          "label": "First Look"
         }
       ],
       "form_scores": {
         "news": 0.21,
-        "review": 0.41,
-        "comparison-test": 0.04,
+        "review": 0.44,
+        "comparison-test": 0.03,
         "first-look": 0.88,
         "ranked-list": 0.02,
         "buyers-guide": 0.17,
         "how-to": 0.06,
-        "explainer": 0.68,
-        "opinion": 0.13,
-        "profile-interview": 0.31,
+        "explainer": 0.65,
+        "opinion": 0.14,
+        "profile-interview": 0.32,
         "tribute": 0.01,
-        "listing": 0.02,
+        "listing": 0.03,
         "event-report": 0.08,
         "event-preview": 0.96,
         "press-release": 0.62,
-        "digest": 0.76,
+        "digest": 0.74,
         "photo-gallery": 0.03,
-        "ride-report": 0.26,
+        "ride-report": 0.28,
         "history": 0.04,
-        "rumor": 0.08,
+        "rumor": 0.07,
         "safety-notice": 0.02,
-        "episode": 0.96,
-        "build-feature": 0.03,
+        "episode": 0.97,
+        "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.82,
+      "multi_subject": 0.81,
       "tags": [
         "new-models",
         "events-rides",
@@ -1266,7 +1183,7 @@
       "confident": true,
       "cat_scores": {
         "new-models": 0.98,
-        "cruisers": 0.91
+        "cruisers": 0.92
       },
       "subcategories": [],
       "forms": [
@@ -1277,33 +1194,29 @@
         {
           "slug": "first-look",
           "label": "First Look"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.75,
+        "news": 0.73,
         "review": 0.24,
         "comparison-test": 0.02,
-        "first-look": 0.81,
+        "first-look": 0.8,
         "ranked-list": 0.01,
-        "buyers-guide": 0.16,
+        "buyers-guide": 0.17,
         "how-to": 0.02,
         "explainer": 0.57,
         "opinion": 0.1,
-        "profile-interview": 0.09,
-        "tribute": 0.08,
+        "profile-interview": 0.1,
+        "tribute": 0.07,
         "listing": 0.04,
         "event-report": 0.04,
-        "event-preview": 0.48,
-        "press-release": 0.84,
+        "event-preview": 0.52,
+        "press-release": 0.86,
         "digest": 0.04,
         "photo-gallery": 0.04,
         "ride-report": 0.02,
         "history": 0.07,
-        "rumor": 0.26,
+        "rumor": 0.3,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.03,
@@ -1327,7 +1240,7 @@
       "author": "Motos and Friends by Ultimate Motorcycle",
       "published": "2026-07-22T19:16:16+00:00",
       "excerpt": "This episode is brought to you by Leod Escapes . Have you ever wanted to ride a real MotoGP track? Well, here\u2019s your chance! Leod Escapes does all sorts of incredible touring experiences with the very best that Europe has to offer. Fabulous accommodation, incredible food, and mot",
-      "image": "https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog10714790/2026-harley-davidson-super-glide-review-11-1536x1024_7mvcmc.jpeg",
+      "image": "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog10714790/2026-harley-davidson-super-glide-review-11-1536x1024_7mvcmc_1200x628.jpg?s=4bd23d0c35bd85f17ef63bc8e79d90f6&e=jpeg",
       "audio": "https://mcdn.podbean.com/mf/web/zqds7ux25zmhvk83/S6_The_new_H-D_Super_Glide_Jeremy_Taubmanbrzg8.m4a",
       "categories": [
         {
@@ -1348,7 +1261,7 @@
       "cat_scores": {
         "new-models": 0.94,
         "racing": 0.77,
-        "cruisers": 0.69
+        "cruisers": 0.68
       },
       "subcategories": [],
       "forms": [
@@ -1361,41 +1274,41 @@
           "label": "Profile & Interview"
         },
         {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
           "slug": "first-look",
           "label": "First Look"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
         }
       ],
       "form_scores": {
         "news": 0.21,
-        "review": 0.25,
-        "comparison-test": 0.04,
-        "first-look": 0.83,
+        "review": 0.31,
+        "comparison-test": 0.03,
+        "first-look": 0.85,
         "ranked-list": 0.02,
-        "buyers-guide": 0.15,
+        "buyers-guide": 0.16,
         "how-to": 0.04,
-        "explainer": 0.47,
+        "explainer": 0.44,
         "opinion": 0.13,
         "profile-interview": 0.87,
-        "tribute": 0.05,
+        "tribute": 0.04,
         "listing": 0.03,
         "event-report": 0.09,
-        "event-preview": 0.13,
-        "press-release": 0.4,
-        "digest": 0.84,
+        "event-preview": 0.14,
+        "press-release": 0.43,
+        "digest": 0.83,
         "photo-gallery": 0.03,
-        "ride-report": 0.08,
+        "ride-report": 0.09,
         "history": 0.11,
         "rumor": 0.14,
         "safety-notice": 0.02,
         "episode": 0.97,
-        "build-feature": 0.08,
+        "build-feature": 0.07,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.88,
+      "multi_subject": 0.89,
       "tags": [
         "new-models",
         "racing",

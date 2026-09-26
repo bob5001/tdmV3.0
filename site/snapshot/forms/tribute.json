@@ -29,7 +29,7 @@
       "confident": true,
       "cat_scores": {
         "events-rides": 0.95,
-        "law-safety": 0.91
+        "law-safety": 0.9
       },
       "subcategories": [],
       "forms": [
@@ -51,27 +51,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.83,
         "review": 0.01,
         "comparison-test": 0.01,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.2,
         "opinion": 0.07,
         "profile-interview": 0.16,
-        "tribute": 0.81,
+        "tribute": 0.79,
         "listing": 0.01,
-        "event-report": 0.25,
+        "event-report": 0.24,
         "event-preview": 0.77,
-        "press-release": 0.28,
-        "digest": 0.07,
+        "press-release": 0.29,
+        "digest": 0.08,
         "photo-gallery": 0.09,
-        "ride-report": 0.04,
+        "ride-report": 0.05,
         "history": 0.79,
         "rumor": 0.01,
-        "safety-notice": 0.34,
+        "safety-notice": 0.31,
         "episode": 0.03,
         "build-feature": 0.03,
         "q-and-a": 0.02
@@ -115,8 +115,8 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.97,
-        "classic": 0.85,
-        "motocross-supercross": 0.88
+        "classic": 0.86,
+        "motocross-supercross": 0.89
       },
       "subcategories": [
         {
@@ -136,29 +136,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.13,
+        "news": 0.15,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.2,
+        "explainer": 0.19,
         "opinion": 0.31,
-        "profile-interview": 0.7,
+        "profile-interview": 0.71,
         "tribute": 0.98,
         "listing": 0.01,
-        "event-report": 0.19,
+        "event-report": 0.16,
         "event-preview": 0.02,
         "press-release": 0.05,
         "digest": 0.06,
         "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.97,
+        "ride-report": 0.03,
+        "history": 0.98,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.05,
@@ -166,111 +166,6 @@
         "dirt-mx",
         "racing",
         "classic",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "7d05ff13721b089adb43e0ae64b2ae3b7e14bbad",
-      "title": "McDonald: \u201cAfter the first race, I found my brother hanged: this title is for him\u201d",
-      "link": "https://www.gpone.com/en/2026/09/21/news/mcdonald-after-the-first-race-i-found-my-brother-hanged-this-title-is-for-him.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-21T08:54:35+00:00",
-      "excerpt": "\u201cI left Australia\u2014my family, my girlfriend, and my friends\u2014to move to Europe and pursue this dream. Toby was with me right up until the last lap on Sunday.\u201d",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.58,
-        "dirt-mx": 0.55,
-        "motogp": 0.71,
-        "worldsbk-superbike": 0.65,
-        "motocross-supercross": 0.56
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        },
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "tribute",
-          "label": "Tribute"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.41,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.93,
-        "tribute": 0.85,
-        "listing": 0.01,
-        "event-report": 0.8,
-        "event-preview": 0.06,
-        "press-release": 0.06,
-        "digest": 0.1,
-        "photo-gallery": 0.08,
-        "ride-report": 0.31,
-        "history": 0.12,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.1,
-        "build-feature": 0.04,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "dirt-mx",
-        "motogp",
-        "worldsbk-superbike",
         "motocross-supercross"
       ],
       "also": []
@@ -297,7 +192,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.85
+        "racing": 0.86
       },
       "subcategories": [],
       "forms": [
@@ -311,11 +206,11 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.86,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.04,
@@ -323,20 +218,20 @@
         "profile-interview": 0.13,
         "tribute": 0.98,
         "listing": 0.01,
-        "event-report": 0.06,
+        "event-report": 0.05,
         "event-preview": 0.02,
-        "press-release": 0.21,
+        "press-release": 0.18,
         "digest": 0.12,
         "photo-gallery": 0.08,
         "ride-report": 0.01,
-        "history": 0.59,
+        "history": 0.56,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.04,
         "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing"
       ],
@@ -378,28 +273,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.09,
+        "news": 0.1,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.01,
+        "ranked-list": 0.02,
         "buyers-guide": 0.01,
         "how-to": 0.02,
         "explainer": 0.14,
-        "opinion": 0.41,
+        "opinion": 0.4,
         "profile-interview": 0.11,
-        "tribute": 0.94,
+        "tribute": 0.93,
         "listing": 0.01,
-        "event-report": 0.44,
-        "event-preview": 0.13,
+        "event-report": 0.46,
+        "event-preview": 0.11,
         "press-release": 0.04,
         "digest": 0.03,
         "photo-gallery": 0.03,
         "ride-report": 0.91,
-        "history": 0.45,
-        "rumor": 0.0,
+        "history": 0.44,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
@@ -449,10 +344,10 @@
         "first-look": 0.01,
         "ranked-list": 0.01,
         "buyers-guide": 0.01,
-        "how-to": 0.03,
-        "explainer": 0.52,
+        "how-to": 0.02,
+        "explainer": 0.5,
         "opinion": 0.95,
-        "profile-interview": 0.2,
+        "profile-interview": 0.17,
         "tribute": 0.97,
         "listing": 0.01,
         "event-report": 0.01,

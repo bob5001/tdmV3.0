@@ -38,9 +38,9 @@
       "cat_scores": {
         "for-sale": 0.99,
         "adventure": 0.85,
-        "dirt-mx": 0.63,
-        "custom": 0.53,
-        "scramblers": 0.86
+        "dirt-mx": 0.66,
+        "custom": 0.59,
+        "scramblers": 0.87
       },
       "subcategories": [
         {
@@ -61,24 +61,24 @@
         "comparison-test": 0.01,
         "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.56,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.03,
+        "buyers-guide": 0.54,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.04,
         "profile-interview": 0.04,
         "tribute": 0.01,
-        "listing": 0.98,
-        "event-report": 0.23,
+        "listing": 0.99,
+        "event-report": 0.22,
         "event-preview": 0.03,
         "press-release": 0.06,
-        "digest": 0.11,
+        "digest": 0.1,
         "photo-gallery": 0.05,
         "ride-report": 0.02,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.33,
+        "build-feature": 0.39,
         "q-and-a": 0.01
       },
       "multi_subject": 0.05,
@@ -121,9 +121,9 @@
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.98,
+        "for-sale": 0.99,
         "dirt-mx": 0.97,
-        "classic": 0.93
+        "classic": 0.92
       },
       "subcategories": [],
       "forms": [
@@ -136,26 +136,26 @@
         "news": 0.08,
         "review": 0.11,
         "comparison-test": 0.01,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.48,
         "how-to": 0.03,
-        "explainer": 0.07,
+        "explainer": 0.06,
         "opinion": 0.03,
-        "profile-interview": 0.02,
+        "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.04,
-        "digest": 0.03,
+        "digest": 0.04,
         "photo-gallery": 0.07,
         "ride-report": 0.01,
         "history": 0.06,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.15,
+        "build-feature": 0.13,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -193,7 +193,7 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.97,
-        "classic": 0.58
+        "classic": 0.55
       },
       "subcategories": [],
       "forms": [
@@ -203,15 +203,15 @@
         }
       ],
       "form_scores": {
-        "news": 0.23,
+        "news": 0.24,
         "review": 0.09,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.34,
+        "buyers-guide": 0.39,
         "how-to": 0.02,
-        "explainer": 0.25,
-        "opinion": 0.07,
+        "explainer": 0.24,
+        "opinion": 0.06,
         "profile-interview": 0.03,
         "tribute": 0.03,
         "listing": 0.97,
@@ -219,11 +219,11 @@
         "event-preview": 0.02,
         "press-release": 0.09,
         "digest": 0.07,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.12,
         "rumor": 0.02,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.08,
         "q-and-a": 0.02
@@ -231,6 +231,81 @@
       "multi_subject": 0.04,
       "tags": [
         "for-sale",
+        "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "e722157549a208bc09b6b3db2efde7b6bf581163",
+      "title": "No Reserve: 1976 Indian MT175 and Neon Indian Motocycles Sign",
+      "link": "https://bringatrailer.com/listing/1976-indian-mt175-and-neon-indian-sign",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-09-15T01:08:19+00:00",
+      "excerpt": "This 1976 Indian MT175 was refinished under prior ownership and acquired by the seller in 2026, reportedly from its third owner. Finished in black with multi-colored graphics, the bike is powered by a 171cc two-stroke single paired with a five-speed transmission. Details include ",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_5496-scaled-copy-2026-09-17-gfv-78363.jpeg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "dirt-mx": 0.91,
+        "classic": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.35,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "for-sale",
+        "dirt-mx",
         "classic"
       ],
       "also": []
@@ -262,7 +337,7 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.96,
-        "sport-bikes": 0.72
+        "sport-bikes": 0.66
       },
       "subcategories": [],
       "forms": [
@@ -272,16 +347,16 @@
         }
       ],
       "form_scores": {
-        "news": 0.15,
+        "news": 0.14,
         "review": 0.1,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
         "buyers-guide": 0.33,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.26,
         "opinion": 0.1,
-        "profile-interview": 0.05,
+        "profile-interview": 0.04,
         "tribute": 0.09,
         "listing": 0.96,
         "event-report": 0.06,
@@ -294,7 +369,7 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.49,
+        "build-feature": 0.47,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
@@ -336,7 +411,7 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.97,
-        "classic": 0.51,
+        "classic": 0.52,
         "cafe-racers": 0.82
       },
       "subcategories": [
@@ -357,26 +432,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.19,
-        "review": 0.08,
+        "news": 0.2,
+        "review": 0.09,
         "comparison-test": 0.02,
         "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.35,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.38,
         "how-to": 0.03,
-        "explainer": 0.29,
-        "opinion": 0.1,
-        "profile-interview": 0.06,
+        "explainer": 0.3,
+        "opinion": 0.09,
+        "profile-interview": 0.07,
         "tribute": 0.03,
-        "listing": 0.97,
+        "listing": 0.96,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.06,
         "digest": 0.08,
         "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.03,
+        "history": 0.09,
+        "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
         "build-feature": 0.86,
@@ -424,7 +499,7 @@
         "for-sale": 0.98,
         "custom": 0.97,
         "classic": 0.96,
-        "cafe-racers": 0.8
+        "cafe-racers": 0.79
       },
       "subcategories": [
         {
@@ -445,7 +520,7 @@
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.47,
+        "buyers-guide": 0.48,
         "how-to": 0.03,
         "explainer": 0.12,
         "opinion": 0.06,
@@ -456,13 +531,13 @@
         "event-preview": 0.01,
         "press-release": 0.06,
         "digest": 0.06,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.06,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.53,
+        "build-feature": 0.51,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
@@ -507,7 +582,7 @@
         "for-sale": 0.98,
         "custom": 0.97,
         "classic": 0.96,
-        "cafe-racers": 0.82
+        "cafe-racers": 0.83
       },
       "subcategories": [
         {
@@ -523,7 +598,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.22,
+        "news": 0.25,
         "review": 0.09,
         "comparison-test": 0.02,
         "first-look": 0.02,
@@ -531,9 +606,9 @@
         "buyers-guide": 0.44,
         "how-to": 0.03,
         "explainer": 0.1,
-        "opinion": 0.07,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
@@ -545,7 +620,7 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.6,
+        "build-feature": 0.61,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -590,7 +665,7 @@
         "custom": 0.98,
         "for-sale": 0.98,
         "classic": 0.9,
-        "cafe-racers": 0.73
+        "cafe-racers": 0.74
       },
       "subcategories": [
         {
@@ -606,29 +681,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.19,
+        "news": 0.21,
         "review": 0.07,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.38,
         "how-to": 0.03,
         "explainer": 0.11,
         "opinion": 0.05,
-        "profile-interview": 0.04,
+        "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.1,
-        "digest": 0.06,
+        "digest": 0.07,
         "photo-gallery": 0.09,
         "ride-report": 0.01,
-        "history": 0.05,
+        "history": 0.06,
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.69,
+        "build-feature": 0.7,
         "q-and-a": 0.02
       },
       "multi_subject": 0.05,
@@ -678,17 +753,17 @@
       ],
       "form_scores": {
         "news": 0.18,
-        "review": 0.09,
+        "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.36,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.35,
         "how-to": 0.02,
-        "explainer": 0.2,
-        "opinion": 0.1,
+        "explainer": 0.18,
+        "opinion": 0.09,
         "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.98,
+        "tribute": 0.02,
+        "listing": 0.97,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.07,
@@ -730,18 +805,13 @@
         {
           "slug": "classic",
           "label": "Classic"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
         "for-sale": 0.98,
-        "classic": 0.92,
-        "sport-bikes": 0.5
+        "classic": 0.9
       },
       "subcategories": [],
       "forms": [
@@ -752,26 +822,26 @@
       ],
       "form_scores": {
         "news": 0.13,
-        "review": 0.09,
-        "comparison-test": 0.02,
+        "review": 0.1,
+        "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
-        "buyers-guide": 0.45,
+        "buyers-guide": 0.42,
         "how-to": 0.02,
-        "explainer": 0.06,
+        "explainer": 0.07,
         "opinion": 0.03,
         "profile-interview": 0.02,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
+        "event-preview": 0.02,
+        "press-release": 0.05,
         "digest": 0.03,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.05,
+        "history": 0.06,
         "rumor": 0.01,
-        "safety-notice": 0.02,
+        "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.04,
         "q-and-a": 0.02
@@ -779,8 +849,7 @@
       "multi_subject": 0.03,
       "tags": [
         "for-sale",
-        "classic",
-        "sport-bikes"
+        "classic"
       ],
       "also": []
     },
@@ -805,13 +874,18 @@
         {
           "slug": "for-sale",
           "label": "For Sale"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "classic",
       "confident": true,
       "cat_scores": {
         "classic": 0.98,
-        "for-sale": 0.97
+        "for-sale": 0.97,
+        "sport-bikes": 0.52
       },
       "subcategories": [],
       "forms": [
@@ -821,17 +895,17 @@
         }
       ],
       "form_scores": {
-        "news": 0.23,
+        "news": 0.21,
         "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.5,
-        "how-to": 0.02,
-        "explainer": 0.22,
-        "opinion": 0.1,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.47,
+        "how-to": 0.03,
+        "explainer": 0.23,
+        "opinion": 0.09,
+        "profile-interview": 0.03,
+        "tribute": 0.04,
         "listing": 0.97,
         "event-report": 0.02,
         "event-preview": 0.02,
@@ -840,16 +914,86 @@
         "photo-gallery": 0.06,
         "ride-report": 0.02,
         "history": 0.11,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.2,
+        "build-feature": 0.19,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "classic",
-        "for-sale"
+        "for-sale",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "1d2ab3a5cffa1b15a08ed64d7d50228a82ef8df3",
+      "title": "No Reserve: 1981 Yamaha XS Eleven Special",
+      "link": "https://bringatrailer.com/listing/1981-yamaha-xs-eleven-3",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-09-10T23:51:27+00:00",
+      "excerpt": "This 1981 Yamaha XS Eleven Special is an Indigo Blue example that was registered in Colorado prior to its recent acquisition by the seller. Powered by an air-cooled 1,101cc DOHC inline-four paired with a five-speed transmission, the motorcycle also has an enclosed driveshaft, a q",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_3372-scaled-copy-2026-09-14-gwf-06409.jpeg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.99,
+        "classic": 0.92
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.12,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.48,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.03,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.06,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
+        "classic"
       ],
       "also": []
     },
@@ -885,7 +1029,7 @@
       "cat_scores": {
         "classic": 0.97,
         "dirt-mx": 0.95,
-        "for-sale": 0.78
+        "for-sale": 0.81
       },
       "subcategories": [],
       "forms": [
@@ -900,25 +1044,25 @@
       ],
       "form_scores": {
         "news": 0.85,
-        "review": 0.04,
+        "review": 0.03,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.03,
         "buyers-guide": 0.13,
         "how-to": 0.02,
-        "explainer": 0.08,
+        "explainer": 0.07,
         "opinion": 0.05,
         "profile-interview": 0.07,
         "tribute": 0.08,
-        "listing": 0.78,
-        "event-report": 0.06,
-        "event-preview": 0.73,
-        "press-release": 0.17,
-        "digest": 0.11,
-        "photo-gallery": 0.09,
+        "listing": 0.79,
+        "event-report": 0.05,
+        "event-preview": 0.74,
+        "press-release": 0.16,
+        "digest": 0.1,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.48,
-        "rumor": 0.04,
+        "history": 0.5,
+        "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.15,
@@ -958,7 +1102,7 @@
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.98,
+        "for-sale": 0.99,
         "classic": 0.97
       },
       "subcategories": [],
@@ -970,11 +1114,11 @@
       ],
       "form_scores": {
         "news": 0.07,
-        "review": 0.1,
+        "review": 0.09,
         "comparison-test": 0.01,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.44,
+        "buyers-guide": 0.45,
         "how-to": 0.03,
         "explainer": 0.07,
         "opinion": 0.03,
@@ -984,20 +1128,89 @@
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.04,
-        "digest": 0.04,
+        "digest": 0.03,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.08,
+        "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.14,
+        "build-feature": 0.15,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "2cfec7e4929116792ffb503aec4f0abc30ac09a8",
+      "title": "7k-Mile 2007 Ducati 999S Team USA Edition",
+      "link": "https://bringatrailer.com/listing/2007-ducati-999s-3-2",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-09-09T22:58:50+00:00",
+      "excerpt": "This 2007 Ducati 999S is one of 150 Team USA Edition examples built and features an autographed monoposto tail section signed by Ducati racers Neil Hodgson and Ben Bostrom. It has been modified with a Sargent seat, Ducabike handlebar risers, CRG levers, an aftermarket windscreen,",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/Duc1-copy-2026-09-14-c8o-05114.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.97,
+        "for-sale": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.13,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.39,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.05,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.23,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "sport-bikes",
+        "for-sale"
       ],
       "also": []
     },
@@ -1033,7 +1246,7 @@
       "cat_scores": {
         "for-sale": 0.98,
         "sport-bikes": 0.94,
-        "classic": 0.69
+        "classic": 0.71
       },
       "subcategories": [],
       "forms": [
@@ -1045,27 +1258,27 @@
       "form_scores": {
         "news": 0.07,
         "review": 0.09,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.5,
+        "buyers-guide": 0.52,
         "how-to": 0.03,
-        "explainer": 0.06,
+        "explainer": 0.07,
         "opinion": 0.03,
         "profile-interview": 0.02,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.03,
+        "press-release": 0.04,
         "digest": 0.04,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.01,
-        "history": 0.07,
+        "history": 0.06,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.04,
-        "build-feature": 0.34,
+        "build-feature": 0.36,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -1108,9 +1321,9 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.94,
-        "classic": 0.91,
+        "classic": 0.9,
         "cafe-racers": 0.86,
-        "restomods": 0.68
+        "restomods": 0.7
       },
       "subcategories": [
         {
@@ -1135,18 +1348,18 @@
         }
       ],
       "form_scores": {
-        "news": 0.2,
-        "review": 0.11,
+        "news": 0.22,
+        "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.03,
-        "buyers-guide": 0.38,
+        "buyers-guide": 0.4,
         "how-to": 0.04,
         "explainer": 0.18,
         "opinion": 0.09,
         "profile-interview": 0.05,
         "tribute": 0.03,
-        "listing": 0.95,
+        "listing": 0.94,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.07,
@@ -1157,8 +1370,8 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.04,
-        "build-feature": 0.81,
-        "q-and-a": 0.03
+        "build-feature": 0.8,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
@@ -1208,11 +1421,11 @@
       ],
       "form_scores": {
         "news": 0.07,
-        "review": 0.14,
+        "review": 0.15,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.47,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.49,
         "how-to": 0.03,
         "explainer": 0.06,
         "opinion": 0.03,
@@ -1227,9 +1440,9 @@
         "ride-report": 0.02,
         "history": 0.12,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.12,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.13,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -1266,16 +1479,9 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.97,
-        "custom": 0.59,
-        "cafe-racers": 0.5
+        "custom": 0.61
       },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "listing",
@@ -1284,19 +1490,19 @@
       ],
       "form_scores": {
         "news": 0.22,
-        "review": 0.09,
+        "review": 0.08,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.38,
+        "buyers-guide": 0.36,
         "how-to": 0.02,
-        "explainer": 0.12,
-        "opinion": 0.11,
+        "explainer": 0.13,
+        "opinion": 0.13,
         "profile-interview": 0.05,
-        "tribute": 0.04,
-        "listing": 0.96,
+        "tribute": 0.05,
+        "listing": 0.97,
         "event-report": 0.02,
-        "event-preview": 0.02,
+        "event-preview": 0.01,
         "press-release": 0.1,
         "digest": 0.07,
         "photo-gallery": 0.08,
@@ -1305,29 +1511,28 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.17,
+        "build-feature": 0.15,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
         "for-sale",
-        "custom",
-        "cafe-racers"
+        "custom"
       ],
       "also": []
     },
     {
-      "id": "0788ccc186128d7e55f5e1c70ad23f0e8389536c",
-      "title": "No Reserve: 1975 Honda CB750",
-      "link": "https://bringatrailer.com/listing/1975-honda-cb750-44",
+      "id": "9c585d656c56dfeeb0f497a5b4185ecfa649072b",
+      "title": "No Reserve: 1979 Yamaha RD400 Daytona Special",
+      "link": "https://bringatrailer.com/listing/1979-yamaha-rd400-10",
       "lang": "en",
       "source": "Bring A Trailer (motorcycles)",
       "ownership": "commercial",
       "media": "article",
       "author": "bringatrailer",
-      "published": "2026-09-05T14:01:22+00:00",
-      "excerpt": "This 1975 Honda CB750 spent time in California before being acquired by the seller on BaT in May 2026. Powered by an air-cooled 736cc SOHC inline-four paired with a five-speed transmission, the motorcycle is finished in metallic blue with black, gold, and white graphics. It also ",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_8129-scaled-copy-2026-09-10-4h9-53896.jpeg?w=940",
+      "published": "2026-09-06T18:03:43+00:00",
+      "excerpt": "This 1979 Yamaha RD400 Daytona Special was stored for approximately two decades before its 2024 acquisition by the seller, who tells us that subsequent work included refinishing the frame, reupholstering the two-up seat, servicing the front and rear disc brakes, fitting the dual ",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_8808-scaled-57197-1-copy-2026-09-15-wu4-79397.jpeg?w=940",
       "audio": null,
       "categories": [
         {
@@ -1343,7 +1548,7 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.98,
-        "classic": 0.96
+        "classic": 0.97
       },
       "subcategories": [],
       "forms": [
@@ -1353,99 +1558,14 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
-        "review": 0.11,
+        "news": 0.08,
+        "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.02,
-        "buyers-guide": 0.46,
+        "buyers-guide": 0.5,
         "how-to": 0.03,
         "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.01,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.11,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "8f2c1b054b6fca6e06bcab753c991cb84a2b3691",
-      "title": "No Reserve: 1985 BMW K100 Cafe Racer",
-      "link": "https://bringatrailer.com/listing/1985-bmw-k100-18",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-05T01:45:27+00:00",
-      "excerpt": "This 1985 BMW K100 was acquired as a project in 2025 by the seller who subsequently rebuilt it as a cafe racer with work that included repainting the fuel tank, modifying the frame, powder-coating the wheels, engine covers, and frame, and fitting a custom solo seat, clip-on handl",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_9536-scaled-copy-2026-09-10-rkd-48749.jpeg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.98,
-        "for-sale": 0.98,
-        "classic": 0.93,
-        "cafe-racers": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        },
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.12,
-        "review": 0.09,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.42,
-        "how-to": 0.03,
-        "explainer": 0.09,
         "opinion": 0.03,
         "profile-interview": 0.03,
         "tribute": 0.02,
@@ -1454,21 +1574,19 @@
         "event-preview": 0.02,
         "press-release": 0.04,
         "digest": 0.04,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.82,
+        "episode": 0.02,
+        "build-feature": 0.31,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
-        "custom",
         "for-sale",
-        "classic",
-        "cafe-racers"
+        "classic"
       ],
       "also": []
     },
@@ -1504,7 +1622,7 @@
       "cat_scores": {
         "for-sale": 0.98,
         "sport-bikes": 0.69,
-        "classic": 0.58
+        "classic": 0.6
       },
       "subcategories": [],
       "forms": [
@@ -1514,14 +1632,14 @@
         }
       ],
       "form_scores": {
-        "news": 0.27,
-        "review": 0.09,
+        "news": 0.22,
+        "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
         "buyers-guide": 0.5,
         "how-to": 0.02,
-        "explainer": 0.08,
+        "explainer": 0.09,
         "opinion": 0.06,
         "profile-interview": 0.03,
         "tribute": 0.02,
@@ -1536,82 +1654,7 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.3,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "for-sale",
-        "sport-bikes",
-        "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "feb2cd734f31b6a1b205b4e5a3cd33f87c583273",
-      "title": "No Reserve: 1986 Honda VFR750F Interceptor",
-      "link": "https://bringatrailer.com/listing/1986-honda-vfr750f-interceptor-5",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-04T00:36:21+00:00",
-      "excerpt": "This 1986 Honda VFR750F Interceptor spent time in Washington, South Carolina, and Ohio prior to being purchased by the seller in 2026, and it is powered by a liquid-cooled 748cc V4 that routes power through a six-speed transmission. Finished in white with red and blue accents, th",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_3158-copy-2026-09-11-9sj-85543.jpeg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "sport-bikes": 0.9,
-        "classic": 0.78
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.46,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.05,
+        "build-feature": 0.29,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
@@ -1619,255 +1662,6 @@
         "for-sale",
         "sport-bikes",
         "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "17480ca29b23e5011ef8e1dc2ccd873552ca445f",
-      "title": "No Reserve: 1980 Honda CBX Super Sport",
-      "link": "https://bringatrailer.com/listing/1980-honda-cbx-30",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-03T00:38:57+00:00",
-      "excerpt": "This 1980 Honda CBX Super Sport was purchased by the seller in 2020, reportedly from the original owner, and is powered by a 1,047cc DOHC inline-six paired with a five-speed transmission, both of which were rebuilt in 2023. Finished in black, the bike is further equipped with 19\u2033",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_9245-copy-2026-09-09-qkd-85089.png?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "classic": 0.9,
-        "sport-bikes": 0.6
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.45,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.13,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic",
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "2f2ba435f08f8d3d52392011de34c7ae5334c24f",
-      "title": "JIMS 135ci-Powered 2013 Harley-Davidson Electra Glide Classic by CycleVisions",
-      "link": "https://bringatrailer.com/listing/2013-harley-davidson-street-glide-8",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-02T23:33:37+00:00",
-      "excerpt": "This 2013 Harley-Davidson Electra Glide Classic was built by CycleVisions of San Diego, California with a JIMS 135ci V-twin along with stretched and custom-painted bodywork. Modifications include a 26\u2033 front wheel, a chrome handlebar and controls, Dakota Digital gauges, a Perform",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/vision_motorcycle10-copy-2026-09-10-rls-50757.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "cruisers",
-      "confident": true,
-      "cat_scores": {
-        "cruisers": 0.97,
-        "for-sale": 0.97,
-        "custom": 0.8,
-        "classic": 0.24,
-        "restomods": 0.53
-      },
-      "subcategories": [
-        {
-          "slug": "restomods",
-          "label": "Restomods",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        },
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.17,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.35,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.97,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
-        "digest": 0.04,
-        "photo-gallery": 0.1,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.96,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "cruisers",
-        "for-sale",
-        "custom",
-        "classic",
-        "restomods"
-      ],
-      "also": []
-    },
-    {
-      "id": "b0b4fe8988d3c63c141dd34c13d940c94e1fa7c9",
-      "title": "No Reserve: 1970 Honda SL350 Motosport",
-      "link": "https://bringatrailer.com/listing/1970-honda-sl350-6",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-02T18:01:07+00:00",
-      "excerpt": "This 1970 Honda SL350 Motosport was purchased in 2025 and subsequently refurbished with work that reportedly included over-boring and rebuilding the 326cc four-stroke parallel-twin, overhauling the carburetors, and refinishing the bodywork in Candy Sapphire Blue along with replac",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/1970_honda_sl350_img_1132-69995.jpeg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "classic": 0.97,
-        "dirt-mx": 0.7,
-        "adventure": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.09,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.41,
-        "how-to": 0.03,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.42,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic",
-        "dirt-mx",
-        "adventure"
       ],
       "also": []
     },
@@ -1907,22 +1701,22 @@
         "review": 0.11,
         "comparison-test": 0.03,
         "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.46,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.45,
         "how-to": 0.02,
-        "explainer": 0.41,
+        "explainer": 0.42,
         "opinion": 0.13,
         "profile-interview": 0.03,
         "tribute": 0.03,
         "listing": 0.97,
         "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.08,
+        "event-preview": 0.01,
+        "press-release": 0.09,
         "digest": 0.07,
         "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
         "build-feature": 0.06,
@@ -1935,71 +1729,81 @@
       "also": []
     },
     {
-      "id": "84346c38a7a0e07745300ee9aa0dfc4dcf146eaf",
-      "title": "No Reserve: 1968 Triumph Bonneville T120R",
-      "link": "https://bringatrailer.com/listing/1968-triumph-bonneville-t120r-33",
+      "id": "64b89a3eed55f692bcafac45242de5e10b874aa5",
+      "title": "No Reserve: 2026 Honda CRF 110F BVC Conversion Big Wheel",
+      "link": "https://bringatrailer.com/listing/2026-honda-crf-110f",
       "lang": "en",
       "source": "Bring A Trailer (motorcycles)",
       "ownership": "commercial",
       "media": "article",
       "author": "bringatrailer",
-      "published": "2026-09-02T00:22:35+00:00",
-      "excerpt": "This 1968 Triumph Bonneville T120R was acquired by the seller approximately two decades ago, and it has primarily resided in storage since. Powered by an air-cooled 649cc parallel-twin paired with a four-speed transmission, the motorcycle is finished in maroon, silver, and black.",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_3251-scaled-copy-2026-09-08-c4k-02049.jpeg?w=940",
+      "published": "2026-09-01T21:40:41+00:00",
+      "excerpt": "This 2026 CRF110F was acquired by the seller in May and immediately thereafter modified with a big wheel kit by BVC of Tucson, Arizona. Modifications include a custom billet aluminum swingarm and triple clamps, alloy 10\u2033 wheels with 21\u2033 SUNF tires, disc brakes, custom hubs, anti-",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_4053_3-scaled-copy-2026-09-17-0i3-67934.jpeg?w=940",
       "audio": null,
       "categories": [
         {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
           "slug": "for-sale",
           "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
         }
       ],
-      "primary": "classic",
+      "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "classic": 0.98,
-        "for-sale": 0.98
+        "for-sale": 0.98,
+        "dirt-mx": 0.94,
+        "custom": 0.6
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "listing",
           "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.06,
-        "review": 0.1,
+        "news": 0.07,
+        "review": 0.11,
         "comparison-test": 0.02,
-        "first-look": 0.01,
+        "first-look": 0.06,
         "ranked-list": 0.02,
-        "buyers-guide": 0.5,
-        "how-to": 0.03,
-        "explainer": 0.06,
+        "buyers-guide": 0.38,
+        "how-to": 0.02,
+        "explainer": 0.08,
         "opinion": 0.03,
         "profile-interview": 0.03,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.98,
         "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.03,
+        "event-preview": 0.01,
+        "press-release": 0.05,
         "digest": 0.04,
-        "photo-gallery": 0.09,
+        "photo-gallery": 0.08,
         "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.09,
+        "build-feature": 0.87,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
-        "classic",
-        "for-sale"
+        "for-sale",
+        "dirt-mx",
+        "custom"
       ],
       "also": []
     },
@@ -2035,7 +1839,7 @@
       "cat_scores": {
         "for-sale": 0.96,
         "sport-bikes": 0.68,
-        "classic": 0.55
+        "classic": 0.54
       },
       "subcategories": [],
       "forms": [
@@ -2045,28 +1849,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.2,
+        "news": 0.22,
         "review": 0.11,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.36,
-        "how-to": 0.04,
-        "explainer": 0.74,
-        "opinion": 0.11,
+        "buyers-guide": 0.34,
+        "how-to": 0.03,
+        "explainer": 0.73,
+        "opinion": 0.1,
         "profile-interview": 0.04,
         "tribute": 0.03,
-        "listing": 0.96,
+        "listing": 0.97,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.11,
+        "press-release": 0.1,
         "digest": 0.07,
         "photo-gallery": 0.08,
         "ride-report": 0.02,
         "history": 0.14,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.11,
         "q-and-a": 0.02
       },
@@ -2075,6 +1879,81 @@
         "for-sale",
         "sport-bikes",
         "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "24405d755d5864fa567ea980c303f65017885a1f",
+      "title": "Single-Family-Owned 1937 Harley-Davidson EL",
+      "link": "https://bringatrailer.com/listing/1937-harley-davidson-el-61ci",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-31T19:09:51+00:00",
+      "excerpt": "This 1937 Harley-Davidson EL was purchased new by the seller\u2019s uncle, barn-stored for approximately three decades, and refurbished circa 2016 by the seller\u2019s cousin, from whose estate it was acquired by the seller in 2021. Refurbishment work included rebuilding the bike\u2019s 61ci V-",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_3366-scaled-copy-2026-09-14-b1h-97024.jpeg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.99,
+        "for-sale": 0.98,
+        "cruisers": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.1,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.44,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.21,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.56,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "classic",
+        "for-sale",
+        "cruisers"
       ],
       "also": []
     },
@@ -2120,11 +1999,11 @@
       ],
       "form_scores": {
         "news": 0.06,
-        "review": 0.12,
+        "review": 0.11,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.38,
+        "buyers-guide": 0.39,
         "how-to": 0.02,
         "explainer": 0.07,
         "opinion": 0.03,
@@ -2134,10 +2013,10 @@
         "event-report": 0.02,
         "event-preview": 0.01,
         "press-release": 0.05,
-        "digest": 0.05,
+        "digest": 0.04,
         "photo-gallery": 0.08,
         "ride-report": 0.01,
-        "history": 0.13,
+        "history": 0.12,
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
@@ -2152,17 +2031,17 @@
       "also": []
     },
     {
-      "id": "10537031009b61ca833df958a2ff687ee39862ff",
-      "title": "No Reserve: 1968 Honda Z50A Mini Trail",
-      "link": "https://bringatrailer.com/listing/1968-honda-z50a-mini-trail-26",
+      "id": "f5d7b0dce90813b1e12bb9405f220570e85c2d33",
+      "title": "2000 Honda XR650R",
+      "link": "https://bringatrailer.com/listing/2000-honda-xr650r-2",
       "lang": "en",
       "source": "Bring A Trailer (motorcycles)",
       "ownership": "commercial",
       "media": "article",
       "author": "bringatrailer",
-      "published": "2026-08-30T20:19:27+00:00",
-      "excerpt": "This 1968 Honda Z50A Mini Trail was the subject of a 2021 refurbishment that included installing a replacement air-cooled 49cc single, repainting the bike in yellow and white with silver fenders, and overhauling the adjustable-height seat as well as replacing the throttle and bra",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/20260331_124656-scaled-copy-2026-09-09-udp-69248.jpg?w=940",
+      "published": "2026-08-30T01:32:30+00:00",
+      "excerpt": "This 2000 Honda XR650R was purchased by the seller in 2008, reportedly from its original owner, and has been outfitted with an electric starter, aftermarket lighting, a ProTaper handlebar, hand guards, a digital dashboard, a rear rack, and more. Wearing Fighting Red and white bod",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_1681-scaled-copy-2026-09-11-s7y-89249.jpg?w=940",
       "audio": null,
       "categories": [
         {
@@ -2170,20 +2049,20 @@
           "label": "For Sale"
         },
         {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
         "for-sale": 0.98,
-        "classic": 0.96,
-        "dirt-mx": 0.75
+        "dirt-mx": 0.95,
+        "adventure": 0.88
       },
       "subcategories": [],
       "forms": [
@@ -2193,36 +2072,105 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
-        "review": 0.12,
-        "comparison-test": 0.01,
+        "news": 0.05,
+        "review": 0.13,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.4,
+        "buyers-guide": 0.39,
         "how-to": 0.02,
-        "explainer": 0.06,
+        "explainer": 0.07,
         "opinion": 0.03,
-        "profile-interview": 0.02,
+        "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.03,
+        "press-release": 0.03,
+        "digest": 0.04,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.09,
+        "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.27,
+        "episode": 0.04,
+        "build-feature": 0.19,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "for-sale",
-        "classic",
-        "dirt-mx"
+        "dirt-mx",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "206ea42618ed59f1b12b54f5f056d47a20bd819e",
+      "title": "2004 Honda Rune",
+      "link": "https://bringatrailer.com/listing/2004-honda-rune-67",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-27T14:42:38+00:00",
+      "excerpt": "This 2004 Honda Rune is a limited-production motorcycle based on the contemporary Valkyrie, and this US-spec example was sold new in Florida before being imported to Canada in 2012 and acquired by the seller in 2022. Finished in Illusion Blue with chrome accents, the motorcycle i",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/IMG_6013_1-scaled-copy-2026-09-10-tyv-61637.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "cruisers": 0.73
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.24,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.42,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.12,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.06,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "for-sale",
+        "cruisers"
       ],
       "also": []
     },
@@ -2258,15 +2206,15 @@
         }
       ],
       "form_scores": {
-        "news": 0.15,
+        "news": 0.17,
         "review": 0.07,
         "comparison-test": 0.02,
         "first-look": 0.05,
         "ranked-list": 0.02,
         "buyers-guide": 0.48,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.06,
+        "explainer": 0.08,
+        "opinion": 0.05,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.98,
@@ -2275,17 +2223,191 @@
         "press-release": 0.08,
         "digest": 0.07,
         "photo-gallery": 0.07,
-        "ride-report": 0.02,
+        "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.03,
         "safety-notice": 0.01,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.04,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "for-sale"
+      ],
+      "also": []
+    },
+    {
+      "id": "1eebe0603a5b1f5f5eb37d010dceb1c834b9d3dc",
+      "title": "No Reserve: 1971 Honda SL175 Motosport",
+      "link": "https://bringatrailer.com/listing/1971-honda-sl175-3",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-24T20:07:02+00:00",
+      "excerpt": "This 1971 Honda SL175 Motosport spent time in Ohio before it was the subject of a 2022 refurbishment, which is said to have involved re-plating various chrome-finished components, repainting the bodywork in metallic red with white graphics, and rebuilding the air-cooled 174cc SOH",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1971_honda_sl175_1971_honda_sl175_3c3c9c8b-d2fc-4b23-86d6-a7270f9ef0a1-tyqk4k-70602-76922.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.98,
+        "for-sale": 0.98,
+        "dirt-mx": 0.78,
+        "adventure": 0.6
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.11,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.42,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.03,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.29,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "classic",
+        "for-sale",
+        "dirt-mx",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "37ab79232103cd020ca66530cd3e10b025da2393",
+      "title": "No Reserve: 212cc-Powered 1970 Honda CT70 Trail 5-Speed",
+      "link": "https://bringatrailer.com/listing/1970-honda-ct70-trail-121",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-21T14:33:45+00:00",
+      "excerpt": "This 1970 Honda CT70 Trail was the subject of a custom build by the seller, who tells us that the bike has been retrofitted with an air-cooled Zongshen 212cc four-stroke single, a manual clutch, a five-speed transmission, a Nibbi Racing offset intake manifold and PE30mm carbureto",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1970_honda_ct70-trail_1970_honda_ct70-trail_1da573a7-e011-4505-b7b2-6f8c15367374-8ajqb2-20294-80769.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "classic": 0.76,
+        "custom": 0.71,
+        "dirt-mx": 0.58,
+        "restomods": 0.91
+      },
+      "subcategories": [
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.16,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.39,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.9,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
+        "classic",
+        "custom",
+        "dirt-mx",
+        "restomods"
       ],
       "also": []
     },
@@ -2322,7 +2444,7 @@
         "for-sale": 0.97,
         "classic": 0.96,
         "custom": 0.94,
-        "cafe-racers": 0.71
+        "cafe-racers": 0.72
       },
       "subcategories": [
         {
@@ -2338,15 +2460,15 @@
         }
       ],
       "form_scores": {
-        "news": 0.18,
+        "news": 0.19,
         "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.44,
+        "buyers-guide": 0.41,
         "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.05,
+        "explainer": 0.11,
+        "opinion": 0.06,
         "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.96,
@@ -2359,11 +2481,11 @@
         "history": 0.04,
         "rumor": 0.02,
         "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.35,
+        "episode": 0.03,
+        "build-feature": 0.38,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "classic",
@@ -2373,23 +2495,19 @@
       "also": []
     },
     {
-      "id": "e6245f4ea9c8aad25602ae17de84bc0ac1926546",
-      "title": "FOR SALE: 1995 BMW K75 Cafe Racer",
-      "link": "https://www.returnofthecaferacers.com/bmw-motorcycles-cafe-racer/for-sale-1995-bmw-k75-cafe-racer",
+      "id": "6e52a975270d61ee18718c155af345af13d6cbbc",
+      "title": "No Reserve: 46-Years-Family-Owned 1974 Honda MT250 Elsinore",
+      "link": "https://bringatrailer.com/listing/1974-honda-mt250-elsinore-6",
       "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-08-19T11:00:06+00:00",
-      "excerpt": "Listed for sale on Bring a Trailer, this 1995 BMW K75 is a thoroughly reworked example that transforms the German manufacturer\u2019s distinctive three-cylinder sport-tourer into a minimalist cafe racer. The seller acquired the motorcycle as a disassembled project in 2026 before compl",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/08/1995-BMW-K75-Cafe-Racer-4.webp",
+      "author": "bringatrailer",
+      "published": "2026-08-21T01:18:13+00:00",
+      "excerpt": "This 1974 Honda MT250 Elsinore was acquired by the seller\u2019s father in 1980, and ownership passed to the seller in 2026. Subsequent service included replacing the battery, front tire, and turn signal switch. Finished in black with orange and black tank stripes, power comes from a ",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1974_honda_mt250-elsinore_1195-scaled-73175-66848.jpg?w=940",
       "audio": null,
       "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
         {
           "slug": "for-sale",
           "label": "For Sale"
@@ -2397,65 +2515,57 @@
         {
           "slug": "classic",
           "label": "Classic"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "custom",
+      "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "custom": 0.98,
-        "for-sale": 0.97,
-        "classic": 0.89,
-        "cafe-racers": 0.83
+        "for-sale": 0.98,
+        "classic": 0.96,
+        "dirt-mx": 0.89
       },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "listing",
           "label": "Listing"
-        },
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.21,
-        "review": 0.08,
+        "news": 0.08,
+        "review": 0.12,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.35,
-        "how-to": 0.03,
-        "explainer": 0.09,
-        "opinion": 0.07,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.47,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.03,
         "profile-interview": 0.04,
         "tribute": 0.02,
-        "listing": 0.97,
+        "listing": 0.98,
         "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
-        "digest": 0.06,
+        "event-preview": 0.02,
+        "press-release": 0.05,
+        "digest": 0.05,
         "photo-gallery": 0.09,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.02,
+        "ride-report": 0.02,
+        "history": 0.11,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.78,
+        "episode": 0.05,
+        "build-feature": 0.1,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
-        "custom",
         "for-sale",
         "classic",
-        "cafe-racers"
+        "dirt-mx"
       ],
       "also": []
     },
@@ -2486,81 +2596,7 @@
       "confident": true,
       "cat_scores": {
         "for-sale": 0.98,
-        "sport-bikes": 0.82
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.07,
-        "review": 0.12,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.49,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.05,
-        "digest": 0.04,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.04,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "5d78f80658779d2771a2a4b77fdab3e5faf87792",
-      "title": "No Reserve: 1977 Honda CT70 Trail",
-      "link": "https://bringatrailer.com/listing/1977-honda-ct70-trail-5",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-08-17T21:41:34+00:00",
-      "excerpt": "This 1977 Honda CT70 Trail was purchased by the seller in 2011, reportedly from its original owner, and subsequent work is said to have involved rebuilding the carburetor, refinishing the 10\u2033 multi-piece wheels, and installing a lithium battery and electronic ignition. Additional",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1977_honda_ct70-trail_PXL_20260906_220808843-37172-scaled-1-copy-2026-09-09-304-64697.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.99,
-        "classic": 0.97,
-        "dirt-mx": 0.64
+        "sport-bikes": 0.8
       },
       "subcategories": [],
       "forms": [
@@ -2571,35 +2607,34 @@
       ],
       "form_scores": {
         "news": 0.06,
-        "review": 0.1,
-        "comparison-test": 0.01,
+        "review": 0.13,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.46,
+        "buyers-guide": 0.48,
         "how-to": 0.02,
         "explainer": 0.07,
         "opinion": 0.03,
-        "profile-interview": 0.03,
+        "profile-interview": 0.02,
         "tribute": 0.02,
         "listing": 0.98,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.03,
+        "press-release": 0.06,
         "digest": 0.04,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.08,
+        "history": 0.05,
         "rumor": 0.01,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.27,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "for-sale",
-        "classic",
-        "dirt-mx"
+        "sport-bikes"
       ],
       "also": []
     },
@@ -2637,10 +2672,10 @@
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.99,
-        "custom": 0.92,
-        "dirt-mx": 0.76,
-        "classic": 0.64,
+        "for-sale": 0.98,
+        "custom": 0.9,
+        "dirt-mx": 0.8,
+        "classic": 0.63,
         "trackers": 0.8
       },
       "subcategories": [
@@ -2657,29 +2692,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.03,
-        "review": 0.05,
+        "news": 0.04,
+        "review": 0.04,
         "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.55,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.51,
         "how-to": 0.02,
-        "explainer": 0.04,
+        "explainer": 0.05,
         "opinion": 0.05,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.99,
         "event-report": 0.01,
         "event-preview": 0.01,
-        "press-release": 0.03,
+        "press-release": 0.02,
         "digest": 0.06,
         "photo-gallery": 0.03,
-        "ride-report": 0.02,
+        "ride-report": 0.03,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.01,
-        "build-feature": 0.49,
+        "build-feature": 0.44,
         "q-and-a": 0.04
       },
       "multi_subject": 0.04,
@@ -2689,162 +2724,6 @@
         "dirt-mx",
         "classic",
         "trackers"
-      ],
-      "also": []
-    },
-    {
-      "id": "1af2d6933c5ee34164810e927052af97b80d3809",
-      "title": "20-Years-Owned 2001 Ducati 996 Monoposto",
-      "link": "https://bringatrailer.com/listing/2001-ducati-996-15",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-08-07T16:38:21+00:00",
-      "excerpt": "This 2001 Ducati 996 was purchased by the seller in 2006, and its 996cc desmodromic L-twin has been fitted with a Two Brothers Racing exhaust system and is paired with a six-speed transmission. Finished in yellow with white accents, the bike is further equipped with five-spoke 17",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/tempImageKZRcwe-scaled-copy-2026-09-11-nrg-52658.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "sport-bikes": 0.96,
-        "classic": 0.58
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.07,
-        "review": 0.13,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.43,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.1,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.09,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "sport-bikes",
-        "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "3b447de266d71d6fe5558325d15d6156a9004891",
-      "title": "No Reserve: 1971 Honda CT70H Trail",
-      "link": "https://bringatrailer.com/listing/1971-honda-ct70h-trail-30",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-07-10T21:41:47+00:00",
-      "excerpt": "This 1971 Honda CT70H Trail was refurbished in January 2026 under prior ownership and acquired shortly thereafter by the seller. The bike is finished in Candy Emerald Green and equipped with a 72cc four-stroke single paired with a four-speed manual transmission. Details include a",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/07/1971_honda_ct70h-trail_img_4264-scaled-19124-24448.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "classic": 0.96,
-        "dirt-mx": 0.59,
-        "adventure": 0.55
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.05,
-        "review": 0.13,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.39,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.22,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "for-sale",
-        "classic",
-        "dirt-mx",
-        "adventure"
       ],
       "also": []
     },
@@ -2894,28 +2773,28 @@
       ],
       "form_scores": {
         "news": 0.07,
-        "review": 0.25,
+        "review": 0.24,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.04,
-        "buyers-guide": 0.32,
+        "buyers-guide": 0.33,
         "how-to": 0.02,
-        "explainer": 0.09,
+        "explainer": 0.08,
         "opinion": 0.05,
         "profile-interview": 0.06,
         "tribute": 0.03,
         "listing": 0.95,
-        "event-report": 0.92,
+        "event-report": 0.93,
         "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.05,
+        "press-release": 0.06,
+        "digest": 0.04,
         "photo-gallery": 0.1,
-        "ride-report": 0.03,
-        "history": 0.31,
+        "ride-report": 0.02,
+        "history": 0.32,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.88,
+        "build-feature": 0.89,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,

@@ -5,6 +5,89 @@
   "children": [],
   "items": [
     {
+      "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
+      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
+      "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Hunter",
+      "published": "2026-09-23T18:00:00+00:00",
+      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.87,
+        "custom": 0.85,
+        "dirt-mx": 0.66,
+        "restomods": 0.52
+      },
+      "subcategories": [
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.55,
+        "comparison-test": 0.06,
+        "first-look": 0.17,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.18,
+        "how-to": 0.27,
+        "explainer": 0.47,
+        "opinion": 0.23,
+        "profile-interview": 0.22,
+        "tribute": 0.1,
+        "listing": 0.15,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.16,
+        "photo-gallery": 0.18,
+        "ride-report": 0.18,
+        "history": 0.26,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.07,
+        "build-feature": 0.8,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "classic",
+        "custom",
+        "dirt-mx",
+        "restomods"
+      ],
+      "also": []
+    },
+    {
       "id": "99a789dc8e94f0730b825dd4d91132dc6f1b5777",
       "title": "BMW K100 by Purpose Built Moto.",
       "link": "https://pipeburn.com/bmw-k100-pbm",
@@ -32,7 +115,7 @@
       "cat_scores": {
         "custom": 0.91,
         "classic": 0.85,
-        "restomods": 0.85
+        "restomods": 0.83
       },
       "subcategories": [
         {
@@ -48,15 +131,15 @@
         }
       ],
       "form_scores": {
-        "news": 0.16,
-        "review": 0.43,
+        "news": 0.15,
+        "review": 0.47,
         "comparison-test": 0.03,
-        "first-look": 0.24,
+        "first-look": 0.23,
         "ranked-list": 0.05,
         "buyers-guide": 0.12,
         "how-to": 0.07,
-        "explainer": 0.33,
-        "opinion": 0.55,
+        "explainer": 0.31,
+        "opinion": 0.56,
         "profile-interview": 0.43,
         "tribute": 0.06,
         "listing": 0.14,
@@ -64,108 +147,19 @@
         "event-preview": 0.02,
         "press-release": 0.2,
         "digest": 0.1,
-        "photo-gallery": 0.15,
-        "ride-report": 0.04,
-        "history": 0.16,
+        "photo-gallery": 0.16,
+        "ride-report": 0.05,
+        "history": 0.15,
         "rumor": 0.07,
         "safety-notice": 0.01,
         "episode": 0.07,
-        "build-feature": 0.85,
+        "build-feature": 0.86,
         "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
         "custom",
         "classic",
-        "restomods"
-      ],
-      "also": []
-    },
-    {
-      "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
-      "title": "Second wind: A Yamaha DT175 reconfigured for the road",
-      "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Chris Hunter",
-      "published": "2026-09-23T18:00:00+00:00",
-      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-      "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.87,
-        "classic": 0.85,
-        "dirt-mx": 0.72,
-        "adventure": 0.5,
-        "restomods": 0.51
-      },
-      "subcategories": [
-        {
-          "slug": "restomods",
-          "label": "Restomods",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.13,
-        "review": 0.53,
-        "comparison-test": 0.06,
-        "first-look": 0.18,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.19,
-        "how-to": 0.27,
-        "explainer": 0.47,
-        "opinion": 0.23,
-        "profile-interview": 0.22,
-        "tribute": 0.08,
-        "listing": 0.18,
-        "event-report": 0.06,
-        "event-preview": 0.03,
-        "press-release": 0.09,
-        "digest": 0.16,
-        "photo-gallery": 0.17,
-        "ride-report": 0.16,
-        "history": 0.26,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.8,
-        "q-and-a": 0.09
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "custom",
-        "classic",
-        "dirt-mx",
-        "adventure",
         "restomods"
       ],
       "also": []
@@ -202,9 +196,9 @@
       "cat_scores": {
         "custom": 0.98,
         "for-sale": 0.94,
-        "classic": 0.91,
+        "classic": 0.9,
         "cafe-racers": 0.86,
-        "restomods": 0.68
+        "restomods": 0.7
       },
       "subcategories": [
         {
@@ -229,18 +223,18 @@
         }
       ],
       "form_scores": {
-        "news": 0.2,
-        "review": 0.11,
+        "news": 0.22,
+        "review": 0.1,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.03,
-        "buyers-guide": 0.38,
+        "buyers-guide": 0.4,
         "how-to": 0.04,
         "explainer": 0.18,
         "opinion": 0.09,
         "profile-interview": 0.05,
         "tribute": 0.03,
-        "listing": 0.95,
+        "listing": 0.94,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.07,
@@ -251,8 +245,8 @@
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.04,
-        "build-feature": 0.81,
-        "q-and-a": 0.03
+        "build-feature": 0.8,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
@@ -260,99 +254,6 @@
         "for-sale",
         "classic",
         "cafe-racers",
-        "restomods"
-      ],
-      "also": []
-    },
-    {
-      "id": "2f2ba435f08f8d3d52392011de34c7ae5334c24f",
-      "title": "JIMS 135ci-Powered 2013 Harley-Davidson Electra Glide Classic by CycleVisions",
-      "link": "https://bringatrailer.com/listing/2013-harley-davidson-street-glide-8",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-02T23:33:37+00:00",
-      "excerpt": "This 2013 Harley-Davidson Electra Glide Classic was built by CycleVisions of San Diego, California with a JIMS 135ci V-twin along with stretched and custom-painted bodywork. Modifications include a 26\u2033 front wheel, a chrome handlebar and controls, Dakota Digital gauges, a Perform",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/vision_motorcycle10-copy-2026-09-10-rls-50757.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "cruisers",
-      "confident": true,
-      "cat_scores": {
-        "cruisers": 0.97,
-        "for-sale": 0.97,
-        "custom": 0.8,
-        "classic": 0.24,
-        "restomods": 0.53
-      },
-      "subcategories": [
-        {
-          "slug": "restomods",
-          "label": "Restomods",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        },
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.17,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.35,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.97,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
-        "digest": 0.04,
-        "photo-gallery": 0.1,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.96,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "cruisers",
-        "for-sale",
-        "custom",
-        "classic",
         "restomods"
       ],
       "also": []
@@ -388,9 +289,9 @@
       "confident": true,
       "cat_scores": {
         "cruisers": 0.89,
-        "custom": 0.86,
-        "classic": 0.85,
-        "restomods": 0.51
+        "custom": 0.85,
+        "classic": 0.82,
+        "restomods": 0.52
       },
       "subcategories": [
         {
@@ -399,37 +300,32 @@
           "parent": "custom"
         }
       ],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.11,
-        "review": 0.53,
+        "news": 0.12,
+        "review": 0.52,
         "comparison-test": 0.05,
-        "first-look": 0.15,
-        "ranked-list": 0.06,
+        "first-look": 0.17,
+        "ranked-list": 0.05,
         "buyers-guide": 0.17,
-        "how-to": 0.07,
-        "explainer": 0.45,
-        "opinion": 0.69,
-        "profile-interview": 0.23,
+        "how-to": 0.08,
+        "explainer": 0.43,
+        "opinion": 0.67,
+        "profile-interview": 0.21,
         "tribute": 0.1,
-        "listing": 0.29,
+        "listing": 0.2,
         "event-report": 0.04,
         "event-preview": 0.02,
-        "press-release": 0.1,
-        "digest": 0.09,
-        "photo-gallery": 0.16,
+        "press-release": 0.11,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
         "ride-report": 0.07,
-        "history": 0.43,
-        "rumor": 0.08,
+        "history": 0.36,
+        "rumor": 0.1,
         "safety-notice": 0.02,
-        "episode": 0.09,
-        "build-feature": 0.75,
-        "q-and-a": 0.04
+        "episode": 0.08,
+        "build-feature": 0.74,
+        "q-and-a": 0.05
       },
       "multi_subject": 0.05,
       "tags": [
@@ -468,8 +364,8 @@
       "cat_scores": {
         "custom": 0.97,
         "classic": 0.97,
-        "cafe-racers": 0.57,
-        "restomods": 0.64
+        "cafe-racers": 0.6,
+        "restomods": 0.65
       },
       "subcategories": [
         {
@@ -494,23 +390,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.22,
+        "news": 0.2,
         "review": 0.27,
         "comparison-test": 0.02,
-        "first-look": 0.12,
+        "first-look": 0.13,
         "ranked-list": 0.02,
         "buyers-guide": 0.09,
         "how-to": 0.04,
-        "explainer": 0.24,
+        "explainer": 0.25,
         "opinion": 0.14,
-        "profile-interview": 0.76,
+        "profile-interview": 0.75,
         "tribute": 0.03,
         "listing": 0.07,
-        "event-report": 0.02,
+        "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.14,
+        "press-release": 0.13,
         "digest": 0.06,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.16,
         "rumor": 0.03,
@@ -519,11 +415,104 @@
         "build-feature": 0.96,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "custom",
         "classic",
         "cafe-racers",
+        "restomods"
+      ],
+      "also": []
+    },
+    {
+      "id": "37ab79232103cd020ca66530cd3e10b025da2393",
+      "title": "No Reserve: 212cc-Powered 1970 Honda CT70 Trail 5-Speed",
+      "link": "https://bringatrailer.com/listing/1970-honda-ct70-trail-121",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-08-21T14:33:45+00:00",
+      "excerpt": "This 1970 Honda CT70 Trail was the subject of a custom build by the seller, who tells us that the bike has been retrofitted with an air-cooled Zongshen 212cc four-stroke single, a manual clutch, a five-speed transmission, a Nibbi Racing offset intake manifold and PE30mm carbureto",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/08/1970_honda_ct70-trail_1970_honda_ct70-trail_1da573a7-e011-4505-b7b2-6f8c15367374-8ajqb2-20294-80769.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "classic": 0.76,
+        "custom": 0.71,
+        "dirt-mx": 0.58,
+        "restomods": 0.91
+      },
+      "subcategories": [
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.16,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.39,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.9,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
+        "classic",
+        "custom",
+        "dirt-mx",
         "restomods"
       ],
       "also": []
@@ -556,8 +545,8 @@
       "cat_scores": {
         "custom": 0.97,
         "classic": 0.63,
-        "cafe-racers": 0.57,
-        "restomods": 0.65
+        "cafe-racers": 0.58,
+        "restomods": 0.62
       },
       "subcategories": [
         {
@@ -590,17 +579,17 @@
         "buyers-guide": 0.08,
         "how-to": 0.11,
         "explainer": 0.75,
-        "opinion": 0.29,
-        "profile-interview": 0.41,
+        "opinion": 0.28,
+        "profile-interview": 0.45,
         "tribute": 0.02,
         "listing": 0.04,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.14,
-        "digest": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.16,
+        "digest": 0.06,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.08,
+        "history": 0.09,
         "rumor": 0.04,
         "safety-notice": 0.01,
         "episode": 0.05,
