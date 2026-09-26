@@ -131,81 +131,6 @@
       "also": []
     },
     {
-      "id": "9a7bdaa6aeb25b95a33ddb12efc7d7b42688e691",
-      "title": "No Sleep....at Mugello for another five years!",
-      "link": "https://www.gpone.com/en/2026/09/24/motogp/no-sleep-at-mugello-for-another-five-years.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-24T18:44:32+00:00",
-      "excerpt": "MotoGP has announced the renewal of its contract with the Tuscan circuit, which will remain the venue for the Italian Grand Prix through 2031",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/mugello-ambience.jpg?itok=oBkHOkLO",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.09,
-        "profile-interview": 0.04,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.22,
-        "press-release": 0.75,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
       "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
       "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
@@ -364,6 +289,87 @@
       "tags": [
         "dirt-mx",
         "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
+      "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
+      "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-26T13:26:08+00:00",
+      "excerpt": "The announcement comes from Zhang Xue at Cremona: \u201cWe\u2019re considering whether or not to form a team with Evan Bros. In China, we\u2019ve already started working on a project with a displacement greater than 820, which is the Superbike class.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.9,
+        "worldsbk-superbike": 0.85
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.72,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.65,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.27,
+        "press-release": 0.75,
+        "digest": 0.11,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.75,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -607,6 +613,73 @@
       "also": []
     },
     {
+      "id": "1a5f9e7f5d8e6f0ba0583e39382b3b65407dedbd",
+      "title": "Zero Motorcycles announce DC fast charging upgrade to arrive in 2027 for select models",
+      "link": "https://www.motorcyclenews.com/news/2026/september/zero-dc-fast-charging",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T10:59:47+00:00",
+      "excerpt": "Electric motorcycle brand, Zero have promised the arrival of \u2018Level 3\u2019 DC fast charging on select models for 2027, as well as the ability to retrofit it as an accessory on machines produced from 2022...",
+      "image": "https://www.motorcyclenews.com/wp-images/438694/390x260/zerodsrx_charging.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.99
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.18,
+        "how-to": 0.03,
+        "explainer": 0.22,
+        "opinion": 0.04,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.04,
+        "press-release": 0.88,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.19,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "electric"
+      ],
+      "also": []
+    },
+    {
       "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
       "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
       "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
@@ -828,73 +901,6 @@
       "also": []
     },
     {
-      "id": "1a5f9e7f5d8e6f0ba0583e39382b3b65407dedbd",
-      "title": "Zero Motorcycles announce DC fast charging upgrade to arrive in 2027 for select models",
-      "link": "https://www.motorcyclenews.com/news/2026/september/zero-dc-fast-charging",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T10:59:47+00:00",
-      "excerpt": "Electric motorcycle brand, Zero have promised the arrival of \u2018Level 3\u2019 DC fast charging on select models for 2027, as well as the ability to retrofit it as an accessory on machines produced from 2022...",
-      "image": "https://www.motorcyclenews.com/wp-images/438694/390x260/zerodsrx_charging.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        }
-      ],
-      "primary": "electric",
-      "confident": true,
-      "cat_scores": {
-        "electric": 0.99
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.18,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.04,
-        "profile-interview": 0.16,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.04,
-        "press-release": 0.88,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.19,
-        "safety-notice": 0.03,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "electric"
-      ],
-      "also": []
-    },
-    {
       "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
       "title": "2027 MotoGP\u2122 Calendar Revealed",
       "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
@@ -1068,6 +1074,81 @@
       "multi_subject": 0.06,
       "tags": [
         "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "9a7bdaa6aeb25b95a33ddb12efc7d7b42688e691",
+      "title": "No Sleep....at Mugello for another five years!",
+      "link": "https://www.gpone.com/en/2026/09/24/motogp/no-sleep-at-mugello-for-another-five-years.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-24T18:44:32+00:00",
+      "excerpt": "MotoGP has announced the renewal of its contract with the Tuscan circuit, which will remain the venue for the Italian Grand Prix through 2031",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/mugello-ambience.jpg?itok=oBkHOkLO",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.09,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.22,
+        "press-release": 0.75,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -1328,6 +1409,79 @@
         "adventure",
         "events-rides",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "567b89618a08f41485fcfbf9511eaab139cadb41",
+      "title": "Full details of Ducati's first racing supermoto, the Desmo450 SM revealed ahead of December arrival",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/ducati-desmo450-sm",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-17T16:34:31+00:00",
+      "excerpt": "Ducati have revealed full details of the Desmo450 SM, the Italian manufacturer\u2019s first racing supermoto, following a pre-production tease at World Ducati Week in July. The Desmo450 SM is derived...",
+      "image": "https://www.motorcyclenews.com/wp-images/438521/390x260/ducati-desmo450-sm-01.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.96,
+        "new-models": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.11,
+        "comparison-test": 0.03,
+        "first-look": 0.36,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.14,
+        "how-to": 0.03,
+        "explainer": 0.28,
+        "opinion": 0.05,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.23,
+        "press-release": 0.83,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.17,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
@@ -1593,79 +1747,6 @@
           "published": "2026-09-21T15:34:17+00:00"
         }
       ]
-    },
-    {
-      "id": "567b89618a08f41485fcfbf9511eaab139cadb41",
-      "title": "Full details of Ducati's first racing supermoto, the Desmo450 SM revealed ahead of December arrival",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/ducati-desmo450-sm",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T16:34:31+00:00",
-      "excerpt": "Ducati have revealed full details of the Desmo450 SM, the Italian manufacturer\u2019s first racing supermoto, following a pre-production tease at World Ducati Week in July. The Desmo450 SM is derived...",
-      "image": "https://www.motorcyclenews.com/wp-images/438521/390x260/ducati-desmo450-sm-01.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.96,
-        "new-models": 0.53
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.11,
-        "comparison-test": 0.03,
-        "first-look": 0.36,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.14,
-        "how-to": 0.03,
-        "explainer": 0.28,
-        "opinion": 0.05,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.06,
-        "event-preview": 0.23,
-        "press-release": 0.83,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.17,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
     },
     {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
@@ -2066,73 +2147,6 @@
       ]
     },
     {
-      "id": "afe05b6bdf36a4553e34fcf69400b881036d6d35",
-      "title": "New Oxford Grinder S1 and S2 D-locks use silicon carbide coating to destroy angle grinder discs",
-      "link": "https://www.motorcyclenews.com/news/new-tech/2026/september/oxford-grinder-locks",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T13:13:28+00:00",
-      "excerpt": "Oxford have unveiled a new pair of D-locks, the Grinder S1 and S2, which the firm say are virtually angle grinder-proof thanks to a silicon carbide coating on the shackle. Motorcycle security...",
-      "image": "https://www.motorcyclenews.com/wp-images/438175/390x260/lk377_lf_l_5_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": false,
-      "cat_scores": {
-        "gear": 0.53
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.33,
-        "comparison-test": 0.05,
-        "first-look": 0.24,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.4,
-        "how-to": 0.03,
-        "explainer": 0.56,
-        "opinion": 0.06,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.04,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.91,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.12,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
       "id": "d136e2b3d8779fc941194fc5dd5eb3caa8a5c9d1",
       "title": "MotoGP: Mir Withdraws From Japanese and Indonesian GP",
       "link": "https://www.roadracingworld.com/news/motogp-mir-withdraws-from-japanese-and-indonesian-gp",
@@ -2477,85 +2491,6 @@
           "published": "2026-09-21T04:46:48+00:00"
         }
       ]
-    },
-    {
-      "id": "b298c31acf609011153efe70e3c7cc2b421fb45a",
-      "title": "Stark reveal blacked-out, 500-unit VARG SM Sk\u00f6ll limited edition",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/stark-varg-sm-skoll",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-16T10:00:00+00:00",
-      "excerpt": "Stark Future have revealed the VARG SM Sk\u00f6ll, a numbered limited edition of just 500 units based on the electric VARG SM, costing \u00a31000 more than a standard bike at \u00a312,990 \u2013 with first deliveries due...",
-      "image": "https://www.motorcyclenews.com/wp-images/437974/390x260/stark-varg-sm-skoll-09.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "electric",
-      "confident": true,
-      "cat_scores": {
-        "electric": 0.98,
-        "new-models": 0.92,
-        "sport-bikes": 0.51
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.12,
-        "comparison-test": 0.03,
-        "first-look": 0.28,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.27,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.05,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
-        "listing": 0.07,
-        "event-report": 0.04,
-        "event-preview": 0.04,
-        "press-release": 0.91,
-        "digest": 0.08,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.11,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.05,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "electric",
-        "new-models",
-        "sport-bikes"
-      ],
-      "also": []
     },
     {
       "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
@@ -3086,6 +3021,152 @@
         "gear",
         "law-safety",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "afe05b6bdf36a4553e34fcf69400b881036d6d35",
+      "title": "New Oxford Grinder S1 and S2 D-locks use silicon carbide coating to destroy angle grinder discs",
+      "link": "https://www.motorcyclenews.com/news/new-tech/2026/september/oxford-grinder-locks",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T13:13:28+00:00",
+      "excerpt": "Oxford have unveiled a new pair of D-locks, the Grinder S1 and S2, which the firm say are virtually angle grinder-proof thanks to a silicon carbide coating on the shackle. Motorcycle security...",
+      "image": "https://www.motorcyclenews.com/wp-images/438175/390x260/lk377_lf_l_5_preview.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": false,
+      "cat_scores": {
+        "gear": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.33,
+        "comparison-test": 0.05,
+        "first-look": 0.24,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.4,
+        "how-to": 0.03,
+        "explainer": 0.56,
+        "opinion": 0.06,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.91,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.12,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "b298c31acf609011153efe70e3c7cc2b421fb45a",
+      "title": "Stark reveal blacked-out, 500-unit VARG SM Sk\u00f6ll limited edition",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/stark-varg-sm-skoll",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-16T10:00:00+00:00",
+      "excerpt": "Stark Future have revealed the VARG SM Sk\u00f6ll, a numbered limited edition of just 500 units based on the electric VARG SM, costing \u00a31000 more than a standard bike at \u00a312,990 \u2013 with first deliveries due...",
+      "image": "https://www.motorcyclenews.com/wp-images/437974/390x260/stark-varg-sm-skoll-09.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.98,
+        "new-models": 0.92,
+        "sport-bikes": 0.51
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.12,
+        "comparison-test": 0.03,
+        "first-look": 0.28,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.27,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.04,
+        "press-release": 0.91,
+        "digest": 0.08,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.05,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "electric",
+        "new-models",
+        "sport-bikes"
       ],
       "also": []
     },

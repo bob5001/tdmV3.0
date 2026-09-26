@@ -74,90 +74,6 @@
       "also": []
     },
     {
-      "id": "6a1e61aaf0318e8189b94c38fc789b38d32afb0e",
-      "title": "BMW looking ahead to 2027: new Ducati-style swingarm debuting in Cremona!",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/bmw-looking-ahead-to-2027-new-ducati-style-swingarm-debuting-in-cremona.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-25T13:44:53+00:00",
-      "excerpt": "Petrucci and Oliveira brought a latest-generation component to the track, which is based on the design of the Panigale V4's",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.82,
-        "motogp": 0.91,
-        "worldsbk-superbike": 0.72
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.66,
-        "review": 0.08,
-        "comparison-test": 0.06,
-        "first-look": 0.56,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.1,
-        "profile-interview": 0.16,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.3,
-        "event-preview": 0.35,
-        "press-release": 0.52,
-        "digest": 0.12,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.76,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "cb616cd799e34c3506aec7964698db09076428fb",
       "title": "Is Honda Hiding a New CBR750R in Plain Sight?",
       "link": "https://www.rideapart.com/news/809438/is-honda-hiding-a-new-cbr750r-in-plain-sight",
@@ -379,6 +295,171 @@
       "multi_subject": 0.04,
       "tags": [
         "odd-ball"
+      ],
+      "also": []
+    },
+    {
+      "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
+      "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
+      "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-26T13:26:08+00:00",
+      "excerpt": "The announcement comes from Zhang Xue at Cremona: \u201cWe\u2019re considering whether or not to form a team with Evan Bros. In China, we\u2019ve already started working on a project with a displacement greater than 820, which is the Superbike class.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.9,
+        "worldsbk-superbike": 0.85
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.72,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.65,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.27,
+        "press-release": 0.75,
+        "digest": 0.11,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.75,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "6a1e61aaf0318e8189b94c38fc789b38d32afb0e",
+      "title": "BMW looking ahead to 2027: new Ducati-style swingarm debuting in Cremona!",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/bmw-looking-ahead-to-2027-new-ducati-style-swingarm-debuting-in-cremona.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-25T13:44:53+00:00",
+      "excerpt": "Petrucci and Oliveira brought a latest-generation component to the track, which is based on the design of the Panigale V4's",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.82,
+        "motogp": 0.91,
+        "worldsbk-superbike": 0.72
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.08,
+        "comparison-test": 0.06,
+        "first-look": 0.56,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.22,
+        "opinion": 0.1,
+        "profile-interview": 0.16,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.3,
+        "event-preview": 0.35,
+        "press-release": 0.52,
+        "digest": 0.12,
+        "photo-gallery": 0.12,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.76,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },
