@@ -80,12 +80,13 @@ const updated = meta.updated;
       .more a { color: var(--brand); text-decoration: none; }
       footer { font-size: 0.78rem; color: var(--mute); padding: 2rem 0; text-align: center; border-top: 1px solid var(--line); margin-top: 1rem; }
       img { max-width: 100%; }
+      /* The date sits bottom-right beside the tagline only when there is room for both. */
+      @media (max-width: 48rem) { header .date { position: static; margin-top: 0.2rem; } }
       h3, .ex, code { overflow-wrap: anywhere; }
       /* Phones: nav and ticker become single swipeable rows instead of wrapping into a wall of links. */
       @media (max-width: 40rem) {
         header { padding: 1rem 0 0.5rem; }
         header .tag { font-size: 0.88rem; }
-        header .date { position: static; margin-top: 0.2rem; }
         nav { display: flex; overflow-x: auto; scrollbar-width: none; margin: 0 -1rem; padding: 0.5rem 1rem; text-align: left;
               -webkit-mask-image: linear-gradient(to right, #000 85%, transparent); mask-image: linear-gradient(to right, #000 85%, transparent); }
         nav::-webkit-scrollbar { display: none; }
@@ -108,6 +109,7 @@ const updated = meta.updated;
       </header>
       <nav aria-label="Categories">
         <a href="/" aria-current={pathname === '/' ? 'page' : undefined}>Home</a>
+        <a href="/search/" aria-current={pathname === '/search/' ? 'page' : undefined}>Search</a>
         {nav.map((c) => (
           <a href={`/c/${c.slug}/`} aria-current={pathname === `/c/${c.slug}/` ? 'page' : undefined}>
             {c.label} <span class="n">{c.count}</span>
@@ -123,17 +125,10 @@ const updated = meta.updated;
     </div>
     <script>
       // Small enhancements only; every page works without this.
+      import { ago, relativeTimes } from '../scripts/ago';
 
       // Freshness: header shows the reader's today plus how long ago the data was exported,
       // and item dates within the last week read as "3h ago" (full date kept in the tooltip).
-      const ago = (iso: string) => {
-        const m = Math.round((Date.now() - Date.parse(iso)) / 60000);
-        if (!(m >= 0)) return null;
-        if (m < 60) return m < 2 ? 'just now' : `${m}m ago`;
-        if (m < 60 * 24) return `${Math.round(m / 60)}h ago`;
-        if (m < 60 * 24 * 7) return `${Math.round(m / 1440)}d ago`;
-        return null;
-      };
       const stamp = document.querySelector<HTMLElement>('header .date');
       if (stamp?.dataset.updated) {
         const d = new Date();
@@ -142,12 +137,10 @@ const updated = meta.updated;
         const since = ago(stamp.dataset.updated);
         if (since) stamp.textContent = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} ${d.getFullYear()} · updated ${since}`;
       }
-      document.querySelectorAll<HTMLTimeElement>('time[datetime]').forEach((t) => {
-        const since = ago(t.dateTime);
-        if (since) { t.title = t.textContent ?? ''; t.textContent = since; }
-      });
+      relativeTimes();
 
       // Pictures are loaded from the sources' own servers; hide the box when one fails.
+      // Listening on the document also catches pictures added later (search results).
       const dropImage = (img: HTMLImageElement) => {
         const box = img.closest('.img');
         box?.closest('.hero')?.classList.add('noimg');
@@ -155,8 +148,10 @@ const updated = meta.updated;
       };
       document.querySelectorAll<HTMLImageElement>('.img img').forEach((img) => {
         if (img.complete && img.naturalWidth === 0) dropImage(img);
-        else img.addEventListener('error', () => dropImage(img), { once: true });
       });
+      document.addEventListener('error', (e) => {
+        if (e.target instanceof HTMLImageElement) dropImage(e.target);
+      }, true);
 
       // Phones: bring the current section into view in the swipeable nav.
       const nav = document.querySelector('nav');

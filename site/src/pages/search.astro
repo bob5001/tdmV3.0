@@ -1,0 +1,131 @@
+---
+import Base from '../layouts/Base.astro';
+---
+<Base title="Search · The Daily Motorcycle">
+  <h2>Search</h2>
+  <form class="search" action="/search/" method="get" role="search">
+    <input type="search" name="q" placeholder="Ténéré, Isle of Man, cafe racer…" aria-label="Search articles" autocomplete="off" />
+    <select name="sort" aria-label="Order">
+      <option value="">Best match</option>
+      <option value="new">Newest</option>
+    </select>
+    <button>Search</button>
+  </form>
+  <noscript><p class="meta">Search needs JavaScript. Without it, browse by category above or by <a href="/forms/">form</a>.</p></noscript>
+  <p class="meta" id="status" aria-live="polite"></p>
+  <p class="chips" id="narrow"></p>
+  <div class="list" id="results"></div>
+  <p class="more"><button id="more" hidden>Show more results</button></p>
+</Base>
+
+<style>
+  .search { display: flex; gap: 0.5rem; margin: 0.6rem 0 0.4rem; }
+  .search input { flex: 1; min-width: 0; font: inherit; padding: 0.5rem 0.7rem; border: 1px solid #ccc; border-radius: 0.3rem; }
+  .search input:focus { outline: 2px solid var(--sky); border-color: var(--sky); }
+  .search select, .search button, #more { font: inherit; font-size: 0.88rem; padding: 0.45rem 0.7rem; border: 1px solid var(--line); border-radius: 0.3rem; background: #fff; color: #555; }
+  .search button, #more { background: var(--brand); border-color: var(--brand); color: #fff; cursor: pointer; }
+  #narrow a[aria-current] { border-color: var(--brand); color: var(--brand); }
+  #results :global(mark) { background: #fbe3ec; color: inherit; padding: 0 0.1em; }
+  @media (max-width: 30rem) { .search { flex-wrap: wrap; } .search input { flex-basis: 100%; } }
+</style>
+
+<script>
+  // Searches the Pagefind index built by scripts/search-index.mjs (one record per article; loaded in chunks on demand).
+  import { relativeTimes } from '../scripts/ago';
+
+  type Meta = { title: string; source: string; date: string; cats: string; forms: string; image?: string };
+  const PAGE = 20;
+  const form = document.querySelector<HTMLFormElement>('form.search')!;
+  const input = form.querySelector<HTMLInputElement>('input[name=q]')!;
+  const order = form.querySelector<HTMLSelectElement>('select[name=sort]')!;
+  const status = document.getElementById('status')!;
+  const narrow = document.getElementById('narrow')!;
+  const list = document.getElementById('results')!;
+  const more = document.getElementById('more')!;
+
+  const esc = (s: string) => s.replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[c]!);
+  const pairs = (s: string) => (s ? s.split('|').map((p) => { const i = p.indexOf(':'); return { slug: p.slice(0, i), label: p.slice(i + 1) }; }) : []);
+  const ext = 'target="_blank" rel="noopener noreferrer"';
+
+  const card = (url: string, m: Meta, excerpt: string) => `<article>
+    ${m.image ? `<a class="img thumb" href="${esc(url)}" ${ext} tabindex="-1" aria-hidden="true"><img src="${esc(m.image)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" /></a>` : ''}
+    <h3><a href="${esc(url)}" ${ext}>${esc(m.title)}</a></h3>
+    <p class="meta">${esc(m.source)} · <time datetime="${esc(m.date)}">${esc(m.date.slice(0, 10))}</time>${pairs(m.cats).map((c) => ` · <a href="/c/${esc(c.slug)}/">${esc(c.label)}</a>`).join('')}${pairs(m.forms).map((f) => ` · <span class="form"><a href="/f/${esc(f.slug)}/">${esc(f.label)}</a></span>`).join('')}</p>
+    <p class="ex">${excerpt}</p>
+  </article>`;   // excerpt is Pagefind's: already-escaped text with <mark> highlights
+
+  let pagefind: any;
+  const load = async () => {
+    const url = '/pagefind/pagefind.js';
+    pagefind ??= await import(/* @vite-ignore */ url).then(async (p) => {
+      await p.options({ excerptLength: 40 });
+      await p.filters();   // load filter data up front, or the first search comes back without category counts
+      return p;
+    });
+    return pagefind;
+  };
+
+  let results: any[] = [];
+  let shown = 0;
+  let category = new URLSearchParams(location.search).get('cat') ?? '';
+
+  const showMore = async () => {
+    const batch = await Promise.all(results.slice(shown, shown + PAGE).map((r) => r.data()));
+    const frag = document.createElement('div');
+    frag.innerHTML = batch.map((d) => card(d.url, d.meta, d.excerpt)).join('');
+    relativeTimes(frag);
+    list.append(...frag.children);
+    shown += batch.length;
+    more.hidden = shown >= results.length;
+  };
+
+  const run = async () => {
+    const q = input.value.trim();
+    const params = new URLSearchParams();
+    if (q) params.set('q', q);
+    if (order.value) params.set('sort', order.value);
+    if (q && category) params.set('cat', category);
+    history.replaceState(null, '', params.size ? `?${params}` : location.pathname);
+    if (!q) { status.textContent = ''; narrow.innerHTML = ''; list.innerHTML = ''; more.hidden = true; return; }
+
+    const pf = await load();
+    const opts: any = {};
+    if (order.value === 'new') opts.sort = { date: 'desc' };
+    if (category) opts.filters = { category };
+    const search = await pf.debouncedSearch(q, opts, 250);
+    if (search === null) return;   // a newer keystroke superseded this one
+
+    results = search.results;
+    shown = 0;
+    list.innerHTML = '';
+    const n = results.length;
+    status.textContent = n ? `${n} ${n === 1 ? 'article' : 'articles'}${category ? ` in ${category}` : ''}` : `Nothing found for “${q}”${category ? ` in ${category}` : ''}.`;
+
+    // Narrow by category: counts come from the unfiltered search so every option stays visible.
+    const counts: Record<string, number> = (category ? (await pf.search(q)).filters : search.filters)?.category ?? {};
+    const top = Object.entries(counts).filter(([, c]) => c > 0).sort((a, b) => b[1] - a[1]).slice(0, 12);
+    narrow.innerHTML = top.length > 1 || category
+      ? [`<a href="#" data-cat=""${category ? '' : ' aria-current="true"'}>All</a>`,
+         ...top.map(([label, c]) => `<a href="#" data-cat="${esc(label)}"${label === category ? ' aria-current="true"' : ''}>${esc(label)} <span class="n">${c}</span></a>`)].join('')
+      : '';
+    await showMore();
+  };
+
+  input.addEventListener('input', () => { category = ''; run(); });
+  input.addEventListener('focus', () => { load(); }, { once: true });   // warm the index before the first keystroke
+  order.addEventListener('change', run);
+  form.addEventListener('submit', (e) => { e.preventDefault(); run(); });
+  more.addEventListener('click', showMore);
+  narrow.addEventListener('click', (e) => {
+    const a = (e.target as Element).closest<HTMLElement>('a[data-cat]');
+    if (!a) return;
+    e.preventDefault();
+    category = a.dataset.cat ?? '';
+    run();
+  });
+
+  const start = new URLSearchParams(location.search);
+  input.value = start.get('q') ?? '';
+  order.value = start.get('sort') === 'new' ? 'new' : '';
+  if (input.value) run(); else input.focus();
+</script>
