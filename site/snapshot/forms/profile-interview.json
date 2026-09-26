@@ -771,17 +771,17 @@
       "also": []
     },
     {
-      "id": "869a45c3a1915d21e24d7cdb914ab2224fb00f8d",
-      "title": "Toprak: \"This year reminds me of my first year in SBK, when I thought about quitting.\"",
-      "link": "https://www.gpone.com/en/2026/09/26/motogp/toprak-this-year-reminds-me-of-my-first-year-in-sbk-when-i-thought-about-quitting.html",
+      "id": "57b9e13a6e8f43ed3420684eba00f1b8e7a4ff66",
+      "title": "Bulega: \u201cI\u2019m not completely comfortable on the Ducati: I\u2019m riding at 90%\u201d",
+      "link": "https://www.gpone.com/en/2026/09/26/wsbk/bulega-im-not-completely-comfortable-on-the-ducati-im-riding-at-90.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-26T10:11:43+00:00",
-      "excerpt": "\"For me, it's even tougher now than it was in 2018, because I've won three titles\u2014I'm used to winning. Back then, finishing 12th was bad, but not as bad as it is now. The Michelins? I just can't get the softs to work.\"",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/img-7313.jpg?itok=4Zjj_9gM",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-26T16:03:36+00:00",
+      "excerpt": "\u201cSometimes you have to be smart and avoid doing stupid things. I didn\u2019t think Iker had that much leeway. We\u2019ll see tomorrow, though.\u201d",
+      "image": null,
       "audio": null,
       "categories": [
         {
@@ -797,10 +797,16 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.93,
-        "worldsbk-superbike": 0.93
+        "sport-bikes": 0.91,
+        "motogp": 0.93,
+        "worldsbk-superbike": 0.86
       },
       "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
         {
           "slug": "worldsbk-superbike",
           "label": "WorldSBK & Superbike",
@@ -814,35 +820,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.25,
-        "review": 0.03,
+        "news": 0.41,
+        "review": 0.05,
         "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.16,
+        "first-look": 0.17,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.18,
-        "profile-interview": 0.94,
+        "how-to": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.2,
+        "profile-interview": 0.88,
         "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.21,
-        "event-preview": 0.07,
-        "press-release": 0.05,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.06,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.07,
+        "event-report": 0.31,
+        "event-preview": 0.59,
+        "press-release": 0.06,
+        "digest": 0.11,
+        "photo-gallery": 0.07,
+        "ride-report": 0.13,
+        "history": 0.07,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.08,
         "build-feature": 0.02,
-        "q-and-a": 0.05
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "racing",
         "sport-bikes",
+        "motogp",
         "worldsbk-superbike"
       ],
       "also": []
@@ -1013,17 +1020,17 @@
       "also": []
     },
     {
-      "id": "5ed59a4506c36590369a3fc865aeebee50352815",
-      "title": "Luzzi: \u201cM\u00e1rquez has Stoner\u2019s talent and Lorenzo\u2019s determination\u201d",
-      "link": "https://www.gpone.com/en/2026/09/26/motogp/luzzi-marquez-has-stoners-talent-and-lorenzos-determination.html",
+      "id": "869a45c3a1915d21e24d7cdb914ab2224fb00f8d",
+      "title": "Toprak: \"This year reminds me of my first year in SBK, when I thought about quitting.\"",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/toprak-this-year-reminds-me-of-my-first-year-in-sbk-when-i-thought-about-quitting.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-09-26T07:39:44+00:00",
-      "excerpt": "The engineer, who has worked with all three, describes the qualities that make them champions: Jorge\u2019s determination, Casey\u2019s raw talent and Marc\u2019s ability to combine both.",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/cover-stoner-lorenzo-marquez001.jpg?itok=RlLTH9NH",
+      "published": "2026-09-26T10:11:43+00:00",
+      "excerpt": "\"For me, it's even tougher now than it was in 2018, because I've won three titles\u2014I'm used to winning. Back then, finishing 12th was bad, but not as bad as it is now. The Michelins? I just can't get the softs to work.\"",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/img-7313.jpg?itok=4Zjj_9gM",
       "audio": null,
       "categories": [
         {
@@ -1039,13 +1046,13 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.51,
-        "motogp": 0.93
+        "sport-bikes": 0.93,
+        "worldsbk-superbike": 0.93
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -1056,36 +1063,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.26,
-        "review": 0.02,
-        "comparison-test": 0.04,
+        "news": 0.25,
+        "review": 0.03,
+        "comparison-test": 0.03,
         "first-look": 0.02,
-        "ranked-list": 0.05,
+        "ranked-list": 0.16,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.22,
-        "opinion": 0.53,
-        "profile-interview": 0.82,
-        "tribute": 0.05,
+        "explainer": 0.07,
+        "opinion": 0.18,
+        "profile-interview": 0.94,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
+        "event-report": 0.21,
+        "event-preview": 0.07,
+        "press-release": 0.05,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.06,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.07,
         "build-feature": 0.02,
-        "q-and-a": 0.04
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1244,17 +1251,17 @@
       "also": []
     },
     {
-      "id": "ca58457c9a4f27b8747ccd3aec1762f59b4ad67d",
-      "title": "THE BOOK Johann Zarco, victory and forgiveness",
-      "link": "https://www.gpone.com/en/2026/09/26/motogp/the-book-johann-zarco-victory-and-forgiveness.html",
+      "id": "5ed59a4506c36590369a3fc865aeebee50352815",
+      "title": "Luzzi: \u201cM\u00e1rquez has Stoner\u2019s talent and Lorenzo\u2019s determination\u201d",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/luzzi-marquez-has-stoners-talent-and-lorenzos-determination.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-09-26T06:48:52+00:00",
-      "excerpt": "Written in collaboration with Michel Turco, it is the result of 10 hours of interviews. There could be a sequel.",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/zarco-libro.jpg?itok=EAp7uZsg",
+      "published": "2026-09-26T07:39:44+00:00",
+      "excerpt": "The engineer, who has worked with all three, describes the qualities that make them champions: Jorge\u2019s determination, Casey\u2019s raw talent and Marc\u2019s ability to combine both.",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/cover-stoner-lorenzo-marquez001.jpg?itok=RlLTH9NH",
       "audio": null,
       "categories": [
         {
@@ -1270,8 +1277,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.56,
-        "motogp": 0.86
+        "sport-bikes": 0.51,
+        "motogp": 0.93
       },
       "subcategories": [
         {
@@ -1287,32 +1294,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.23,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.22,
-        "profile-interview": 0.92,
-        "tribute": 0.14,
-        "listing": 0.04,
-        "event-report": 0.22,
-        "event-preview": 0.04,
-        "press-release": 0.12,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.11,
-        "history": 0.48,
+        "news": 0.26,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.22,
+        "opinion": 0.53,
+        "profile-interview": 0.82,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.09,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1479,6 +1486,83 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "ca58457c9a4f27b8747ccd3aec1762f59b4ad67d",
+      "title": "THE BOOK Johann Zarco, victory and forgiveness",
+      "link": "https://www.gpone.com/en/2026/09/26/motogp/the-book-johann-zarco-victory-and-forgiveness.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-26T06:48:52+00:00",
+      "excerpt": "Written in collaboration with Michel Turco, it is the result of 10 hours of interviews. There could be a sequel.",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/zarco-libro.jpg?itok=EAp7uZsg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.56,
+        "motogp": 0.86
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.23,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.22,
+        "profile-interview": 0.92,
+        "tribute": 0.14,
+        "listing": 0.04,
+        "event-report": 0.22,
+        "event-preview": 0.04,
+        "press-release": 0.12,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.11,
+        "history": 0.48,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.04,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },
