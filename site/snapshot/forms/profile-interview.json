@@ -398,73 +398,6 @@
       "also": []
     },
     {
-      "id": "b7a031b98ed63cb72d31f70247e85e641a5e3039",
-      "title": "S12E04: Inside A Moto Dealership: Pricing, Warranties, Test Rides & More",
-      "link": "https://revzillapodcast.libsyn.com/s12e04-inside-a-moto-dealership-pricing-warranties-test-rides-more",
-      "lang": "en",
-      "source": "Highside/Lowside",
-      "ownership": "commercial",
-      "media": "podcast",
-      "author": null,
-      "published": "2026-09-18T04:00:00+00:00",
-      "excerpt": "We welcome Evan Yarnall, the mustachioed owner of Solid Performance, a KTM, Husqvarna, GasGas, and WP motorcycle dealership, who seems to be doing something right in the eyes of both his employees and customers. Join us as we take a deep dive into the logistics of owning a motorc",
-      "image": "http://assets.libsyn.com/show/161630?height=250&width=250&overlay=true",
-      "audio": "https://traffic.libsyn.com/secure/revzillapodcast/HSLS_S12E04_PODCAST_v2.mp3?dest-id=1064744",
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": false,
-      "cat_scores": {
-        "industry": 0.8
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.07,
-        "review": 0.03,
-        "comparison-test": 0.04,
-        "first-look": 0.09,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.49,
-        "how-to": 0.05,
-        "explainer": 0.74,
-        "opinion": 0.12,
-        "profile-interview": 0.95,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.14,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.98,
-        "build-feature": 0.02,
-        "q-and-a": 0.33
-      },
-      "multi_subject": 0.62,
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
       "id": "9a9bd6db872cebd9f8389cb6c7bcfd2c8979d142",
       "title": "JT on What to Expect at the Brand-New Venue for the SMX World Championship Final",
       "link": "https://racerxonline.com/2026/09/24/jt-on-what-to-expect-at-the-brand-new-venue-for-the-smx-final",
@@ -627,16 +560,16 @@
       "also": []
     },
     {
-      "id": "3dbe19fbbb982661bb07107e6a8011279a826363",
-      "title": "Lecuona: \"I expect Bulega to be fast right away in MotoGP; he has a lot of experience with Pirelli tyres.\"",
-      "link": "https://www.gpone.com/en/2026/09/27/wsbk/lecuona-i-expect-bulega-to-be-fast-right-away-in-motogp-he-has-a-lot-of-experience-with-pirelli.html",
+      "id": "4c30d12c210fe0a2a1ff738bba0b32aa635726f3",
+      "title": "Biaggi and Bulega, two rebirths in Superbike: \"He managed to find himself again; he can do well in MotoGP\"",
+      "link": "https://www.gpone.com/en/2026/09/28/wsbk/biaggi-and-bulega-two-rebirths-in-superbike-he-managed-to-find-himself-again-he-can-do-well-in.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Gianluigi Mazza",
-      "published": "2026-09-27T17:27:50+00:00",
-      "excerpt": "\"It was a perfect weekend here, even though Nicol\u00f2 had his mind on the championship. I realized, though, just how hard it is to win by such a wide margin: at a certain point, you start thinking about silly things...\"",
+      "author": "GPOne",
+      "published": "2026-09-28T06:57:14+00:00",
+      "excerpt": "Max restarted with Suzuki after a year away from racing, before winning two titles with Aprilia. Bulega rebuilt his career with Ducati and will take on the premier class in 2027.",
       "image": null,
       "audio": null,
       "categories": [
@@ -653,13 +586,19 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.51,
-        "motogp": 0.97
+        "sport-bikes": 0.88,
+        "motogp": 0.51,
+        "worldsbk-superbike": 0.92
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -671,35 +610,36 @@
       ],
       "form_scores": {
         "news": 0.54,
-        "review": 0.04,
-        "comparison-test": 0.04,
-        "first-look": 0.12,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.36,
-        "profile-interview": 0.85,
-        "tribute": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.51,
+        "profile-interview": 0.79,
+        "tribute": 0.05,
         "listing": 0.01,
-        "event-report": 0.67,
-        "event-preview": 0.25,
+        "event-report": 0.17,
+        "event-preview": 0.09,
         "press-release": 0.16,
-        "digest": 0.11,
+        "digest": 0.09,
         "photo-gallery": 0.07,
-        "ride-report": 0.11,
-        "history": 0.08,
+        "ride-report": 0.02,
+        "history": 0.19,
         "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.06
+        "episode": 0.1,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.09,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -866,16 +806,16 @@
       "also": []
     },
     {
-      "id": "e498df889d9d050193db4d1e800e21c642fd273d",
-      "title": "Bulega: \u201cHitting rock bottom shaped me as a person and as a rider\u201d",
-      "link": "https://www.gpone.com/en/2026/09/27/wsbk/bulega-hitting-rock-bottom-shaped-me-as-a-person-and-as-a-rider.html",
+      "id": "3dbe19fbbb982661bb07107e6a8011279a826363",
+      "title": "Lecuona: \"I expect Bulega to be fast right away in MotoGP; he has a lot of experience with Pirelli tyres.\"",
+      "link": "https://www.gpone.com/en/2026/09/27/wsbk/lecuona-i-expect-bulega-to-be-fast-right-away-in-motogp-he-has-a-lot-of-experience-with-pirelli.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-27T17:17:14+00:00",
-      "excerpt": "\u201cAfter the checkered flag, I started crying. I grew up in this paddock, and today I\u2019m the World Champion. It\u2019s an incredible story. This title is for those who believed in me during the tough times.\u201d",
+      "author": "Gianluigi Mazza",
+      "published": "2026-09-27T17:27:50+00:00",
+      "excerpt": "\"It was a perfect weekend here, even though Nicol\u00f2 had his mind on the championship. I realized, though, just how hard it is to win by such a wide margin: at a certain point, you start thinking about silly things...\"",
       "image": null,
       "audio": null,
       "categories": [
@@ -892,19 +832,13 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.8,
-        "motogp": 0.95,
-        "worldsbk-superbike": 0.73
+        "sport-bikes": 0.51,
+        "motogp": 0.97
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -912,44 +846,39 @@
         {
           "slug": "profile-interview",
           "label": "Profile & Interview"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.51,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.17,
-        "profile-interview": 0.94,
-        "tribute": 0.05,
+        "news": 0.54,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.12,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.36,
+        "profile-interview": 0.85,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.03,
-        "press-release": 0.08,
-        "digest": 0.06,
+        "event-report": 0.67,
+        "event-preview": 0.25,
+        "press-release": 0.16,
+        "digest": 0.11,
         "photo-gallery": 0.07,
-        "ride-report": 0.16,
-        "history": 0.2,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.08,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
+        "ride-report": 0.11,
+        "history": 0.08,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.13,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -1102,16 +1031,16 @@
       "also": []
     },
     {
-      "id": "a8f5962e4d4099649595e81a4aa9620b14067731",
-      "title": "Igna said: \"Bulega isn't the same as he used to be; he's learned a lot.\"",
-      "link": "https://www.gpone.com/en/2026/09/27/wsbk/igna-said-bulega-isnt-the-same-as-he-used-to-be-hes-learned-a-lot.html",
+      "id": "e498df889d9d050193db4d1e800e21c642fd273d",
+      "title": "Bulega: \u201cHitting rock bottom shaped me as a person and as a rider\u201d",
+      "link": "https://www.gpone.com/en/2026/09/27/wsbk/bulega-hitting-rock-bottom-shaped-me-as-a-person-and-as-a-rider.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Matteo Aglio",
-      "published": "2026-09-27T16:08:11+00:00",
-      "excerpt": "On the future SBK regulations: \u201cThe best solution is not to limit who wins, but to give those who are struggling a chance to improve.\u201d",
+      "author": "Daniela Piazza",
+      "published": "2026-09-27T17:17:14+00:00",
+      "excerpt": "\u201cAfter the checkered flag, I started crying. I grew up in this paddock, and today I\u2019m the World Champion. It\u2019s an incredible story. This title is for those who believed in me during the tough times.\u201d",
       "image": null,
       "audio": null,
       "categories": [
@@ -1128,10 +1057,16 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.94
+        "sport-bikes": 0.8,
+        "motogp": 0.95,
+        "worldsbk-superbike": 0.73
       },
       "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
         {
           "slug": "worldsbk-superbike",
           "label": "WorldSBK & Superbike",
@@ -1142,38 +1077,43 @@
         {
           "slug": "profile-interview",
           "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.28,
-        "review": 0.03,
-        "comparison-test": 0.04,
-        "first-look": 0.04,
+        "news": 0.51,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.04,
-        "explainer": 0.16,
-        "opinion": 0.53,
-        "profile-interview": 0.83,
-        "tribute": 0.04,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.17,
+        "profile-interview": 0.94,
+        "tribute": 0.05,
         "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.07,
-        "press-release": 0.09,
-        "digest": 0.14,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.03,
-        "safety-notice": 0.04,
-        "episode": 0.11,
-        "build-feature": 0.03,
-        "q-and-a": 0.14
+        "event-report": 0.88,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.16,
+        "history": 0.2,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.08,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.23,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
+        "motogp",
         "worldsbk-superbike"
       ],
       "also": []
@@ -1260,16 +1200,16 @@
       "also": []
     },
     {
-      "id": "2151ed2e84e0be38cf992aec149b4428727e7e81",
-      "title": "Bulega, from hell to heaven: World Championship of one, none, and a hundred thousand",
-      "link": "https://www.gpone.com/en/2026/09/27/wsbk/bulega-from-hell-to-heaven-world-championship-of-one-none-and-a-hundred-thousand.html",
+      "id": "a8f5962e4d4099649595e81a4aa9620b14067731",
+      "title": "Igna said: \"Bulega isn't the same as he used to be; he's learned a lot.\"",
+      "link": "https://www.gpone.com/en/2026/09/27/wsbk/igna-said-bulega-isnt-the-same-as-he-used-to-be-hes-learned-a-lot.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-27T14:24:00+00:00",
-      "excerpt": "As Toprak\u2019s designated successor, Nicol\u00f2 lived up to expectations, bringing Italy back to the top of Superbike, 14 years after Biaggi. This marks the culmination of a journey that will lead him to reunite with Rossi and return to where it all began.",
+      "author": "Matteo Aglio",
+      "published": "2026-09-27T16:08:11+00:00",
+      "excerpt": "On the future SBK regulations: \u201cThe best solution is not to limit who wins, but to give those who are struggling a chance to improve.\u201d",
       "image": null,
       "audio": null,
       "categories": [
@@ -1286,7 +1226,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.95,
+        "sport-bikes": 0.94,
         "worldsbk-superbike": 0.94
       },
       "subcategories": [
@@ -1303,32 +1243,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.29,
-        "review": 0.04,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.04,
+        "news": 0.28,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
         "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.56,
-        "profile-interview": 0.88,
-        "tribute": 0.11,
+        "how-to": 0.04,
+        "explainer": 0.16,
+        "opinion": 0.53,
+        "profile-interview": 0.83,
+        "tribute": 0.04,
         "listing": 0.01,
-        "event-report": 0.67,
-        "event-preview": 0.09,
-        "press-release": 0.15,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.04,
-        "history": 0.37,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.08,
+        "event-report": 0.12,
+        "event-preview": 0.07,
+        "press-release": 0.09,
+        "digest": 0.14,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.04,
+        "episode": 0.11,
         "build-feature": 0.03,
-        "q-and-a": 0.03
+        "q-and-a": 0.14
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.23,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1421,16 +1361,16 @@
       "also": []
     },
     {
-      "id": "01e021f31998917b32ddc45e5dc614942e2ed8f3",
-      "title": "Petrucci: \u201cI\u2019m sad because I\u2019m saying goodbye to Superbike in the worst possible way\u201d",
-      "link": "https://www.gpone.com/en/2026/09/26/wsbk/petrucci-im-sad-because-im-saying-goodbye-to-superbike-in-the-worst-possible-way.html",
+      "id": "2151ed2e84e0be38cf992aec149b4428727e7e81",
+      "title": "Bulega, from hell to heaven: World Championship of one, none, and a hundred thousand",
+      "link": "https://www.gpone.com/en/2026/09/27/wsbk/bulega-from-hell-to-heaven-world-championship-of-one-none-and-a-hundred-thousand.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "Daniela Piazza",
-      "published": "2026-09-26T18:55:02+00:00",
-      "excerpt": "\u201cI don\u2019t know which way to go with this bike anymore. I knew that by coming here I could either win or quit, but a year ago I would have bet a hundred times on BMW: I\u2019m where I\u2019ve wanted to be for two years.\u201d",
+      "published": "2026-09-27T14:24:00+00:00",
+      "excerpt": "As Toprak\u2019s designated successor, Nicol\u00f2 lived up to expectations, bringing Italy back to the top of Superbike, 14 years after Biaggi. This marks the culmination of a journey that will lead him to reunite with Rossi and return to where it all began.",
       "image": null,
       "audio": null,
       "categories": [
@@ -1447,8 +1387,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.93
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.94
       },
       "subcategories": [
         {
@@ -1464,30 +1404,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.37,
+        "news": 0.29,
         "review": 0.04,
         "comparison-test": 0.03,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.04,
         "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.21,
-        "profile-interview": 0.93,
-        "tribute": 0.15,
+        "explainer": 0.1,
+        "opinion": 0.56,
+        "profile-interview": 0.88,
+        "tribute": 0.11,
         "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.07,
-        "press-release": 0.1,
-        "digest": 0.08,
+        "event-report": 0.67,
+        "event-preview": 0.09,
+        "press-release": 0.15,
+        "digest": 0.06,
         "photo-gallery": 0.07,
-        "ride-report": 0.07,
-        "history": 0.11,
-        "rumor": 0.03,
+        "ride-report": 0.04,
+        "history": 0.37,
+        "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.07,
+        "episode": 0.08,
         "build-feature": 0.03,
-        "q-and-a": 0.05
+        "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
@@ -1567,6 +1507,168 @@
         "q-and-a": 0.05
       },
       "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "01e021f31998917b32ddc45e5dc614942e2ed8f3",
+      "title": "Petrucci: \u201cI\u2019m sad because I\u2019m saying goodbye to Superbike in the worst possible way\u201d",
+      "link": "https://www.gpone.com/en/2026/09/26/wsbk/petrucci-im-sad-because-im-saying-goodbye-to-superbike-in-the-worst-possible-way.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-09-26T18:55:02+00:00",
+      "excerpt": "\u201cI don\u2019t know which way to go with this bike anymore. I knew that by coming here I could either win or quit, but a year ago I would have bet a hundred times on BMW: I\u2019m where I\u2019ve wanted to be for two years.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.93
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.37,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.21,
+        "profile-interview": 0.93,
+        "tribute": 0.15,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.07,
+        "press-release": 0.1,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.07,
+        "history": 0.11,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
+      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
+      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:19:33+00:00",
+      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.81,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.1,
+        "event-preview": 0.82,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1658,91 +1760,6 @@
         "racing",
         "sport-bikes",
         "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
-      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
-      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T15:19:33+00:00",
-      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.83,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.81,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.82,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
         "worldsbk-superbike"
       ],
       "also": []
@@ -3371,6 +3388,73 @@
         "racing",
         "sport-bikes",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "b7a031b98ed63cb72d31f70247e85e641a5e3039",
+      "title": "S12E04: Inside A Moto Dealership: Pricing, Warranties, Test Rides & More",
+      "link": "https://revzillapodcast.libsyn.com/s12e04-inside-a-moto-dealership-pricing-warranties-test-rides-more",
+      "lang": "en",
+      "source": "Highside/Lowside",
+      "ownership": "commercial",
+      "media": "podcast",
+      "author": null,
+      "published": "2026-09-18T04:00:00+00:00",
+      "excerpt": "We welcome Evan Yarnall, the mustachioed owner of Solid Performance, a KTM, Husqvarna, GasGas, and WP motorcycle dealership, who seems to be doing something right in the eyes of both his employees and customers. Join us as we take a deep dive into the logistics of owning a motorc",
+      "image": "http://assets.libsyn.com/show/161630?height=250&width=250&overlay=true",
+      "audio": "https://traffic.libsyn.com/secure/revzillapodcast/HSLS_S12E04_PODCAST_v2.mp3?dest-id=1064744",
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": false,
+      "cat_scores": {
+        "industry": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.09,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.49,
+        "how-to": 0.05,
+        "explainer": 0.74,
+        "opinion": 0.12,
+        "profile-interview": 0.95,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.14,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.98,
+        "build-feature": 0.02,
+        "q-and-a": 0.33
+      },
+      "multi_subject": 0.62,
+      "tags": [
+        "industry"
       ],
       "also": []
     },
