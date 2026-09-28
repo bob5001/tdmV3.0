@@ -3,6 +3,73 @@
   "label": "Opinion",
   "items": [
     {
+      "id": "d10c30a608f56b0863d59730052f847adece0099",
+      "title": "Synaptic successes: How the Evo has turned disaster into subliminal supremacy on my long-term test",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/ktm-1390-super-adventure-s-evo/subliminal-supremacy",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T17:26:59+00:00",
+      "excerpt": "I\u2019ve long been fascinated by what makes a bike special and why some speak to your soul while others have all the emotional allure of a bucket of wallpaper paste. After 6500+ miles with the EVO,...",
+      "image": "https://www.motorcyclenews.com/wp-images/439553/390x260/mcn_fleet_ktm_update_5_1.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": false,
+      "cat_scores": {
+        "new-models": 0.68
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.93,
+        "comparison-test": 0.07,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.37,
+        "how-to": 0.06,
+        "explainer": 0.26,
+        "opinion": 0.92,
+        "profile-interview": 0.06,
+        "tribute": 0.05,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.62,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.15,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "new-models"
+      ],
+      "also": []
+    },
+    {
       "id": "035dc2047c599e1506a555d075da17fceb3ba8ee",
       "title": "Benda Rock 707: China Continues To Up Its Game",
       "link": "https://www.advrider.com/benda-rock-707-china-continues-to-up-its-game",
@@ -451,6 +518,81 @@
       "also": []
     },
     {
+      "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
+      "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
+      "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T10:02:18+00:00",
+      "excerpt": "Until this weekend, KTM's last MotoGP victory had come courtesy of Miguel Oliveira, in the 2022 Thai Grand Prix - a race heavily affected by rain. That same Sunday at Buriram, Pedro Acosta finished 16th in the Moto2 race. It was his first season in the intermediate class, before ",
+      "image": "https://cdn-3.motorsport.com/images/amp/0R7B4JM2/s6/gottfried-neumeister-ceo-ktm-p-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.18,
+        "opinion": 0.91,
+        "profile-interview": 0.15,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.81,
+        "event-preview": 0.08,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.26,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "053a19ecadec1d2fc602c94e5697266a9057220b",
       "title": "MXA RETRO TEST: THE WEIRD & WILD 2010 YAMAHA YZ450F",
       "link": "https://motocrossactionmag.com/mxa-retro-test-the-weird-wild-2010-yamaha-yz450f",
@@ -524,81 +666,6 @@
       "tags": [
         "dirt-mx",
         "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
-      "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
-      "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T10:02:18+00:00",
-      "excerpt": "Until this weekend, KTM's last MotoGP victory had come courtesy of Miguel Oliveira, in the 2022 Thai Grand Prix - a race heavily affected by rain. That same Sunday at Buriram, Pedro Acosta finished 16th in the Moto2 race. It was his first season in the intermediate class, before ",
-      "image": "https://cdn-3.motorsport.com/images/amp/0R7B4JM2/s6/gottfried-neumeister-ceo-ktm-p-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.14,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.18,
-        "opinion": 0.91,
-        "profile-interview": 0.15,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.81,
-        "event-preview": 0.08,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.26,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -824,6 +891,77 @@
       "also": []
     },
     {
+      "id": "398dd21778440c07688ac3d5dde4b79e4d163fec",
+      "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
+      "link": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-20T07:05:02+00:00",
+      "excerpt": "There are still eight races remaining in the 2026 season, with uncertainty surrounding the Qatar round, but much of the MotoGP grid is already looking ahead to next year. That is hardly surprising, not only because several riders will change teams and take their careers in new di",
+      "image": "https://cdn-1.motorsport.com/images/amp/6DGqWpOY/s6/pirelli-2027-prototype-tyre.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.19,
+        "review": 0.03,
+        "comparison-test": 0.13,
+        "first-look": 0.15,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.23,
+        "opinion": 0.87,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.16,
+        "event-preview": 0.37,
+        "press-release": 0.07,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.08,
+        "safety-notice": 0.05,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "a929070121d6258a71da4b43eb7e815c20083e43",
       "title": "BEST OF JODY\u2019S BOX: MOTOCROSS IS 25% MACHINE, 75% MAN & 100% MONEY",
       "link": "https://motocrossactionmag.com/best-of-jodys-box-motocross-is-25-machine-75-man-100-money",
@@ -893,77 +1031,6 @@
       "tags": [
         "dirt-mx",
         "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "398dd21778440c07688ac3d5dde4b79e4d163fec",
-      "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
-      "link": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-20T07:05:02+00:00",
-      "excerpt": "There are still eight races remaining in the 2026 season, with uncertainty surrounding the Qatar round, but much of the MotoGP grid is already looking ahead to next year. That is hardly surprising, not only because several riders will change teams and take their careers in new di",
-      "image": "https://cdn-1.motorsport.com/images/amp/6DGqWpOY/s6/pirelli-2027-prototype-tyre.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.19,
-        "review": 0.03,
-        "comparison-test": 0.13,
-        "first-look": 0.15,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.23,
-        "opinion": 0.87,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.16,
-        "event-preview": 0.37,
-        "press-release": 0.07,
-        "digest": 0.08,
-        "photo-gallery": 0.04,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.08,
-        "safety-notice": 0.05,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.13,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -1102,81 +1169,6 @@
       "multi_subject": 0.18,
       "tags": [
         "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "7a57becbacf5eeb7483f793b45d293a5112ea722",
-      "title": "Why KTM's Red Bull Ring advantage is looking particularly potent in 2026",
-      "link": "https://www.autosport.com/motogp/news/why-ktms-red-bull-ring-advantage-is-looking-particularly-potent-in-2026/10856938",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-18T16:14:13+00:00",
-      "excerpt": "Pedro Acosta\u2019s chart-topping time in Practice for the Austrian Grand Prix has raised hopes of KTM ending a four-year winless streak in MotoGP. The RC16 has always gone well around the Red Bull Ring, and star Acosta is in the midst of a purple patch in MotoGP, meaning expectations",
-      "image": "https://cdn-9.motorsport.com/images/amp/6VyK81vY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.36,
-        "review": 0.03,
-        "comparison-test": 0.11,
-        "first-look": 0.08,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.32,
-        "opinion": 0.79,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.34,
-        "event-preview": 0.89,
-        "press-release": 0.08,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -1605,6 +1597,81 @@
         "sport-bikes",
         "motogp",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "7a57becbacf5eeb7483f793b45d293a5112ea722",
+      "title": "Why KTM's Red Bull Ring advantage is looking particularly potent in 2026",
+      "link": "https://www.autosport.com/motogp/news/why-ktms-red-bull-ring-advantage-is-looking-particularly-potent-in-2026/10856938",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-18T16:14:13+00:00",
+      "excerpt": "Pedro Acosta\u2019s chart-topping time in Practice for the Austrian Grand Prix has raised hopes of KTM ending a four-year winless streak in MotoGP. The RC16 has always gone well around the Red Bull Ring, and star Acosta is in the midst of a purple patch in MotoGP, meaning expectations",
+      "image": "https://cdn-9.motorsport.com/images/amp/6VyK81vY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.36,
+        "review": 0.03,
+        "comparison-test": 0.11,
+        "first-look": 0.08,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.32,
+        "opinion": 0.79,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.34,
+        "event-preview": 0.89,
+        "press-release": 0.08,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },

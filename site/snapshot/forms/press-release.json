@@ -3,33 +3,28 @@
   "label": "Announcement",
   "items": [
     {
-      "id": "74a1a80e4f6e13c336c29aac4a22b15f50abca66",
-      "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
-      "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
+      "id": "c0a08b15c1fd24bb734c757e44a2737f3f91e725",
+      "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
+      "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
       "lang": "en",
-      "source": "Crash.net",
+      "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T15:41:58+00:00",
-      "excerpt": "Maverick Vinales will be back in action at the Japanese Grand Prix",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1332379_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-28T16:16:13+00:00",
+      "excerpt": "Maverick Vinales will return to action at this weekend\u2019s Japanese Grand Prix after a three-month hiatus due to injury, Tech3 KTM has announced. The Spaniard has received clearance from doctors to fly to Japan and make his competitive return in time for the 16th round of the 2026 ",
+      "image": "https://cdn-6.motorsport.com/images/amp/YE9wRoGY/s6/maverick-vinales-red-bull-ktm--2.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.53,
+        "racing": 1.0,
         "motogp": 0.98
       },
       "subcategories": [
@@ -41,12 +36,12 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         },
         {
           "slug": "press-release",
@@ -54,38 +49,44 @@
         }
       ],
       "form_scores": {
-        "news": 0.94,
+        "news": 0.93,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
         "explainer": 0.05,
         "opinion": 0.04,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.94,
-        "press-release": 0.91,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.78,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
-        "sport-bikes",
         "motogp"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
+          "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
+          "published": "2026-09-28T15:41:58+00:00"
+        }
+      ]
     },
     {
       "id": "feec8e6208884917833ad46e352d99c0bc591d9e",
@@ -466,6 +467,89 @@
       "also": []
     },
     {
+      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
+      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
+      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-21T03:33:34+00:00",
+      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.91,
+        "events-rides": 0.81,
+        "dirt-mx": 0.74
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.05,
+        "comparison-test": 0.07,
+        "first-look": 0.05,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.97,
+        "press-release": 0.85,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "events-rides",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
       "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
       "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
       "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
@@ -628,77 +712,6 @@
       "also": []
     },
     {
-      "id": "797c1a6aca6a2589ca9b48e48be62a7d9950abb1",
-      "title": "Nearly 2,000 Australian riders join Royal Enfield\u2019s biggest One Ride yet",
-      "link": "https://www.mcnews.com.au/royal-enfield-one-ride-2026-australia",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-22T23:23:22+00:00",
-      "excerpt": "Royal Enfield reports its biggest One Ride yet, with nearly 2,000 Australian participants among more than 150,000 riders worldwide. The company will reveal its associated snow leopard conservation contribution on October 23. The post Nearly 2,000 Australian riders join Royal Enfi",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-Royal-Enfield-One-Ride-Sydney-Logo.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.16,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.22,
-        "press-release": 0.9,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
       "id": "e7026d562067e379866a969f38adec55c8badbda",
       "title": "STATEMENT FROM SX GLOBAL ON THE FUTURE OF THE FIM WORLD SUPERCROSS CHAMPIONSHIP AND BRITISH GP",
       "link": "https://www.mxpmag.com/statement-from-sx-global-on-the-future-of-the-fim-world-supercross-championship-and-british-gp",
@@ -781,91 +794,6 @@
         "dirt-mx",
         "racing",
         "industry",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
-      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
-      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:05:34+00:00",
-      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.21,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.98,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
         "motocross-supercross"
       ],
       "also": []
@@ -1115,6 +1043,95 @@
           "published": "2026-09-26T01:05:03+00:00"
         }
       ]
+    },
+    {
+      "id": "b5eeecf89b3e767a5047699321d9f5cdb8f22ab1",
+      "title": "2026 ACERBIS BEST LAP WINNERS | HERLINGS AND S. COENEN",
+      "link": "https://mxvice.com/2026/09/28/2026-acerbis-best-lap-winners-herlings-and-s-coenen",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:46:49+00:00",
+      "excerpt": "Infront Moto Racing is proud to continue its partnership with Acerbis for the Acerbis Best Lap Competition , a highlight of the 2026 FIM Motocross World Championship. This season once again delivered unforgettable action across MXGP and MX2, with the Acerbis Best Lap awards shini",
+      "image": "https://www.mxgp.com/sites/default/files/images/Images%20for%20PR/Red%20line.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.78,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.66,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.92,
+        "opinion": 0.09,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.94,
+        "event-preview": 0.04,
+        "press-release": 0.85,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.11,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
     },
     {
       "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
@@ -1450,170 +1467,6 @@
       "also": []
     },
     {
-      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
-      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
-      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-21T03:33:34+00:00",
-      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.91,
-        "events-rides": 0.81,
-        "dirt-mx": 0.74
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.05,
-        "comparison-test": 0.07,
-        "first-look": 0.05,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.97,
-        "press-release": 0.85,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "events-rides",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
-      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
-      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-24T18:50:34+00:00",
-      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.1,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
       "title": "Honda\u2019s Custom Contest Winner: Mugen",
       "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
@@ -1694,6 +1547,84 @@
           "title": "Portugal's 'Mugen' Hornet crowned winner of Honda's 2026 Battle of the Twins build-off",
           "link": "https://www.motorcyclenews.com/news/2026/september/honda-battle-of-the-twins-custom-build-off-winners-announced",
           "published": "2026-09-21T15:34:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": "83e754dab96e7889f15666139b3bc6565f49314f",
+      "title": "ONE RIDE 2026",
+      "link": "https://www.insidemotorcycles.com/one-ride-2026",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-24T20:04:37+00:00",
+      "excerpt": "More than 150,000 riders across 60 countries came together on September 20th, as over 1,600 rides took place for One Ride, making the 2026 edition the largest of Royal Enfield\u2019s global riding initiative since its inception in 2011. In the company\u2019s 125th year, riders united acros",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/FGM_8805P-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.08,
+        "profile-interview": 0.11,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.9,
+        "event-preview": 0.08,
+        "press-release": 0.85,
+        "digest": 0.08,
+        "photo-gallery": 0.1,
+        "ride-report": 0.07,
+        "history": 0.16,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Nearly 2,000 Australian riders join Royal Enfield\u2019s biggest One Ride yet",
+          "link": "https://www.mcnews.com.au/royal-enfield-one-ride-2026-australia",
+          "published": "2026-09-22T23:23:22+00:00"
         }
       ]
     },
@@ -1783,35 +1714,43 @@
       "also": []
     },
     {
-      "id": "83e754dab96e7889f15666139b3bc6565f49314f",
-      "title": "ONE RIDE 2026",
-      "link": "https://www.insidemotorcycles.com/one-ride-2026",
+      "id": "95edc10a6db5e16855ffa3afb67f751c23abcea5",
+      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
+      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italyd-of-knuiman-copy",
       "lang": "en",
-      "source": "Inside Motorcycles",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-24T20:04:37+00:00",
-      "excerpt": "More than 150,000 riders across 60 countries came together on September 20th, as over 1,600 rides took place for One Ride, making the 2026 edition the largest of Royal Enfield\u2019s global riding initiative since its inception in 2011. In the company\u2019s 125th year, riders united acros",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/FGM_8805P-scaled.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:15:39+00:00",
+      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "events-rides",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.98
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
@@ -1819,37 +1758,43 @@
         {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.85,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.15,
-        "opinion": 0.08,
-        "profile-interview": 0.11,
-        "tribute": 0.05,
+        "news": 0.96,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.9,
-        "event-preview": 0.08,
-        "press-release": 0.85,
-        "digest": 0.08,
-        "photo-gallery": 0.1,
-        "ride-report": 0.07,
-        "history": 0.16,
-        "rumor": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.76,
+        "press-release": 0.79,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
-        "events-rides"
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -1917,87 +1862,6 @@
       "multi_subject": 0.06,
       "tags": [
         "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
-      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
-      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-23T13:42:57+00:00",
-      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.17,
-        "opinion": 0.48,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.78,
-        "press-release": 0.87,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.33,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
       ],
       "also": []
     },
@@ -2310,6 +2174,91 @@
       ]
     },
     {
+      "id": "2bfabfb11ce9ea8da568e6cbcbfbc162622375a4",
+      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
+      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italy",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:15:39+00:00",
+      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.96,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.77,
+        "press-release": 0.8,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "2b955b2adb33606624883c92bf48b9694010a145",
       "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
       "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
@@ -2531,6 +2480,91 @@
       "also": []
     },
     {
+      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
+      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
+      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:05:34+00:00",
+      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.21,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.98,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
       "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
       "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
@@ -2677,69 +2711,83 @@
       "also": []
     },
     {
-      "id": "35271e0bf63c3475a4c8044dd64d94eaab763815",
-      "title": "ROYAL ENFIELD OPEN 2027 BUILD.TRAIN.RACE. RIDER APPLICATIONS",
-      "link": "https://www.insidemotorcycles.com/royal-enfield-open-2027-build-train-race-rider-applications",
+      "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
+      "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
+      "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
       "lang": "en",
-      "source": "Inside Motorcycles",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-18T15:56:47+00:00",
-      "excerpt": "Applications for the 2027 Build.Train.Race. Flat Track and Road Racing seasons are now live, as Royal Enfield considers applications for the next cohort of BTR racers. The all-woman initiative, teaching women to build & race their own motorcycles, highlights women and motorcycle ",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/BTR_FT_Build-1739A-scaled.jpg",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T18:50:34+00:00",
+      "excerpt": "April Franzoni will continue to race for Team SR in 2027. The French team has announced that its partnership with the young French rider will continue. In addition, Franzoni will receive support from Honda Racing Corporation (HRC) next season. Franzoni will once again compete in ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "racing",
-      "confident": false,
+      "primary": "dirt-mx",
+      "confident": true,
       "cat_scores": {
-        "racing": 0.84
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.8,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.06,
-        "explainer": 0.49,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.05,
-        "event-preview": 0.6,
-        "press-release": 0.92,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.1,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
         "history": 0.03,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.03,
       "tags": [
-        "racing"
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -2807,6 +2855,87 @@
       "multi_subject": 0.04,
       "tags": [
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
+      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
+      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:42:57+00:00",
+      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.43,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.17,
+        "opinion": 0.48,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.78,
+        "press-release": 0.87,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.33,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -3111,6 +3240,73 @@
       "tags": [
         "gear",
         "law-safety",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "35271e0bf63c3475a4c8044dd64d94eaab763815",
+      "title": "ROYAL ENFIELD OPEN 2027 BUILD.TRAIN.RACE. RIDER APPLICATIONS",
+      "link": "https://www.insidemotorcycles.com/royal-enfield-open-2027-build-train-race-rider-applications",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-18T15:56:47+00:00",
+      "excerpt": "Applications for the 2027 Build.Train.Race. Flat Track and Road Racing seasons are now live, as Royal Enfield considers applications for the next cohort of BTR racers. The all-woman initiative, teaching women to build & race their own motorcycles, highlights women and motorcycle ",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/BTR_FT_Build-1739A-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.84
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.06,
+        "explainer": 0.49,
+        "opinion": 0.07,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.05,
+        "event-preview": 0.6,
+        "press-release": 0.92,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
         "racing"
       ],
       "also": []

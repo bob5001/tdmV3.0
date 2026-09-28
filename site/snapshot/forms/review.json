@@ -381,28 +381,28 @@
       ]
     },
     {
-      "id": "0c807dbf421877ba115f5cf6238db683a5b130e4",
-      "title": "The AGV K7 lots points for one part going MIA",
-      "link": "https://www.motorcyclenews.com/bike-kit/helmets/agv-k7-review",
+      "id": "d10c30a608f56b0863d59730052f847adece0099",
+      "title": "Synaptic successes: How the Evo has turned disaster into subliminal supremacy on my long-term test",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/ktm-1390-super-adventure-s-evo/subliminal-supremacy",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T16:27:30+00:00",
-      "excerpt": "Having had an AGV K5 S helmet years ago, which I found to be a great fit for me and firm favourite, I was keen to try their latest sports-touring offering, the K7. I like to keep a good sports touring...",
-      "image": "https://www.motorcyclenews.com/wp-images/439550/390x260/agv_helmet_2026_004_preview.jpg",
+      "published": "2026-09-28T17:26:59+00:00",
+      "excerpt": "I\u2019ve long been fascinated by what makes a bike special and why some speak to your soul while others have all the emotional allure of a bucket of wallpaper paste. After 6500+ miles with the EVO,...",
+      "image": "https://www.motorcyclenews.com/wp-images/439553/390x260/mcn_fleet_ktm_update_5_1.png",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "gear",
-      "confident": true,
+      "primary": "new-models",
+      "confident": false,
       "cat_scores": {
-        "gear": 0.98
+        "new-models": 0.68
       },
       "subcategories": [],
       "forms": [
@@ -411,39 +411,39 @@
           "label": "Review"
         },
         {
-          "slug": "first-look",
-          "label": "First Look"
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.14,
-        "review": 0.91,
-        "comparison-test": 0.12,
-        "first-look": 0.77,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.63,
+        "news": 0.04,
+        "review": 0.93,
+        "comparison-test": 0.07,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.37,
         "how-to": 0.06,
-        "explainer": 0.19,
-        "opinion": 0.69,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
-        "listing": 0.03,
+        "explainer": 0.26,
+        "opinion": 0.92,
+        "profile-interview": 0.06,
+        "tribute": 0.05,
+        "listing": 0.02,
         "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.11,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.2,
-        "history": 0.04,
-        "rumor": 0.06,
-        "safety-notice": 0.07,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.62,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.09
+        "build-feature": 0.15,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.06,
       "tags": [
-        "gear"
+        "new-models"
       ],
       "also": []
     },
@@ -531,6 +531,73 @@
         "gear",
         "law-safety",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "0c807dbf421877ba115f5cf6238db683a5b130e4",
+      "title": "The AGV K7 lots points for one part going MIA",
+      "link": "https://www.motorcyclenews.com/bike-kit/helmets/agv-k7-review",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:27:30+00:00",
+      "excerpt": "Having had an AGV K5 S helmet years ago, which I found to be a great fit for me and firm favourite, I was keen to try their latest sports-touring offering, the K7. I like to keep a good sports touring...",
+      "image": "https://www.motorcyclenews.com/wp-images/439550/390x260/agv_helmet_2026_004_preview.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.91,
+        "comparison-test": 0.12,
+        "first-look": 0.77,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.63,
+        "how-to": 0.06,
+        "explainer": 0.19,
+        "opinion": 0.69,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.11,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.2,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.07,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "gear"
       ],
       "also": []
     },
