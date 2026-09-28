@@ -5,97 +5,6 @@
   "children": [],
   "items": [
     {
-      "id": "7fc1b76a8f31dc18524f88c732cb70a2918b1cce",
-      "title": "Suzuki\u2019s New Collab for Street Fighter 6, KTM\u2019s Big Win in MotoGP",
-      "link": "https://www.webbikeworld.com/suzukis-new-collab-for-street-fighter-6-ktms-big-win-in-motogp",
-      "lang": "en",
-      "source": "webBikeWorld",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Amanda Quick",
-      "published": "2026-09-25T18:26:54+00:00",
-      "excerpt": "Today, we have a fresh lineup of paddock drama, film tours, custom builds, and trade floor check-ins to dig through as the riding season heads into its autumn stride: MotoGP bikes may still be circling their respective circuits, but KTM has locked in a Grand Prix win on home soil",
-      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/mecum-las-vegas-view.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.91,
-        "custom": 0.86,
-        "sport-bikes": 0.56,
-        "motogp": 0.87
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.47,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.14,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.08,
-        "how-to": 0.02,
-        "explainer": 0.65,
-        "opinion": 0.46,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.93,
-        "event-preview": 0.8,
-        "press-release": 0.42,
-        "digest": 0.95,
-        "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.16,
-        "build-feature": 0.06,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.97,
-      "tags": [
-        "racing",
-        "custom",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "62acc4e7044a4b47e23c2a53f1b7cf1f0f97ec74",
       "title": "the girlypops celebrate Shark Week",
       "link": "https://rss.com/podcasts/motogirlypops/3171696",
@@ -241,6 +150,83 @@
       "multi_subject": 0.12,
       "tags": [
         "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "d3ac7387446c141244e33f4cba4c11135a15a4f6",
+      "title": "Barry Sheene and the Suzuki RG500 Era of 500cc GP Racing",
+      "link": "https://www.webbikeworld.com/barry-sheene-and-the-suzuki-rg500-era-of-500cc-gp-racing",
+      "lang": "en",
+      "source": "webBikeWorld",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Eduardo Zepeda",
+      "published": "2026-09-28T19:10:18+00:00",
+      "excerpt": "By the end of 1976 you could have thrown a wrench across a Grand Prix paddock and hit an RG500. Suzuki\u2019s two-stroke square four had gone from works prototype to the default premier-class machine in barely two seasons, filling 11 of the top 12 places in the World Championship, and",
+      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/7-days-to-go-motogp-legend-barry-sheene-is-counting-v0-1t7dyqokudke1.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "classic": 0.95,
+        "motogp": 0.92
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "history",
+          "label": "History"
+        }
+      ],
+      "form_scores": {
+        "news": 0.03,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.63,
+        "opinion": 0.18,
+        "profile-interview": 0.36,
+        "tribute": 0.23,
+        "listing": 0.01,
+        "event-report": 0.17,
+        "event-preview": 0.01,
+        "press-release": 0.05,
+        "digest": 0.08,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.98,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "classic",
         "motogp"
       ],
       "also": []
@@ -655,6 +641,97 @@
       "tags": [
         "racing",
         "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "7fc1b76a8f31dc18524f88c732cb70a2918b1cce",
+      "title": "Suzuki\u2019s New Collab for Street Fighter 6, KTM\u2019s Big Win in MotoGP",
+      "link": "https://www.webbikeworld.com/suzukis-new-collab-for-street-fighter-6-ktms-big-win-in-motogp",
+      "lang": "en",
+      "source": "webBikeWorld",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Amanda Quick",
+      "published": "2026-09-25T18:26:54+00:00",
+      "excerpt": "Today, we have a fresh lineup of paddock drama, film tours, custom builds, and trade floor check-ins to dig through as the riding season heads into its autumn stride: MotoGP bikes may still be circling their respective circuits, but KTM has locked in a Grand Prix win on home soil",
+      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/mecum-las-vegas-view.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.91,
+        "custom": 0.86,
+        "sport-bikes": 0.56,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.47,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.14,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.08,
+        "how-to": 0.02,
+        "explainer": 0.65,
+        "opinion": 0.46,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.93,
+        "event-preview": 0.8,
+        "press-release": 0.42,
+        "digest": 0.95,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.16,
+        "build-feature": 0.06,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.97,
+      "tags": [
+        "racing",
+        "custom",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -3594,77 +3671,6 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "41cf5483dee69ff5eb575486019f82f8d8f90751",
-      "title": "Can Ducati mount a serious victory challenge at the MotoGP Austrian Grand Prix?",
-      "link": "https://www.autosport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856971",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-18T17:57:28+00:00",
-      "excerpt": "After a great day out on home ground at Misano last weekend, Ducati appears to be facing a much sterner challenge now that the MotoGP circus has moved north across the Dolomites. That's because this week's home squad, KTM, threw down the gauntlet in no uncertain terms as Friday u",
-      "image": "https://cdn-1.motorsport.com/images/amp/YE9E7nwY/s6/fermin-aldeguer-gresini-racing.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.34,
-        "review": 0.03,
-        "comparison-test": 0.18,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.62,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.32,
-        "event-preview": 0.88,
-        "press-release": 0.07,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -8063,6 +8069,77 @@
         "gear",
         "motogp",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "41cf5483dee69ff5eb575486019f82f8d8f90751",
+      "title": "Can Ducati mount a serious victory challenge at the MotoGP Austrian Grand Prix?",
+      "link": "https://www.autosport.com/motogp/news/can-ducati-mount-a-serious-victory-challenge-at-the-motogp-austrian-grand-prix/10856971",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-18T17:57:28+00:00",
+      "excerpt": "After a great day out on home ground at Misano last weekend, Ducati appears to be facing a much sterner challenge now that the MotoGP circus has moved north across the Dolomites. That's because this week's home squad, KTM, threw down the gauntlet in no uncertain terms as Friday u",
+      "image": "https://cdn-1.motorsport.com/images/amp/YE9E7nwY/s6/fermin-aldeguer-gresini-racing.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.34,
+        "review": 0.03,
+        "comparison-test": 0.18,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.62,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.32,
+        "event-preview": 0.88,
+        "press-release": 0.07,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
