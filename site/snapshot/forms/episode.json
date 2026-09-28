@@ -139,6 +139,81 @@
       "also": []
     },
     {
+      "id": "62acc4e7044a4b47e23c2a53f1b7cf1f0f97ec74",
+      "title": "the girlypops celebrate Shark Week",
+      "link": "https://rss.com/podcasts/motogirlypops/3171696",
+      "lang": "en",
+      "source": "MotoGirlyPops",
+      "ownership": "independent",
+      "media": "podcast",
+      "author": null,
+      "published": "2026-09-21T22:04:46+00:00",
+      "excerpt": "How buzzed is Daxa about Pedro Acosta\u2019s win? How embarrassed was she by his ignominious sprint crash? And why is Jorge Mart\u00edn suddenly riding like a champion? In this episode of the MotoGirlyPops podcast, self-proclaimed girlypops Daxa and TVRoomRaccoon break down all the action ",
+      "image": "https://img.rss.com/motogirlypops/900/20260128_040106_8f075dc63be3e3737d669abe71882cdc.png",
+      "audio": "https://content.rss.com/episodes/369466/3171696/motogirlypops/2026_09_21_22_04_38_416d714e-46c3-4355-ab90-325269184e7c.mp3",
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.08,
+        "opinion": 0.7,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.94,
+        "event-preview": 0.1,
+        "press-release": 0.04,
+        "digest": 0.35,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.97,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.78,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
       "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
       "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
@@ -366,17 +441,17 @@
       "also": []
     },
     {
-      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
-      "title": "Video: SMX World Championship Final Preview and Injury Updates",
-      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
+      "id": "7811eb4222526b28844042da1bbef3e72b0ceef9",
+      "title": "The Post Show! Inside the Madness Post-Race at Thunder Ridge",
+      "link": "https://racerxonline.com/2026/09/27/the-post-show-inside-the-madness-post-race-at-thunder-ridge",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Sarah Whitmore",
-      "published": "2026-09-25T14:00:00+00:00",
-      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
+      "author": "Jason Weigandt",
+      "published": "2026-09-28T02:45:00+00:00",
+      "excerpt": "Jason Weigandt, Adam Enticknap and Steve Matthes head to the center of the Red Bull KTM party, catch Ken Roczen's gift to Eli Tomac, Rockstar Husky's final race, and more.",
+      "image": "https://rx.iscdn.net/2026/09/337179_pradoalignmediasmx26ridgedale165.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -392,8 +467,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
+        "racing": 0.89,
+        "motocross-supercross": 0.94
       },
       "subcategories": [
         {
@@ -404,8 +479,8 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
           "slug": "episode",
@@ -413,111 +488,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.32,
+        "news": 0.29,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.07,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.09,
-        "profile-interview": 0.07,
-        "tribute": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.16,
+        "profile-interview": 0.15,
+        "tribute": 0.12,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.96,
-        "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.56,
-        "ride-report": 0.02,
-        "history": 0.03,
+        "event-report": 0.86,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.33,
+        "photo-gallery": 0.33,
+        "ride-report": 0.06,
+        "history": 0.09,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.79,
+        "episode": 0.81,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.82,
       "tags": [
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "62acc4e7044a4b47e23c2a53f1b7cf1f0f97ec74",
-      "title": "the girlypops celebrate Shark Week",
-      "link": "https://rss.com/podcasts/motogirlypops/3171696",
-      "lang": "en",
-      "source": "MotoGirlyPops",
-      "ownership": "independent",
-      "media": "podcast",
-      "author": null,
-      "published": "2026-09-21T22:04:46+00:00",
-      "excerpt": "How buzzed is Daxa about Pedro Acosta\u2019s win? How embarrassed was she by his ignominious sprint crash? And why is Jorge Mart\u00edn suddenly riding like a champion? In this episode of the MotoGirlyPops podcast, self-proclaimed girlypops Daxa and TVRoomRaccoon break down all the action ",
-      "image": "https://img.rss.com/motogirlypops/900/20260128_040106_8f075dc63be3e3737d669abe71882cdc.png",
-      "audio": "https://content.rss.com/episodes/369466/3171696/motogirlypops/2026_09_21_22_04_38_416d714e-46c3-4355-ab90-325269184e7c.mp3",
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.08,
-        "opinion": 0.7,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.1,
-        "press-release": 0.04,
-        "digest": 0.35,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.97,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.78,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -600,88 +600,14 @@
         "racing",
         "motocross-supercross"
       ],
-      "also": []
-    },
-    {
-      "id": "5067764b5aba35d3fc11bb4e23870292fb9f8df2",
-      "title": "Weege Show Wednesday: A Week Packed With News, Plus Playoff Scenarios",
-      "link": "https://racerxonline.com/2026/09/23/weege-show-wednesday-a-week-packed-with-news-plus-playoff-scenarios",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-09-23T18:45:00+00:00",
-      "excerpt": "Dylan Ferrandis\u2019 retirement, SMX media rules, the next WSX round is canceled, and SMX finale championship math, Jason Weigandt unpacks it all.",
-      "image": "https://rx.iscdn.net/2026/09/336869_pradoalignmediasmx26losangeles137.jpg?w=1000",
-      "audio": null,
-      "categories": [
+      "also": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
+          "source": "Racer X Online",
+          "title": "Weege Show: Post SMX Finals with Burnouts, Duffe, Ian Harrison, Mitch Payton",
+          "link": "https://racerxonline.com/2026/09/27/weege-show-post-smx-finals-with-burnouts-duffe-ian-harrison-mitch-payton",
+          "published": "2026-09-28T03:00:00+00:00"
         }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.28,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.49,
-        "opinion": 0.31,
-        "profile-interview": 0.22,
-        "tribute": 0.11,
-        "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.26,
-        "press-release": 0.08,
-        "digest": 0.8,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.82,
-        "build-feature": 0.02,
-        "q-and-a": 0.12
-      },
-      "multi_subject": 0.93,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
+      ]
     },
     {
       "id": "2ce230ac60a05e4ab76083b40a3ea29db29f3fc2",
@@ -761,85 +687,83 @@
       "also": []
     },
     {
-      "id": "8b909df93deba8f27ad5d1bfe9f85345009ac64d",
-      "title": "the girlypops take the championship lead",
-      "link": "https://rss.com/podcasts/motogirlypops/3161308",
+      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
+      "title": "Video: SMX World Championship Final Preview and Injury Updates",
+      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
       "lang": "en",
-      "source": "MotoGirlyPops",
+      "source": "Racer X Online",
       "ownership": "independent",
-      "media": "podcast",
-      "author": null,
-      "published": "2026-09-17T11:10:00+00:00",
-      "excerpt": "Is the title Marc\u2019s to lose? How big was Bezzecchi\u2019s fumble? And is Pedro Acosta currently the best rider on the grid? In this episode of the MotoGirlyPops podcast, self-proclaimed girlypops Daxa and TVRoomRaccoon go through all the MotoGP action from Misano. Plus Raccoon defendi",
-      "image": "https://img.rss.com/motogirlypops/900/20260128_040106_8f075dc63be3e3737d669abe71882cdc.png",
-      "audio": "https://content.rss.com/episodes/369466/3161308/motogirlypops/2026_09_17_11_09_14_b3b54126-aba8-4446-82f0-334dbc7e4e57.mp3",
+      "media": "article",
+      "author": "Sarah Whitmore",
+      "published": "2026-09-25T14:00:00+00:00",
+      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
+      "audio": null,
       "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
+        "dirt-mx": 1.0,
+        "racing": 0.93,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
           "parent": "racing"
         }
       ],
       "forms": [
         {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.07,
+        "news": 0.32,
         "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.8,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
+        "explainer": 0.1,
+        "opinion": 0.09,
+        "profile-interview": 0.07,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.89,
-        "event-preview": 0.77,
-        "press-release": 0.03,
-        "digest": 0.09,
-        "photo-gallery": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.56,
         "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.98,
-        "build-feature": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.79,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.19,
+      "multi_subject": 0.1,
       "tags": [
+        "dirt-mx",
         "racing",
-        "motogp"
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -930,6 +854,87 @@
           "published": "2026-09-26T12:35:00+00:00"
         }
       ]
+    },
+    {
+      "id": "5067764b5aba35d3fc11bb4e23870292fb9f8df2",
+      "title": "Weege Show Wednesday: A Week Packed With News, Plus Playoff Scenarios",
+      "link": "https://racerxonline.com/2026/09/23/weege-show-wednesday-a-week-packed-with-news-plus-playoff-scenarios",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Jason Weigandt",
+      "published": "2026-09-23T18:45:00+00:00",
+      "excerpt": "Dylan Ferrandis\u2019 retirement, SMX media rules, the next WSX round is canceled, and SMX finale championship math, Jason Weigandt unpacks it all.",
+      "image": "https://rx.iscdn.net/2026/09/336869_pradoalignmediasmx26losangeles137.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.28,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.49,
+        "opinion": 0.31,
+        "profile-interview": 0.22,
+        "tribute": 0.11,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.26,
+        "press-release": 0.08,
+        "digest": 0.8,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.82,
+        "build-feature": 0.02,
+        "q-and-a": 0.12
+      },
+      "multi_subject": 0.93,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
     },
     {
       "id": "ebddcd88dfb9ece667eef670c48655175c777881",
@@ -1493,6 +1498,89 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "8b909df93deba8f27ad5d1bfe9f85345009ac64d",
+      "title": "the girlypops take the championship lead",
+      "link": "https://rss.com/podcasts/motogirlypops/3161308",
+      "lang": "en",
+      "source": "MotoGirlyPops",
+      "ownership": "independent",
+      "media": "podcast",
+      "author": null,
+      "published": "2026-09-17T11:10:00+00:00",
+      "excerpt": "Is the title Marc\u2019s to lose? How big was Bezzecchi\u2019s fumble? And is Pedro Acosta currently the best rider on the grid? In this episode of the MotoGirlyPops podcast, self-proclaimed girlypops Daxa and TVRoomRaccoon go through all the MotoGP action from Misano. Plus Raccoon defendi",
+      "image": "https://img.rss.com/motogirlypops/900/20260128_040106_8f075dc63be3e3737d669abe71882cdc.png",
+      "audio": "https://content.rss.com/episodes/369466/3161308/motogirlypops/2026_09_17_11_09_14_b3b54126-aba8-4446-82f0-334dbc7e4e57.mp3",
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.8,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.89,
+        "event-preview": 0.77,
+        "press-release": 0.03,
+        "digest": 0.09,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.98,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.19,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
