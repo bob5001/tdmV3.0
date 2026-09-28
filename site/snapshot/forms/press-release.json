@@ -3,6 +3,97 @@
   "label": "Announcement",
   "items": [
     {
+      "id": "feec8e6208884917833ad46e352d99c0bc591d9e",
+      "title": "[News Release]Yamaha Motor\u2019s YE-01 Racing Concept to Make Exhibition Run at MXoN 2026- Initiative aimed at competing in the MXEP electric motocross racing series -",
+      "link": "https://global.yamaha-motor.com/news/2026/0928/ye01.html?RSS=ON",
+      "lang": "en",
+      "source": "Yamaha Motor Global",
+      "ownership": "oem",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T08:00:00+00:00",
+      "excerpt": "Yamaha Motor Co., Ltd. (Tokyo: 7272) announced today that it will display and conduct an exhibition run of its YE-01 Racing Concept at the Monster Energy FIM Motocross of Nations 2026 (MXoN 2026), to be held in Ern\u00e9e, France, from October 2. This initiative is aimed at eventual p",
+      "image": "https://news.yamaha-motor.co.jp/news/assets_c/2026/09/144349_0001-thumb-630x630-272112.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.97,
+        "electric": 0.96,
+        "racing": 0.81,
+        "motocross-supercross": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.14,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.92,
+        "press-release": 0.98,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.08,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.03,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "electric",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "0192db56a50e27aa33415b0a3988ec7f861632f0",
       "title": "LET THE BOYS BE BOYS. SMX PRESS DAY!",
       "link": "https://dirtrider.net/let-the-boys-be-boys-smx-press-day",
@@ -216,33 +307,28 @@
       "also": []
     },
     {
-      "id": "3adab03dc929035ebd56984d29df385e8dc8b30d",
-      "title": "Iron Offroad: Iron City\u2019s online team launches 25,000-part dirt bike store",
-      "link": "https://www.fastbikesmag.com/2026/09/17/iron-offroad-iron-citys-online-team-launches-25000-part-dirt-bike-store",
+      "id": "1a5f9e7f5d8e6f0ba0583e39382b3b65407dedbd",
+      "title": "Zero Motorcycles announce DC fast charging upgrade to arrive in 2027 for select models",
+      "link": "https://www.motorcyclenews.com/news/2026/september/zero-dc-fast-charging",
       "lang": "en",
-      "source": "Fast Bikes",
+      "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
-      "author": "Mark Lancaster",
-      "published": "2026-09-17T17:22:58+00:00",
-      "excerpt": "The people behind Leeds dealer Iron City Motorcycles and Harley parts giant Iron Stable have launched Iron Offroad , a UK website selling hard parts for motocross, enduro, trail and supermoto bikes \u2013 nearly 25,000 of them, from 55 brands, behind a lookup that only shows you what ",
-      "image": "https://www.fastbikesmag.com/wp-content/uploads/sites/28/2026/09/img_7125.jpg",
+      "author": null,
+      "published": "2026-09-22T10:59:47+00:00",
+      "excerpt": "Electric motorcycle brand, Zero have promised the arrival of \u2018Level 3\u2019 DC fast charging on select models for 2027, as well as the ability to retrofit it as an accessory on machines produced from 2022...",
+      "image": "https://www.motorcyclenews.com/wp-images/438694/390x260/zerodsrx_charging.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "electric",
+          "label": "Electric"
         }
       ],
-      "primary": "dirt-mx",
+      "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.97,
-        "industry": 0.76
+        "electric": 0.99
       },
       "subcategories": [],
       "forms": [
@@ -253,42 +339,37 @@
         {
           "slug": "press-release",
           "label": "Announcement"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.91,
         "review": 0.03,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.12,
-        "buyers-guide": 0.3,
-        "how-to": 0.04,
-        "explainer": 0.76,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.18,
+        "how-to": 0.03,
+        "explainer": 0.22,
         "opinion": 0.04,
-        "profile-interview": 0.59,
+        "profile-interview": 0.16,
         "tribute": 0.01,
-        "listing": 0.04,
+        "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.82,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
+        "event-preview": 0.04,
+        "press-release": 0.88,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.01,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "rumor": 0.19,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "dirt-mx",
-        "industry"
+        "electric"
       ],
       "also": []
     },
@@ -613,73 +694,6 @@
       "also": []
     },
     {
-      "id": "1a5f9e7f5d8e6f0ba0583e39382b3b65407dedbd",
-      "title": "Zero Motorcycles announce DC fast charging upgrade to arrive in 2027 for select models",
-      "link": "https://www.motorcyclenews.com/news/2026/september/zero-dc-fast-charging",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T10:59:47+00:00",
-      "excerpt": "Electric motorcycle brand, Zero have promised the arrival of \u2018Level 3\u2019 DC fast charging on select models for 2027, as well as the ability to retrofit it as an accessory on machines produced from 2022...",
-      "image": "https://www.motorcyclenews.com/wp-images/438694/390x260/zerodsrx_charging.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        }
-      ],
-      "primary": "electric",
-      "confident": true,
-      "cat_scores": {
-        "electric": 0.99
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.18,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.04,
-        "profile-interview": 0.16,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.04,
-        "press-release": 0.88,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.19,
-        "safety-notice": 0.03,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "electric"
-      ],
-      "also": []
-    },
-    {
       "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
       "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
       "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
@@ -765,6 +779,71 @@
       "also": []
     },
     {
+      "id": "2264c0be84a5c3a06b0da7048fa36654106acbfb",
+      "title": "Moto Guzzi Shows Off New Facilities",
+      "link": "https://www.advrider.com/moto-guzzi-shows-off-new-facilities",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-24T05:55:25+00:00",
+      "excerpt": "Moto Guzzi has spent the last five years rebuilding and updating its headquarters in Mandello del Lario. And now, the fruits of its labor are complete. The 105-year-old motorcycle manufacturer\u2019s facilities now include a modernized factory, a new 33,000-square-foot museum, and a l",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture-3-452x750.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.14,
+        "opinion": 0.04,
+        "profile-interview": 0.31,
+        "tribute": 0.04,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.16,
+        "press-release": 0.89,
+        "digest": 0.06,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "odd-ball"
+      ],
+      "also": []
+    },
+    {
       "id": "83e754dab96e7889f15666139b3bc6565f49314f",
       "title": "ONE RIDE 2026",
       "link": "https://www.insidemotorcycles.com/one-ride-2026",
@@ -832,71 +911,6 @@
       "multi_subject": 0.05,
       "tags": [
         "events-rides"
-      ],
-      "also": []
-    },
-    {
-      "id": "2264c0be84a5c3a06b0da7048fa36654106acbfb",
-      "title": "Moto Guzzi Shows Off New Facilities",
-      "link": "https://www.advrider.com/moto-guzzi-shows-off-new-facilities",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Mike Botan / @Ride2ADV",
-      "published": "2026-09-24T05:55:25+00:00",
-      "excerpt": "Moto Guzzi has spent the last five years rebuilding and updating its headquarters in Mandello del Lario. And now, the fruits of its labor are complete. The 105-year-old motorcycle manufacturer\u2019s facilities now include a modernized factory, a new 33,000-square-foot museum, and a l",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture-3-452x750.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
-        }
-      ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.14,
-        "opinion": 0.04,
-        "profile-interview": 0.31,
-        "tribute": 0.04,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.16,
-        "press-release": 0.89,
-        "digest": 0.06,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "odd-ball"
       ],
       "also": []
     },
@@ -1427,79 +1441,6 @@
       "also": []
     },
     {
-      "id": "567b89618a08f41485fcfbf9511eaab139cadb41",
-      "title": "Full details of Ducati's first racing supermoto, the Desmo450 SM revealed ahead of December arrival",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/ducati-desmo450-sm",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T16:34:31+00:00",
-      "excerpt": "Ducati have revealed full details of the Desmo450 SM, the Italian manufacturer\u2019s first racing supermoto, following a pre-production tease at World Ducati Week in July. The Desmo450 SM is derived...",
-      "image": "https://www.motorcyclenews.com/wp-images/438521/390x260/ducati-desmo450-sm-01.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.96,
-        "new-models": 0.53
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.11,
-        "comparison-test": 0.03,
-        "first-look": 0.36,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.14,
-        "how-to": 0.03,
-        "explainer": 0.28,
-        "opinion": 0.05,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.06,
-        "event-preview": 0.23,
-        "press-release": 0.83,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.17,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
-    },
-    {
       "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
       "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
       "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
@@ -1579,6 +1520,90 @@
         "motocross-supercross"
       ],
       "also": []
+    },
+    {
+      "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
+      "title": "Honda\u2019s Custom Contest Winner: Mugen",
+      "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Kate / @Moto_Muffin",
+      "published": "2026-09-22T12:43:12+00:00",
+      "excerpt": "Portuguese shop Mototrofa has won the 2026 HondaCustoms.com competition for the second time. Their latest entry, dubbed \u201cMugen,\u201d means \u201cinfinite\u201d in Japanese. \u201cForm Should Follow Function\u201d The bike began life as a CB750 Hornet. And it still looks like one. If you don\u2019t look too c",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Honda-Hornet-Mugen-Custom-Tank-Bars-Frame-750x500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.6,
+        "review": 0.27,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.35,
+        "opinion": 0.45,
+        "profile-interview": 0.59,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.84,
+        "event-preview": 0.03,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.17,
+        "ride-report": 0.01,
+        "history": 0.14,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.95,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Honda CB750 Hornet wins custom bike challenge against XL750 Transalp",
+          "link": "https://www.visordown.com/news/honda-cb750-hornet-wins-custom-bike-challenge-against-xl750-transalp",
+          "published": "2026-09-21T10:45:14+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Portugal's 'Mugen' Hornet crowned winner of Honda's 2026 Battle of the Twins build-off",
+          "link": "https://www.motorcyclenews.com/news/2026/september/honda-battle-of-the-twins-custom-build-off-winners-announced",
+          "published": "2026-09-21T15:34:17+00:00"
+        }
+      ]
     },
     {
       "id": "a45fe81399169249cebeb90ab1cea17c8c78bd66",
@@ -1675,90 +1700,6 @@
           "title": "Gallery: 2027 Ducati Multistrada V4 Pikes Peak revealed in new racing paint job",
           "link": "https://www.motorcyclenews.com/news/2026/september/ducati-multistrada-v4-pikes-peak-new-colours",
           "published": "2026-09-24T16:32:54+00:00"
-        }
-      ]
-    },
-    {
-      "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
-      "title": "Honda\u2019s Custom Contest Winner: Mugen",
-      "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Kate / @Moto_Muffin",
-      "published": "2026-09-22T12:43:12+00:00",
-      "excerpt": "Portuguese shop Mototrofa has won the 2026 HondaCustoms.com competition for the second time. Their latest entry, dubbed \u201cMugen,\u201d means \u201cinfinite\u201d in Japanese. \u201cForm Should Follow Function\u201d The bike began life as a CB750 Hornet. And it still looks like one. If you don\u2019t look too c",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Honda-Hornet-Mugen-Custom-Tank-Bars-Frame-750x500.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.6,
-        "review": 0.27,
-        "comparison-test": 0.02,
-        "first-look": 0.13,
-        "ranked-list": 0.12,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.35,
-        "opinion": 0.45,
-        "profile-interview": 0.59,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.84,
-        "event-preview": 0.03,
-        "press-release": 0.8,
-        "digest": 0.05,
-        "photo-gallery": 0.17,
-        "ride-report": 0.01,
-        "history": 0.14,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.95,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom"
-      ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Honda CB750 Hornet wins custom bike challenge against XL750 Transalp",
-          "link": "https://www.visordown.com/news/honda-cb750-hornet-wins-custom-bike-challenge-against-xl750-transalp",
-          "published": "2026-09-21T10:45:14+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Portugal's 'Mugen' Hornet crowned winner of Honda's 2026 Battle of the Twins build-off",
-          "link": "https://www.motorcyclenews.com/news/2026/september/honda-battle-of-the-twins-custom-build-off-winners-announced",
-          "published": "2026-09-21T15:34:17+00:00"
         }
       ]
     },
@@ -1996,73 +1937,6 @@
       "also": []
     },
     {
-      "id": "b79d0e04b2b6fe291035eb914524f71861351908",
-      "title": "SUZUKI INTRODUCES THE ALL-NEW 2027 SV-7GX",
-      "link": "https://www.insidemotorcycles.com/suzuki-introduces-the-all-new-2027-sv-7gx",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-23T18:16:19+00:00",
-      "excerpt": "September 23rd, 2026 \u2013 Suzuki Canada Inc. is pleased to introduce the all-new 2027 SV-7GX, a midweight crossover motorcycle that combines the accessible performance and character of Suzuki\u2019s proven SV650 platform with the upright comfort, versatility and road-focused capability o",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.94
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.16,
-        "comparison-test": 0.03,
-        "first-look": 0.38,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.2,
-        "how-to": 0.03,
-        "explainer": 0.24,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.95,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.26,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
       "id": "10ee47acc6ddbca0c2454f76463d9d96efa20971",
       "title": "Stark VARG SM Bests Audi R8 LMS",
       "link": "https://www.advrider.com/stark-varg-sm-bests-audi-r8-lms",
@@ -2153,6 +2027,73 @@
           "published": "2026-09-21T09:33:40+00:00"
         }
       ]
+    },
+    {
+      "id": "b79d0e04b2b6fe291035eb914524f71861351908",
+      "title": "SUZUKI INTRODUCES THE ALL-NEW 2027 SV-7GX",
+      "link": "https://www.insidemotorcycles.com/suzuki-introduces-the-all-new-2027-sv-7gx",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-23T18:16:19+00:00",
+      "excerpt": "September 23rd, 2026 \u2013 Suzuki Canada Inc. is pleased to introduce the all-new 2027 SV-7GX, a midweight crossover motorcycle that combines the accessible performance and character of Suzuki\u2019s proven SV650 platform with the upright comfort, versatility and road-focused capability o",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.16,
+        "comparison-test": 0.03,
+        "first-look": 0.38,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.2,
+        "how-to": 0.03,
+        "explainer": 0.24,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.95,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.26,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "new-models"
+      ],
+      "also": []
     },
     {
       "id": "d136e2b3d8779fc941194fc5dd5eb3caa8a5c9d1",
@@ -2411,100 +2352,6 @@
         "racing"
       ],
       "also": []
-    },
-    {
-      "id": "1a55d671067d17f1fd3be4da47d8307fe6740d96",
-      "title": "KTM 450 Rally Replica Availability Confirmed For US, Canada",
-      "link": "https://www.advrider.com/ktm-450-rally-replica-availability-confirmed-for-us-canada",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-18T05:58:37+00:00",
-      "excerpt": "All the way back in April, we told you about the 2027 KTM 450 Rally Replica racebike coming to market , and said that\u2019s great, but mere mortals will have a hard time getting their hands on one. Then KTM contacted us and said oh, anyone with enough money can buy one\u2014and they expla",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/741532_MY27_KTM-450-RALLY-REPLICA_ACTION_EDGAR-CANET_ACTION_EDGAR-CANET.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.89,
-        "adventure": 0.87,
-        "new-models": 0.82,
-        "industry": 0.7
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.63,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.09,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.36,
-        "how-to": 0.03,
-        "explainer": 0.31,
-        "opinion": 0.5,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.07,
-        "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.77,
-        "digest": 0.06,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "adventure",
-        "new-models",
-        "industry"
-      ],
-      "also": [
-        {
-          "source": "Inside Motorcycles",
-          "title": "2027 KTM 450 RALLY REPLICA DEBUTS IN CANADA",
-          "link": "https://www.insidemotorcycles.com/2027-ktm-450-rally-replica-debuts-in-canada",
-          "published": "2026-09-18T16:01:12+00:00"
-        },
-        {
-          "source": "ADVrider",
-          "title": "2027 KTM 450 Rally Replica: Photo Gallery",
-          "link": "https://www.advrider.com/2027-ktm-450-rally-replica-photo-gallery",
-          "published": "2026-09-21T04:46:48+00:00"
-        }
-      ]
     },
     {
       "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
@@ -3102,6 +2949,250 @@
         "gear",
         "law-safety",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "1a55d671067d17f1fd3be4da47d8307fe6740d96",
+      "title": "KTM 450 Rally Replica Availability Confirmed For US, Canada",
+      "link": "https://www.advrider.com/ktm-450-rally-replica-availability-confirmed-for-us-canada",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-18T05:58:37+00:00",
+      "excerpt": "All the way back in April, we told you about the 2027 KTM 450 Rally Replica racebike coming to market , and said that\u2019s great, but mere mortals will have a hard time getting their hands on one. Then KTM contacted us and said oh, anyone with enough money can buy one\u2014and they expla",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/741532_MY27_KTM-450-RALLY-REPLICA_ACTION_EDGAR-CANET_ACTION_EDGAR-CANET.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.89,
+        "adventure": 0.87,
+        "new-models": 0.82,
+        "industry": 0.7
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.63,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.09,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.36,
+        "how-to": 0.03,
+        "explainer": 0.31,
+        "opinion": 0.5,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.77,
+        "digest": 0.06,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "adventure",
+        "new-models",
+        "industry"
+      ],
+      "also": [
+        {
+          "source": "Inside Motorcycles",
+          "title": "2027 KTM 450 RALLY REPLICA DEBUTS IN CANADA",
+          "link": "https://www.insidemotorcycles.com/2027-ktm-450-rally-replica-debuts-in-canada",
+          "published": "2026-09-18T16:01:12+00:00"
+        },
+        {
+          "source": "ADVrider",
+          "title": "2027 KTM 450 Rally Replica: Photo Gallery",
+          "link": "https://www.advrider.com/2027-ktm-450-rally-replica-photo-gallery",
+          "published": "2026-09-21T04:46:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": "3adab03dc929035ebd56984d29df385e8dc8b30d",
+      "title": "Iron Offroad: Iron City\u2019s online team launches 25,000-part dirt bike store",
+      "link": "https://www.fastbikesmag.com/2026/09/17/iron-offroad-iron-citys-online-team-launches-25000-part-dirt-bike-store",
+      "lang": "en",
+      "source": "Fast Bikes",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Mark Lancaster",
+      "published": "2026-09-17T17:22:58+00:00",
+      "excerpt": "The people behind Leeds dealer Iron City Motorcycles and Harley parts giant Iron Stable have launched Iron Offroad , a UK website selling hard parts for motocross, enduro, trail and supermoto bikes \u2013 nearly 25,000 of them, from 55 brands, behind a lookup that only shows you what ",
+      "image": "https://www.fastbikesmag.com/wp-content/uploads/sites/28/2026/09/img_7125.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.97,
+        "industry": 0.76
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.3,
+        "how-to": 0.04,
+        "explainer": 0.76,
+        "opinion": 0.04,
+        "profile-interview": 0.59,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.82,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.01,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "567b89618a08f41485fcfbf9511eaab139cadb41",
+      "title": "Full details of Ducati's first racing supermoto, the Desmo450 SM revealed ahead of December arrival",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/ducati-desmo450-sm",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-17T16:34:31+00:00",
+      "excerpt": "Ducati have revealed full details of the Desmo450 SM, the Italian manufacturer\u2019s first racing supermoto, following a pre-production tease at World Ducati Week in July. The Desmo450 SM is derived...",
+      "image": "https://www.motorcyclenews.com/wp-images/438521/390x260/ducati-desmo450-sm-01.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.96,
+        "new-models": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.11,
+        "comparison-test": 0.03,
+        "first-look": 0.36,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.14,
+        "how-to": 0.03,
+        "explainer": 0.28,
+        "opinion": 0.05,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.23,
+        "press-release": 0.83,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.17,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
