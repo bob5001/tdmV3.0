@@ -3,49 +3,50 @@
   "label": "Listing",
   "items": [
     {
-      "id": "fd37011d3df58b2792c9f6c6ea8b17211a7d5fda",
-      "title": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert\u2026",
-      "link": "https://bikebound.tumblr.com/post/828027274952589312",
+      "id": "99effd71492b997a61fb272cea1b77049204f83f",
+      "title": "FOR SALE: 1981 Honda CX500 Custom Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1981-honda-cx500-custom-cafe-racer",
       "lang": "en",
-      "source": "BikeBound",
+      "source": "Return of the Cafe Racers",
       "ownership": "independent",
       "media": "article",
-      "author": null,
-      "published": "2026-09-17T18:05:45+00:00",
-      "excerpt": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert Sled from @altr_moto. Named Best Offroad Motorcycle at the 2025 Two Bit Moto Show. Equipment and upgrades: \u2022 Upgraded front fork. Added Tec Preload Adjusters, Cartridge Emulators and",
-      "image": "https://64.media.tumblr.com/357e46f29e86d039f84894b906719f07/9c066b6f79b5d60e-91/s640x960/335f3d4aef3d54a9bb1daca21fe1d2dea2953bd4.jpg",
+      "author": "Mark Capayas",
+      "published": "2026-09-28T10:55:24+00:00",
+      "excerpt": "A 1981 Honda CX500 Custom listed on Bring a Trailer with no reserve transforms Honda\u2019s unconventional middleweight V-twin into a purpose-built cafe racer. Retained by its original owner until 2018, the motorcycle was subsequently rebuilt with extensively reworked chassis, braking",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1981-Honda-CX500-Custom-Cafe-Racer-7.webp",
       "audio": null,
       "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
         {
           "slug": "for-sale",
           "label": "For Sale"
         },
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
-      "primary": "for-sale",
+      "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.99,
-        "adventure": 0.85,
-        "dirt-mx": 0.66,
-        "custom": 0.59,
-        "scramblers": 0.87
+        "custom": 0.98,
+        "for-sale": 0.97,
+        "classic": 0.96,
+        "cafe-racers": 0.91,
+        "restomods": 0.56
       },
       "subcategories": [
         {
-          "slug": "scramblers",
-          "label": "Scramblers",
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        },
+        {
+          "slug": "restomods",
+          "label": "Restomods",
           "parent": "custom"
         }
       ],
@@ -56,113 +57,38 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
-        "review": 0.05,
-        "comparison-test": 0.01,
+        "news": 0.2,
+        "review": 0.1,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.54,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.99,
-        "event-report": 0.22,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.39,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "for-sale",
-        "adventure",
-        "dirt-mx",
-        "custom",
-        "scramblers"
-      ],
-      "also": []
-    },
-    {
-      "id": "44fd0677c96e8ac447d084508967cd10435915d0",
-      "title": "No Reserve: 1976 Suzuki RM125",
-      "link": "https://bringatrailer.com/listing/1976-suzuki-rm125-7",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-15T18:41:48+00:00",
-      "excerpt": "This 1976 Suzuki RM125 is finished in Competition Yellow with black accents and powered by a 123cc two-stroke single paired with a six-speed transmission. Features include a black vinyl solo seat, an expansion-chamber exhaust system, a kick starter, a Mikuni carburetor, a cross-b",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/MG_2083-scaled-copy-2026-09-17-qos-60712.jpg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.99,
-        "dirt-mx": 0.97,
-        "classic": 0.92
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.08,
-        "review": 0.11,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.48,
+        "buyers-guide": 0.44,
         "how-to": 0.03,
-        "explainer": 0.06,
-        "opinion": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
         "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.98,
+        "tribute": 0.03,
+        "listing": 0.97,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
         "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.01,
+        "history": 0.09,
+        "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.13,
+        "build-feature": 0.7,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
+        "custom",
         "for-sale",
-        "dirt-mx",
-        "classic"
+        "classic",
+        "cafe-racers",
+        "restomods"
       ],
       "also": []
     },
@@ -231,81 +157,6 @@
       "multi_subject": 0.04,
       "tags": [
         "for-sale",
-        "classic"
-      ],
-      "also": []
-    },
-    {
-      "id": "e722157549a208bc09b6b3db2efde7b6bf581163",
-      "title": "No Reserve: 1976 Indian MT175 and Neon Indian Motocycles Sign",
-      "link": "https://bringatrailer.com/listing/1976-indian-mt175-and-neon-indian-sign",
-      "lang": "en",
-      "source": "Bring A Trailer (motorcycles)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "bringatrailer",
-      "published": "2026-09-15T01:08:19+00:00",
-      "excerpt": "This 1976 Indian MT175 was refinished under prior ownership and acquired by the seller in 2026, reportedly from its third owner. Finished in black with multi-colored graphics, the bike is powered by a 171cc two-stroke single paired with a five-speed transmission. Details include ",
-      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_5496-scaled-copy-2026-09-17-gfv-78363.jpeg?w=940",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "dirt-mx": 0.91,
-        "classic": 0.91
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.08,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.35,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.14,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "for-sale",
-        "dirt-mx",
         "classic"
       ],
       "also": []
@@ -550,6 +401,95 @@
       "also": []
     },
     {
+      "id": "fd37011d3df58b2792c9f6c6ea8b17211a7d5fda",
+      "title": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert\u2026",
+      "link": "https://bikebound.tumblr.com/post/828027274952589312",
+      "lang": "en",
+      "source": "BikeBound",
+      "ownership": "independent",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-17T18:05:45+00:00",
+      "excerpt": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert Sled from @altr_moto. Named Best Offroad Motorcycle at the 2025 Two Bit Moto Show. Equipment and upgrades: \u2022 Upgraded front fork. Added Tec Preload Adjusters, Cartridge Emulators and",
+      "image": "https://64.media.tumblr.com/357e46f29e86d039f84894b906719f07/9c066b6f79b5d60e-91/s640x960/335f3d4aef3d54a9bb1daca21fe1d2dea2953bd4.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.99,
+        "adventure": 0.85,
+        "dirt-mx": 0.66,
+        "custom": 0.59,
+        "scramblers": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.05,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.54,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.99,
+        "event-report": 0.22,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.39,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "for-sale",
+        "adventure",
+        "dirt-mx",
+        "custom",
+        "scramblers"
+      ],
+      "also": []
+    },
+    {
       "id": "50d16c5a47abb557bddacf8429b868d93dece029",
       "title": "FOR SALE: 1985 BMW K100 Cafe Racer",
       "link": "https://www.returnofthecaferacers.com/bmw-motorcycles-cafe-racer/for-sale-1985-bmw-k100-cafe-racer",
@@ -633,6 +573,81 @@
       "also": []
     },
     {
+      "id": "44fd0677c96e8ac447d084508967cd10435915d0",
+      "title": "No Reserve: 1976 Suzuki RM125",
+      "link": "https://bringatrailer.com/listing/1976-suzuki-rm125-7",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-09-15T18:41:48+00:00",
+      "excerpt": "This 1976 Suzuki RM125 is finished in Competition Yellow with black accents and powered by a 123cc two-stroke single paired with a six-speed transmission. Features include a black vinyl solo seat, an expansion-chamber exhaust system, a kick starter, a Mikuni carburetor, a cross-b",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/MG_2083-scaled-copy-2026-09-17-qos-60712.jpg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.99,
+        "dirt-mx": 0.97,
+        "classic": 0.92
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.11,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.48,
+        "how-to": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.13,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "for-sale",
+        "dirt-mx",
+        "classic"
+      ],
+      "also": []
+    },
+    {
       "id": "8a89d4ac34550e95536e3724d6eb6f3c73a55181",
       "title": "FOR SALE: 1982 Yamaha XV920 Virago Cafe Racer",
       "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1982-yamaha-xv920-virago-cafe-racer",
@@ -712,6 +727,81 @@
         "for-sale",
         "classic",
         "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "e722157549a208bc09b6b3db2efde7b6bf581163",
+      "title": "No Reserve: 1976 Indian MT175 and Neon Indian Motocycles Sign",
+      "link": "https://bringatrailer.com/listing/1976-indian-mt175-and-neon-indian-sign",
+      "lang": "en",
+      "source": "Bring A Trailer (motorcycles)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "bringatrailer",
+      "published": "2026-09-15T01:08:19+00:00",
+      "excerpt": "This 1976 Indian MT175 was refinished under prior ownership and acquired by the seller in 2026, reportedly from its third owner. Finished in black with multi-colored graphics, the bike is powered by a 171cc two-stroke single paired with a five-speed transmission. Details include ",
+      "image": "https://bringatrailer.com/wp-content/uploads/2026/09/IMG_5496-scaled-copy-2026-09-17-gfv-78363.jpeg?w=940",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "dirt-mx": 0.91,
+        "classic": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.35,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "for-sale",
+        "dirt-mx",
+        "classic"
       ],
       "also": []
     },

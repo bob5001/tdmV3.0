@@ -6,7 +6,7 @@
     {
       "slug": "cafe-racers",
       "label": "Cafe Racers",
-      "count": 12
+      "count": 13
     },
     {
       "slug": "scramblers",
@@ -26,7 +26,7 @@
     {
       "slug": "restomods",
       "label": "Restomods",
-      "count": 7
+      "count": 8
     }
   ],
   "items": [
@@ -279,6 +279,96 @@
       "also": []
     },
     {
+      "id": "99effd71492b997a61fb272cea1b77049204f83f",
+      "title": "FOR SALE: 1981 Honda CX500 Custom Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1981-honda-cx500-custom-cafe-racer",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-28T10:55:24+00:00",
+      "excerpt": "A 1981 Honda CX500 Custom listed on Bring a Trailer with no reserve transforms Honda\u2019s unconventional middleweight V-twin into a purpose-built cafe racer. Retained by its original owner until 2018, the motorcycle was subsequently rebuilt with extensively reworked chassis, braking",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1981-Honda-CX500-Custom-Cafe-Racer-7.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.98,
+        "for-sale": 0.97,
+        "classic": 0.96,
+        "cafe-racers": 0.91,
+        "restomods": 0.56
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        },
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.1,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.44,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.7,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "custom",
+        "for-sale",
+        "classic",
+        "cafe-racers",
+        "restomods"
+      ],
+      "also": []
+    },
+    {
       "id": "ab2cb44e7f9548235ed89f0702137c9521d5e7ce",
       "title": "Slow Burn: 7,000 hours of heavy metal inspired by Hetfield\u2019s Auburn",
       "link": "https://www.mcnews.com.au/game-over-cycles-slow-burn-custom-motorcycle",
@@ -352,6 +442,75 @@
         "custom",
         "cruisers",
         "bobbers-choppers"
+      ],
+      "also": []
+    },
+    {
+      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
+      "title": "BMW R100 by Bolt Motor Company.",
+      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Martin Hodgson",
+      "published": "2026-09-21T10:46:21+00:00",
+      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "classic": 0.79
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.16,
+        "review": 0.21,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.12,
+        "profile-interview": 0.59,
+        "tribute": 0.04,
+        "listing": 0.09,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
+        "ride-report": 0.03,
+        "history": 0.22,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.89,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "classic"
       ],
       "also": []
     },
@@ -439,75 +598,6 @@
         "custom",
         "for-sale",
         "cafe-racers"
-      ],
-      "also": []
-    },
-    {
-      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
-      "title": "BMW R100 by Bolt Motor Company.",
-      "link": "https://pipeburn.com/bmw-r100-bolt",
-      "lang": "en",
-      "source": "Pipeburn",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Martin Hodgson",
-      "published": "2026-09-21T10:46:21+00:00",
-      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.94,
-        "classic": 0.79
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.16,
-        "review": 0.21,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.12,
-        "profile-interview": 0.59,
-        "tribute": 0.04,
-        "listing": 0.09,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.15,
-        "ride-report": 0.03,
-        "history": 0.22,
-        "rumor": 0.07,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.89,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom",
-        "classic"
       ],
       "also": []
     },
@@ -728,93 +818,6 @@
       "also": []
     },
     {
-      "id": "73e7b9ed2b994bdef7ad347db1cbac80b1b41f76",
-      "title": "FOR SALE: 2003 Buell M2 Cyclone",
-      "link": "https://www.returnofthecaferacers.com/buell-cafe-racer/for-sale-2003-buell-m2-cyclone",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-18T10:00:07+00:00",
-      "excerpt": "Listed for sale on Collecting Cars, this Buell M2 Cyclone is a thoroughly re-engineered caf\u00e9 racer that combines the muscular character of an American V-twin with the chassis hardware and visual language of Ducati. Known by its builder as the \u2018Bucati,\u2019 the motorcycle retains the ",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2003-Buell-M2-Cyclone.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.98,
-        "for-sale": 0.97,
-        "classic": 0.52,
-        "cafe-racers": 0.82
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        },
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.2,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.38,
-        "how-to": 0.03,
-        "explainer": 0.3,
-        "opinion": 0.09,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
-        "listing": 0.96,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.06,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.86,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "custom",
-        "for-sale",
-        "classic",
-        "cafe-racers"
-      ],
-      "also": []
-    },
-    {
       "id": "6168c756775afe75bbb8c03067bca37951182a01",
       "title": "Flashback Friday: The Top 10 Custom Motorcycles of September 2025",
       "link": "https://www.bikeexif.com/top-10-custom-motorcycles-september-2025",
@@ -1030,178 +1033,6 @@
       "also": []
     },
     {
-      "id": "fd37011d3df58b2792c9f6c6ea8b17211a7d5fda",
-      "title": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert\u2026",
-      "link": "https://bikebound.tumblr.com/post/828027274952589312",
-      "lang": "en",
-      "source": "BikeBound",
-      "ownership": "independent",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-17T18:05:45+00:00",
-      "excerpt": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert Sled from @altr_moto. Named Best Offroad Motorcycle at the 2025 Two Bit Moto Show. Equipment and upgrades: \u2022 Upgraded front fork. Added Tec Preload Adjusters, Cartridge Emulators and",
-      "image": "https://64.media.tumblr.com/357e46f29e86d039f84894b906719f07/9c066b6f79b5d60e-91/s640x960/335f3d4aef3d54a9bb1daca21fe1d2dea2953bd4.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.99,
-        "adventure": 0.85,
-        "dirt-mx": 0.66,
-        "custom": 0.59,
-        "scramblers": 0.87
-      },
-      "subcategories": [
-        {
-          "slug": "scramblers",
-          "label": "Scramblers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.07,
-        "review": 0.05,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.54,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.99,
-        "event-report": 0.22,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.39,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "for-sale",
-        "adventure",
-        "dirt-mx",
-        "custom",
-        "scramblers"
-      ],
-      "also": []
-    },
-    {
-      "id": "8153f2b6d3ba8e3a1b59198c04e9cf90f5c5513e",
-      "title": "FOR SALE: 1971 Honda CB750 Cafe Racer",
-      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1971-honda-cb750-cafe-racer",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-17T22:17:51+00:00",
-      "excerpt": "Listed for sale on Bring a Trailer with no reserve, this 1971 Honda CB750 combines the mechanical character of Honda\u2019s landmark superbike with a period-inspired cafe racer transformation. Modified under previous ownership and acquired by the current owner in 2023, the motorcycle ",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1971-Honda-CB750-Cafe-Racer-4.webp",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.98,
-        "custom": 0.97,
-        "classic": 0.96,
-        "cafe-racers": 0.79
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.14,
-        "review": 0.08,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.48,
-        "how-to": 0.03,
-        "explainer": 0.12,
-        "opinion": 0.06,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.98,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.51,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "for-sale",
-        "custom",
-        "classic",
-        "cafe-racers"
-      ],
-      "also": []
-    },
-    {
       "id": "9a19f8dbfe9485923ae7521eaa16c2becde9044b",
       "title": "Grab-and-go: A custom kit for the Honda CB350 from Taiwan",
       "link": "https://www.bikeexif.com/honda-cb350-custom-kit-2",
@@ -1347,75 +1178,6 @@
       "also": []
     },
     {
-      "id": "36a4f627ee011a09d0e2b0dbee8d3bac53c3428a",
-      "title": "Top 20 Most Expensive Caf\u00e9 Racers Ever Sold at Auction",
-      "link": "https://www.returnofthecaferacers.com/top-lists/top-20-most-expensive-cafe-racers-ever-sold-at-auction",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-21T10:00:02+00:00",
-      "excerpt": "Caf\u00e9 racers started as stripped-down, performance-focused motorcycles built by enthusiasts who wanted to travel quickly between caf\u00e9s. Lightweight chassis, low handlebars, rear-set controls and tuned engines defined the movement, which emerged in Britain during the 1950s and 1960",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1968-Egli-Vincent-1330-Cafe-Racer-by-Godet_213741-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "classic",
-      "confident": true,
-      "cat_scores": {
-        "classic": 0.95,
-        "custom": 0.8
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.08,
-        "review": 0.02,
-        "comparison-test": 0.14,
-        "first-look": 0.02,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.11,
-        "how-to": 0.02,
-        "explainer": 0.56,
-        "opinion": 0.11,
-        "profile-interview": 0.03,
-        "tribute": 0.04,
-        "listing": 0.05,
-        "event-report": 0.07,
-        "event-preview": 0.02,
-        "press-release": 0.03,
-        "digest": 0.08,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.18,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "classic",
-        "custom"
-      ],
-      "also": []
-    },
-    {
       "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
       "title": "Second wind: A Yamaha DT175 reconfigured for the road",
       "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
@@ -1495,6 +1257,75 @@
         "custom",
         "dirt-mx",
         "restomods"
+      ],
+      "also": []
+    },
+    {
+      "id": "36a4f627ee011a09d0e2b0dbee8d3bac53c3428a",
+      "title": "Top 20 Most Expensive Caf\u00e9 Racers Ever Sold at Auction",
+      "link": "https://www.returnofthecaferacers.com/top-lists/top-20-most-expensive-cafe-racers-ever-sold-at-auction",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-21T10:00:02+00:00",
+      "excerpt": "Caf\u00e9 racers started as stripped-down, performance-focused motorcycles built by enthusiasts who wanted to travel quickly between caf\u00e9s. Lightweight chassis, low handlebars, rear-set controls and tuned engines defined the movement, which emerged in Britain during the 1950s and 1960",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1968-Egli-Vincent-1330-Cafe-Racer-by-Godet_213741-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.95,
+        "custom": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.02,
+        "comparison-test": 0.14,
+        "first-look": 0.02,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.11,
+        "how-to": 0.02,
+        "explainer": 0.56,
+        "opinion": 0.11,
+        "profile-interview": 0.03,
+        "tribute": 0.04,
+        "listing": 0.05,
+        "event-report": 0.07,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.08,
+        "photo-gallery": 0.11,
+        "ride-report": 0.01,
+        "history": 0.18,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "classic",
+        "custom"
       ],
       "also": []
     },
@@ -1762,6 +1593,265 @@
       "multi_subject": 0.79,
       "tags": [
         "custom"
+      ],
+      "also": []
+    },
+    {
+      "id": "73e7b9ed2b994bdef7ad347db1cbac80b1b41f76",
+      "title": "FOR SALE: 2003 Buell M2 Cyclone",
+      "link": "https://www.returnofthecaferacers.com/buell-cafe-racer/for-sale-2003-buell-m2-cyclone",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-18T10:00:07+00:00",
+      "excerpt": "Listed for sale on Collecting Cars, this Buell M2 Cyclone is a thoroughly re-engineered caf\u00e9 racer that combines the muscular character of an American V-twin with the chassis hardware and visual language of Ducati. Known by its builder as the \u2018Bucati,\u2019 the motorcycle retains the ",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2003-Buell-M2-Cyclone.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.98,
+        "for-sale": 0.97,
+        "classic": 0.52,
+        "cafe-racers": 0.82
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        },
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.38,
+        "how-to": 0.03,
+        "explainer": 0.3,
+        "opinion": 0.09,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.96,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.86,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "custom",
+        "for-sale",
+        "classic",
+        "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "8153f2b6d3ba8e3a1b59198c04e9cf90f5c5513e",
+      "title": "FOR SALE: 1971 Honda CB750 Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1971-honda-cb750-cafe-racer",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-17T22:17:51+00:00",
+      "excerpt": "Listed for sale on Bring a Trailer with no reserve, this 1971 Honda CB750 combines the mechanical character of Honda\u2019s landmark superbike with a period-inspired cafe racer transformation. Modified under previous ownership and acquired by the current owner in 2023, the motorcycle ",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1971-Honda-CB750-Cafe-Racer-4.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.98,
+        "custom": 0.97,
+        "classic": 0.96,
+        "cafe-racers": 0.79
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.48,
+        "how-to": 0.03,
+        "explainer": 0.12,
+        "opinion": 0.06,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.98,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.51,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "for-sale",
+        "custom",
+        "classic",
+        "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "fd37011d3df58b2792c9f6c6ea8b17211a7d5fda",
+      "title": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert\u2026",
+      "link": "https://bikebound.tumblr.com/post/828027274952589312",
+      "lang": "en",
+      "source": "BikeBound",
+      "ownership": "independent",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-17T18:05:45+00:00",
+      "excerpt": "Today on BikeBound.com: For Sale via BikeBound.com/Classifieds: 2012 Triumph Scrambler 900 Desert Sled from @altr_moto. Named Best Offroad Motorcycle at the 2025 Two Bit Moto Show. Equipment and upgrades: \u2022 Upgraded front fork. Added Tec Preload Adjusters, Cartridge Emulators and",
+      "image": "https://64.media.tumblr.com/357e46f29e86d039f84894b906719f07/9c066b6f79b5d60e-91/s640x960/335f3d4aef3d54a9bb1daca21fe1d2dea2953bd4.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.99,
+        "adventure": 0.85,
+        "dirt-mx": 0.66,
+        "custom": 0.59,
+        "scramblers": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.07,
+        "review": 0.05,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.54,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.99,
+        "event-report": 0.22,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.39,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "for-sale",
+        "adventure",
+        "dirt-mx",
+        "custom",
+        "scramblers"
       ],
       "also": []
     },
