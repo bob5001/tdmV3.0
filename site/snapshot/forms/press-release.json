@@ -315,91 +315,6 @@
       "also": []
     },
     {
-      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
-      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
-      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T11:00:00+00:00",
-      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
-      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.94
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.88,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "1a5f9e7f5d8e6f0ba0583e39382b3b65407dedbd",
       "title": "Zero Motorcycles announce DC fast charging upgrade to arrive in 2027 for select models",
       "link": "https://www.motorcyclenews.com/news/2026/september/zero-dc-fast-charging",
@@ -546,6 +461,87 @@
         "adventure",
         "events-rides",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
+      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
+      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-28T21:05:00+00:00",
+      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
+      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.21,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -1286,6 +1282,91 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
+      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
+      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-24T11:00:00+00:00",
+      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
+      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
