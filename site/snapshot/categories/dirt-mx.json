@@ -169,91 +169,6 @@
       "also": []
     },
     {
-      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
-      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
-      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T16:50:06+00:00",
-      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
-      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.92,
-        "events-rides": 0.84,
-        "adventure": 0.77,
-        "racing": 0.67
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ride-report",
-          "label": "Ride Report"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.08,
-        "comparison-test": 0.07,
-        "first-look": 0.09,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.09,
-        "explainer": 0.21,
-        "opinion": 0.46,
-        "profile-interview": 0.16,
-        "tribute": 0.21,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.07,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.96,
-        "history": 0.19,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.14,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "dirt-mx",
-        "events-rides",
-        "adventure",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "c9318f60b6217d107537e6ef29c959fd826ad618",
       "title": "Pro Circuit Ridgedale SMX Post-Race PulpCasts",
       "link": "https://pulpmx.com/2026/09/26/pro-circuit-ridgedale-smx-post-race-pulpcasts",
@@ -921,6 +836,91 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
+      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
+      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:50:06+00:00",
+      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
+      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.92,
+        "events-rides": 0.84,
+        "adventure": 0.77,
+        "racing": 0.67
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.08,
+        "comparison-test": 0.07,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.09,
+        "explainer": 0.21,
+        "opinion": 0.46,
+        "profile-interview": 0.16,
+        "tribute": 0.21,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.07,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.96,
+        "history": 0.19,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "dirt-mx",
+        "events-rides",
+        "adventure",
+        "racing"
       ],
       "also": []
     },
@@ -2515,6 +2515,79 @@
       "also": []
     },
     {
+      "id": "d9148594a7852eba9aaa33bdbf358a479818dd2b",
+      "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
+      "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T13:29:53+00:00",
+      "excerpt": "Sam Sunderland\u2019s attempt to set a new record for the fastest circumnavigation of the globe by motorcycle has come to an end, after his Triumph Tiger 1200 Rally Explorer sustained damage in the...",
+      "image": "https://www.motorcyclenews.com/wp-images/439943/390x260/sam-sunderland-breakdown-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.96,
+        "dirt-mx": 0.68
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.83,
+        "event-preview": 0.02,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.05,
+        "history": 0.16,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
       "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
       "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
       "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
@@ -3364,81 +3437,6 @@
       "also": []
     },
     {
-      "id": "e3ec206cfc66c6642b80184d6fd7a762db5b22c2",
-      "title": "KTM 1390 SUPER ADVENTURE R 1790251825000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/ktm/1390-super-adventure-r/2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T12:10:08+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/439063/390x260/2026-on_ktm_1390_super_adventure_r_16.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.97,
-        "new-models": 0.87,
-        "dirt-mx": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        }
-      ],
-      "form_scores": {
-        "news": 0.54,
-        "review": 0.76,
-        "comparison-test": 0.13,
-        "first-look": 0.63,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.41,
-        "how-to": 0.09,
-        "explainer": 0.25,
-        "opinion": 0.19,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
-        "listing": 0.3,
-        "event-report": 0.09,
-        "event-preview": 0.05,
-        "press-release": 0.6,
-        "digest": 0.09,
-        "photo-gallery": 0.22,
-        "ride-report": 0.14,
-        "history": 0.04,
-        "rumor": 0.51,
-        "safety-notice": 0.08,
-        "episode": 0.06,
-        "build-feature": 0.05,
-        "q-and-a": 0.08
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "adventure",
-        "new-models",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
       "id": "3cc3b4401ad422277e19341746e463e48448e103",
       "title": "Austrian Grand Prix: the Good, the Bad, and the Ugly",
       "link": "https://www.gpone.com/en/2026/09/21/motogp/austrian-grand-prix-the-good-the-bad-and-the-ugly.html",
@@ -4224,6 +4222,81 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "e3ec206cfc66c6642b80184d6fd7a762db5b22c2",
+      "title": "KTM 1390 SUPER ADVENTURE R 1790251825000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/ktm/1390-super-adventure-r/2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T12:10:08+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/439063/390x260/2026-on_ktm_1390_super_adventure_r_16.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.97,
+        "new-models": 0.87,
+        "dirt-mx": 0.61
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.54,
+        "review": 0.76,
+        "comparison-test": 0.13,
+        "first-look": 0.63,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.41,
+        "how-to": 0.09,
+        "explainer": 0.25,
+        "opinion": 0.19,
+        "profile-interview": 0.08,
+        "tribute": 0.03,
+        "listing": 0.3,
+        "event-report": 0.09,
+        "event-preview": 0.05,
+        "press-release": 0.6,
+        "digest": 0.09,
+        "photo-gallery": 0.22,
+        "ride-report": 0.14,
+        "history": 0.04,
+        "rumor": 0.51,
+        "safety-notice": 0.08,
+        "episode": 0.06,
+        "build-feature": 0.05,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "adventure",
+        "new-models",
+        "dirt-mx"
       ],
       "also": []
     },
