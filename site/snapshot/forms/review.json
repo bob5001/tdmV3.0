@@ -76,83 +76,6 @@
       "also": []
     },
     {
-      "id": "053a19ecadec1d2fc602c94e5697266a9057220b",
-      "title": "MXA RETRO TEST: THE WEIRD & WILD 2010 YAMAHA YZ450F",
-      "link": "https://motocrossactionmag.com/mxa-retro-test-the-weird-wild-2010-yamaha-yz450f",
-      "lang": "en",
-      "source": "Motocross Action",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "MXA_Staff",
-      "published": "2026-09-25T18:30:58+00:00",
-      "excerpt": "The 2010 Yamaha YZ450F is not a bike that was released into a vacuum. There was more pre-release publicity about the 2010 Yamaha YZ450F than about any other bike in the history of the sport up to that time. If you don\u2019t know what Yamaha changed for 2010, then you aren\u2019t getting v",
-      "image": "https://motocrossactionmag.com/wp-content/uploads/2025/07/RETRO_2010-YZ450F-ACTION-3_e-150x150.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "new-models": 0.93
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        },
-        {
-          "slug": "history",
-          "label": "History"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.05,
-        "review": 0.96,
-        "comparison-test": 0.3,
-        "first-look": 0.25,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.35,
-        "how-to": 0.03,
-        "explainer": 0.33,
-        "opinion": 0.82,
-        "profile-interview": 0.03,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.02,
-        "press-release": 0.09,
-        "digest": 0.05,
-        "photo-gallery": 0.03,
-        "ride-report": 0.04,
-        "history": 0.91,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.16
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
-    },
-    {
       "id": "d74a7fcaafa4ff18076a913350571a78dc640d7d",
       "title": "Atlas Defender Hybrid Ai Product Review",
       "link": "https://pulpmx.com/2026/09/23/atlas-defender-hybrid-ai-product-review",
@@ -297,6 +220,83 @@
         "adventure",
         "new-models",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "c536d553ee354a2ecbdfb4b4591ab6be57b467ae",
+      "title": "WE RIDE: CARSON MUMFORD\u2019S AEO KTM 250",
+      "link": "https://motocrossactionmag.com/we-ride-carson-mumfords-aeo-ktm-250",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-29T19:11:10+00:00",
+      "excerpt": "\ufeff WE RIDE: CARSON MUMFORD\u2019S AEO KTM 250 How close is a front-running pro bike to one you can buy? We rode Carson Mumford\u2019s #71 AEO KTM 250 SX-F at Glen Helen to find out. It runs a Factory Services engine and Factory Connection suspension, but almost every other part on it is som",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/9y9gfymuomk.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.77,
+        "motocross-supercross": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.89,
+        "comparison-test": 0.04,
+        "first-look": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.27,
+        "how-to": 0.15,
+        "explainer": 0.59,
+        "opinion": 0.13,
+        "profile-interview": 0.66,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.42,
+        "event-preview": 0.05,
+        "press-release": 0.09,
+        "digest": 0.04,
+        "photo-gallery": 0.05,
+        "ride-report": 0.31,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.49,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -450,6 +450,83 @@
       "tags": [
         "new-models",
         "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "053a19ecadec1d2fc602c94e5697266a9057220b",
+      "title": "MXA RETRO TEST: THE WEIRD & WILD 2010 YAMAHA YZ450F",
+      "link": "https://motocrossactionmag.com/mxa-retro-test-the-weird-wild-2010-yamaha-yz450f",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "MXA_Staff",
+      "published": "2026-09-25T18:30:58+00:00",
+      "excerpt": "The 2010 Yamaha YZ450F is not a bike that was released into a vacuum. There was more pre-release publicity about the 2010 Yamaha YZ450F than about any other bike in the history of the sport up to that time. If you don\u2019t know what Yamaha changed for 2010, then you aren\u2019t getting v",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2025/07/RETRO_2010-YZ450F-ACTION-3_e-150x150.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "new-models": 0.93
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.96,
+        "comparison-test": 0.3,
+        "first-look": 0.25,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.35,
+        "how-to": 0.03,
+        "explainer": 0.33,
+        "opinion": 0.82,
+        "profile-interview": 0.03,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.09,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.04,
+        "history": 0.91,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.16
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
