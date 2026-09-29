@@ -3,6 +3,97 @@
   "label": "Digest",
   "items": [
     {
+      "id": "7fc1b76a8f31dc18524f88c732cb70a2918b1cce",
+      "title": "Suzuki\u2019s New Collab for Street Fighter 6, KTM\u2019s Big Win in MotoGP",
+      "link": "https://www.webbikeworld.com/suzukis-new-collab-for-street-fighter-6-ktms-big-win-in-motogp",
+      "lang": "en",
+      "source": "webBikeWorld",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Amanda Quick",
+      "published": "2026-09-25T18:26:54+00:00",
+      "excerpt": "Today, we have a fresh lineup of paddock drama, film tours, custom builds, and trade floor check-ins to dig through as the riding season heads into its autumn stride: MotoGP bikes may still be circling their respective circuits, but KTM has locked in a Grand Prix win on home soil",
+      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/mecum-las-vegas-view.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.91,
+        "custom": 0.86,
+        "sport-bikes": 0.56,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.47,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.14,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.08,
+        "how-to": 0.02,
+        "explainer": 0.65,
+        "opinion": 0.46,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.93,
+        "event-preview": 0.8,
+        "press-release": 0.42,
+        "digest": 0.95,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.16,
+        "build-feature": 0.06,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.97,
+      "tags": [
+        "racing",
+        "custom",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "67b6f13f656e43e3f2a71f12ab1b0c23dd1b349e",
       "title": "October 2026",
       "link": "https://ridermagazine.com/october-2026",
@@ -70,17 +161,17 @@
       "also": []
     },
     {
-      "id": "0bdb9c16420fc68f777bab180adb362404640c98",
-      "title": "Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Rally \u2013 Trials + more\u2026",
-      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-22-2026",
+      "id": "815745b654f5d9346f6ef3c83ffa9dcc8d3cd2db",
+      "title": "Moto Wrap Weekly | World titles, fine margins and the week ahead",
+      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-29-2026",
       "lang": "en",
       "source": "MCNews Australia",
       "ownership": "independent",
       "media": "article",
       "author": "Motorcycle News",
-      "published": "2026-09-22T02:24:07+00:00",
-      "excerpt": "Webb and Deegan clash, Triumph makes motocross history and Herlings extends his winning streak. Catch up on the Aussie results, Reed\u2019s Holeshot Challenge, Wilson and Bolt injury updates, rally news and TrialGP title deciders. The post Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Ral",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Moto-News-Weekly-Wrap-2026-09-22-1920x1080-1.jpg",
+      "published": "2026-09-29T05:16:34+00:00",
+      "excerpt": "Prado and Kitchen claim SMX crowns, Sanders takes a narrow lead into Morocco and Gillman lands two Speedway GPs. Plus Australian podiums, MXoN team changes, Roof of Africa, Trials and this weekend's junior track titles. The post Moto Wrap Weekly | World titles, fine margins and t",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Toni-Bou-TeamSpain-2026-FIM-Trial-des-Nations-Spain.jpg",
       "audio": null,
       "categories": [
         {
@@ -95,9 +186,9 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.98,
-        "racing": 0.95,
-        "motocross-supercross": 0.95
+        "dirt-mx": 0.97,
+        "racing": 0.96,
+        "motocross-supercross": 0.93
       },
       "subcategories": [
         {
@@ -108,41 +199,45 @@
       ],
       "forms": [
         {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
           "slug": "digest",
           "label": "Digest"
         },
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.47,
+        "news": 0.74,
         "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.1,
-        "buyers-guide": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.09,
+        "explainer": 0.08,
         "opinion": 0.07,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.22,
-        "press-release": 0.11,
-        "digest": 0.95,
-        "photo-gallery": 0.09,
+        "event-report": 0.95,
+        "event-preview": 0.9,
+        "press-release": 0.12,
+        "digest": 0.93,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.08,
+        "history": 0.04,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.16,
+        "episode": 0.19,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.96,
+      "multi_subject": 0.95,
       "tags": [
         "dirt-mx",
         "racing",
@@ -238,97 +333,6 @@
         "racing",
         "events-rides",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "7fc1b76a8f31dc18524f88c732cb70a2918b1cce",
-      "title": "Suzuki\u2019s New Collab for Street Fighter 6, KTM\u2019s Big Win in MotoGP",
-      "link": "https://www.webbikeworld.com/suzukis-new-collab-for-street-fighter-6-ktms-big-win-in-motogp",
-      "lang": "en",
-      "source": "webBikeWorld",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Amanda Quick",
-      "published": "2026-09-25T18:26:54+00:00",
-      "excerpt": "Today, we have a fresh lineup of paddock drama, film tours, custom builds, and trade floor check-ins to dig through as the riding season heads into its autumn stride: MotoGP bikes may still be circling their respective circuits, but KTM has locked in a Grand Prix win on home soil",
-      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/mecum-las-vegas-view.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.91,
-        "custom": 0.86,
-        "sport-bikes": 0.56,
-        "motogp": 0.87
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.47,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.14,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.08,
-        "how-to": 0.02,
-        "explainer": 0.65,
-        "opinion": 0.46,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.93,
-        "event-preview": 0.8,
-        "press-release": 0.42,
-        "digest": 0.95,
-        "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.16,
-        "build-feature": 0.06,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.97,
-      "tags": [
-        "racing",
-        "custom",
-        "sport-bikes",
-        "motogp"
       ],
       "also": []
     },
@@ -590,6 +594,87 @@
       "also": []
     },
     {
+      "id": "0bdb9c16420fc68f777bab180adb362404640c98",
+      "title": "Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Rally \u2013 Trials + more\u2026",
+      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-22-2026",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Motorcycle News",
+      "published": "2026-09-22T02:24:07+00:00",
+      "excerpt": "Webb and Deegan clash, Triumph makes motocross history and Herlings extends his winning streak. Catch up on the Aussie results, Reed\u2019s Holeshot Challenge, Wilson and Bolt injury updates, rally news and TrialGP title deciders. The post Moto Wrap Weekly \u2013 SMX Fireworks \u2013 MXGP \u2013 Ral",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Moto-News-Weekly-Wrap-2026-09-22-1920x1080-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.98,
+        "racing": 0.95,
+        "motocross-supercross": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.47,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.1,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.22,
+        "press-release": 0.11,
+        "digest": 0.95,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.16,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.96,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "45132de06ea4bf641df9a88791cc37401e3e16ab",
       "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
       "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-182",
@@ -675,75 +760,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "be27b5919c90aac9cecaeab79c62c74ef7e64d62",
-      "title": "Big-Bore Bikes get a Big Bill, Isle of Man TT Scraps Super Twins for 2027",
-      "link": "https://www.webbikeworld.com/big-bore-bikes-get-a-big-bill-isle-of-man-tt-scraps-super-twins-for-2027",
-      "lang": "en",
-      "source": "webBikeWorld",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Amanda Quick",
-      "published": "2026-09-19T01:08:06+00:00",
-      "excerpt": "Today, we have a brilliant list of to-do\u2019s as everybody continues toward the riding season\u2019s slow-downs: Canada and the U.S. have locked horns in a fresh trade dispute, placing a 50% counter-tariff on American heavyweight bikes. Moto Guzzi\u2019s historic Mandello del Lario headquarte",
-      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/Donald-Trump-next-to-Harley-Davidson-Motorcycles-in-front-of-the-white-house.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.93,
-        "racing": 0.86
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.59,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.11,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.58,
-        "opinion": 0.21,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.34,
-        "press-release": 0.19,
-        "digest": 0.96,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.35,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.97,
-      "tags": [
-        "industry",
-        "racing"
       ],
       "also": []
     },
@@ -983,6 +999,75 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "be27b5919c90aac9cecaeab79c62c74ef7e64d62",
+      "title": "Big-Bore Bikes get a Big Bill, Isle of Man TT Scraps Super Twins for 2027",
+      "link": "https://www.webbikeworld.com/big-bore-bikes-get-a-big-bill-isle-of-man-tt-scraps-super-twins-for-2027",
+      "lang": "en",
+      "source": "webBikeWorld",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Amanda Quick",
+      "published": "2026-09-19T01:08:06+00:00",
+      "excerpt": "Today, we have a brilliant list of to-do\u2019s as everybody continues toward the riding season\u2019s slow-downs: Canada and the U.S. have locked horns in a fresh trade dispute, placing a 50% counter-tariff on American heavyweight bikes. Moto Guzzi\u2019s historic Mandello del Lario headquarte",
+      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/Donald-Trump-next-to-Harley-Davidson-Motorcycles-in-front-of-the-white-house.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.93,
+        "racing": 0.86
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.59,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.58,
+        "opinion": 0.21,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.34,
+        "press-release": 0.19,
+        "digest": 0.96,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.35,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.97,
+      "tags": [
+        "industry",
+        "racing"
       ],
       "also": []
     },
