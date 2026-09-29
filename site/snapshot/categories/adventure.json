@@ -141,66 +141,75 @@
       "also": []
     },
     {
-      "id": "ec7df08816c1c1109f874dbfac4aa80749998f45",
-      "title": "CF MOTO 1000MT-X 1790616161000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/1000mt-x/2026",
+      "id": "a8cc86d3838ab4d2b86eb9bb7faa9ea971149c31",
+      "title": "Diving into the detail \u2013 Chris gives us his hits and misses of the F450GS during his long-term test",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/bmw-f450gs/dive-into-the-detail",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T17:22:30+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/437466/390x260/main_image_3_cf_moto_1000mtx_first_ride_review_.jpg",
+      "published": "2026-09-29T11:58:38+00:00",
+      "excerpt": "Anticipation around the BMW F450GS\u2019s launch has been followed by regular questions of \u2018How is it?\u2019. And every time, my face drops into a vision of mild befuddlement (a common occurrence, in fairness)...",
+      "image": "https://www.motorcyclenews.com/wp-images/439197/390x260/bmw_f450gs_update_three.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.85,
-        "new-models": 0.81
+        "new-models": 0.92,
+        "adventure": 0.91
       },
       "subcategories": [],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
       "form_scores": {
-        "news": 0.49,
-        "review": 0.71,
-        "comparison-test": 0.14,
-        "first-look": 0.58,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.37,
-        "how-to": 0.09,
-        "explainer": 0.27,
-        "opinion": 0.19,
-        "profile-interview": 0.12,
+        "news": 0.09,
+        "review": 0.95,
+        "comparison-test": 0.05,
+        "first-look": 0.17,
+        "ranked-list": 0.23,
+        "buyers-guide": 0.48,
+        "how-to": 0.05,
+        "explainer": 0.22,
+        "opinion": 0.82,
+        "profile-interview": 0.25,
         "tribute": 0.02,
-        "listing": 0.29,
-        "event-report": 0.08,
-        "event-preview": 0.06,
-        "press-release": 0.56,
-        "digest": 0.1,
-        "photo-gallery": 0.24,
-        "ride-report": 0.14,
-        "history": 0.04,
-        "rumor": 0.54,
-        "safety-notice": 0.1,
-        "episode": 0.05,
-        "build-feature": 0.07,
-        "q-and-a": 0.09
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.48,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.13
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.07,
       "tags": [
-        "adventure",
-        "new-models"
+        "new-models",
+        "adventure"
       ],
       "also": []
     },
@@ -368,6 +377,70 @@
         "events-rides",
         "adventure",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "ec7df08816c1c1109f874dbfac4aa80749998f45",
+      "title": "CF MOTO 1000MT-X 1790616161000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/1000mt-x/2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T17:22:30+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/437466/390x260/main_image_3_cf_moto_1000mtx_first_ride_review_.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.85,
+        "new-models": 0.81
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.49,
+        "review": 0.71,
+        "comparison-test": 0.14,
+        "first-look": 0.58,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.37,
+        "how-to": 0.09,
+        "explainer": 0.27,
+        "opinion": 0.19,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.29,
+        "event-report": 0.08,
+        "event-preview": 0.06,
+        "press-release": 0.56,
+        "digest": 0.1,
+        "photo-gallery": 0.24,
+        "ride-report": 0.14,
+        "history": 0.04,
+        "rumor": 0.54,
+        "safety-notice": 0.1,
+        "episode": 0.05,
+        "build-feature": 0.07,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "adventure",
+        "new-models"
       ],
       "also": []
     },
@@ -627,70 +700,6 @@
         "adventure",
         "new-models",
         "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "88c2991a0b3a49cf3717621da563b3cea3263066",
-      "title": "CF MOTO 800MT-ES 1790597772000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/800mt-es/2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T12:15:59+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/439423/390x260/image_11_800mt-es.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.89,
-        "new-models": 0.84
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.52,
-        "review": 0.72,
-        "comparison-test": 0.15,
-        "first-look": 0.58,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.4,
-        "how-to": 0.11,
-        "explainer": 0.26,
-        "opinion": 0.18,
-        "profile-interview": 0.12,
-        "tribute": 0.03,
-        "listing": 0.37,
-        "event-report": 0.07,
-        "event-preview": 0.05,
-        "press-release": 0.59,
-        "digest": 0.11,
-        "photo-gallery": 0.22,
-        "ride-report": 0.14,
-        "history": 0.04,
-        "rumor": 0.48,
-        "safety-notice": 0.11,
-        "episode": 0.05,
-        "build-feature": 0.06,
-        "q-and-a": 0.1
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "adventure",
-        "new-models"
       ],
       "also": []
     },
@@ -1338,6 +1347,70 @@
       "also": []
     },
     {
+      "id": "88c2991a0b3a49cf3717621da563b3cea3263066",
+      "title": "CF MOTO 800MT-ES 1790597772000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/800mt-es/2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T12:15:59+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/439423/390x260/image_11_800mt-es.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.89,
+        "new-models": 0.84
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.52,
+        "review": 0.72,
+        "comparison-test": 0.15,
+        "first-look": 0.58,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.4,
+        "how-to": 0.11,
+        "explainer": 0.26,
+        "opinion": 0.18,
+        "profile-interview": 0.12,
+        "tribute": 0.03,
+        "listing": 0.37,
+        "event-report": 0.07,
+        "event-preview": 0.05,
+        "press-release": 0.59,
+        "digest": 0.11,
+        "photo-gallery": 0.22,
+        "ride-report": 0.14,
+        "history": 0.04,
+        "rumor": 0.48,
+        "safety-notice": 0.11,
+        "episode": 0.05,
+        "build-feature": 0.06,
+        "q-and-a": 0.1
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "adventure",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
       "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
       "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
       "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
@@ -1793,91 +1866,6 @@
       "also": []
     },
     {
-      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
-      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
-      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T16:50:06+00:00",
-      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
-      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.92,
-        "events-rides": 0.84,
-        "adventure": 0.77,
-        "racing": 0.67
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ride-report",
-          "label": "Ride Report"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.08,
-        "comparison-test": 0.07,
-        "first-look": 0.09,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.09,
-        "explainer": 0.21,
-        "opinion": 0.46,
-        "profile-interview": 0.16,
-        "tribute": 0.21,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.07,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.96,
-        "history": 0.19,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.14,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "dirt-mx",
-        "events-rides",
-        "adventure",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
       "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
       "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
@@ -2011,6 +1999,91 @@
         "dirt-mx",
         "custom",
         "adventure"
+      ],
+      "also": []
+    },
+    {
+      "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
+      "title": "Everyone needs a little Hero: Learning the hard way at the Malle Mile",
+      "link": "https://www.motorcyclenews.com/advice/inspiration/weekend-reads/racing-the-malle-mile-2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:50:06+00:00",
+      "excerpt": "I was somewhere on the Grimsthorpe Castle estate, about two miles into the Malle Super Scramble, when a shadow loomed out of the blinding white dust. Suddenly, this shadow morphed into the rider...",
+      "image": "https://www.motorcyclenews.com/wp-images/439487/390x260/mallemile2026leadimage.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.92,
+        "events-rides": 0.84,
+        "adventure": 0.77,
+        "racing": 0.67
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ride-report",
+          "label": "Ride Report"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.08,
+        "comparison-test": 0.07,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.09,
+        "explainer": 0.21,
+        "opinion": 0.46,
+        "profile-interview": 0.16,
+        "tribute": 0.21,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.07,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.96,
+        "history": 0.19,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.14,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "dirt-mx",
+        "events-rides",
+        "adventure",
+        "racing"
       ],
       "also": []
     },
