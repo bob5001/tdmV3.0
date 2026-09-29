@@ -3,77 +3,6 @@
   "label": "Rumor & Spy Shots",
   "items": [
     {
-      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
-      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
-      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T14:49:42+00:00",
-      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.75,
-        "motogp": 0.75
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.42,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.1,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.84,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "174021fec651999c58af4f03e1a19d3a61ce31cb",
       "title": "GS Gets Naked: BMW Teases F 450 R Naked Bike",
       "link": "https://www.advrider.com/gs-gets-naked-bmw-teases-f-450-r-naked-bike",
@@ -154,6 +83,69 @@
           "published": "2026-09-25T08:57:18+00:00"
         }
       ]
+    },
+    {
+      "id": "fb9ed66e3bc780455f8b58b59121d137caece475",
+      "title": "Honda\u2019s new V3 platform could soon power a CBR600RR supersport replacement",
+      "link": "https://www.visordown.com/news/hondas-new-v3-platform-could-soon-power-cbr600rr-supersport-replacement",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-29T12:39:05+00:00",
+      "excerpt": "Honda\u2019s new V3 engine platform could be set to power a new CBR600RR replacement, with more details potentially arriving at EICMA 2026, this November.",
+      "image": "https://www.visordown.com/sites/default/files/2025-11/v3-r-01.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.11,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.23,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.87,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "sport-bikes"
+      ],
+      "also": []
     },
     {
       "id": "22e5b47e7c5b9e07c2223f44dfa8d84fb3f26f71",
@@ -296,6 +288,77 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
+      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
+      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T14:49:42+00:00",
+      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.75,
+        "motogp": 0.75
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.84,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },

@@ -232,29 +232,34 @@
       "also": []
     },
     {
-      "id": "2f9e273a004db5cf1fd306a5941a5aa0a82a0e5f",
-      "title": "What Does MotoGP Racer Ai Ogura Get Up To In Training? Take A Look",
-      "link": "https://www.rideapart.com/news/809900/ai-ogura-motocross-training-motogp-summer-break-video",
+      "id": "693ea180d1cfdd47769c149b8be5537d89ef53d3",
+      "title": "Red Bull Might Actually Be Leaving KTM For Honda In MotoGP",
+      "link": "https://www.rideapart.com/news/809891/red-bull-may-be-leaving-ktm-motogp-next-year-for-homda",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T11:35:00+00:00",
-      "excerpt": "He may not be a pilot, but you could be forgiven for thinking otherwise with all the time he spends in the air.",
-      "image": "https://cdn.motor1.com/images/mgl/9mWQL1/s3/ms2ocfqhtwk.jpg",
+      "published": "2026-09-29T12:49:00+00:00",
+      "excerpt": "After rumors of Red Bull leaving KTM's MotoGP outfit ended with a re-up for 2027, those rumors are once again going strong. And with the culprit for said gossip being Tech3's Guenther Steiner.",
+      "image": "https://cdn.motor1.com/images/mgl/G3nbBA/s3/pedro-acosta.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
       "primary": "racing",
-      "confident": false,
+      "confident": true,
       "cat_scores": {
-        "racing": 0.84,
-        "motogp": 0.88
+        "racing": 0.95,
+        "industry": 0.93,
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -263,57 +268,53 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.12,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.05,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.03,
-        "how-to": 0.08,
-        "explainer": 0.31,
-        "opinion": 0.13,
-        "profile-interview": 0.9,
-        "tribute": 0.03,
+        "news": 0.18,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.26,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.07,
-        "press-release": 0.07,
-        "digest": 0.08,
-        "photo-gallery": 0.53,
-        "ride-report": 0.06,
-        "history": 0.07,
-        "rumor": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.41,
         "safety-notice": 0.02,
-        "episode": 0.33,
-        "build-feature": 0.03,
-        "q-and-a": 0.09
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
+        "industry",
         "motogp"
       ],
       "also": []
     },
     {
-      "id": "6af55b041a3fe6ef8e7f9a89d7fdf634adcf4a53",
-      "title": "Maverick Vinales set to make MotoGP return in Japan",
-      "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
+      "id": "c0a08b15c1fd24bb734c757e44a2737f3f91e725",
+      "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
+      "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
       "lang": "en",
-      "source": "Visordown",
+      "source": "Autosport (MotoGP)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T08:08:01+00:00",
-      "excerpt": "MotoGP race winner Maverick Vinales is set to make his return at the Japanese Grand Prix this weekend, after finally overcoming a shoulder injury.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1332524_hires.jpg?width=1200",
+      "published": "2026-09-28T16:16:13+00:00",
+      "excerpt": "Maverick Vinales will return to action at this weekend\u2019s Japanese Grand Prix after a three-month hiatus due to injury, Tech3 KTM has announced. The Spaniard has received clearance from doctors to fly to Japan and make his competitive return in time for the 16th round of the 2026 ",
+      "image": "https://cdn-6.motorsport.com/images/amp/YE9wRoGY/s6/maverick-vinales-red-bull-ktm--2.jpg",
       "audio": null,
       "categories": [
         {
@@ -324,7 +325,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
+        "racing": 1.0,
         "motogp": 0.98
       },
       "subcategories": [
@@ -342,26 +343,30 @@
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.93,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.04,
+        "explainer": 0.05,
         "opinion": 0.04,
-        "profile-interview": 0.1,
+        "profile-interview": 0.12,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
+        "event-report": 0.05,
         "event-preview": 0.97,
-        "press-release": 0.15,
+        "press-release": 0.78,
         "digest": 0.05,
-        "photo-gallery": 0.05,
+        "photo-gallery": 0.04,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.02,
@@ -383,94 +388,10 @@
           "published": "2026-09-28T15:41:58+00:00"
         },
         {
-          "source": "Autosport (MotoGP)",
-          "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
-          "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
-          "published": "2026-09-28T16:16:13+00:00"
-        }
-      ]
-    },
-    {
-      "id": "1b139f3661a63c327c027e24a0184d6c4a727a73",
-      "title": "Quartararo forced to leave Monster as Red Bull returns to Honda",
-      "link": "https://www.autosport.com/motogp/news/fabio-quartararo-forced-to-leave-monster-as-red-bull-returns-to-honda/10859730",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T09:03:53+00:00",
-      "excerpt": "Honda and Red Bull have agreed for the energy drinks brand to return as sponsor of its official MotoGP team from next year, a move that will force Fabio Quartararo to end his long-standing association with Monster. The market ahead of next season has not only been shaken up in te",
-      "image": "https://cdn-4.motorsport.com/images/amp/6Al7wNDY/s6/fabio-quartararo-yamaha-factor.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "industry": 0.94,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.08,
-        "opinion": 0.08,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.11,
-        "press-release": 0.43,
-        "digest": 0.08,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.07,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "racing",
-        "industry",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "Fabio Quartararo forced into major sponsor change for Honda move",
-          "link": "https://www.crash.net/motogp/news/1105864/1/fabio-quartararo-forced-major-sponsor-change-honda-move",
-          "published": "2026-09-28T09:34:47+00:00"
+          "source": "Visordown",
+          "title": "Maverick Vinales set to make MotoGP return in Japan",
+          "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
+          "published": "2026-09-29T08:08:01+00:00"
         }
       ]
     },
@@ -814,17 +735,17 @@
       "also": []
     },
     {
-      "id": "a069aa442295f5f661bc44321965382df6e72cd5",
-      "title": "MotoGP Drops the Worst Track From Its 2027 Season Calendar",
-      "link": "https://www.rideapart.com/news/809605/motogp-drops-the-worst-track-from-its-2027-season-calendar",
+      "id": "2f9e273a004db5cf1fd306a5941a5aa0a82a0e5f",
+      "title": "What Does MotoGP Racer Ai Ogura Get Up To In Training? Take A Look",
+      "link": "https://www.rideapart.com/news/809900/ai-ogura-motocross-training-motogp-summer-break-video",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T12:29:00+00:00",
-      "excerpt": "Ahead of finalizing the 2027 calendar, MotoGP has revealed that Balaton Park will not host a race next year, among some other 2027 schedule details.",
-      "image": "https://cdn.motor1.com/images/mgl/8AZ8xW/s3/dorna-is-motogp-sport-entertainment-sl.jpg",
+      "published": "2026-09-29T11:35:00+00:00",
+      "excerpt": "He may not be a pilot, but you could be forgiven for thinking otherwise with all the time he spends in the air.",
+      "image": "https://cdn.motor1.com/images/mgl/9mWQL1/s3/ms2ocfqhtwk.jpg",
       "audio": null,
       "categories": [
         {
@@ -833,9 +754,85 @@
         }
       ],
       "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.84,
+        "motogp": 0.88
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
+        "how-to": 0.08,
+        "explainer": 0.31,
+        "opinion": 0.13,
+        "profile-interview": 0.9,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.07,
+        "press-release": 0.07,
+        "digest": 0.08,
+        "photo-gallery": 0.53,
+        "ride-report": 0.06,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.33,
+        "build-feature": 0.03,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "1b139f3661a63c327c027e24a0184d6c4a727a73",
+      "title": "Quartararo forced to leave Monster as Red Bull returns to Honda",
+      "link": "https://www.autosport.com/motogp/news/fabio-quartararo-forced-to-leave-monster-as-red-bull-returns-to-honda/10859730",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T09:03:53+00:00",
+      "excerpt": "Honda and Red Bull have agreed for the energy drinks brand to return as sponsor of its official MotoGP team from next year, a move that will force Fabio Quartararo to end his long-standing association with Monster. The market ahead of next season has not only been shaken up in te",
+      "image": "https://cdn-4.motorsport.com/images/amp/6Al7wNDY/s6/fabio-quartararo-yamaha-factor.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.94,
+        "racing": 1.0,
+        "industry": 0.94,
         "motogp": 0.97
       },
       "subcategories": [
@@ -852,112 +849,45 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.88,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.05,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.13,
-        "profile-interview": 0.04,
-        "tribute": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.08,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.48,
-        "press-release": 0.59,
-        "digest": 0.13,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.09,
-        "safety-notice": 0.06,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.12,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
-      "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
-      "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T10:02:18+00:00",
-      "excerpt": "Until this weekend, KTM's last MotoGP victory had come courtesy of Miguel Oliveira, in the 2022 Thai Grand Prix - a race heavily affected by rain. That same Sunday at Buriram, Pedro Acosta finished 16th in the Moto2 race. It was his first season in the intermediate class, before ",
-      "image": "https://cdn-3.motorsport.com/images/amp/0R7B4JM2/s6/gottfried-neumeister-ceo-ktm-p-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.14,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.18,
-        "opinion": 0.91,
-        "profile-interview": 0.15,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.81,
-        "event-preview": 0.08,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.11,
+        "press-release": 0.43,
+        "digest": 0.08,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.26,
-        "rumor": 0.01,
+        "history": 0.03,
+        "rumor": 0.07,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.05
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.09,
       "tags": [
         "racing",
+        "industry",
         "motogp"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Fabio Quartararo forced into major sponsor change for Honda move",
+          "link": "https://www.crash.net/motogp/news/1105864/1/fabio-quartararo-forced-major-sponsor-change-honda-move",
+          "published": "2026-09-28T09:34:47+00:00"
+        }
+      ]
     },
     {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
@@ -1210,17 +1140,17 @@
       "also": []
     },
     {
-      "id": "7d42c2e3a10338b732503248a2b92285f6a2d9f3",
-      "title": "MotoGP's New Aussie Street Race Might Not Happen Next Year",
-      "link": "https://www.rideapart.com/news/809466/motogps-new-aussie-street-race-might-not-happen-next-year",
+      "id": "a069aa442295f5f661bc44321965382df6e72cd5",
+      "title": "MotoGP Drops the Worst Track From Its 2027 Season Calendar",
+      "link": "https://www.rideapart.com/news/809605/motogp-drops-the-worst-track-from-its-2027-season-calendar",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T12:09:00+00:00",
-      "excerpt": "An injunction has been filed to prohibit construction of the Adelaide street circuit for next year's MotoGP event, due to the need to fell up to 400 trees.",
-      "image": "https://cdn.motor1.com/images/mgl/VzWP0l/s3/adelaide-motogp-street-circuit.jpg",
+      "published": "2026-09-28T12:29:00+00:00",
+      "excerpt": "Ahead of finalizing the 2027 calendar, MotoGP has revealed that Balaton Park will not host a race next year, among some other 2027 schedule details.",
+      "image": "https://cdn.motor1.com/images/mgl/8AZ8xW/s3/dorna-is-motogp-sport-entertainment-sl.jpg",
       "audio": null,
       "categories": [
         {
@@ -1231,8 +1161,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.9,
-        "motogp": 0.95
+        "racing": 0.94,
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -1248,57 +1178,50 @@
         }
       ],
       "form_scores": {
-        "news": 0.83,
+        "news": 0.89,
         "review": 0.01,
         "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "how-to": 0.02,
         "explainer": 0.09,
-        "opinion": 0.08,
+        "opinion": 0.13,
         "profile-interview": 0.04,
-        "tribute": 0.01,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.6,
-        "press-release": 0.08,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
+        "event-report": 0.05,
+        "event-preview": 0.48,
+        "press-release": 0.59,
+        "digest": 0.13,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.05,
-        "safety-notice": 0.19,
-        "episode": 0.04,
+        "rumor": 0.09,
+        "safety-notice": 0.06,
+        "episode": 0.05,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.12,
       "tags": [
         "racing",
         "motogp"
       ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Adelaide MotoGP facing fresh concerns after legal action taken",
-          "link": "https://www.visordown.com/news/adelaide-motogp-facing-fresh-concerns-after-legal-action-taken",
-          "published": "2026-09-24T12:44:08+00:00"
-        }
-      ]
+      "also": []
     },
     {
-      "id": "398dd21778440c07688ac3d5dde4b79e4d163fec",
-      "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
-      "link": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262",
+      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
+      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
+      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
       "lang": "en",
-      "source": "Autosport (MotoGP)",
+      "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-20T07:05:02+00:00",
-      "excerpt": "There are still eight races remaining in the 2026 season, with uncertainty surrounding the Qatar round, but much of the MotoGP grid is already looking ahead to next year. That is hardly surprising, not only because several riders will change teams and take their careers in new di",
-      "image": "https://cdn-1.motorsport.com/images/amp/6DGqWpOY/s6/pirelli-2027-prototype-tyre.jpg",
+      "published": "2026-09-24T10:48:46+00:00",
+      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1309,7 +1232,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
+        "racing": 0.96,
         "motogp": 0.97
       },
       "subcategories": [
@@ -1321,37 +1244,37 @@
       ],
       "forms": [
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.19,
-        "review": 0.03,
-        "comparison-test": 0.13,
-        "first-look": 0.15,
-        "ranked-list": 0.04,
+        "news": 0.71,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
         "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.23,
-        "opinion": 0.87,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.07,
+        "profile-interview": 0.13,
+        "tribute": 0.06,
         "listing": 0.01,
-        "event-report": 0.16,
-        "event-preview": 0.37,
-        "press-release": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.95,
+        "press-release": 0.57,
         "digest": 0.08,
-        "photo-gallery": 0.04,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.08,
-        "safety-notice": 0.05,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.67,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -1475,6 +1398,81 @@
           "published": "2026-09-25T08:31:55+00:00"
         }
       ]
+    },
+    {
+      "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
+      "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
+      "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T10:02:18+00:00",
+      "excerpt": "Until this weekend, KTM's last MotoGP victory had come courtesy of Miguel Oliveira, in the 2022 Thai Grand Prix - a race heavily affected by rain. That same Sunday at Buriram, Pedro Acosta finished 16th in the Moto2 race. It was his first season in the intermediate class, before ",
+      "image": "https://cdn-3.motorsport.com/images/amp/0R7B4JM2/s6/gottfried-neumeister-ceo-ktm-p-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.18,
+        "opinion": 0.91,
+        "profile-interview": 0.15,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.81,
+        "event-preview": 0.08,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.26,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "82409b1f283e53a84b384b28ec3ec36209d7734f",
@@ -1700,6 +1698,84 @@
       "also": []
     },
     {
+      "id": "7d42c2e3a10338b732503248a2b92285f6a2d9f3",
+      "title": "MotoGP's New Aussie Street Race Might Not Happen Next Year",
+      "link": "https://www.rideapart.com/news/809466/motogps-new-aussie-street-race-might-not-happen-next-year",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T12:09:00+00:00",
+      "excerpt": "An injunction has been filed to prohibit construction of the Adelaide street circuit for next year's MotoGP event, due to the need to fell up to 400 trees.",
+      "image": "https://cdn.motor1.com/images/mgl/VzWP0l/s3/adelaide-motogp-street-circuit.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.9,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.08,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.6,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.19,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Adelaide MotoGP facing fresh concerns after legal action taken",
+          "link": "https://www.visordown.com/news/adelaide-motogp-facing-fresh-concerns-after-legal-action-taken",
+          "published": "2026-09-24T12:44:08+00:00"
+        }
+      ]
+    },
+    {
       "id": "68d39351ee514f5d87c5b40e16df334aacacf5a8",
       "title": "Guevara fights back as Quiles moves within reach of Moto3 crown",
       "link": "https://www.mcnews.com.au/2026-austria-moto2-moto3-race-results",
@@ -1775,29 +1851,34 @@
       "also": []
     },
     {
-      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
-      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
-      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T10:48:46+00:00",
-      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
       "audio": null,
       "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.97
+        "industry": 0.92,
+        "racing": 0.81,
+        "motogp": 0.84
       },
       "subcategories": [
         {
@@ -1808,55 +1889,60 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.71,
-        "review": 0.02,
+        "news": 0.87,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.06,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.04,
-        "event-preview": 0.95,
-        "press-release": 0.57,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
+        "event-preview": 0.18,
+        "press-release": 0.81,
+        "digest": 0.12,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.67,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.13,
       "tags": [
+        "industry",
         "racing",
         "motogp"
       ],
       "also": []
     },
     {
-      "id": "a1a485df1fd797627a0d9d039fb90710cf337a34",
-      "title": "MotoGP boss: The idea is to hold the Qatar GP as planned",
-      "link": "https://www.autosport.com/motogp/news/motogp-boss-the-idea-is-to-hold-the-qatar-gp-as-planned-in-november/10857248",
+      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
+      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
+      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
       "lang": "en",
-      "source": "Autosport (MotoGP)",
+      "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-19T16:14:44+00:00",
-      "excerpt": "MotoGP boss Carmelo Ezpeleta says the \u201cidea is to go\u201d to Qatar for the Grand Prix scheduled for 8 November, despite the ongoing conflict in the Middle East. The conflict in the region has put several motorsport events in the Middle East at risk this year, with the Formula 1 race ",
-      "image": "https://cdn-3.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "published": "2026-09-24T09:29:04+00:00",
+      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1867,8 +1953,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
+        "racing": 0.97,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -1881,39 +1967,35 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.68,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
         "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.09,
-        "profile-interview": 0.45,
-        "tribute": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
         "listing": 0.01,
         "event-report": 0.05,
-        "event-preview": 0.91,
-        "press-release": 0.28,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
+        "event-preview": 0.79,
+        "press-release": 0.32,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
+        "history": 0.02,
+        "rumor": 0.28,
         "safety-notice": 0.04,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "motogp"
@@ -1997,6 +2079,77 @@
       "tags": [
         "racing",
         "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "398dd21778440c07688ac3d5dde4b79e4d163fec",
+      "title": "The Pirelli test row shows why MotoGP riders need a stronger voice",
+      "link": "https://www.autosport.com/motogp/news/the-pirelli-test-row-shows-why-motogp-riders-need-a-stronger-voice/10857262",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-20T07:05:02+00:00",
+      "excerpt": "There are still eight races remaining in the 2026 season, with uncertainty surrounding the Qatar round, but much of the MotoGP grid is already looking ahead to next year. That is hardly surprising, not only because several riders will change teams and take their careers in new di",
+      "image": "https://cdn-1.motorsport.com/images/amp/6DGqWpOY/s6/pirelli-2027-prototype-tyre.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.19,
+        "review": 0.03,
+        "comparison-test": 0.13,
+        "first-look": 0.15,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.23,
+        "opinion": 0.87,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.16,
+        "event-preview": 0.37,
+        "press-release": 0.07,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.08,
+        "safety-notice": 0.05,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "racing",
         "motogp"
       ],
       "also": []
@@ -2249,98 +2402,17 @@
       "also": []
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
+      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
+      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.92,
-        "racing": 0.81,
-        "motogp": 0.84
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.18,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.13,
-      "tags": [
-        "industry",
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
-      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
-      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T09:29:04+00:00",
-      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
+      "published": "2026-09-25T14:49:42+00:00",
+      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -2349,10 +2421,10 @@
         }
       ],
       "primary": "racing",
-      "confident": true,
+      "confident": false,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "racing": 0.75,
+        "motogp": 0.75
       },
       "subcategories": [
         {
@@ -2363,126 +2435,110 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
         }
       ],
       "form_scores": {
-        "news": 0.68,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.79,
-        "press-release": 0.32,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.28,
-        "safety-notice": 0.04,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "63903bb3d5c4816d2cec6d61adf70b15027af80d",
-      "title": "Acosta owns costly Spielberg sprint crash",
-      "link": "https://www.autosport.com/motogp/news/pedro-acosta-owns-spielberg-sprint-crash-i-fed-it-up/10857188",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-19T14:54:38+00:00",
-      "excerpt": "Pedro Acosta has taken full responsibility for the crash that robbed him of certain victory in the Austrian MotoGP sprint race on Saturday. The KTM rider had a comfortable lead when he flew into the Turn 2/2A chicane impossibly fast with three laps remaining in the race, leading ",
-      "image": "https://cdn-4.motorsport.com/images/amp/2y7QmoK6/s6/pedro-acosta-red-bull-ktm-fact.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "law-safety": 0.8,
-        "sport-bikes": 0.55,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
+        "news": 0.42,
+        "review": 0.05,
         "comparison-test": 0.02,
-        "first-look": 0.01,
+        "first-look": 0.12,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.11,
-        "profile-interview": 0.11,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.03,
-        "press-release": 0.05,
-        "digest": 0.07,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.84,
         "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "law-safety",
-        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "5ed03544621d4e2a2545c7e32902708c209fcc4e",
+      "title": "Pirelli MotoGP test reveals clearer look at Ducati\u2019s new 850cc prototype",
+      "link": "https://www.visordown.com/news/pirelli-motogp-test-reveals-clearer-look-ducatis-new-850cc-prototype",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T08:06:00+00:00",
+      "excerpt": "Pirelli has completed its final in-season MotoGP test, which saw a range of 850cc prototypes on-track, including Ducati\u2019s trimmed-down Desmosedici.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1347311_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.87,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.1,
+        "comparison-test": 0.47,
+        "first-look": 0.72,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.16,
+        "opinion": 0.07,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.6,
+        "event-preview": 0.08,
+        "press-release": 0.23,
+        "digest": 0.07,
+        "photo-gallery": 0.12,
+        "ride-report": 0.02,
+        "history": 0.14,
+        "rumor": 0.4,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
         "motogp"
       ],
       "also": []
@@ -2558,6 +2614,81 @@
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.01
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "a1a485df1fd797627a0d9d039fb90710cf337a34",
+      "title": "MotoGP boss: The idea is to hold the Qatar GP as planned",
+      "link": "https://www.autosport.com/motogp/news/motogp-boss-the-idea-is-to-hold-the-qatar-gp-as-planned-in-november/10857248",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-19T16:14:44+00:00",
+      "excerpt": "MotoGP boss Carmelo Ezpeleta says the \u201cidea is to go\u201d to Qatar for the Grand Prix scheduled for 8 November, despite the ongoing conflict in the Middle East. The conflict in the region has put several motorsport events in the Middle East at risk this year, with the Formula 1 race ",
+      "image": "https://cdn-3.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.09,
+        "profile-interview": 0.45,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.91,
+        "press-release": 0.28,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.06,
       "tags": [
@@ -2796,223 +2927,6 @@
       "also": []
     },
     {
-      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
-      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
-      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T14:49:42+00:00",
-      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.75,
-        "motogp": 0.75
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.42,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.1,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.84,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "5ed03544621d4e2a2545c7e32902708c209fcc4e",
-      "title": "Pirelli MotoGP test reveals clearer look at Ducati\u2019s new 850cc prototype",
-      "link": "https://www.visordown.com/news/pirelli-motogp-test-reveals-clearer-look-ducatis-new-850cc-prototype",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T08:06:00+00:00",
-      "excerpt": "Pirelli has completed its final in-season MotoGP test, which saw a range of 850cc prototypes on-track, including Ducati\u2019s trimmed-down Desmosedici.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1347311_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.87,
-        "motogp": 0.87
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.1,
-        "comparison-test": 0.47,
-        "first-look": 0.72,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.16,
-        "opinion": 0.07,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.6,
-        "event-preview": 0.08,
-        "press-release": 0.23,
-        "digest": 0.07,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.14,
-        "rumor": 0.4,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "61649f2287185fc06a946573f135a1c3dfdd4718",
-      "title": "MotoGP Austrian GP: Martin claims sprint win after Acosta crashes out",
-      "link": "https://www.autosport.com/motogp/news/motogp-austrian-gp-jorge-martin-claims-sprint-win-after-pedro-acosta-crashes-out/10857161",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-19T13:38:49+00:00",
-      "excerpt": "Jorge Martin claimed an unlikely victory in the Austrian Grand Prix sprint after Pedro Acosta crashed out of the lead with three laps to run. Acosta appeared on course to win in front of KTM\u2019s home crowd on Saturday, having capitalised on an early battle between Martin and Marc M",
-      "image": "https://cdn-5.motorsport.com/images/amp/2jEAM5N0/s6/jorge-martin-aprilia-racing-te.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.04,
-        "press-release": 0.04,
-        "digest": 0.04,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
       "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
       "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
@@ -3087,6 +3001,93 @@
       "multi_subject": 0.1,
       "tags": [
         "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "63903bb3d5c4816d2cec6d61adf70b15027af80d",
+      "title": "Acosta owns costly Spielberg sprint crash",
+      "link": "https://www.autosport.com/motogp/news/pedro-acosta-owns-spielberg-sprint-crash-i-fed-it-up/10857188",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-19T14:54:38+00:00",
+      "excerpt": "Pedro Acosta has taken full responsibility for the crash that robbed him of certain victory in the Austrian MotoGP sprint race on Saturday. The KTM rider had a comfortable lead when he flew into the Turn 2/2A chicane impossibly fast with three laps remaining in the race, leading ",
+      "image": "https://cdn-4.motorsport.com/images/amp/2y7QmoK6/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "law-safety": 0.8,
+        "sport-bikes": 0.55,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.11,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.03,
+        "press-release": 0.05,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "law-safety",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -3346,6 +3347,81 @@
           "published": "2026-09-21T12:32:16+00:00"
         }
       ]
+    },
+    {
+      "id": "61649f2287185fc06a946573f135a1c3dfdd4718",
+      "title": "MotoGP Austrian GP: Martin claims sprint win after Acosta crashes out",
+      "link": "https://www.autosport.com/motogp/news/motogp-austrian-gp-jorge-martin-claims-sprint-win-after-pedro-acosta-crashes-out/10857161",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-19T13:38:49+00:00",
+      "excerpt": "Jorge Martin claimed an unlikely victory in the Austrian Grand Prix sprint after Pedro Acosta crashed out of the lead with three laps to run. Acosta appeared on course to win in front of KTM\u2019s home crowd on Saturday, having capitalised on an early battle between Martin and Marc M",
+      "image": "https://cdn-5.motorsport.com/images/amp/2jEAM5N0/s6/jorge-martin-aprilia-racing-te.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.04,
+        "press-release": 0.04,
+        "digest": 0.04,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "5b38bdb6cb699e31e567313ac5d7c250b8f88f3a",
