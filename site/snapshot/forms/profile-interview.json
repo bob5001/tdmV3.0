@@ -64,76 +64,6 @@
       "also": []
     },
     {
-      "id": "865138339c970852df8e3207761ba76c397eab81",
-      "title": "This Paralyzed Motorcyclist Just Went 200mph On a Turbo Hayabusa",
-      "link": "https://www.rideapart.com/news/809658/talan-skeels-piggins-set-a-paralyzed-motorcycle-rider-speed-record-with-a-turbo-hayabusa",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T12:49:00+00:00",
-      "excerpt": "Just because life hands you a bad deal, doesn't mean you have to give up your dreams. Or your want to go fast.",
-      "image": "https://cdn.motor1.com/images/mgl/vx7ZGQ/s3/os8r6gscgno.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.95
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.31,
-        "review": 0.12,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.06,
-        "explainer": 0.14,
-        "opinion": 0.25,
-        "profile-interview": 0.79,
-        "tribute": 0.08,
-        "listing": 0.02,
-        "event-report": 0.23,
-        "event-preview": 0.04,
-        "press-release": 0.06,
-        "digest": 0.06,
-        "photo-gallery": 0.19,
-        "ride-report": 0.11,
-        "history": 0.09,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.13,
-        "build-feature": 0.34,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "sport-bikes"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "British rider becomes the first paralysed motorcyclist to top 200mph using turbo Suzuki Hayabusa",
-          "link": "https://www.motorcyclenews.com/news/2026/september/paralysed-racer-talan-skeels-piggins-hits-200mph-hayabusa",
-          "published": "2026-09-25T12:22:47+00:00"
-        }
-      ]
-    },
-    {
       "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
       "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
       "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
@@ -617,6 +547,77 @@
       "also": []
     },
     {
+      "id": "2f9e273a004db5cf1fd306a5941a5aa0a82a0e5f",
+      "title": "What Does MotoGP Racer Ai Ogura Get Up To In Training? Take A Look",
+      "link": "https://www.rideapart.com/news/809900/ai-ogura-motocross-training-motogp-summer-break-video",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-29T11:35:00+00:00",
+      "excerpt": "He may not be a pilot, but you could be forgiven for thinking otherwise with all the time he spends in the air.",
+      "image": "https://cdn.motor1.com/images/mgl/9mWQL1/s3/ms2ocfqhtwk.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.84,
+        "motogp": 0.88
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.12,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
+        "how-to": 0.08,
+        "explainer": 0.31,
+        "opinion": 0.13,
+        "profile-interview": 0.9,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.07,
+        "press-release": 0.07,
+        "digest": 0.08,
+        "photo-gallery": 0.53,
+        "ride-report": 0.06,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.33,
+        "build-feature": 0.03,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "ce6a533f6eda691120ddc7d0db203b76158194a5",
       "title": "Kitchen: \u201cThey lined up next to me and I was just like, \u2018You boys ain\u2019t getting me this time\u2019\u201d",
       "link": "https://racerxonline.com/2026/09/28/kitchen-they-lined-up-next-to-me-and-i-was-just-like-you-boys-aint-getting-me-this-time",
@@ -861,6 +862,76 @@
         "worldsbk-superbike"
       ],
       "also": []
+    },
+    {
+      "id": "865138339c970852df8e3207761ba76c397eab81",
+      "title": "This Paralyzed Motorcyclist Just Went 200mph On a Turbo Hayabusa",
+      "link": "https://www.rideapart.com/news/809658/talan-skeels-piggins-set-a-paralyzed-motorcycle-rider-speed-record-with-a-turbo-hayabusa",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T12:49:00+00:00",
+      "excerpt": "Just because life hands you a bad deal, doesn't mean you have to give up your dreams. Or your want to go fast.",
+      "image": "https://cdn.motor1.com/images/mgl/vx7ZGQ/s3/os8r6gscgno.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.95
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.31,
+        "review": 0.12,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.06,
+        "explainer": 0.14,
+        "opinion": 0.25,
+        "profile-interview": 0.79,
+        "tribute": 0.08,
+        "listing": 0.02,
+        "event-report": 0.23,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.19,
+        "ride-report": 0.11,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.13,
+        "build-feature": 0.34,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "sport-bikes"
+      ],
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "British rider becomes the first paralysed motorcyclist to top 200mph using turbo Suzuki Hayabusa",
+          "link": "https://www.motorcyclenews.com/news/2026/september/paralysed-racer-talan-skeels-piggins-hits-200mph-hayabusa",
+          "published": "2026-09-25T12:22:47+00:00"
+        }
+      ]
     },
     {
       "id": "9312b06ba3e62a0d7746e4894fbd132181e6e83a",

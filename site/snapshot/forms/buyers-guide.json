@@ -68,130 +68,75 @@
       "also": []
     },
     {
-      "id": "0af1c2ae00153205672b8b1b1530e29313dfa17c",
-      "title": "Buying a Motorcycle at Auction: Shipping Numbers and VIN Checks That Actually Matter",
-      "link": "https://youmotorcycle.com/buying-a-motorcycle-at-auction-shippingnumbers-and-vin-checks-that-actuallymatter",
+      "id": "1be7b1fd4e8217e7762a94e9997eb4b20980c9c8",
+      "title": "Two-strokes are rare on the road, making them a sight and smell to behold; here's five you could bag",
+      "link": "https://www.motorcyclenews.com/advice/used-bikes/two-stroke-motorbikes",
       "lang": "en",
-      "source": "You Motorcycle",
-      "ownership": "independent",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Guest Blog Post",
-      "published": "2026-09-18T18:42:47+00:00",
-      "excerpt": "Motorcycle lots move through Copart and IAAI the same way cars do, but buyers often skip the two checks that save the most money \u2014 realistic shipping estimates and a proper history report before the bid closes. Both take just a few minutes, yet most bikes get bought on gut feelin",
-      "image": null,
+      "author": null,
+      "published": "2026-09-29T12:51:13+00:00",
+      "excerpt": "Remember when a stroker meant cheap performance? 18 years back I bought a Yamaha RD250DX (Microns, clip-ons, Marzocchi shocks\u2026) and a Suzuki GT250 for \u00a3500. A few years later my RGV250 cost the same.",
+      "image": "https://www.motorcyclenews.com/wp-images/308573/390x260/1991_suzuki_rgv250_main_image_expert_guide.jpg",
       "audio": null,
       "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
         {
           "slug": "for-sale",
           "label": "For Sale"
         }
       ],
-      "primary": "for-sale",
+      "primary": "classic",
       "confident": false,
       "cat_scores": {
-        "for-sale": 0.67
+        "classic": 0.76,
+        "for-sale": 0.57
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "buyers-guide",
-          "label": "Buyer's Guide"
+          "slug": "ranked-list",
+          "label": "Ten Best"
         },
         {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.04,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.95,
-        "how-to": 0.43,
-        "explainer": 0.78,
-        "opinion": 0.6,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.04,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.04,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.14
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "for-sale"
-      ],
-      "also": []
-    },
-    {
-      "id": "d44e9d2fbb801fc21f4ae7f107b0b4048f42bf63",
-      "title": "Buying a Bike Hauler Without Spending Bike Money on It",
-      "link": "https://www.webbikeworld.com/buying-a-bike-hauler-without-spending-bike-money-on-it",
-      "lang": "en",
-      "source": "webBikeWorld",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Eduardo Zepeda",
-      "published": "2026-09-14T15:45:20+00:00",
-      "excerpt": "Nobody gets into motorcycles hoping to buy a pickup truck. You bought the bike because it was the cheap and interesting way to get around, and then at some point you need something that can carry the bike rather than be the bike. That purchase usually lands at a bad moment, right",
-      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/dji_fly_20260413_182522_209_1776129927736_photo-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
-        }
-      ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
-        {
           "slug": "buyers-guide",
           "label": "Buyer's Guide"
         }
       ],
       "form_scores": {
-        "news": 0.02,
-        "review": 0.06,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.78,
-        "how-to": 0.2,
-        "explainer": 0.73,
-        "opinion": 0.6,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
+        "news": 0.05,
+        "review": 0.04,
+        "comparison-test": 0.24,
+        "first-look": 0.04,
+        "ranked-list": 0.86,
+        "buyers-guide": 0.77,
+        "how-to": 0.06,
+        "explainer": 0.17,
+        "opinion": 0.59,
+        "profile-interview": 0.06,
+        "tribute": 0.22,
+        "listing": 0.11,
+        "event-report": 0.03,
+        "event-preview": 0.01,
         "press-release": 0.03,
-        "digest": 0.08,
-        "photo-gallery": 0.04,
-        "ride-report": 0.04,
-        "history": 0.02,
-        "rumor": 0.01,
+        "digest": 0.11,
+        "photo-gallery": 0.1,
+        "ride-report": 0.11,
+        "history": 0.23,
+        "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.15
+        "build-feature": 0.03,
+        "q-and-a": 0.12
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.18,
       "tags": [
-        "odd-ball"
+        "classic",
+        "for-sale"
       ],
       "also": []
     },
@@ -334,6 +279,73 @@
       "also": []
     },
     {
+      "id": "0af1c2ae00153205672b8b1b1530e29313dfa17c",
+      "title": "Buying a Motorcycle at Auction: Shipping Numbers and VIN Checks That Actually Matter",
+      "link": "https://youmotorcycle.com/buying-a-motorcycle-at-auction-shippingnumbers-and-vin-checks-that-actuallymatter",
+      "lang": "en",
+      "source": "You Motorcycle",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Guest Blog Post",
+      "published": "2026-09-18T18:42:47+00:00",
+      "excerpt": "Motorcycle lots move through Copart and IAAI the same way cars do, but buyers often skip the two checks that save the most money \u2014 realistic shipping estimates and a proper history report before the bid closes. Both take just a few minutes, yet most bikes get bought on gut feelin",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": false,
+      "cat_scores": {
+        "for-sale": 0.67
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.95,
+        "how-to": 0.43,
+        "explainer": 0.78,
+        "opinion": 0.6,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.04,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.14
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "for-sale"
+      ],
+      "also": []
+    },
+    {
       "id": "2c236cce38b246c1c59752fab5a35fc53467f7cd",
       "title": "Here's proof you can still get a quality ride for \u00a32000 with these five great used bike bargains",
       "link": "https://www.motorcyclenews.com/advice/used-bikes/expert-guide-bikes-for-2g",
@@ -462,6 +474,67 @@
       "multi_subject": 0.04,
       "tags": [
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "d44e9d2fbb801fc21f4ae7f107b0b4048f42bf63",
+      "title": "Buying a Bike Hauler Without Spending Bike Money on It",
+      "link": "https://www.webbikeworld.com/buying-a-bike-hauler-without-spending-bike-money-on-it",
+      "lang": "en",
+      "source": "webBikeWorld",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Eduardo Zepeda",
+      "published": "2026-09-14T15:45:20+00:00",
+      "excerpt": "Nobody gets into motorcycles hoping to buy a pickup truck. You bought the bike because it was the cheap and interesting way to get around, and then at some point you need something that can carry the bike rather than be the bike. That purchase usually lands at a bad moment, right",
+      "image": "https://www.webbikeworld.com/wp-content/uploads/2026/09/dji_fly_20260413_182522_209_1776129927736_photo-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.06,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.78,
+        "how-to": 0.2,
+        "explainer": 0.73,
+        "opinion": 0.6,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.03,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.04,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.15
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "odd-ball"
       ],
       "also": []
     },

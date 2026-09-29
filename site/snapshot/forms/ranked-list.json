@@ -147,35 +147,36 @@
       "also": []
     },
     {
-      "id": "2760ba5f4016bcb67b0f408295b90dcf8f663986",
-      "title": "We tested three of the latest top-spec sub-litre sporty naked motorbikes to find out which is best",
-      "link": "https://www.motorcyclenews.com/advice/group-tests/super-middleweight-ktm-yamaha-triumph",
+      "id": "1be7b1fd4e8217e7762a94e9997eb4b20980c9c8",
+      "title": "Two-strokes are rare on the road, making them a sight and smell to behold; here's five you could bag",
+      "link": "https://www.motorcyclenews.com/advice/used-bikes/two-stroke-motorbikes",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-21T12:28:32+00:00",
-      "excerpt": "Imagine being given a big chocolate cake but getting told you can only eat it using a dolls\u2019 house fork. The frustration would soon build. Now imagine that instead you are presented with a plateful of...",
-      "image": "https://www.motorcyclenews.com/wp-images/427891/390x260/yamaha_mt_09_sp_vs_ktm_990_duke_r_vs_triumph_street_triple_765_rx.jpg",
+      "published": "2026-09-29T12:51:13+00:00",
+      "excerpt": "Remember when a stroker meant cheap performance? 18 years back I bought a Yamaha RD250DX (Microns, clip-ons, Marzocchi shocks\u2026) and a Suzuki GT250 for \u00a3500. A few years later my RGV250 cost the same.",
+      "image": "https://www.motorcyclenews.com/wp-images/308573/390x260/1991_suzuki_rgv250_main_image_expert_guide.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
         }
       ],
-      "primary": "new-models",
-      "confident": true,
+      "primary": "classic",
+      "confident": false,
       "cat_scores": {
-        "new-models": 0.89
+        "classic": 0.76,
+        "for-sale": 0.57
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "comparison-test",
-          "label": "Comparison Test"
-        },
         {
           "slug": "ranked-list",
           "label": "Ten Best"
@@ -186,34 +187,98 @@
         }
       ],
       "form_scores": {
-        "news": 0.09,
-        "review": 0.05,
-        "comparison-test": 0.98,
-        "first-look": 0.31,
-        "ranked-list": 0.84,
-        "buyers-guide": 0.78,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.37,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.1,
-        "history": 0.03,
-        "rumor": 0.03,
+        "news": 0.05,
+        "review": 0.04,
+        "comparison-test": 0.24,
+        "first-look": 0.04,
+        "ranked-list": 0.86,
+        "buyers-guide": 0.77,
+        "how-to": 0.06,
+        "explainer": 0.17,
+        "opinion": 0.59,
+        "profile-interview": 0.06,
+        "tribute": 0.22,
+        "listing": 0.11,
+        "event-report": 0.03,
+        "event-preview": 0.01,
+        "press-release": 0.03,
+        "digest": 0.11,
+        "photo-gallery": 0.1,
+        "ride-report": 0.11,
+        "history": 0.23,
+        "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "build-feature": 0.03,
+        "q-and-a": 0.12
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.18,
       "tags": [
-        "new-models"
+        "classic",
+        "for-sale"
+      ],
+      "also": []
+    },
+    {
+      "id": "886d67d873b233368de29e386c171aed893078c8",
+      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
+      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Tom Gosselin",
+      "published": "2026-09-28T18:00:00+00:00",
+      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
+      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.92
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.03,
+        "comparison-test": 0.46,
+        "first-look": 0.07,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.15,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.57,
+        "profile-interview": 0.09,
+        "tribute": 0.05,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.02,
+        "press-release": 0.09,
+        "digest": 0.15,
+        "photo-gallery": 0.28,
+        "ride-report": 0.04,
+        "history": 0.2,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.42,
+      "tags": [
+        "custom"
       ],
       "also": []
     },
@@ -305,69 +370,6 @@
       "also": []
     },
     {
-      "id": "886d67d873b233368de29e386c171aed893078c8",
-      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
-      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-28T18:00:00+00:00",
-      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
-      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.92
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.03,
-        "comparison-test": 0.46,
-        "first-look": 0.07,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.15,
-        "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.57,
-        "profile-interview": 0.09,
-        "tribute": 0.05,
-        "listing": 0.03,
-        "event-report": 0.08,
-        "event-preview": 0.02,
-        "press-release": 0.09,
-        "digest": 0.15,
-        "photo-gallery": 0.28,
-        "ride-report": 0.04,
-        "history": 0.2,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.42,
-      "tags": [
-        "custom"
-      ],
-      "also": []
-    },
-    {
       "id": "ad28cb0996424235fe7ac71ec73d89d05f3c0599",
       "title": "10 Things to Watch at SMX World Championship Final",
       "link": "https://racerxonline.com/2026/09/25/10-things-to-watch-in-missouri",
@@ -449,65 +451,73 @@
       "also": []
     },
     {
-      "id": "43cf13db4906010c130f4c743050b5e62a472c23",
-      "title": "12 Best Motorcycle Upgrades for 2026: Essential Gear for Safety, Comfort and Reliability",
-      "link": "https://www.returnofthecaferacers.com/motorcycle-accessories/12-best-motorcycle-upgrades-for-2026-essential-gear-for-safety-comfort-and-reliability",
+      "id": "2760ba5f4016bcb67b0f408295b90dcf8f663986",
+      "title": "We tested three of the latest top-spec sub-litre sporty naked motorbikes to find out which is best",
+      "link": "https://www.motorcyclenews.com/advice/group-tests/super-middleweight-ktm-yamaha-triumph",
       "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-23T10:47:42+00:00",
-      "excerpt": "Motorcycle accessories are a massive market, but not every product deserves space on a bike. The most useful upgrades are the ones that solve genuine problems: protecting the rider, improving visibility, reducing distraction, preventing mechanical failures, or making long-distanc",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/DSC1645-scaled-80782.webp",
+      "author": null,
+      "published": "2026-09-21T12:28:32+00:00",
+      "excerpt": "Imagine being given a big chocolate cake but getting told you can only eat it using a dolls\u2019 house fork. The frustration would soon build. Now imagine that instead you are presented with a plateful of...",
+      "image": "https://www.motorcyclenews.com/wp-images/427891/390x260/yamaha_mt_09_sp_vs_ktm_990_duke_r_vs_triumph_street_triple_765_rx.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "gear",
+      "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "gear": 0.95
+        "new-models": 0.89
       },
       "subcategories": [],
       "forms": [
         {
+          "slug": "comparison-test",
+          "label": "Comparison Test"
+        },
+        {
           "slug": "ranked-list",
           "label": "Ten Best"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
         }
       ],
       "form_scores": {
-        "news": 0.05,
-        "review": 0.03,
-        "comparison-test": 0.28,
-        "first-look": 0.04,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.68,
-        "how-to": 0.1,
-        "explainer": 0.33,
-        "opinion": 0.46,
-        "profile-interview": 0.04,
+        "news": 0.09,
+        "review": 0.05,
+        "comparison-test": 0.98,
+        "first-look": 0.31,
+        "ranked-list": 0.84,
+        "buyers-guide": 0.78,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.37,
+        "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.1,
-        "digest": 0.11,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.1,
+        "history": 0.03,
+        "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.06
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.6,
+      "multi_subject": 0.06,
       "tags": [
-        "gear"
+        "new-models"
       ],
       "also": []
     },
@@ -571,6 +581,69 @@
       "multi_subject": 0.72,
       "tags": [
         "custom"
+      ],
+      "also": []
+    },
+    {
+      "id": "43cf13db4906010c130f4c743050b5e62a472c23",
+      "title": "12 Best Motorcycle Upgrades for 2026: Essential Gear for Safety, Comfort and Reliability",
+      "link": "https://www.returnofthecaferacers.com/motorcycle-accessories/12-best-motorcycle-upgrades-for-2026-essential-gear-for-safety-comfort-and-reliability",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-23T10:47:42+00:00",
+      "excerpt": "Motorcycle accessories are a massive market, but not every product deserves space on a bike. The most useful upgrades are the ones that solve genuine problems: protecting the rider, improving visibility, reducing distraction, preventing mechanical failures, or making long-distanc",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/DSC1645-scaled-80782.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.95
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.03,
+        "comparison-test": 0.28,
+        "first-look": 0.04,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.68,
+        "how-to": 0.1,
+        "explainer": 0.33,
+        "opinion": 0.46,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.1,
+        "digest": 0.11,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.6,
+      "tags": [
+        "gear"
       ],
       "also": []
     },
@@ -656,6 +729,69 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "fe410b0c3c89ddc5d703d850dfa4dd80edecb81a",
+      "title": "Breaking the Mold: The Top 7 Custom Royal Enfield Builds of 2022",
+      "link": "https://www.bikeexif.com/top-7-custom-royal-enfield-builds-2022",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Tom Gosselin",
+      "published": "2026-09-21T18:00:00+00:00",
+      "excerpt": "When it comes to platforms that absolutely dominated the custom motorcycle scene...",
+      "image": "https://images.bikeexif.com/2022/04/_1200x675_crop_center-center_82_line/royal-enfield-dustbin-fairing-motorcycle.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.9
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.03,
+        "comparison-test": 0.37,
+        "first-look": 0.05,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.13,
+        "how-to": 0.05,
+        "explainer": 0.16,
+        "opinion": 0.52,
+        "profile-interview": 0.08,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.1,
+        "photo-gallery": 0.31,
+        "ride-report": 0.03,
+        "history": 0.13,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.26,
+      "tags": [
+        "custom"
       ],
       "also": []
     },
@@ -806,69 +942,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "fe410b0c3c89ddc5d703d850dfa4dd80edecb81a",
-      "title": "Breaking the Mold: The Top 7 Custom Royal Enfield Builds of 2022",
-      "link": "https://www.bikeexif.com/top-7-custom-royal-enfield-builds-2022",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-21T18:00:00+00:00",
-      "excerpt": "When it comes to platforms that absolutely dominated the custom motorcycle scene...",
-      "image": "https://images.bikeexif.com/2022/04/_1200x675_crop_center-center_82_line/royal-enfield-dustbin-fairing-motorcycle.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.9
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.09,
-        "review": 0.03,
-        "comparison-test": 0.37,
-        "first-look": 0.05,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.13,
-        "how-to": 0.05,
-        "explainer": 0.16,
-        "opinion": 0.52,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
-        "listing": 0.03,
-        "event-report": 0.06,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.1,
-        "photo-gallery": 0.31,
-        "ride-report": 0.03,
-        "history": 0.13,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.26,
-      "tags": [
-        "custom"
       ],
       "also": []
     },
