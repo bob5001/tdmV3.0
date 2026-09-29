@@ -471,87 +471,6 @@
       "also": []
     },
     {
-      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
-      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
-      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-28T21:05:00+00:00",
-      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
-      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.21,
-        "press-release": 0.89,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
       "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
       "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
@@ -801,29 +720,40 @@
       "also": []
     },
     {
-      "id": "2264c0be84a5c3a06b0da7048fa36654106acbfb",
-      "title": "Moto Guzzi Shows Off New Facilities",
-      "link": "https://www.advrider.com/moto-guzzi-shows-off-new-facilities",
+      "id": "a9cc0c7d5ca043d64d6cde1bd7c67cd5041ef2e6",
+      "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
+      "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Mike Botan / @Ride2ADV",
-      "published": "2026-09-24T05:55:25+00:00",
-      "excerpt": "Moto Guzzi has spent the last five years rebuilding and updating its headquarters in Mandello del Lario. And now, the fruits of its labor are complete. The 105-year-old motorcycle manufacturer\u2019s facilities now include a modernized factory, a new 33,000-square-foot museum, and a l",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture-3-452x750.jpg",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-29T13:00:00+00:00",
+      "excerpt": "Honda will bring the CR ELECTRIC PROTO, ridden by Trey Canard and Justin Brayton. Yamaha Motor will display the YE-01 Racing Concept and run it on track in Ern\u00e9e, ridden by Ben Townley and Milko Potisek.",
+      "image": "https://rx.iscdn.net/2026/09/337239_unnamed-8.png?w=1000",
       "audio": null,
       "categories": [
         {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
         }
       ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "electric": 0.98
+      },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
         {
           "slug": "news",
           "label": "News"
@@ -835,33 +765,111 @@
       ],
       "form_scores": {
         "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
+        "review": 0.02,
+        "comparison-test": 0.14,
+        "first-look": 0.2,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.14,
-        "opinion": 0.04,
-        "profile-interview": 0.31,
-        "tribute": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.03,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.16,
-        "press-release": 0.89,
-        "digest": 0.06,
-        "photo-gallery": 0.04,
+        "event-report": 0.09,
+        "event-preview": 0.93,
+        "press-release": 0.82,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
         "ride-report": 0.01,
-        "history": 0.08,
+        "history": 0.07,
+        "rumor": 0.18,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "electric"
+      ],
+      "also": []
+    },
+    {
+      "id": "77d37ea7401c3448097529244f7d7b826d18a203",
+      "title": "BRP Recalling Multiple Models For Failing Instrument Cluster",
+      "link": "https://www.advrider.com/brp-recalling-multiple-models-for-failing-instrument-cluster",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-29T04:59:37+00:00",
+      "excerpt": "Bombardier Recreational Products makers of machines like the electric CAN-AM Pulse and Origin motorcycles, as well as the 3-wheeled CAN-AM Spyder RT and F3 are recalling certain machines because their instrument clusters may malfunction. BRP\u2019s Part 573 Safety Recall Report BRP\u2019s ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/ONRD-TNT-MY25-Pulse-73-E-Power-SterlingSilver-000J9SA00-Studio-34FR-NA-Copy-750x580.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.97,
+        "law-safety": 0.84
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.11,
+        "how-to": 0.03,
+        "explainer": 0.37,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.75,
+        "digest": 0.08,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "safety-notice": 0.97,
+        "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "odd-ball"
+        "industry",
+        "law-safety"
       ],
       "also": []
     },
@@ -1136,75 +1144,69 @@
       "also": []
     },
     {
-      "id": "643a925edbbac19e54fe6df296772f1422854fae",
-      "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
-      "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
+      "id": "e317323f7029708bc80d282660274cb44c361a4e",
+      "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
+      "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T10:50:24+00:00",
-      "excerpt": "BSA has added two special edition flavours to its Gold Star 650, one of which celebrates the brand\u2019s racing heritage.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t115517.325.png?width=1200",
+      "published": "2026-09-29T14:27:14+00:00",
+      "excerpt": "AGV has revealed the all-new K5 sport-touring helmet which balances premium specs with affordable pricing.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t150927.357.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
-      "primary": "new-models",
-      "confident": false,
+      "primary": "gear",
+      "confident": true,
       "cat_scores": {
-        "new-models": 0.77,
-        "classic": 0.57
+        "gear": 0.99
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.12,
+        "news": 0.93,
+        "review": 0.18,
         "comparison-test": 0.03,
-        "first-look": 0.17,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.19,
+        "first-look": 0.34,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.29,
         "how-to": 0.02,
-        "explainer": 0.11,
+        "explainer": 0.12,
         "opinion": 0.05,
         "profile-interview": 0.08,
-        "tribute": 0.04,
-        "listing": 0.06,
-        "event-report": 0.04,
-        "event-preview": 0.04,
-        "press-release": 0.89,
-        "digest": 0.08,
-        "photo-gallery": 0.13,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.95,
+        "digest": 0.07,
+        "photo-gallery": 0.12,
         "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.1,
+        "history": 0.02,
+        "rumor": 0.08,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.05,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
-        "new-models",
-        "classic"
+        "gear"
       ],
       "also": []
     },
@@ -1280,91 +1282,6 @@
       "tags": [
         "racing",
         "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
-      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
-      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T11:00:00+00:00",
-      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
-      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.94
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.88,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
       ],
       "also": []
     },
@@ -1546,38 +1463,46 @@
       "also": []
     },
     {
-      "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
-      "title": "Honda\u2019s Custom Contest Winner: Mugen",
-      "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
+      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
+      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
+      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Kate / @Moto_Muffin",
-      "published": "2026-09-22T12:43:12+00:00",
-      "excerpt": "Portuguese shop Mototrofa has won the 2026 HondaCustoms.com competition for the second time. Their latest entry, dubbed \u201cMugen,\u201d means \u201cinfinite\u201d in Japanese. \u201cForm Should Follow Function\u201d The bike began life as a CB750 Hornet. And it still looks like one. If you don\u2019t look too c",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Honda-Hornet-Mugen-Custom-Tank-Bars-Frame-750x500.jpg",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-28T21:05:00+00:00",
+      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
+      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
       "audio": null,
       "categories": [
         {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         },
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
         },
         {
           "slug": "press-release",
@@ -1585,49 +1510,38 @@
         }
       ],
       "form_scores": {
-        "news": 0.6,
-        "review": 0.27,
+        "news": 0.9,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.13,
-        "ranked-list": 0.12,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.35,
-        "opinion": 0.45,
-        "profile-interview": 0.59,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.84,
-        "event-preview": 0.03,
-        "press-release": 0.8,
-        "digest": 0.05,
-        "photo-gallery": 0.17,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.21,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.14,
-        "rumor": 0.04,
+        "history": 0.04,
+        "rumor": 0.06,
         "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.95,
+        "episode": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
-        "custom"
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Honda CB750 Hornet wins custom bike challenge against XL750 Transalp",
-          "link": "https://www.visordown.com/news/honda-cb750-hornet-wins-custom-bike-challenge-against-xl750-transalp",
-          "published": "2026-09-21T10:45:14+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Portugal's 'Mugen' Hornet crowned winner of Honda's 2026 Battle of the Twins build-off",
-          "link": "https://www.motorcyclenews.com/news/2026/september/honda-battle-of-the-twins-custom-build-off-winners-announced",
-          "published": "2026-09-21T15:34:17+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "83e754dab96e7889f15666139b3bc6565f49314f",
@@ -1706,6 +1620,71 @@
           "published": "2026-09-22T23:23:22+00:00"
         }
       ]
+    },
+    {
+      "id": "2264c0be84a5c3a06b0da7048fa36654106acbfb",
+      "title": "Moto Guzzi Shows Off New Facilities",
+      "link": "https://www.advrider.com/moto-guzzi-shows-off-new-facilities",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-24T05:55:25+00:00",
+      "excerpt": "Moto Guzzi has spent the last five years rebuilding and updating its headquarters in Mandello del Lario. And now, the fruits of its labor are complete. The 105-year-old motorcycle manufacturer\u2019s facilities now include a modernized factory, a new 33,000-square-foot museum, and a l",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture-3-452x750.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.14,
+        "opinion": 0.04,
+        "profile-interview": 0.31,
+        "tribute": 0.04,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.16,
+        "press-release": 0.89,
+        "digest": 0.06,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "odd-ball"
+      ],
+      "also": []
     },
     {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
@@ -1878,42 +1857,35 @@
       "also": []
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "643a925edbbac19e54fe6df296772f1422854fae",
+      "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
+      "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "published": "2026-09-29T10:50:24+00:00",
+      "excerpt": "BSA has added two special edition flavours to its Gold Star 650, one of which celebrates the brand\u2019s racing heritage.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t115517.325.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "new-models",
+          "label": "New Models"
         },
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
-      "primary": "industry",
-      "confident": true,
+      "primary": "new-models",
+      "confident": false,
       "cat_scores": {
-        "industry": 0.92,
-        "racing": 0.81,
-        "motogp": 0.84
+        "new-models": 0.77,
+        "classic": 0.57
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
@@ -1925,57 +1897,52 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
+        "news": 0.9,
+        "review": 0.12,
+        "comparison-test": 0.03,
+        "first-look": 0.17,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.19,
+        "how-to": 0.02,
+        "explainer": 0.11,
         "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.01,
+        "profile-interview": 0.08,
+        "tribute": 0.04,
+        "listing": 0.06,
         "event-report": 0.04,
-        "event-preview": 0.18,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.89,
+        "digest": 0.08,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.1,
+        "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.01,
+        "build-feature": 0.05,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.04,
       "tags": [
-        "industry",
-        "racing",
-        "motogp"
+        "new-models",
+        "classic"
       ],
       "also": []
     },
     {
-      "id": "10ee47acc6ddbca0c2454f76463d9d96efa20971",
-      "title": "Stark VARG SM Bests Audi R8 LMS",
-      "link": "https://www.advrider.com/stark-varg-sm-bests-audi-r8-lms",
+      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
+      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
+      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Mike Botan / @Ride2ADV",
-      "published": "2026-09-22T04:00:07+00:00",
-      "excerpt": "We recently told you about Stark Future\u2019s newest electric supermoto, the VARG SM Sk\u00f6ll. Well, it looks like Stark isn\u2019t done promoting the bike and wants to demonstrate its performance. To do this, they chose a now-abandoned race circuit called the Autodromo de Sitges-Terramar . ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture1-2-e1789921139713.jpg",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-24T11:00:00+00:00",
+      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
+      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
       "audio": null,
       "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
         {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
@@ -1983,25 +1950,30 @@
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
         }
       ],
-      "primary": "electric",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97,
-        "dirt-mx": 0.9,
-        "racing": 0.55,
-        "new-models": 0.55
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.94
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         },
         {
           "slug": "press-release",
@@ -2009,46 +1981,38 @@
         }
       ],
       "form_scores": {
-        "news": 0.69,
-        "review": 0.25,
-        "comparison-test": 0.42,
-        "first-look": 0.38,
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.15,
-        "opinion": 0.1,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.03,
         "listing": 0.02,
-        "event-report": 0.93,
-        "event-preview": 0.08,
-        "press-release": 0.75,
-        "digest": 0.06,
-        "photo-gallery": 0.04,
-        "ride-report": 0.04,
-        "history": 0.14,
-        "rumor": 0.12,
-        "safety-notice": 0.01,
-        "episode": 0.05,
-        "build-feature": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.05,
       "tags": [
-        "electric",
         "dirt-mx",
         "racing",
-        "new-models"
+        "motocross-supercross"
       ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "New Stark Varg SM Sk\u00f6ll laps oval track faster than Audi R8 Le Mans race car",
-          "link": "https://www.visordown.com/news/new-stark-varg-sm-skoll-laps-oval-track-faster-audi-r8-le-mans-race-car",
-          "published": "2026-09-21T09:33:40+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "a45fe81399169249cebeb90ab1cea17c8c78bd66",
@@ -2145,6 +2109,90 @@
           "title": "Gallery: 2027 Ducati Multistrada V4 Pikes Peak revealed in new racing paint job",
           "link": "https://www.motorcyclenews.com/news/2026/september/ducati-multistrada-v4-pikes-peak-new-colours",
           "published": "2026-09-24T16:32:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
+      "title": "Honda\u2019s Custom Contest Winner: Mugen",
+      "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Kate / @Moto_Muffin",
+      "published": "2026-09-22T12:43:12+00:00",
+      "excerpt": "Portuguese shop Mototrofa has won the 2026 HondaCustoms.com competition for the second time. Their latest entry, dubbed \u201cMugen,\u201d means \u201cinfinite\u201d in Japanese. \u201cForm Should Follow Function\u201d The bike began life as a CB750 Hornet. And it still looks like one. If you don\u2019t look too c",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Honda-Hornet-Mugen-Custom-Tank-Bars-Frame-750x500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.6,
+        "review": 0.27,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.35,
+        "opinion": 0.45,
+        "profile-interview": 0.59,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.84,
+        "event-preview": 0.03,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.17,
+        "ride-report": 0.01,
+        "history": 0.14,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.95,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Honda CB750 Hornet wins custom bike challenge against XL750 Transalp",
+          "link": "https://www.visordown.com/news/honda-cb750-hornet-wins-custom-bike-challenge-against-xl750-transalp",
+          "published": "2026-09-21T10:45:14+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Portugal's 'Mugen' Hornet crowned winner of Honda's 2026 Battle of the Twins build-off",
+          "link": "https://www.motorcyclenews.com/news/2026/september/honda-battle-of-the-twins-custom-build-off-winners-announced",
+          "published": "2026-09-21T15:34:17+00:00"
         }
       ]
     },
@@ -2352,30 +2400,42 @@
       "also": []
     },
     {
-      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
-      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
-      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:30:00+00:00",
-      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "industry",
           "label": "Industry & Business"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.98
+        "industry": 0.92,
+        "racing": 0.81,
+        "motogp": 0.84
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -2387,34 +2447,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.87,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.17,
-        "tribute": 0.09,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.77,
-        "digest": 0.1,
+        "event-report": 0.04,
+        "event-preview": 0.18,
+        "press-release": 0.81,
+        "digest": 0.12,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.13,
       "tags": [
-        "industry"
+        "industry",
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -2484,6 +2546,98 @@
         "new-models"
       ],
       "also": []
+    },
+    {
+      "id": "10ee47acc6ddbca0c2454f76463d9d96efa20971",
+      "title": "Stark VARG SM Bests Audi R8 LMS",
+      "link": "https://www.advrider.com/stark-varg-sm-bests-audi-r8-lms",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-22T04:00:07+00:00",
+      "excerpt": "We recently told you about Stark Future\u2019s newest electric supermoto, the VARG SM Sk\u00f6ll. Well, it looks like Stark isn\u2019t done promoting the bike and wants to demonstrate its performance. To do this, they chose a now-abandoned race circuit called the Autodromo de Sitges-Terramar . ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/Capture1-2-e1789921139713.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.97,
+        "dirt-mx": 0.9,
+        "racing": 0.55,
+        "new-models": 0.55
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.25,
+        "comparison-test": 0.42,
+        "first-look": 0.38,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.15,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.93,
+        "event-preview": 0.08,
+        "press-release": 0.75,
+        "digest": 0.06,
+        "photo-gallery": 0.04,
+        "ride-report": 0.04,
+        "history": 0.14,
+        "rumor": 0.12,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "electric",
+        "dirt-mx",
+        "racing",
+        "new-models"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "New Stark Varg SM Sk\u00f6ll laps oval track faster than Audi R8 Le Mans race car",
+          "link": "https://www.visordown.com/news/new-stark-varg-sm-skoll-laps-oval-track-faster-audi-r8-le-mans-race-car",
+          "published": "2026-09-21T09:33:40+00:00"
+        }
+      ]
     },
     {
       "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
@@ -2652,75 +2806,69 @@
       "also": []
     },
     {
-      "id": "2b955b2adb33606624883c92bf48b9694010a145",
-      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
-      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
+      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
+      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
+      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T09:55:34+00:00",
-      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
+      "published": "2026-09-26T08:30:00+00:00",
+      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "electric",
-          "label": "Electric"
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
-      "primary": "cruisers",
-      "confident": false,
+      "primary": "industry",
+      "confident": true,
       "cat_scores": {
-        "cruisers": 0.66,
-        "electric": 0.56
+        "industry": 0.98
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.07,
-        "comparison-test": 0.03,
-        "first-look": 0.56,
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.16,
-        "opinion": 0.05,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.29,
-        "event-preview": 0.08,
-        "press-release": 0.93,
-        "digest": 0.08,
-        "photo-gallery": 0.13,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.23,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.09,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.77,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
-        "cruisers",
-        "electric"
+        "industry"
       ],
       "also": []
     },
@@ -2885,69 +3033,75 @@
       "also": []
     },
     {
-      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
-      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
-      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
+      "id": "2b955b2adb33606624883c92bf48b9694010a145",
+      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
+      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-22T07:04:58+00:00",
-      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
+      "published": "2026-09-25T09:55:34+00:00",
+      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
         }
       ],
-      "primary": "adventure",
-      "confident": true,
+      "primary": "cruisers",
+      "confident": false,
       "cat_scores": {
-        "adventure": 0.95
+        "cruisers": 0.66,
+        "electric": 0.56
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.85,
-        "review": 0.1,
-        "comparison-test": 0.02,
-        "first-look": 0.19,
+        "news": 0.91,
+        "review": 0.07,
+        "comparison-test": 0.03,
+        "first-look": 0.56,
         "ranked-list": 0.02,
-        "buyers-guide": 0.05,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.09,
+        "explainer": 0.16,
         "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.54,
-        "press-release": 0.8,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.29,
+        "event-preview": 0.08,
+        "press-release": 0.93,
         "digest": 0.08,
-        "photo-gallery": 0.2,
-        "ride-report": 0.03,
-        "history": 0.04,
-        "rumor": 0.1,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.23,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.38,
+        "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
-        "adventure"
+        "cruisers",
+        "electric"
       ],
       "also": []
     },
@@ -3029,6 +3183,73 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
+      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
+      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T07:04:58+00:00",
+      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.95
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.1,
+        "comparison-test": 0.02,
+        "first-look": 0.19,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.54,
+        "press-release": 0.8,
+        "digest": 0.08,
+        "photo-gallery": 0.2,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.1,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.38,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure"
       ],
       "also": []
     },
@@ -3405,6 +3626,98 @@
       "also": []
     },
     {
+      "id": "9219dc8ee7dc1a4583ea22cdfe272bdbdf4085c7",
+      "title": "2027 KTM 450 RALLY REPLICA DEBUTS IN CANADA",
+      "link": "https://www.insidemotorcycles.com/2027-ktm-450-rally-replica-debuts-in-canada",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-18T16:01:12+00:00",
+      "excerpt": "Dakar Rally glory can roll into personal garage spaces for the first time in Canada, with the 2027 KTM 450 RALLY REPLICA available in extremely limited numbers and arriving in a pure competition spec. This factory-derived model has been made to satisfy budding rally raiders who w",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/MY27_KTM-450-RALLY-REPLICA.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.92,
+        "dirt-mx": 0.88,
+        "adventure": 0.71
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.2,
+        "comparison-test": 0.03,
+        "first-look": 0.35,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.17,
+        "how-to": 0.03,
+        "explainer": 0.17,
+        "opinion": 0.08,
+        "profile-interview": 0.07,
+        "tribute": 0.02,
+        "listing": 0.11,
+        "event-report": 0.07,
+        "event-preview": 0.1,
+        "press-release": 0.81,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.4,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "new-models",
+        "dirt-mx",
+        "adventure"
+      ],
+      "also": [
+        {
+          "source": "ADVrider",
+          "title": "KTM 450 Rally Replica Availability Confirmed For US, Canada",
+          "link": "https://www.advrider.com/ktm-450-rally-replica-availability-confirmed-for-us-canada",
+          "published": "2026-09-18T05:58:37+00:00"
+        },
+        {
+          "source": "ADVrider",
+          "title": "2027 KTM 450 Rally Replica: Photo Gallery",
+          "link": "https://www.advrider.com/2027-ktm-450-rally-replica-photo-gallery",
+          "published": "2026-09-21T04:46:48+00:00"
+        }
+      ]
+    },
+    {
       "id": "35271e0bf63c3475a4c8044dd64d94eaab763815",
       "title": "ROYAL ENFIELD OPEN 2027 BUILD.TRAIN.RACE. RIDER APPLICATIONS",
       "link": "https://www.insidemotorcycles.com/royal-enfield-open-2027-build-train-race-rider-applications",
@@ -3470,100 +3783,6 @@
         "racing"
       ],
       "also": []
-    },
-    {
-      "id": "1a55d671067d17f1fd3be4da47d8307fe6740d96",
-      "title": "KTM 450 Rally Replica Availability Confirmed For US, Canada",
-      "link": "https://www.advrider.com/ktm-450-rally-replica-availability-confirmed-for-us-canada",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-18T05:58:37+00:00",
-      "excerpt": "All the way back in April, we told you about the 2027 KTM 450 Rally Replica racebike coming to market , and said that\u2019s great, but mere mortals will have a hard time getting their hands on one. Then KTM contacted us and said oh, anyone with enough money can buy one\u2014and they expla",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/741532_MY27_KTM-450-RALLY-REPLICA_ACTION_EDGAR-CANET_ACTION_EDGAR-CANET.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.89,
-        "adventure": 0.87,
-        "new-models": 0.82,
-        "industry": 0.7
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.63,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.09,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.36,
-        "how-to": 0.03,
-        "explainer": 0.31,
-        "opinion": 0.5,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.07,
-        "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.77,
-        "digest": 0.06,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "adventure",
-        "new-models",
-        "industry"
-      ],
-      "also": [
-        {
-          "source": "Inside Motorcycles",
-          "title": "2027 KTM 450 RALLY REPLICA DEBUTS IN CANADA",
-          "link": "https://www.insidemotorcycles.com/2027-ktm-450-rally-replica-debuts-in-canada",
-          "published": "2026-09-18T16:01:12+00:00"
-        },
-        {
-          "source": "ADVrider",
-          "title": "2027 KTM 450 Rally Replica: Photo Gallery",
-          "link": "https://www.advrider.com/2027-ktm-450-rally-replica-photo-gallery",
-          "published": "2026-09-21T04:46:48+00:00"
-        }
-      ]
     },
     {
       "id": "3adab03dc929035ebd56984d29df385e8dc8b30d",
