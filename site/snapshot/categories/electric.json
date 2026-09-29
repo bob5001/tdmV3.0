@@ -5,17 +5,17 @@
   "children": [],
   "items": [
     {
-      "id": "a9cc0c7d5ca043d64d6cde1bd7c67cd5041ef2e6",
-      "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
-      "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
+      "id": "0a032eee0e0c6aa29ff0b70719e1578b970e11be",
+      "title": "HONDA AND YAMAHA TO STAGE EV MOTOCROSS DEMO RUNS AT THE MONSTER ENERGY FIM MOTOCROSS OF NATIONS IN ERN\u00c9E",
+      "link": "https://mxvice.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-runs-at-the-monster-energy-fim-motocross-of-nations-in-ernee",
       "lang": "en",
-      "source": "Racer X Online",
+      "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Honda will bring the CR ELECTRIC PROTO, ridden by Trey Canard and Justin Brayton. Yamaha Motor will display the YE-01 Racing Concept and run it on track in Ern\u00e9e, ridden by Ben Townley and Milko Potisek.",
-      "image": "https://rx.iscdn.net/2026/09/337239_unnamed-8.png?w=1000",
+      "author": "Arno van den Brink",
+      "published": "2026-09-29T18:29:04+00:00",
+      "excerpt": "Electric motocross is coming to the biggest event of the year. Honda and Yamaha will take to the track together for an EV Motocross Demo at the Monster Energy FIM Motocross of Nations in Ern\u00e9e, France . The two brands will run side by side on Saturday and again on Sunday, both da",
+      "image": "https://www.mxgp.com/sites/default/files/images/c240202_001H(1).jpg",
       "audio": null,
       "categories": [
         {
@@ -25,61 +25,82 @@
         {
           "slug": "electric",
           "label": "Electric"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "electric": 0.98
+        "electric": 0.98,
+        "racing": 0.78,
+        "motocross-supercross": 0.88
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "event-preview",
           "label": "Event Preview"
         },
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.86,
         "review": 0.02,
-        "comparison-test": 0.14,
-        "first-look": 0.2,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "comparison-test": 0.23,
+        "first-look": 0.27,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.03,
-        "profile-interview": 0.06,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.93,
-        "press-release": 0.82,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
+        "event-report": 0.12,
+        "event-preview": 0.94,
+        "press-release": 0.94,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.18,
-        "safety-notice": 0.02,
+        "history": 0.04,
+        "rumor": 0.11,
+        "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
-        "electric"
+        "electric",
+        "racing",
+        "motocross-supercross"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
+          "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
+          "published": "2026-09-29T13:00:00+00:00"
+        }
+      ]
     },
     {
       "id": "feec8e6208884917833ad46e352d99c0bc591d9e",

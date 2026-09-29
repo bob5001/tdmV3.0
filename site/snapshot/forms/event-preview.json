@@ -3,6 +3,98 @@
   "label": "Event Preview",
   "items": [
     {
+      "id": "c0a08b15c1fd24bb734c757e44a2737f3f91e725",
+      "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
+      "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T16:16:13+00:00",
+      "excerpt": "Maverick Vinales will return to action at this weekend\u2019s Japanese Grand Prix after a three-month hiatus due to injury, Tech3 KTM has announced. The Spaniard has received clearance from doctors to fly to Japan and make his competitive return in time for the 16th round of the 2026 ",
+      "image": "https://cdn-6.motorsport.com/images/amp/YE9wRoGY/s6/maverick-vinales-red-bull-ktm--2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.78,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
+          "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
+          "published": "2026-09-28T15:41:58+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "Maverick Vinales set to make MotoGP return in Japan",
+          "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
+          "published": "2026-09-29T08:08:01+00:00"
+        }
+      ]
+    },
+    {
       "id": "feec8e6208884917833ad46e352d99c0bc591d9e",
       "title": "[News Release]Yamaha Motor\u2019s YE-01 Racing Concept to Make Exhibition Run at MXoN 2026- Initiative aimed at competing in the MXEP electric motocross racing series -",
       "link": "https://global.yamaha-motor.com/news/2026/0928/ye01.html?RSS=ON",
@@ -450,98 +542,6 @@
         "motocross-supercross"
       ],
       "also": []
-    },
-    {
-      "id": "c0a08b15c1fd24bb734c757e44a2737f3f91e725",
-      "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
-      "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T16:16:13+00:00",
-      "excerpt": "Maverick Vinales will return to action at this weekend\u2019s Japanese Grand Prix after a three-month hiatus due to injury, Tech3 KTM has announced. The Spaniard has received clearance from doctors to fly to Japan and make his competitive return in time for the 16th round of the 2026 ",
-      "image": "https://cdn-6.motorsport.com/images/amp/YE9wRoGY/s6/maverick-vinales-red-bull-ktm--2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.97,
-        "press-release": 0.78,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
-          "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
-          "published": "2026-09-28T15:41:58+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "Maverick Vinales set to make MotoGP return in Japan",
-          "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
-          "published": "2026-09-29T08:08:01+00:00"
-        }
-      ]
     },
     {
       "id": "28a1db539716746121e6b3a2c9386822750a9977",
@@ -1282,17 +1282,17 @@
       "also": []
     },
     {
-      "id": "dc5cd9631f2a01553691a4a1054a0bc526c27c8b",
-      "title": "Torre van Mechgelen scores sixth place in the MX Nationals at Heerde",
-      "link": "https://mxvice.com/2026/09/28/torre-van-mechgelen-scores-sixth-place-in-the-mx-nationals-at-heerde",
+      "id": "0a1777f9288c4901b29488989e9961352cd5bb53",
+      "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at Ern\u00e9e",
+      "link": "https://mxvice.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-ernee",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-28T16:40:09+00:00",
-      "excerpt": "Torre van Mechgelen of the De Baets AIT Racing Yamaha team secured sixth place during the penultimate round of the MX Nationals in Heerde. In the first race, he fought his way back from around 15th place after a poor start to finish sixth. In the second race, he was hit hard on t",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-16.18.45.jpg",
+      "published": "2026-09-29T18:37:34+00:00",
+      "excerpt": "The 2026 YZ BLU CRU FIM Europe Cup SuperFinale will take place from October 2-4 alongside one of the biggest events on the motocross calendar \u2013 the prestigious 2026 Monster Energy FIM Motocross of Nations (MXoN) at Ern\u00e9e, France. 120 of the most talented young riders from across ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/2025_YZ125_BLUCRU_SF_SWEDEN_GF_9993.jpg",
       "audio": null,
       "categories": [
         {
@@ -1309,7 +1309,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.98,
-        "motocross-supercross": 0.98
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -1320,12 +1320,12 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         },
         {
           "slug": "news",
@@ -1333,51 +1333,58 @@
         }
       ],
       "form_scores": {
-        "news": 0.86,
+        "news": 0.82,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.05,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.03,
-        "opinion": 0.04,
-        "profile-interview": 0.06,
+        "explainer": 0.6,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.94,
-        "press-release": 0.33,
-        "digest": 0.69,
-        "photo-gallery": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.99,
+        "press-release": 0.93,
+        "digest": 0.03,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.78,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "racing",
         "motocross-supercross"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at MXoN in Ern\u00e9e, France",
+          "link": "https://racerxonline.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-mxon-in-ernee-france",
+          "published": "2026-09-29T12:00:00+00:00"
+        }
+      ]
     },
     {
-      "id": "a9cc0c7d5ca043d64d6cde1bd7c67cd5041ef2e6",
-      "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
-      "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
+      "id": "bde147d9df4d6638ca905db1b7a72e012e16a999",
+      "title": "Mason-Dixon GNCC is Non-Points-Paying for Bike (XC1, XC2, and WXC) Classes This Weekend Due to ISDE Conflict",
+      "link": "https://racerxonline.com/2026/09/29/mason-dixon-gncc-is-non-points-paying-for-the-bike-classes-this-weekend-due-to-isde-conflict",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-29T13:00:00+00:00",
-      "excerpt": "Honda will bring the CR ELECTRIC PROTO, ridden by Trey Canard and Justin Brayton. Yamaha Motor will display the YE-01 Racing Concept and run it on track in Ern\u00e9e, ridden by Ben Townley and Milko Potisek.",
-      "image": "https://rx.iscdn.net/2026/09/337239_unnamed-8.png?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-29T12:00:00+00:00",
+      "excerpt": "The Mason-Dixon GNCC will be non-points-paying for the bike XC1, XC2 and WXC classes as a result of the schedule conflict with the International Six Days Enduro (ISDE).",
+      "image": "https://rx.iscdn.net/2026/09/337240_dsc8612.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -1385,15 +1392,15 @@
           "label": "MX & Dirt"
         },
         {
-          "slug": "electric",
-          "label": "Electric"
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "electric": 0.98
+        "racing": 0.95
       },
       "subcategories": [],
       "forms": [
@@ -1404,42 +1411,38 @@
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
         "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.14,
-        "first-look": 0.2,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.14,
         "opinion": 0.03,
-        "profile-interview": 0.06,
+        "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.93,
-        "press-release": 0.82,
+        "event-report": 0.08,
+        "event-preview": 0.94,
+        "press-release": 0.42,
         "digest": 0.08,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.18,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.1,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
-        "electric"
+        "racing"
       ],
       "also": []
     },
@@ -1744,81 +1747,6 @@
         "adventure",
         "events-rides",
         "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "a1a485df1fd797627a0d9d039fb90710cf337a34",
-      "title": "MotoGP boss: The idea is to hold the Qatar GP as planned",
-      "link": "https://www.autosport.com/motogp/news/motogp-boss-the-idea-is-to-hold-the-qatar-gp-as-planned-in-november/10857248",
-      "lang": "en",
-      "source": "Autosport (MotoGP)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-19T16:14:44+00:00",
-      "excerpt": "MotoGP boss Carmelo Ezpeleta says the \u201cidea is to go\u201d to Qatar for the Grand Prix scheduled for 8 November, despite the ongoing conflict in the Middle East. The conflict in the region has put several motorsport events in the Middle East at risk this year, with the Formula 1 race ",
-      "image": "https://cdn-3.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.09,
-        "profile-interview": 0.45,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.91,
-        "press-release": 0.28,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -2302,22 +2230,26 @@
       "also": []
     },
     {
-      "id": "95edc10a6db5e16855ffa3afb67f751c23abcea5",
-      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
-      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italyd-of-knuiman-copy",
+      "id": "0a032eee0e0c6aa29ff0b70719e1578b970e11be",
+      "title": "HONDA AND YAMAHA TO STAGE EV MOTOCROSS DEMO RUNS AT THE MONSTER ENERGY FIM MOTOCROSS OF NATIONS IN ERN\u00c9E",
+      "link": "https://mxvice.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-runs-at-the-monster-energy-fim-motocross-of-nations-in-ernee",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-28T16:15:39+00:00",
-      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "published": "2026-09-29T18:29:04+00:00",
+      "excerpt": "Electric motocross is coming to the biggest event of the year. Honda and Yamaha will take to the track together for an EV Motocross Demo at the Monster Energy FIM Motocross of Nations in Ern\u00e9e, France . The two brands will run side by side on Saturday and again on Sunday, both da",
+      "image": "https://www.mxgp.com/sites/default/files/images/c240202_001H(1).jpg",
       "audio": null,
       "categories": [
         {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
         },
         {
           "slug": "racing",
@@ -2328,8 +2260,9 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
+        "electric": 0.98,
+        "racing": 0.78,
+        "motocross-supercross": 0.88
       },
       "subcategories": [
         {
@@ -2340,64 +2273,72 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
           "slug": "press-release",
           "label": "Announcement"
         },
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.96,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.23,
+        "first-look": 0.27,
         "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.05,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.76,
-        "press-release": 0.79,
+        "event-report": 0.12,
+        "event-preview": 0.94,
+        "press-release": 0.94,
         "digest": 0.04,
         "photo-gallery": 0.03,
         "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
+        "rumor": 0.11,
+        "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.01,
+        "build-feature": 0.02,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
+        "electric",
         "racing",
         "motocross-supercross"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
+          "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
+          "published": "2026-09-29T13:00:00+00:00"
+        }
+      ]
     },
     {
-      "id": "bde147d9df4d6638ca905db1b7a72e012e16a999",
-      "title": "Mason-Dixon GNCC is Non-Points-Paying for Bike (XC1, XC2, and WXC) Classes This Weekend Due to ISDE Conflict",
-      "link": "https://racerxonline.com/2026/09/29/mason-dixon-gncc-is-non-points-paying-for-the-bike-classes-this-weekend-due-to-isde-conflict",
+      "id": "eb6463d96626893e27c80f4baf57ea30017c27ae",
+      "title": "Racerhead #39",
+      "link": "https://racerxonline.com/2026/09/25/racerhead-39",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-29T12:00:00+00:00",
-      "excerpt": "The Mason-Dixon GNCC will be non-points-paying for the bike XC1, XC2 and WXC classes as a result of the schedule conflict with the International Six Days Enduro (ISDE).",
-      "image": "https://rx.iscdn.net/2026/09/337240_dsc8612.jpg?w=1000",
+      "author": "Davey Coombs",
+      "published": "2026-09-25T17:30:00+00:00",
+      "excerpt": "This week in your sport: SMX takes over Thunder Ridge Nature Arena in Missouri for an exciting 2026 season finale, MXGP finished their season in Australia, Pastrana Pro Challenge at PVR, and more.",
+      "image": "https://rx.iscdn.net/2026/09/337103_img0524-1.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -2413,49 +2354,61 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95
+        "racing": 0.92,
+        "motocross-supercross": 0.96
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "digest",
+          "label": "Digest"
         },
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
+        "news": 0.8,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.08,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.94,
-        "press-release": 0.42,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.1,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
+        "event-report": 0.67,
+        "event-preview": 0.76,
+        "press-release": 0.16,
+        "digest": 0.89,
+        "photo-gallery": 0.15,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.13,
+        "build-feature": 0.03,
+        "q-and-a": 0.13
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.92,
       "tags": [
         "dirt-mx",
-        "racing"
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -2912,17 +2865,17 @@
       "also": []
     },
     {
-      "id": "2bfabfb11ce9ea8da568e6cbcbfbc162622375a4",
-      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
-      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italy",
+      "id": "dc5cd9631f2a01553691a4a1054a0bc526c27c8b",
+      "title": "Torre van Mechgelen scores sixth place in the MX Nationals at Heerde",
+      "link": "https://mxvice.com/2026/09/28/torre-van-mechgelen-scores-sixth-place-in-the-mx-nationals-at-heerde",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-28T16:15:39+00:00",
-      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "published": "2026-09-28T16:40:09+00:00",
+      "excerpt": "Torre van Mechgelen of the De Baets AIT Racing Yamaha team secured sixth place during the penultimate round of the MX Nationals in Heerde. In the first race, he fought his way back from around 15th place after a poor start to finish sixth. In the second race, he was hit hard on t",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-16.18.45.jpg",
       "audio": null,
       "categories": [
         {
@@ -2938,7 +2891,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
+        "racing": 0.98,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -2950,45 +2903,45 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.96,
+        "news": 0.86,
         "review": 0.01,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.05,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.03,
+        "opinion": 0.04,
+        "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.77,
-        "press-release": 0.8,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
+        "event-report": 0.98,
+        "event-preview": 0.94,
+        "press-release": 0.33,
+        "digest": 0.69,
+        "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.04,
+        "history": 0.07,
         "rumor": 0.01,
-        "safety-notice": 0.02,
+        "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.78,
       "tags": [
         "dirt-mx",
         "racing",
@@ -2997,17 +2950,17 @@
       "also": []
     },
     {
-      "id": "9c2d137eda49490794bb0b31534b9569f48641ba",
-      "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at MXoN in Ern\u00e9e, France",
-      "link": "https://racerxonline.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-mxon-in-ernee-france",
+      "id": "e42adfc96af112b77919387b0b25c6da28aa7256",
+      "title": "Watch: SuperMotocross World Championship Final Pre-Race Press Conference Live at 12:30 p.m. Eastern/9:30 a.m. Pacific",
+      "link": "https://racerxonline.com/2026/09/25/watch-supermotocross-world-championship-final-pre-race-press-conference-live",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-29T12:00:00+00:00",
-      "excerpt": "At the event, 120 of the most talented young riders from across the globe, representing 34 countries, will line up on the same track as the sport\u2019s biggest MXGP stars from all over the world.",
-      "image": "https://rx.iscdn.net/2026/09/337245_2025yz65blucrusfswedenjc-7877.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-25T15:00:00+00:00",
+      "excerpt": "Check out what the top 450SMX, 250SMX, and WMX riders have to say ahead of the Monster Energy SuperMotocross World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337079_deeganalignmediasmx26losangeles016.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -3024,7 +2977,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.97,
-        "motocross-supercross": 0.97
+        "motocross-supercross": 0.99
       },
       "subcategories": [
         {
@@ -3037,43 +2990,35 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.86,
+        "news": 0.65,
         "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.08,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.09,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.97,
-        "press-release": 0.75,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
+        "event-report": 0.06,
+        "event-preview": 0.94,
+        "press-release": 0.43,
+        "digest": 0.06,
+        "photo-gallery": 0.36,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.43,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
@@ -3471,17 +3416,17 @@
       "also": []
     },
     {
-      "id": "fd4d418e4e599df2231ac1abc51578213a01152f",
-      "title": "Dex Kooiker Wins MX Nationals in Heerde",
-      "link": "https://mxvice.com/2026/09/28/dex-kooiker-wins-mx-nationals-in-heerde",
+      "id": "95edc10a6db5e16855ffa3afb67f751c23abcea5",
+      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
+      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italyd-of-knuiman-copy",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-28T16:03:44+00:00",
-      "excerpt": "Dex Kooiker of the De Baets AIT Racing Yamaha team won the penultimate round of the MX Nationals in Heerde on Sunday. Kooiker dominated both races to claim maximum points. Kooiker immediately made his mark in qualifying, securing pole position with a 1.2-second advantage over the",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Torre-van-Megchelen.jpg",
+      "published": "2026-09-28T16:15:39+00:00",
+      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
@@ -3497,7 +3442,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.98,
+        "racing": 0.97,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -3509,12 +3454,12 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         },
         {
           "slug": "event-preview",
@@ -3522,32 +3467,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.92,
+        "news": 0.96,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.01,
         "buyers-guide": 0.01,
         "how-to": 0.01,
-        "explainer": 0.03,
+        "explainer": 0.04,
         "opinion": 0.03,
         "profile-interview": 0.05,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.92,
-        "press-release": 0.15,
-        "digest": 0.54,
-        "photo-gallery": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.76,
+        "press-release": 0.79,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.1,
+        "history": 0.04,
         "rumor": 0.01,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.52,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -3556,17 +3501,17 @@
       "also": []
     },
     {
-      "id": "eb6463d96626893e27c80f4baf57ea30017c27ae",
-      "title": "Racerhead #39",
-      "link": "https://racerxonline.com/2026/09/25/racerhead-39",
+      "id": "ad28cb0996424235fe7ac71ec73d89d05f3c0599",
+      "title": "10 Things to Watch at SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/25/10-things-to-watch-in-missouri",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Davey Coombs",
-      "published": "2026-09-25T17:30:00+00:00",
-      "excerpt": "This week in your sport: SMX takes over Thunder Ridge Nature Arena in Missouri for an exciting 2026 season finale, MXGP finished their season in Australia, Pastrana Pro Challenge at PVR, and more.",
-      "image": "https://rx.iscdn.net/2026/09/337103_img0524-1.jpg?w=1000",
+      "author": "Sarah Whitmore",
+      "published": "2026-09-25T14:30:00+00:00",
+      "excerpt": "Championship math, could DiFrancesco win it without winning a single race? Webb vs Deegan, huge money on the line, plus WMX is back. A ton of action is set to take place this weekend!",
+      "image": "https://rx.iscdn.net/2026/09/337051_pradoalignmediasmx26losangeles003.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -3582,8 +3527,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
-        "motocross-supercross": 0.96
+        "racing": 0.96,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -3594,45 +3539,41 @@
       ],
       "forms": [
         {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.8,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.05,
-        "ranked-list": 0.12,
+        "news": 0.21,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.84,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.09,
-        "opinion": 0.08,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.18,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.67,
-        "event-preview": 0.76,
-        "press-release": 0.16,
-        "digest": 0.89,
-        "photo-gallery": 0.15,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.13,
-        "build-feature": 0.03,
-        "q-and-a": 0.13
+        "event-report": 0.07,
+        "event-preview": 0.97,
+        "press-release": 0.09,
+        "digest": 0.18,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.92,
+      "multi_subject": 0.52,
       "tags": [
         "dirt-mx",
         "racing",
@@ -3969,16 +3910,16 @@
       "also": []
     },
     {
-      "id": "2134e30e8e2e0e759a6e468fcc2945a46274abd4",
-      "title": "Watch Motul ACU British Motocross Championship Blaxhall live",
-      "link": "https://mxvice.com/2026/09/27/watch-motul-acu-british-motocross-championship-blaxhall-live",
+      "id": "2bfabfb11ce9ea8da568e6cbcbfbc162622375a4",
+      "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
+      "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italy",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-27T09:47:09+00:00",
-      "excerpt": "One round left. One season\u2019s worth of drama still to settle \u2013 tune in for FREE! Seven rounds down, one to go. Tomorrow, the Motul ACU British Motocross Championship writes its final chapter of 2026 as the paddock descends on Blaxhall\u2019s famous sandy circuit, and while two crowns h",
+      "published": "2026-09-28T16:15:39+00:00",
+      "excerpt": "The Italian federation announced today that Alberto Forato will replace the injured Andrea Bonacorsi in Team Italy for the Motocross of Nations. Bonacorsi was injured during the Grand Prix of Arnhem and has not yet recovered from his injury. Forato has continued training hard fol",
       "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
@@ -3995,7 +3936,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.98,
+        "racing": 0.97,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -4007,37 +3948,45 @@
       ],
       "forms": [
         {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
           "slug": "event-preview",
           "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.19,
+        "news": 0.96,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.08,
-        "profile-interview": 0.04,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.05,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.98,
-        "press-release": 0.15,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.77,
+        "press-release": 0.8,
         "digest": 0.04,
-        "photo-gallery": 0.05,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.02,
+        "history": 0.04,
         "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.16,
+        "safety-notice": 0.02,
+        "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -4046,17 +3995,17 @@
       "also": []
     },
     {
-      "id": "e42adfc96af112b77919387b0b25c6da28aa7256",
-      "title": "Watch: SuperMotocross World Championship Final Pre-Race Press Conference Live at 12:30 p.m. Eastern/9:30 a.m. Pacific",
-      "link": "https://racerxonline.com/2026/09/25/watch-supermotocross-world-championship-final-pre-race-press-conference-live",
+      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
+      "title": "Video: SMX World Championship Final Preview and Injury Updates",
+      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-25T15:00:00+00:00",
-      "excerpt": "Check out what the top 450SMX, 250SMX, and WMX riders have to say ahead of the Monster Energy SuperMotocross World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337079_deeganalignmediasmx26losangeles016.jpg?w=1000",
+      "author": "Sarah Whitmore",
+      "published": "2026-09-25T14:00:00+00:00",
+      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
       "audio": null,
       "categories": [
         {
@@ -4072,8 +4021,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.99
+        "racing": 0.93,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -4086,35 +4035,39 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.65,
-        "review": 0.01,
+        "news": 0.32,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.08,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
+        "explainer": 0.1,
+        "opinion": 0.09,
+        "profile-interview": 0.07,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.94,
-        "press-release": 0.43,
-        "digest": 0.06,
-        "photo-gallery": 0.36,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.43,
-        "build-feature": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.56,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.79,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.1,
       "tags": [
         "dirt-mx",
         "racing",
@@ -4300,17 +4253,17 @@
       "also": []
     },
     {
-      "id": "05e09ef034187d162ebc557672aabfc303de00df",
-      "title": "Julien Beaumer joins Team USA for MX of Nations",
-      "link": "https://mxvice.com/2026/09/26/julien-beaumer-joins-team-usa-for-mx-of-nations",
+      "id": "fd4d418e4e599df2231ac1abc51578213a01152f",
+      "title": "Dex Kooiker Wins MX Nationals in Heerde",
+      "link": "https://mxvice.com/2026/09/28/dex-kooiker-wins-mx-nationals-in-heerde",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-26T19:32:57+00:00",
-      "excerpt": "Due to the injury sustained by Chance Hymas, he will be unable to represent Team USA at the MX of Nations in Ern\u00e9e. The AMA has just announced that Julien Beaumer will replace Hymas in France. Beaumer will compete on a KTM 450F alongside Levi Kitchen and Cooper Webb. Photocredits",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "published": "2026-09-28T16:03:44+00:00",
+      "excerpt": "Dex Kooiker of the De Baets AIT Racing Yamaha team won the penultimate round of the MX Nationals in Heerde on Sunday. Kooiker dominated both races to claim maximum points. Kooiker immediately made his mark in qualifying, securing pole position with a 1.2-second advantage over the",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Torre-van-Megchelen.jpg",
       "audio": null,
       "categories": [
         {
@@ -4326,7 +4279,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
+        "racing": 0.98,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -4337,6 +4290,10 @@
         }
       ],
       "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
         {
           "slug": "news",
           "label": "News"
@@ -4347,118 +4304,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.95,
+        "news": 0.92,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
         "how-to": 0.01,
-        "explainer": 0.04,
+        "explainer": 0.03,
         "opinion": 0.03,
-        "profile-interview": 0.06,
+        "profile-interview": 0.05,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.89,
-        "press-release": 0.73,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": [
-        {
-          "source": "Racer X Online",
-          "title": "Julien Beaumer In for Team USA Roster at Motocross of Nations In France This Weekend",
-          "link": "https://racerxonline.com/2026/09/29/julien-beaumer-in-for-team-usa-roster-at-motocross-of-nations-in-france-this-weekend",
-          "published": "2026-09-29T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "ad28cb0996424235fe7ac71ec73d89d05f3c0599",
-      "title": "10 Things to Watch at SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/25/10-things-to-watch-in-missouri",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Sarah Whitmore",
-      "published": "2026-09-25T14:30:00+00:00",
-      "excerpt": "Championship math, could DiFrancesco win it without winning a single race? Webb vs Deegan, huge money on the line, plus WMX is back. A ton of action is set to take place this weekend!",
-      "image": "https://rx.iscdn.net/2026/09/337051_pradoalignmediasmx26losangeles003.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.21,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.84,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.18,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.97,
-        "press-release": 0.09,
-        "digest": 0.18,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
+        "event-report": 0.98,
+        "event-preview": 0.92,
+        "press-release": 0.15,
+        "digest": 0.54,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.1,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
       "multi_subject": 0.52,
       "tags": [
@@ -4469,17 +4338,17 @@
       "also": []
     },
     {
-      "id": "e34eba033b55d118b3f9c3995b75fdd3be91c936",
-      "title": "Deegan and Beaumer fastest in qualifying at Ridgedale",
-      "link": "https://mxvice.com/2026/09/26/deegan-and-beaumer-fastest-in-qualifying-at-ridgedale",
+      "id": "b78d9d6080d79f0507991318444582757e0a4324",
+      "title": "How to Watch: SMX World Championship Final TV Broadcast/Streaming Information",
+      "link": "https://racerxonline.com/2026/09/25/how-to-watch-smx-world-championship-final-tv-broadcast-streaming-information",
       "lang": "en",
-      "source": "MX Vice",
+      "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-26T19:32:57+00:00",
-      "excerpt": "Haiden Deegan and Julien Beaumer set the fastest times during qualifying for the SuperMotocross finale in Ridgedale. 450: 250: Photocredits \u2013 The post Deegan and Beaumer fastest in qualifying at Ridgedale appeared first on MX Vice .",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-450-1.jpg",
+      "author": "Mitch Kendra",
+      "published": "2026-09-25T12:00:00+00:00",
+      "excerpt": "Full race day and broadcast schedules, track map video, live timing link, and more for the big showdown at the SMX finale in Missouri.",
+      "image": "https://rx.iscdn.net/2026/09/337064_deeganalignmediasmx26losangeles052.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -4495,7 +4364,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
+        "racing": 0.94,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -4507,45 +4376,37 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.93,
-        "review": 0.02,
-        "comparison-test": 0.07,
-        "first-look": 0.03,
-        "ranked-list": 0.13,
+        "news": 0.32,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
+        "how-to": 0.19,
+        "explainer": 0.58,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.86,
-        "event-preview": 0.84,
-        "press-release": 0.22,
-        "digest": 0.09,
-        "photo-gallery": 0.2,
+        "event-report": 0.12,
+        "event-preview": 0.9,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.07,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.08
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.12,
       "tags": [
         "dirt-mx",
         "racing",
@@ -4638,428 +4499,17 @@
       "also": []
     },
     {
-      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
-      "title": "Video: SMX World Championship Final Preview and Injury Updates",
-      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Sarah Whitmore",
-      "published": "2026-09-25T14:00:00+00:00",
-      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.32,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.09,
-        "profile-interview": 0.07,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.96,
-        "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.56,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.79,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "56c84ade8216b4af1f82565e8f89e1bb3671d720",
-      "title": "2026 Ridgedale SMX \u2013 Latest News, Press Conference, & More",
-      "link": "https://mxvice.com/2026/09/26/2026-ridgedale-smx-latest-news-press-conference-more",
+      "id": "2134e30e8e2e0e759a6e468fcc2945a46274abd4",
+      "title": "Watch Motul ACU British Motocross Championship Blaxhall live",
+      "link": "https://mxvice.com/2026/09/27/watch-motul-acu-british-motocross-championship-blaxhall-live",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-26T11:37:26+00:00",
-      "excerpt": "We\u2019re in Ridgedale, Missouri for the final round of the 2026 SuperMotocross World Championship, where Media Day activities just wrapped up. Before racers hit the unique course for their opening laps of the weekend, we heard from championship points-leaders Jorge Prado and Levi Ki",
+      "published": "2026-09-27T09:47:09+00:00",
+      "excerpt": "One round left. One season\u2019s worth of drama still to settle \u2013 tune in for FREE! Seven rounds down, one to go. Tomorrow, the Motul ACU British Motocross Championship writes its final chapter of 2026 as the paddock descends on Blaxhall\u2019s famous sandy circuit, and while two crowns h",
       "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.32,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.21,
-        "event-preview": 0.95,
-        "press-release": 0.2,
-        "digest": 0.18,
-        "photo-gallery": 0.24,
-        "ride-report": 0.05,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.73,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.39,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "2ef1be38bd666f2b54b90815c8442ea928f7a35a",
-      "title": "Surra: \"The V4-S and the Superbike? The only thing they have in common is the Ducati name\u2014everything else is different.\"",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/surra-the-v4-s-and-the-superbike-the-only-thing-they-have-in-common-is-the-ducati-name-everything.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-25T17:03:12+00:00",
-      "excerpt": "\"The two bikes are totally different. I'm feeling confident about tomorrow, but I'm not saying anything. Today, my crew chief worked some magic on the bike.\"",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.91,
-        "motogp": 0.52,
-        "worldsbk-superbike": 0.83
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.37,
-        "review": 0.06,
-        "comparison-test": 0.1,
-        "first-look": 0.34,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.07,
-        "opinion": 0.35,
-        "profile-interview": 0.9,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.13,
-        "event-preview": 0.82,
-        "press-release": 0.08,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.05,
-        "history": 0.05,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.04,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "b78d9d6080d79f0507991318444582757e0a4324",
-      "title": "How to Watch: SMX World Championship Final TV Broadcast/Streaming Information",
-      "link": "https://racerxonline.com/2026/09/25/how-to-watch-smx-world-championship-final-tv-broadcast-streaming-information",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-25T12:00:00+00:00",
-      "excerpt": "Full race day and broadcast schedules, track map video, live timing link, and more for the big showdown at the SMX finale in Missouri.",
-      "image": "https://rx.iscdn.net/2026/09/337064_deeganalignmediasmx26losangeles052.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.32,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.19,
-        "explainer": 0.58,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.9,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.08
-      },
-      "multi_subject": 0.12,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "264f0134576b8381963eaea1e5271133dbe00670",
-      "title": "LIVE FP1 Cremona: minute-by-minute coverage",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/live-fp1-cremona-minute-by-minute-coverage.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-25T08:31:08+00:00",
-      "excerpt": "The Italian championship weekend kicks off. Bulega is gunning for the title, while Lecuona aims to postpone his teammate\u2019s celebration.",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.75,
-        "motogp": 0.94,
-        "worldsbk-superbike": 0.92
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.4,
-        "review": 0.02,
-        "comparison-test": 0.06,
-        "first-look": 0.05,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.14,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.23,
-        "event-preview": 0.75,
-        "press-release": 0.06,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
-      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
-      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-25T07:05:34+00:00",
-      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
       "audio": null,
       "categories": [
         {
@@ -5089,39 +4539,31 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.19,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.21,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
+        "first-look": 0.01,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.08,
+        "profile-interview": 0.04,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
+        "listing": 0.02,
+        "event-report": 0.08,
         "event-preview": 0.98,
-        "press-release": 0.91,
+        "press-release": 0.15,
         "digest": 0.04,
-        "photo-gallery": 0.03,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
+        "episode": 0.16,
         "build-feature": 0.01,
         "q-and-a": 0.01
       },
@@ -5219,16 +4661,104 @@
       "also": []
     },
     {
-      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
-      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
-      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
+      "id": "2ef1be38bd666f2b54b90815c8442ea928f7a35a",
+      "title": "Surra: \"The V4-S and the Superbike? The only thing they have in common is the Ducati name\u2014everything else is different.\"",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/surra-the-v4-s-and-the-superbike-the-only-thing-they-have-in-common-is-the-ducati-name-everything.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-25T17:03:12+00:00",
+      "excerpt": "\"The two bikes are totally different. I'm feeling confident about tomorrow, but I'm not saying anything. Today, my crew chief worked some magic on the bike.\"",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.91,
+        "motogp": 0.52,
+        "worldsbk-superbike": 0.83
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.37,
+        "review": 0.06,
+        "comparison-test": 0.1,
+        "first-look": 0.34,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.35,
+        "profile-interview": 0.9,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.13,
+        "event-preview": 0.82,
+        "press-release": 0.08,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.05,
+        "history": 0.05,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.04,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "05e09ef034187d162ebc557672aabfc303de00df",
+      "title": "Julien Beaumer joins Team USA for MX of Nations",
+      "link": "https://mxvice.com/2026/09/26/julien-beaumer-joins-team-usa-for-mx-of-nations",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-24T19:19:16+00:00",
-      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
+      "published": "2026-09-26T19:32:57+00:00",
+      "excerpt": "Due to the injury sustained by Chance Hymas, he will be unable to represent Team USA at the MX of Nations in Ern\u00e9e. The AMA has just announced that Julien Beaumer will replace Hymas in France. Beaumer will compete on a KTM 450F alongside Levi Kitchen and Cooper Webb. Photocredits",
       "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
@@ -5245,8 +4775,96 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.89,
+        "press-release": 0.73,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "Julien Beaumer In for Team USA Roster at Motocross of Nations In France This Weekend",
+          "link": "https://racerxonline.com/2026/09/29/julien-beaumer-in-for-team-usa-roster-at-motocross-of-nations-in-france-this-weekend",
+          "published": "2026-09-29T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "85e628ffacf7f3f175945212cf5577b49b5089bf",
+      "title": "SMX World Championship Final Full Friday and Saturday Schedules",
+      "link": "https://racerxonline.com/2026/09/24/smx-world-championship-final-full-friday-and-saturday-schedules",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mitch Kendra",
+      "published": "2026-09-24T19:10:00+00:00",
+      "excerpt": "What you need to know the most for the Monster Energy SMX World Championship Final on Saturday: the points-paying motos start just after 7 p.m. Eastern/4 p.m. Pacific on Peacock. Remember, you can every moto LIVE on Peacock.",
+      "image": "https://rx.iscdn.net/2026/09/337092_hampshirealignmediasmx26losangeles062.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
         "racing": 0.96,
-        "motocross-supercross": 0.95
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -5266,32 +4884,278 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.77,
         "review": 0.01,
-        "comparison-test": 0.03,
+        "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.92,
+        "press-release": 0.39,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "264f0134576b8381963eaea1e5271133dbe00670",
+      "title": "LIVE FP1 Cremona: minute-by-minute coverage",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/live-fp1-cremona-minute-by-minute-coverage.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-25T08:31:08+00:00",
+      "excerpt": "The Italian championship weekend kicks off. Bulega is gunning for the title, while Lecuona aims to postpone his teammate\u2019s celebration.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.75,
+        "motogp": 0.94,
+        "worldsbk-superbike": 0.92
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.4,
+        "review": 0.02,
+        "comparison-test": 0.06,
+        "first-look": 0.05,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.14,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.23,
+        "event-preview": 0.75,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "e34eba033b55d118b3f9c3995b75fdd3be91c936",
+      "title": "Deegan and Beaumer fastest in qualifying at Ridgedale",
+      "link": "https://mxvice.com/2026/09/26/deegan-and-beaumer-fastest-in-qualifying-at-ridgedale",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T19:32:57+00:00",
+      "excerpt": "Haiden Deegan and Julien Beaumer set the fastest times during qualifying for the SuperMotocross finale in Ridgedale. 450: 250: Photocredits \u2013 The post Deegan and Beaumer fastest in qualifying at Ridgedale appeared first on MX Vice .",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-450-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.07,
+        "first-look": 0.03,
+        "ranked-list": 0.13,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.04,
-        "opinion": 0.08,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.06,
-        "event-report": 0.03,
-        "event-preview": 0.98,
-        "press-release": 0.68,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.03,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.86,
+        "event-preview": 0.84,
+        "press-release": 0.22,
+        "digest": 0.09,
+        "photo-gallery": 0.2,
+        "ride-report": 0.02,
+        "history": 0.06,
         "rumor": 0.02,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "4c5281ea5f14f688b0e20f27986b3f2690abd5ce",
+      "title": "Vote: Who Wins the 450SMX Title? Who Wins the 250SMX Finale Overall? WMX Main Event?",
+      "link": "https://racerxonline.com/2026/09/24/vote-who-wins-the-450smx-title-who-wins-the-250smx-finale-overall-wmx-main-event",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mitch Kendra",
+      "published": "2026-09-24T18:00:00+00:00",
+      "excerpt": "Get in on the action! Give us your predictions on who will win this weekend.",
+      "image": "https://rx.iscdn.net/2026/09/337077_difrancescoalignmediasmx26losangeles017.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.06,
+        "review": 0.01,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.01,
+        "how-to": 0.03,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.93,
+        "press-release": 0.06,
+        "digest": 0.17,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.58,
       "tags": [
         "dirt-mx",
         "racing",
@@ -5384,98 +5248,17 @@
       "also": []
     },
     {
-      "id": "85e628ffacf7f3f175945212cf5577b49b5089bf",
-      "title": "SMX World Championship Final Full Friday and Saturday Schedules",
-      "link": "https://racerxonline.com/2026/09/24/smx-world-championship-final-full-friday-and-saturday-schedules",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-24T19:10:00+00:00",
-      "excerpt": "What you need to know the most for the Monster Energy SMX World Championship Final on Saturday: the points-paying motos start just after 7 p.m. Eastern/4 p.m. Pacific on Peacock. Remember, you can every moto LIVE on Peacock.",
-      "image": "https://rx.iscdn.net/2026/09/337092_hampshirealignmediasmx26losangeles062.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.77,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.92,
-        "press-release": 0.39,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
-      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
-      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
+      "id": "56c84ade8216b4af1f82565e8f89e1bb3671d720",
+      "title": "2026 Ridgedale SMX \u2013 Latest News, Press Conference, & More",
+      "link": "https://mxvice.com/2026/09/26/2026-ridgedale-smx-latest-news-press-conference-more",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-23T13:42:57+00:00",
-      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
+      "published": "2026-09-26T11:37:26+00:00",
+      "excerpt": "We\u2019re in Ridgedale, Missouri for the final round of the 2026 SuperMotocross World Championship, where Media Day activities just wrapped up. Before racers hit the unique course for their opening laps of the weekend, we heard from championship points-leaders Jorge Prado and Levi Ki",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
@@ -5491,8 +5274,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.97,
+        "motocross-supercross": 0.99
       },
       "subcategories": [
         {
@@ -5503,193 +5286,41 @@
       ],
       "forms": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.17,
-        "opinion": 0.48,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.78,
-        "press-release": 0.87,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.33,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "362897fdeff1994617b105716dc4986e876f1b5b",
-      "title": "MotoGP 1000 and 850 join forces for Pirelli tests at the Red Bull Ring: Acosta also on track",
-      "link": "https://www.gpone.com/en/2026/09/21/motogp/motogp-1000-and-850-join-forces-for-pirelli-tests-at-the-red-bull-ring-acosta-also-on-track.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-21T16:31:17+00:00",
-      "excerpt": "The final day of group practice sessions before the Valencia tests. Guevara and Agius get their first taste of 2027, while Moreira makes his debut on the 850. Morbidelli replaces Bulega on the Ducati.",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
+        },
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.03,
-        "comparison-test": 0.63,
-        "first-look": 0.74,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.32,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.47,
-        "event-preview": 0.75,
-        "press-release": 0.32,
-        "digest": 0.29,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.14,
-        "safety-notice": 0.03,
-        "episode": 0.04,
+        "event-report": 0.21,
+        "event-preview": 0.95,
+        "press-release": 0.2,
+        "digest": 0.18,
+        "photo-gallery": 0.24,
+        "ride-report": 0.05,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.73,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.37,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "4c5281ea5f14f688b0e20f27986b3f2690abd5ce",
-      "title": "Vote: Who Wins the 450SMX Title? Who Wins the 250SMX Finale Overall? WMX Main Event?",
-      "link": "https://racerxonline.com/2026/09/24/vote-who-wins-the-450smx-title-who-wins-the-250smx-finale-overall-wmx-main-event",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-24T18:00:00+00:00",
-      "excerpt": "Get in on the action! Give us your predictions on who will win this weekend.",
-      "image": "https://rx.iscdn.net/2026/09/337077_difrancescoalignmediasmx26losangeles017.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.06,
-        "review": 0.01,
-        "comparison-test": 0.06,
-        "first-look": 0.03,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.01,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.93,
-        "press-release": 0.06,
-        "digest": 0.17,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.58,
+      "multi_subject": 0.39,
       "tags": [
         "dirt-mx",
         "racing",
@@ -5779,6 +5410,166 @@
       "also": []
     },
     {
+      "id": "362897fdeff1994617b105716dc4986e876f1b5b",
+      "title": "MotoGP 1000 and 850 join forces for Pirelli tests at the Red Bull Ring: Acosta also on track",
+      "link": "https://www.gpone.com/en/2026/09/21/motogp/motogp-1000-and-850-join-forces-for-pirelli-tests-at-the-red-bull-ring-acosta-also-on-track.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-21T16:31:17+00:00",
+      "excerpt": "The final day of group practice sessions before the Valencia tests. Guevara and Agius get their first taste of 2027, while Moreira makes his debut on the 850. Morbidelli replaces Bulega on the Ducati.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.93
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.03,
+        "comparison-test": 0.63,
+        "first-look": 0.74,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.47,
+        "event-preview": 0.75,
+        "press-release": 0.32,
+        "digest": 0.29,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.14,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.37,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "c710a88b6e6eb556afacee7d51d129d8a4b01b66",
+      "title": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge",
+      "link": "https://mxvice.com/2026/09/25/top-womens-racers-set-for-postseason-showcase-with-wmx-invitational-powered-by-synchrony-at-thunder-ridge",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:05:34+00:00",
+      "excerpt": "Top Women\u2019s Racers Set for Postseason Showcase with WMX Invitational Powered by Synchrony at Thunder Ridge Three-Time Champion Lachlan Turner Headlines Field of 13 Athletes Following the most successful and most-watched season in the history of the Women\u2019s Motocross Championship ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Turner.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.21,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.98,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "9a9bd6db872cebd9f8389cb6c7bcfd2c8979d142",
       "title": "JT on What to Expect at the Brand-New Venue for the SMX World Championship Final",
       "link": "https://racerxonline.com/2026/09/24/jt-on-what-to-expect-at-the-brand-new-venue-for-the-smx-final",
@@ -5852,6 +5643,87 @@
         "q-and-a": 0.07
       },
       "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "f6631e32bdc3e009656c83f0bd6cb7008e7f240e",
+      "title": "Cooper Webb and Jeffrey Herlings to face each other in Italy",
+      "link": "https://mxvice.com/2026/09/24/cooper-webb-and-jeffrey-herlings-to-face-each-other-in-italy",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-24T19:19:16+00:00",
+      "excerpt": "Motocross fans can look forward to a very special battle. On October 10 and 11, Cooper Webb and Jeffrey Herlings will go head-to-head at an event in Arsago Seprio, Italy. The organizers are promoting the confrontation as a final, legendary battle between two greats of the sport. ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.08,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.68,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6018,6 +5890,162 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "27dd290a74c235461a490c5d593848ab0ff3d180",
+      "title": "THE UNSTOPPABLE FORCE: ARENACROSS BRITISH CHAMPIONSHIP CELEBRATES 13 YEARS OF UNRIVALLED INDOOR MOTOCROSS HISTORY",
+      "link": "https://mxvice.com/2026/09/23/the-unstoppable-force-arenacross-british-championship-celebrates-13-years-of-unrivalled-indoor-motocross-history",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-23T13:42:57+00:00",
+      "excerpt": "The Arenacross British Championship is officially back for 2027, solidifying its legacy as Europe\u2019s ultimate indoor motocross spectacle. Born in 2013 inside London\u2019s iconic O2 Arena , the championship has spent over a decade rewriting the motorsport rulebook. Spanning 13 consecut",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/AX_WEMBLEY_24_TOP-100_SOCIAL-80.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.43,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.17,
+        "opinion": 0.48,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.78,
+        "press-release": 0.87,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.33,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "a1a485df1fd797627a0d9d039fb90710cf337a34",
+      "title": "MotoGP boss: The idea is to hold the Qatar GP as planned",
+      "link": "https://www.autosport.com/motogp/news/motogp-boss-the-idea-is-to-hold-the-qatar-gp-as-planned-in-november/10857248",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-19T16:14:44+00:00",
+      "excerpt": "MotoGP boss Carmelo Ezpeleta says the \u201cidea is to go\u201d to Qatar for the Grand Prix scheduled for 8 November, despite the ongoing conflict in the Middle East. The conflict in the region has put several motorsport events in the Middle East at risk this year, with the Formula 1 race ",
+      "image": "https://cdn-3.motorsport.com/images/amp/Y99KkdxY/s6/pedro-acosta-red-bull-ktm-fact.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.09,
+        "profile-interview": 0.45,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.91,
+        "press-release": 0.28,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
