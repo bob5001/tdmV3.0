@@ -388,45 +388,36 @@
       "also": []
     },
     {
-      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
-      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
-      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "id": "df24f3c46547bb45bf775e93b798a17c8c15cfa8",
+      "title": "Triumph refines its MX2 title-winning TF 250-X for 2027",
+      "link": "https://www.mcnews.com.au/2027-triumph-tf-250-x",
       "lang": "en",
       "source": "MCNews Australia",
       "ownership": "independent",
       "media": "article",
       "author": "Trev",
-      "published": "2026-09-21T03:33:34+00:00",
-      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "published": "2026-09-29T15:39:26+00:00",
+      "excerpt": "Triumph updates the TF 250-X for 2027 with revised engine mapping, new clutch and gearchange components, updated KYB suspension settings and new Neken triple clamps. All-black bodywork completes the package, with Australian pricing still to be confirmed. The post Triumph refines ",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2027-Triumph-TF-250-X-13.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "adventure",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.91,
-        "events-rides": 0.81,
-        "dirt-mx": 0.74
+        "dirt-mx": 0.98,
+        "new-models": 0.92
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
         {
           "slug": "news",
           "label": "News"
@@ -437,38 +428,44 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.05,
-        "comparison-test": 0.07,
-        "first-look": 0.05,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
+        "news": 0.92,
+        "review": 0.14,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.14,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.07,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.97,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.04,
         "press-release": 0.85,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.03,
-        "episode": 0.04,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.19,
+        "safety-notice": 0.02,
+        "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
-        "adventure",
-        "events-rides",
-        "dirt-mx"
+        "dirt-mx",
+        "new-models"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Triumph launches updated TF 250-X following maiden MX2 title win",
+          "link": "https://www.visordown.com/news/triumph-launches-updated-tf-250-x-following-maiden-mx2-title-win",
+          "published": "2026-09-29T15:36:35+00:00"
+        }
+      ]
     },
     {
       "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
@@ -1459,6 +1456,89 @@
         "dirt-mx",
         "industry",
         "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
+      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
+      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-21T03:33:34+00:00",
+      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.91,
+        "events-rides": 0.81,
+        "dirt-mx": 0.74
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.05,
+        "comparison-test": 0.07,
+        "first-look": 0.05,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.97,
+        "press-release": 0.85,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "events-rides",
+        "dirt-mx"
       ],
       "also": []
     },
