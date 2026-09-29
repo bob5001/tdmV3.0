@@ -598,77 +598,6 @@
       "also": []
     },
     {
-      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
-      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
-      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T06:40:57+00:00",
-      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.93,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.54,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.09,
-        "explainer": 0.31,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.96,
-        "press-release": 0.11,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.08
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "405e535c9ee214a64f04a81f901604bcf5140360",
       "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
       "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
@@ -858,6 +787,87 @@
           "published": "2026-09-26T01:05:03+00:00"
         }
       ]
+    },
+    {
+      "id": "7b2c9d8e85388ae6021c2045b42c68129a9fa7ef",
+      "title": "Jorge Martin: \u201cExtremely important stage\u201d of MotoGP title fight begins",
+      "link": "https://www.crash.net/motogp/news/1105885/1/jorge-martin-extremely-important-stage-motogp-title-fight-begins",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-29T08:45:05+00:00",
+      "excerpt": "Jorge Martin says an \u201cextremely important stage\u201d of the 2026 MotoGP title fight begins at Motegi.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345939_hires_1600x900_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.5,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.55,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.27,
+        "profile-interview": 0.75,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.86,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "b5437ac159de64703014b5d37532f0762e51198a",
@@ -1451,91 +1461,6 @@
       "also": []
     },
     {
-      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
-      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
-      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T15:19:33+00:00",
-      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.83,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.81,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.82,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "4f0746fd1904764ba33977caf9417a977d1e0ca2",
       "title": "Preview: Nelson International Raceway 50th Anniversary Celebration",
       "link": "https://www.insidemotorcycles.com/preview-nelson-international-raceway-50th-anniversary-celebration",
@@ -1836,6 +1761,77 @@
         "adventure",
         "events-rides",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
+      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
+      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T06:40:57+00:00",
+      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.93,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.54,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.09,
+        "explainer": 0.31,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.96,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -2375,6 +2371,91 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
+      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
+      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:19:33+00:00",
+      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.81,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.1,
+        "event-preview": 0.82,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
