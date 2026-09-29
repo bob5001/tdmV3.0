@@ -863,70 +863,6 @@
       "also": []
     },
     {
-      "id": "46721054cba84596f588a03180380497a4f344f2",
-      "title": "There\u2019s Always A Motorcycle: The Thing With Two Heads",
-      "link": "https://thevintagent.com/2026/09/23/theres-always-a-motorcycle-the-thing-with-two-heads",
-      "lang": "en",
-      "source": "The Vintagent",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Corinna Mantlo",
-      "published": "2026-09-23T13:28:08+00:00",
-      "excerpt": "Is this some kind of joke! The post There\u2019s Always A Motorcycle: The Thing With Two Heads first appeared on The Vintagent .",
-      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "classic",
-      "confident": false,
-      "cat_scores": {
-        "classic": 0.67,
-        "custom": 0.63
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.14,
-        "review": 0.25,
-        "comparison-test": 0.16,
-        "first-look": 0.17,
-        "ranked-list": 0.18,
-        "buyers-guide": 0.15,
-        "how-to": 0.11,
-        "explainer": 0.28,
-        "opinion": 0.39,
-        "profile-interview": 0.22,
-        "tribute": 0.19,
-        "listing": 0.27,
-        "event-report": 0.14,
-        "event-preview": 0.06,
-        "press-release": 0.09,
-        "digest": 0.27,
-        "photo-gallery": 0.44,
-        "ride-report": 0.34,
-        "history": 0.53,
-        "rumor": 0.18,
-        "safety-notice": 0.07,
-        "episode": 0.12,
-        "build-feature": 0.47,
-        "q-and-a": 0.25
-      },
-      "multi_subject": 0.25,
-      "tags": [
-        "classic",
-        "custom"
-      ],
-      "also": []
-    },
-    {
       "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
       "title": "BMW R100 by Bolt Motor Company.",
       "link": "https://pipeburn.com/bmw-r100-bolt",
@@ -991,6 +927,69 @@
       "multi_subject": 0.05,
       "tags": [
         "custom",
+        "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "e2129ea8f7888182217b7629dca990c95d5cc93f",
+      "title": "Still Running: The Grampian Motorcycle Club",
+      "link": "https://thevintagent.com/2026/09/29/still-running-the-grampian-motorcycle-club",
+      "lang": "en",
+      "source": "The Vintagent",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Paul d'Orl\u00e9ans",
+      "published": "2026-09-29T21:44:07+00:00",
+      "excerpt": "I was particularly interested in nostalgia within motorcycle culture. A few of my subjects do not ride their bikes anymore, but once consumed their whole lives The post Still Running: The Grampian Motorcycle Club first appeared on The Vintagent .",
+      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "classic",
+      "confident": false,
+      "cat_scores": {
+        "classic": 0.64
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.14,
+        "opinion": 0.33,
+        "profile-interview": 0.76,
+        "tribute": 0.31,
+        "listing": 0.03,
+        "event-report": 0.1,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.15,
+        "ride-report": 0.19,
+        "history": 0.45,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.08,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.07,
+      "tags": [
         "classic"
       ],
       "also": []
@@ -1288,6 +1287,70 @@
         "for-sale",
         "classic",
         "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "46721054cba84596f588a03180380497a4f344f2",
+      "title": "There\u2019s Always A Motorcycle: The Thing With Two Heads",
+      "link": "https://thevintagent.com/2026/09/23/theres-always-a-motorcycle-the-thing-with-two-heads",
+      "lang": "en",
+      "source": "The Vintagent",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Corinna Mantlo",
+      "published": "2026-09-23T13:28:08+00:00",
+      "excerpt": "Is this some kind of joke! The post There\u2019s Always A Motorcycle: The Thing With Two Heads first appeared on The Vintagent .",
+      "image": "https://thevintagent.com/dev/wp-content/uploads/2017/03/vintagent-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "classic",
+      "confident": false,
+      "cat_scores": {
+        "classic": 0.67,
+        "custom": 0.63
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.25,
+        "comparison-test": 0.16,
+        "first-look": 0.17,
+        "ranked-list": 0.18,
+        "buyers-guide": 0.15,
+        "how-to": 0.11,
+        "explainer": 0.28,
+        "opinion": 0.39,
+        "profile-interview": 0.22,
+        "tribute": 0.19,
+        "listing": 0.27,
+        "event-report": 0.14,
+        "event-preview": 0.06,
+        "press-release": 0.09,
+        "digest": 0.27,
+        "photo-gallery": 0.44,
+        "ride-report": 0.34,
+        "history": 0.53,
+        "rumor": 0.18,
+        "safety-notice": 0.07,
+        "episode": 0.12,
+        "build-feature": 0.47,
+        "q-and-a": 0.25
+      },
+      "multi_subject": 0.25,
+      "tags": [
+        "classic",
+        "custom"
       ],
       "also": []
     },
