@@ -3,6 +3,94 @@
   "label": "Tribute",
   "items": [
     {
+      "id": "219e0d07724d1324494bacd67f4deec627c258be",
+      "title": "EAB Racing in mourning: Paolo Cristante has passed away",
+      "link": "https://www.gpone.com/en/2026/09/30/wsbk/eab-racing-in-mourning-paolo-cristante-has-passed-away.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-30T16:40:19+00:00",
+      "excerpt": "The Dutch team announced the passing of Cristante after the Cremona race weekend. This is another serious loss for the team, which will be retiring at the end of the season.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.59,
+        "motogp": 0.76,
+        "worldsbk-superbike": 0.61
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.93,
+        "listing": 0.01,
+        "event-report": 0.17,
+        "event-preview": 0.05,
+        "press-release": 0.63,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.2,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "405e535c9ee214a64f04a81f901604bcf5140360",
       "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
       "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
