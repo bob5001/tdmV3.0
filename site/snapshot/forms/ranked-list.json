@@ -3,79 +3,6 @@
   "label": "Ten Best",
   "items": [
     {
-      "id": "a929070121d6258a71da4b43eb7e815c20083e43",
-      "title": "BEST OF JODY\u2019S BOX: MOTOCROSS IS 25% MACHINE, 75% MAN & 100% MONEY",
-      "link": "https://motocrossactionmag.com/best-of-jodys-box-motocross-is-25-machine-75-man-100-money",
-      "lang": "en",
-      "source": "Motocross Action",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Jody Weisel",
-      "published": "2026-09-24T13:15:33+00:00",
-      "excerpt": "BY JODY WEISEL Motocross is 25 percent machine and 75 percent man. In admiration of that old saw of information I feel that I have given short shrift to the widgets of the rich and famous; the Maltese Falcons; the Holy Grails; the stuff of dreams. In other words\u2014hard parts. Here ",
-      "image": "https://motocrossactionmag.com/wp-content/uploads/2022/10/JODY-DERBI-150x150.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "gear": 0.57
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.02,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.88,
-        "buyers-guide": 0.1,
-        "how-to": 0.11,
-        "explainer": 0.25,
-        "opinion": 0.8,
-        "profile-interview": 0.07,
-        "tribute": 0.25,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.02,
-        "digest": 0.6,
-        "photo-gallery": 0.02,
-        "ride-report": 0.04,
-        "history": 0.09,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.93,
-      "tags": [
-        "dirt-mx",
-        "gear"
-      ],
-      "also": []
-    },
-    {
       "id": "d90698149adcdcaa98a18b66f94f13081092be84",
       "title": "Streetfighters, retro racers and rally builds: Honda Customs winners",
       "link": "https://www.mcnews.com.au/honda-customs-2026-winners-mugen-hornet-saharja",
@@ -143,6 +70,87 @@
       "multi_subject": 0.22,
       "tags": [
         "custom"
+      ],
+      "also": []
+    },
+    {
+      "id": "b81013dcf5df02fcc93c15359972746dce8dbc94",
+      "title": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS",
+      "link": "https://motocrossactionmag.com/mxa-fantasy-league-the-winner-of-the-ridgedale-smx-scored-301-points",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-29T23:49:11+00:00",
+      "excerpt": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS Motoguy came out on top at the final round of the 2026 SuperMotocross Playoffs at Thunder Ridge in Ridgedale, Missouri, taking the weekly MXA Fantasy win and earning two free oil change kits courtesy of Motorex",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/JORGE-PRADO-RED-BULL-KTM-FACTORY-RACING-RIDGEDALE-150x150.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.81,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.04,
+        "press-release": 0.12,
+        "digest": 0.27,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.27,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -447,6 +455,79 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "a929070121d6258a71da4b43eb7e815c20083e43",
+      "title": "BEST OF JODY\u2019S BOX: MOTOCROSS IS 25% MACHINE, 75% MAN & 100% MONEY",
+      "link": "https://motocrossactionmag.com/best-of-jodys-box-motocross-is-25-machine-75-man-100-money",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Jody Weisel",
+      "published": "2026-09-24T13:15:33+00:00",
+      "excerpt": "BY JODY WEISEL Motocross is 25 percent machine and 75 percent man. In admiration of that old saw of information I feel that I have given short shrift to the widgets of the rich and famous; the Maltese Falcons; the Holy Grails; the stuff of dreams. In other words\u2014hard parts. Here ",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2022/10/JODY-DERBI-150x150.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "gear": 0.57
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.88,
+        "buyers-guide": 0.1,
+        "how-to": 0.11,
+        "explainer": 0.25,
+        "opinion": 0.8,
+        "profile-interview": 0.07,
+        "tribute": 0.25,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.02,
+        "digest": 0.6,
+        "photo-gallery": 0.02,
+        "ride-report": 0.04,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.93,
+      "tags": [
+        "dirt-mx",
+        "gear"
       ],
       "also": []
     },
