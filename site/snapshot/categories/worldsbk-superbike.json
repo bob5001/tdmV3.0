@@ -93,17 +93,17 @@
       ]
     },
     {
-      "id": "884895250f8342febb428a75ec9bd6bca2bf1d47",
-      "title": "BSB Assen: Scott Redding wins red flagged Sprint race",
-      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/scott-redding-assen-sprint-win",
+      "id": "0dd3aaf10dc89647cec0b9bd7f71d8f23c92a6eb",
+      "title": "BSB: Max Cook and Joe Talbot to remain with AJN Steelstock bimota next season",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/max-cook-joe-talbot-bimota-2027",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-20T13:29:50+00:00",
-      "excerpt": "Scott Redding doubled up in the shortened British Superbike Championship Sprint race at Assen as rain brought a premature end to proceedings. Redding, who also dominated Race One, led the entire...",
-      "image": "https://www.motorcyclenews.com/wp-images/438635/390x260/scott-redding-assen-race-two.jpg",
+      "published": "2026-09-30T09:25:03+00:00",
+      "excerpt": "Max Cook and Joe Talbot will both continue to represent the AJN Steelstock bimota team in the British Superbike Championship next year. After switching from Kawasaki to bimota for the 2025 season,...",
+      "image": "https://www.motorcyclenews.com/wp-images/440263/390x260/max-cook-joe-talbot-bimota-2027.jpg",
       "audio": null,
       "categories": [
         {
@@ -119,7 +119,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "sport-bikes": 0.94,
+        "sport-bikes": 0.95,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -131,10 +131,6 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "news",
           "label": "News"
         }
@@ -142,30 +138,30 @@
       "form_scores": {
         "news": 0.93,
         "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
         "how-to": 0.01,
         "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.14,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.07,
-        "rumor": 0.01,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.13,
+        "press-release": 0.56,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -400,6 +396,87 @@
         "q-and-a": 0.03
       },
       "multi_subject": 0.12,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "884895250f8342febb428a75ec9bd6bca2bf1d47",
+      "title": "BSB Assen: Scott Redding wins red flagged Sprint race",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/scott-redding-assen-sprint-win",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-20T13:29:50+00:00",
+      "excerpt": "Scott Redding doubled up in the shortened British Superbike Championship Sprint race at Assen as rain brought a premature end to proceedings. Redding, who also dominated Race One, led the entire...",
+      "image": "https://www.motorcyclenews.com/wp-images/438635/390x260/scott-redding-assen-race-two.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
