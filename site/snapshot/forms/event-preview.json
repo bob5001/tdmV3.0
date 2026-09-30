@@ -3,6 +3,87 @@
   "label": "Event Preview",
   "items": [
     {
+      "id": "cde8793c60a6fc53fa97eba9682a40d8d524682a",
+      "title": "Super Stats: 2026 Motocross of Nations Preview and Stats Breakdown",
+      "link": "https://pulpmx.com/2026/09/29/super-stats-2026-motocross-of-nations-preview-and-stats-breakdown",
+      "lang": "en",
+      "source": "PulpMX",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Nick Taylor",
+      "published": "2026-09-30T01:30:27+00:00",
+      "excerpt": "The best race of the year is here! I absolutely love the Motocross of Nations and can\u2019t wait to watch despite the USA not sending their best team. This year France hosts and the race is in Ernee. This is the 4th time Ernee has hosted the MXoN as a venue. The previous times were: ",
+      "image": "https://pulpmx.com/app/uploads/2023/10/Super-Stats-1.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.85,
+        "opinion": 0.33,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.98,
+        "press-release": 0.04,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "feec8e6208884917833ad46e352d99c0bc591d9e",
       "title": "[News Release]Yamaha Motor\u2019s YE-01 Racing Concept to Make Exhibition Run at MXoN 2026- Initiative aimed at competing in the MXEP electric motocross racing series -",
       "link": "https://global.yamaha-motor.com/news/2026/0928/ye01.html?RSS=ON",
