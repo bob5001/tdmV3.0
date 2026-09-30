@@ -103,17 +103,17 @@
       ]
     },
     {
-      "id": "796a59018c8d3132b3f15062d6fc75c514678680",
-      "title": "Kawasaki Rider Ricky Russell Wins the Corduroy Enduro",
-      "link": "https://www.insidemotorcycles.com/kawasaki-rider-ricky-russell-wins-the-corduroy-enduro",
+      "id": "659b1ac5b0fc9737911ed5f796f0146db1511de3",
+      "title": "KTM THANKS AARON PLESSINGER FOR FIVE SUCCESSFUL SEASONS",
+      "link": "https://www.insidemotorcycles.com/ktm-thanks-aaron-plessinger-for-five-successful-seasons",
       "lang": "en",
       "source": "Inside Motorcycles",
       "ownership": "independent",
       "media": "article",
       "author": "Patrick Lambie",
-      "published": "2026-09-22T18:46:06+00:00",
-      "excerpt": "Ricky Russell has won the 2026 Corduroy Enduro aboard his Kawasaki KX450, beating out Canada\u2019s Tyler Medaglia and fellow US rider Tyler Vore. In claiming victory, Ricky also put his name on the $10,000 contingency prize from Kawasaki, part of more than $40,000 in available contin",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-scaled.jpg",
+      "published": "2026-09-30T02:07:10+00:00",
+      "excerpt": "Red Bull KTM Factory Racing extends its appreciation to Aaron Plessinger following five successful seasons together, with the partnership delivering an impressive catalog of race results across AMA Supercross and Pro Motocross. \u2018The Cowboy\u2019 continues to be one of the most popular",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/AARON-PLESSINGER-RED-BULL-KTM-FACTORY-RACING-scaled.jpg",
       "audio": null,
       "categories": [
         {
@@ -129,13 +129,20 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 0.98,
-        "racing": 0.96
+        "racing": 0.97,
+        "motocross-supercross": 0.99
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "press-release",
+          "label": "Announcement"
         },
         {
           "slug": "news",
@@ -143,35 +150,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.03,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.05,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.12,
-        "tribute": 0.02,
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.09,
+        "profile-interview": 0.43,
+        "tribute": 0.35,
         "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.04,
-        "press-release": 0.51,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.07,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.94,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.36,
         "rumor": 0.02,
-        "safety-notice": 0.02,
+        "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
-        "racing"
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -977,6 +985,79 @@
           "published": "2026-09-29T16:50:00+00:00"
         }
       ]
+    },
+    {
+      "id": "796a59018c8d3132b3f15062d6fc75c514678680",
+      "title": "Kawasaki Rider Ricky Russell Wins the Corduroy Enduro",
+      "link": "https://www.insidemotorcycles.com/kawasaki-rider-ricky-russell-wins-the-corduroy-enduro",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-22T18:46:06+00:00",
+      "excerpt": "Ricky Russell has won the 2026 Corduroy Enduro aboard his Kawasaki KX450, beating out Canada\u2019s Tyler Medaglia and fellow US rider Tyler Vore. In claiming victory, Ricky also put his name on the $10,000 contingency prize from Kawasaki, part of more than $40,000 in available contin",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.98,
+        "racing": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.04,
+        "press-release": 0.51,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing"
+      ],
+      "also": []
     },
     {
       "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",

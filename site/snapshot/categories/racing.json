@@ -16,7 +16,7 @@
     {
       "slug": "motocross-supercross",
       "label": "Motocross & Supercross",
-      "count": 119
+      "count": 120
     }
   ],
   "items": [
@@ -545,6 +545,87 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.08,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "659b1ac5b0fc9737911ed5f796f0146db1511de3",
+      "title": "KTM THANKS AARON PLESSINGER FOR FIVE SUCCESSFUL SEASONS",
+      "link": "https://www.insidemotorcycles.com/ktm-thanks-aaron-plessinger-for-five-successful-seasons",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-30T02:07:10+00:00",
+      "excerpt": "Red Bull KTM Factory Racing extends its appreciation to Aaron Plessinger following five successful seasons together, with the partnership delivering an impressive catalog of race results across AMA Supercross and Pro Motocross. \u2018The Cowboy\u2019 continues to be one of the most popular",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/AARON-PLESSINGER-RED-BULL-KTM-FACTORY-RACING-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.98,
+        "racing": 0.97,
+        "motocross-supercross": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.09,
+        "profile-interview": 0.43,
+        "tribute": 0.35,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.94,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.36,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1622,69 +1703,6 @@
       "also": []
     },
     {
-      "id": "4f0746fd1904764ba33977caf9417a977d1e0ca2",
-      "title": "Preview: Nelson International Raceway 50th Anniversary Celebration",
-      "link": "https://www.insidemotorcycles.com/preview-nelson-international-raceway-50th-anniversary-celebration",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-23T23:19:59+00:00",
-      "excerpt": "The completion of the Canadian motorcycle road racing championship year will take place this weekend at Shannonville Motorsport Park, with the last round of the RACE Moto Regional series, the celebration event for the 50th Anniversary of Nelson International Raceway. S.M.P. was o",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/1976-Victoria-Day-Sprints-Mosport-winner-Jim-Alen-Elgi-Yam-TZ750-leads-DNF-Ycon-Duhamel-works-Kawasaki-KR750-triple-by-Bill-Petro-May.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.93
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.63,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.06,
-        "profile-interview": 0.07,
-        "tribute": 0.35,
-        "listing": 0.02,
-        "event-report": 0.1,
-        "event-preview": 0.98,
-        "press-release": 0.4,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.03,
-        "history": 0.2,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "7d71e42bafadf29eea2256b07c3e71a12a2dc44d",
       "title": "RED BULL KTM FACTORY RACING\u2019S JORGE PRADO CROWNED 2026 SMX WORLD CHAMPION",
       "link": "https://www.mxpmag.com/red-bull-ktm-factory-racings-jorge-prado-crowned-2026-smx-world-champion",
@@ -2561,74 +2579,64 @@
       "also": []
     },
     {
-      "id": "796a59018c8d3132b3f15062d6fc75c514678680",
-      "title": "Kawasaki Rider Ricky Russell Wins the Corduroy Enduro",
-      "link": "https://www.insidemotorcycles.com/kawasaki-rider-ricky-russell-wins-the-corduroy-enduro",
+      "id": "4f0746fd1904764ba33977caf9417a977d1e0ca2",
+      "title": "Preview: Nelson International Raceway 50th Anniversary Celebration",
+      "link": "https://www.insidemotorcycles.com/preview-nelson-international-raceway-50th-anniversary-celebration",
       "lang": "en",
       "source": "Inside Motorcycles",
       "ownership": "independent",
       "media": "article",
       "author": "Patrick Lambie",
-      "published": "2026-09-22T18:46:06+00:00",
-      "excerpt": "Ricky Russell has won the 2026 Corduroy Enduro aboard his Kawasaki KX450, beating out Canada\u2019s Tyler Medaglia and fellow US rider Tyler Vore. In claiming victory, Ricky also put his name on the $10,000 contingency prize from Kawasaki, part of more than $40,000 in available contin",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-scaled.jpg",
+      "published": "2026-09-23T23:19:59+00:00",
+      "excerpt": "The completion of the Canadian motorcycle road racing championship year will take place this weekend at Shannonville Motorsport Park, with the last round of the RACE Moto Regional series, the celebration event for the 50th Anniversary of Nelson International Raceway. S.M.P. was o",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/1976-Victoria-Day-Sprints-Mosport-winner-Jim-Alen-Elgi-Yam-TZ750-leads-DNF-Ycon-Duhamel-works-Kawasaki-KR750-triple-by-Bill-Petro-May.jpg",
       "audio": null,
       "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
         {
           "slug": "racing",
           "label": "Racing"
         }
       ],
-      "primary": "dirt-mx",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.98,
-        "racing": 0.96
+        "racing": 0.93
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.03,
-        "comparison-test": 0.04,
+        "news": 0.63,
+        "review": 0.02,
+        "comparison-test": 0.02,
         "first-look": 0.03,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.12,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.04,
-        "press-release": 0.51,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.07,
+        "explainer": 0.13,
+        "opinion": 0.06,
+        "profile-interview": 0.07,
+        "tribute": 0.35,
+        "listing": 0.02,
+        "event-report": 0.1,
+        "event-preview": 0.98,
+        "press-release": 0.4,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.2,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
-        "dirt-mx",
         "racing"
       ],
       "also": []
@@ -3616,179 +3624,6 @@
       "also": []
     },
     {
-      "id": "a45fe81399169249cebeb90ab1cea17c8c78bd66",
-      "title": "Multistrada V4 Pikes Peak 2027",
-      "link": "https://www.insidemotorcycles.com/multistrada-v4-pikes-peak-2027",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-24T20:01:08+00:00",
-      "excerpt": "In its Centenary year, Ducati unveils a new livery for the Multistrada V4 Pikes Peak, drawing its inspiration from the Desmosedici GP and Panigale V4 R machines raced by the official Ducati teams in the MotoGP and Superbike World Championships. The V4 Pikes Peak is the Multistrad",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/04_-_MY27_MULTISTRADA_V4_PIKES_PEAK_STATICS_5-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "adventure",
-      "confident": false,
-      "cat_scores": {
-        "adventure": 0.67,
-        "new-models": 0.62,
-        "racing": 0.54,
-        "sport-bikes": 0.52
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.16,
-        "comparison-test": 0.03,
-        "first-look": 0.24,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.1,
-        "how-to": 0.02,
-        "explainer": 0.21,
-        "opinion": 0.07,
-        "profile-interview": 0.1,
-        "tribute": 0.08,
-        "listing": 0.03,
-        "event-report": 0.08,
-        "event-preview": 0.22,
-        "press-release": 0.87,
-        "digest": 0.08,
-        "photo-gallery": 0.13,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.29,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "new-models",
-        "racing",
-        "sport-bikes"
-      ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Ducati Multistrada V4 Pikes Peak gets MotoGP-inspired makeover",
-          "link": "https://www.visordown.com/news/ducati-multistrada-v4-pikes-peak-gets-motogp-inspired-makeover",
-          "published": "2026-09-24T14:17:46+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Gallery: 2027 Ducati Multistrada V4 Pikes Peak revealed in new racing paint job",
-          "link": "https://www.motorcyclenews.com/news/2026/september/ducati-multistrada-v4-pikes-peak-new-colours",
-          "published": "2026-09-24T16:32:54+00:00"
-        }
-      ]
-    },
-    {
-      "id": "afd493a44a383dbadeb5f90d69984d6cd60a2ec1",
-      "title": "MotoGP 2026: Round 15 Team Race Reports",
-      "link": "https://www.insidemotorcycles.com/motogp-2026-round-15-team-race-reports",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-20T21:10:57+00:00",
-      "excerpt": "Ducati Lenovo The Ducati Lenovo Team completed the Austrian Grand Prix, the fifteenth round of the season. At the Red Bull Ring, Marc M\u00e1rquez finished the race in fifth position, while Francesco Bagnaia crossed the finish line seventh. M\u00e1rquez, after a good start, lost three posi",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/yfr_editorial_use_pictures_201926703742-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.82,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.02,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.04,
-        "press-release": 0.34,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.12,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "884895250f8342febb428a75ec9bd6bca2bf1d47",
       "title": "BSB Assen: Scott Redding wins red flagged Sprint race",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/scott-redding-assen-sprint-win",
@@ -3866,6 +3701,79 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "796a59018c8d3132b3f15062d6fc75c514678680",
+      "title": "Kawasaki Rider Ricky Russell Wins the Corduroy Enduro",
+      "link": "https://www.insidemotorcycles.com/kawasaki-rider-ricky-russell-wins-the-corduroy-enduro",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-22T18:46:06+00:00",
+      "excerpt": "Ricky Russell has won the 2026 Corduroy Enduro aboard his Kawasaki KX450, beating out Canada\u2019s Tyler Medaglia and fellow US rider Tyler Vore. In claiming victory, Ricky also put his name on the $10,000 contingency prize from Kawasaki, part of more than $40,000 in available contin",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/Untitled-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.98,
+        "racing": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.04,
+        "press-release": 0.51,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing"
       ],
       "also": []
     },
@@ -4772,6 +4680,179 @@
         "events-rides",
         "adventure",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "a45fe81399169249cebeb90ab1cea17c8c78bd66",
+      "title": "Multistrada V4 Pikes Peak 2027",
+      "link": "https://www.insidemotorcycles.com/multistrada-v4-pikes-peak-2027",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-24T20:01:08+00:00",
+      "excerpt": "In its Centenary year, Ducati unveils a new livery for the Multistrada V4 Pikes Peak, drawing its inspiration from the Desmosedici GP and Panigale V4 R machines raced by the official Ducati teams in the MotoGP and Superbike World Championships. The V4 Pikes Peak is the Multistrad",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/04_-_MY27_MULTISTRADA_V4_PIKES_PEAK_STATICS_5-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.67,
+        "new-models": 0.62,
+        "racing": 0.54,
+        "sport-bikes": 0.52
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.16,
+        "comparison-test": 0.03,
+        "first-look": 0.24,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.1,
+        "how-to": 0.02,
+        "explainer": 0.21,
+        "opinion": 0.07,
+        "profile-interview": 0.1,
+        "tribute": 0.08,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.22,
+        "press-release": 0.87,
+        "digest": 0.08,
+        "photo-gallery": 0.13,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.29,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
+        "racing",
+        "sport-bikes"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Ducati Multistrada V4 Pikes Peak gets MotoGP-inspired makeover",
+          "link": "https://www.visordown.com/news/ducati-multistrada-v4-pikes-peak-gets-motogp-inspired-makeover",
+          "published": "2026-09-24T14:17:46+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Gallery: 2027 Ducati Multistrada V4 Pikes Peak revealed in new racing paint job",
+          "link": "https://www.motorcyclenews.com/news/2026/september/ducati-multistrada-v4-pikes-peak-new-colours",
+          "published": "2026-09-24T16:32:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": "afd493a44a383dbadeb5f90d69984d6cd60a2ec1",
+      "title": "MotoGP 2026: Round 15 Team Race Reports",
+      "link": "https://www.insidemotorcycles.com/motogp-2026-round-15-team-race-reports",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-20T21:10:57+00:00",
+      "excerpt": "Ducati Lenovo The Ducati Lenovo Team completed the Austrian Grand Prix, the fifteenth round of the season. At the Red Bull Ring, Marc M\u00e1rquez finished the race in fifth position, while Francesco Bagnaia crossed the finish line seventh. M\u00e1rquez, after a good start, lost three posi",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/yfr_editorial_use_pictures_201926703742-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.94,
+        "event-preview": 0.04,
+        "press-release": 0.34,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.12,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
