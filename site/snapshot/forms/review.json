@@ -216,17 +216,17 @@
       "also": []
     },
     {
-      "id": "5ae3681395f7c3e34f91e563eee65c92683b9d62",
-      "title": "Royal Enfield Flying Flea C6 (2026) Review",
-      "link": "https://www.visordown.com/reviews/royal-enfield-flying-flea-c6-2026-review-road-test",
+      "id": "8d5f4b9a18acea67249665283ddefaac891afe81",
+      "title": "LiveWire S4 Honcho Trail review",
+      "link": "https://www.visordown.com/reviews/livewire-s4-honcho-trail-review",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-21T07:00:00+00:00",
-      "excerpt": "We ride the \u00a35,300 Flying Flea C6 to see if Royal Enfield has cracked the lightweight electric motorcycle formula.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/ja_flying_flea_paris-7406-large_0.jpeg?width=1200",
+      "published": "2026-09-30T16:28:28+00:00",
+      "excerpt": "The LiveWire S4 Honcho Trail is a tiny electric off-roader with 14.6bhp, 30Nm of torque, 73 miles of claimed range and a distinctly mischievous character.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/andrea_vailetti-97.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -234,66 +234,67 @@
           "label": "Electric"
         },
         {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
       "primary": "electric",
       "confident": true,
       "cat_scores": {
         "electric": 0.97,
-        "new-models": 0.94
+        "dirt-mx": 0.9,
+        "new-models": 0.89,
+        "adventure": 0.78
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "review",
           "label": "Review"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
         }
       ],
       "form_scores": {
-        "news": 0.08,
-        "review": 0.98,
+        "news": 0.07,
+        "review": 0.97,
         "comparison-test": 0.07,
-        "first-look": 0.77,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.59,
-        "how-to": 0.05,
-        "explainer": 0.28,
-        "opinion": 0.43,
+        "first-look": 0.59,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.41,
+        "how-to": 0.06,
+        "explainer": 0.19,
+        "opinion": 0.47,
         "profile-interview": 0.05,
         "tribute": 0.02,
-        "listing": 0.04,
+        "listing": 0.05,
         "event-report": 0.05,
-        "event-preview": 0.02,
-        "press-release": 0.16,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.58,
-        "history": 0.03,
-        "rumor": 0.18,
+        "event-preview": 0.03,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.39,
+        "history": 0.04,
+        "rumor": 0.05,
         "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
+        "episode": 0.05,
+        "build-feature": 0.1,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "electric",
-        "new-models"
+        "dirt-mx",
+        "new-models",
+        "adventure"
       ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "FLYING FLEA C6 1790266384000 (2026-on)",
-          "link": "https://www.motorcyclenews.com/bike-reviews/flying-flea/c6/2026",
-          "published": "2026-09-23T15:50:16+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "a857616a0c264d7e4d425faaadcc10cd4107b8e8",
@@ -665,6 +666,86 @@
         "dirt-mx"
       ],
       "also": []
+    },
+    {
+      "id": "5ae3681395f7c3e34f91e563eee65c92683b9d62",
+      "title": "Royal Enfield Flying Flea C6 (2026) Review",
+      "link": "https://www.visordown.com/reviews/royal-enfield-flying-flea-c6-2026-review-road-test",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T07:00:00+00:00",
+      "excerpt": "We ride the \u00a35,300 Flying Flea C6 to see if Royal Enfield has cracked the lightweight electric motorcycle formula.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/ja_flying_flea_paris-7406-large_0.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.97,
+        "new-models": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.98,
+        "comparison-test": 0.07,
+        "first-look": 0.77,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.59,
+        "how-to": 0.05,
+        "explainer": 0.28,
+        "opinion": 0.43,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.16,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.58,
+        "history": 0.03,
+        "rumor": 0.18,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "electric",
+        "new-models"
+      ],
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "FLYING FLEA C6 1790266384000 (2026-on)",
+          "link": "https://www.motorcyclenews.com/bike-reviews/flying-flea/c6/2026",
+          "published": "2026-09-23T15:50:16+00:00"
+        }
+      ]
     },
     {
       "id": "7f1e8a3a7aa91fd23c92d2a3510a85c04691eba7",
