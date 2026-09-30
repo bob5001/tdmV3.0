@@ -3,6 +3,79 @@
   "label": "Profile & Interview",
   "items": [
     {
+      "id": "2af488c7964515cfc25c7e9f292e83b79e32b8cc",
+      "title": "Josh Hayes: For The Love Of Motorcycle Racing",
+      "link": "https://www.roadracingworld.com/news/josh-hayes-for-the-love-of-motorcycle-racing",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-30T21:56:35+00:00",
+      "excerpt": "By Sean Bice If you\u2019re a fan of the Classic Rock genre and, in particular, early-1980s rock ballads, then you\u2019ve certainly enjoyed the sometimes-dulcet, sometimes-raucous musical creations of Michael Lee Aday, otherwise known professionally by his ground-round stage name, Meat Lo",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/Hayes-Ruckus-Racing-1994_1790766364.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.88
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.28,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.18,
+        "profile-interview": 0.95,
+        "tribute": 0.15,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.08,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.68,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.17,
+      "tags": [
+        "racing",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
       "id": "25610671bdb792f3231de0424a882deecdadb88e",
       "title": "What has changed in the new Marquez a year after finding \u201cpeace\u201d with himself",
       "link": "https://www.autosport.com/motogp/news/what-has-changed-in-the-new-marquez-a-year-after-finding-peace-with-himself/10860225",

@@ -250,85 +250,6 @@
       "also": []
     },
     {
-      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
-      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
-      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-21T16:30:16+00:00",
-      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.21,
-        "review": 0.04,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.43,
-        "opinion": 0.94,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.09,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.02,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.75,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "0c8ba65d91e52c8ec60714771aeb308fede68394",
       "title": "Why KTM must stay humble after Acosta\u2019s win and learn lessons from the past",
       "link": "https://www.autosport.com/motogp/news/why-ktm-must-stay-humble-after-acostas-win-and-learn-lessons-from-the-past/10857647",
@@ -400,6 +321,79 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "2af488c7964515cfc25c7e9f292e83b79e32b8cc",
+      "title": "Josh Hayes: For The Love Of Motorcycle Racing",
+      "link": "https://www.roadracingworld.com/news/josh-hayes-for-the-love-of-motorcycle-racing",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-30T21:56:35+00:00",
+      "excerpt": "By Sean Bice If you\u2019re a fan of the Classic Rock genre and, in particular, early-1980s rock ballads, then you\u2019ve certainly enjoyed the sometimes-dulcet, sometimes-raucous musical creations of Michael Lee Aday, otherwise known professionally by his ground-round stage name, Meat Lo",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/Hayes-Ruckus-Racing-1994_1790766364.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.88
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.28,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.18,
+        "profile-interview": 0.95,
+        "tribute": 0.15,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.08,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.68,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.17,
+      "tags": [
+        "racing",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -496,6 +490,73 @@
       ]
     },
     {
+      "id": "a19f4505c9d8d3fbfab625b0dc47553ecae3a199",
+      "title": "2026 MotoMINI FIM Canadian Nationals: Final Round at Shannonville Motorsport Park, Ontario",
+      "link": "https://www.insidemotorcycles.com/2026-motomini-fim-canadian-nationals-final-round-at-shannonville-motorsport-park-ontario",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-30T16:32:59+00:00",
+      "excerpt": "The final two races of the 2026 FIM MotoMINI National Series took place on the infield Go Kart track at Shannonville Motorsport Park during the celebration event for the 50th Anniversary of the original Nelson International Raceway. In the popular 160 division for spec Ohvale GP-",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/2026-MotoMINI-CDN-Nats-Rd-5-Final-Shannonville-Racers-and-Staff-by-Rob-O-Brien-Sept-26-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.05,
+        "profile-interview": 0.12,
+        "tribute": 0.09,
+        "listing": 0.01,
+        "event-report": 0.88,
+        "event-preview": 0.12,
+        "press-release": 0.18,
+        "digest": 0.09,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.08,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing"
+      ],
+      "also": []
+    },
+    {
       "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
       "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
       "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
@@ -565,73 +626,6 @@
       "tags": [
         "events-rides",
         "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "a19f4505c9d8d3fbfab625b0dc47553ecae3a199",
-      "title": "2026 MotoMINI FIM Canadian Nationals: Final Round at Shannonville Motorsport Park, Ontario",
-      "link": "https://www.insidemotorcycles.com/2026-motomini-fim-canadian-nationals-final-round-at-shannonville-motorsport-park-ontario",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-30T16:32:59+00:00",
-      "excerpt": "The final two races of the 2026 FIM MotoMINI National Series took place on the infield Go Kart track at Shannonville Motorsport Park during the celebration event for the 50th Anniversary of the original Nelson International Raceway. In the popular 160 division for spec Ohvale GP-",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/2026-MotoMINI-CDN-Nats-Rd-5-Final-Shannonville-Racers-and-Staff-by-Rob-O-Brien-Sept-26-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.04,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.09,
-        "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.12,
-        "press-release": 0.18,
-        "digest": 0.09,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.08,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing"
       ],
       "also": []
     },
@@ -847,87 +841,6 @@
       "also": []
     },
     {
-      "id": "b81013dcf5df02fcc93c15359972746dce8dbc94",
-      "title": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS",
-      "link": "https://motocrossactionmag.com/mxa-fantasy-league-the-winner-of-the-ridgedale-smx-scored-301-points",
-      "lang": "en",
-      "source": "Motocross Action",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Justin Lee",
-      "published": "2026-09-29T23:49:11+00:00",
-      "excerpt": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS Motoguy came out on top at the final round of the 2026 SuperMotocross Playoffs at Thunder Ridge in Ridgedale, Missouri, taking the weekly MXA Fantasy win and earning two free oil change kits courtesy of Motorex",
-      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/JORGE-PRADO-RED-BULL-KTM-FACTORY-RACING-RIDGEDALE-150x150.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.69,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.81,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.1,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.04,
-        "press-release": 0.12,
-        "digest": 0.27,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.1,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.27,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "0dbb1fbb20ed1ca89be0994a7aa38809110de457",
       "title": "Winning the SMX Final Race in Branson Missouri!",
       "link": "https://dirtrider.net/winning-the-smx-final-race-in-branson-missouri",
@@ -1001,6 +914,87 @@
         "q-and-a": 0.01
       },
       "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "b81013dcf5df02fcc93c15359972746dce8dbc94",
+      "title": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS",
+      "link": "https://motocrossactionmag.com/mxa-fantasy-league-the-winner-of-the-ridgedale-smx-scored-301-points",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-29T23:49:11+00:00",
+      "excerpt": "MXA FANTASY LEAGUE: THE WINNER OF THE RIDGEDALE SMX SCORED 301 POINTS Motoguy came out on top at the final round of the 2026 SuperMotocross Playoffs at Thunder Ridge in Ridgedale, Missouri, taking the weekly MXA Fantasy win and earning two free oil change kits courtesy of Motorex",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/JORGE-PRADO-RED-BULL-KTM-FACTORY-RACING-RIDGEDALE-150x150.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.69,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.81,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.04,
+        "press-release": 0.12,
+        "digest": 0.27,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.27,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1506,6 +1500,85 @@
           "published": "2026-09-23T10:03:17+00:00"
         }
       ]
+    },
+    {
+      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
+      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
+      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-21T16:30:16+00:00",
+      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.21,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.43,
+        "opinion": 0.94,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.95,
+        "event-preview": 0.09,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.02,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.75,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "b5ccd23c80b011e0112a137a033b3f268171d1b9",
@@ -3610,81 +3683,6 @@
       ]
     },
     {
-      "id": "afd493a44a383dbadeb5f90d69984d6cd60a2ec1",
-      "title": "MotoGP 2026: Round 15 Team Race Reports",
-      "link": "https://www.insidemotorcycles.com/motogp-2026-round-15-team-race-reports",
-      "lang": "en",
-      "source": "Inside Motorcycles",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Patrick Lambie",
-      "published": "2026-09-20T21:10:57+00:00",
-      "excerpt": "Ducati Lenovo The Ducati Lenovo Team completed the Austrian Grand Prix, the fifteenth round of the season. At the Red Bull Ring, Marc M\u00e1rquez finished the race in fifth position, while Francesco Bagnaia crossed the finish line seventh. M\u00e1rquez, after a good start, lost three posi",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/yfr_editorial_use_pictures_201926703742-scaled.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.82,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.02,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.04,
-        "press-release": 0.34,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.12,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
       "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
       "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
@@ -3856,87 +3854,6 @@
       ]
     },
     {
-      "id": "c09a7f0fa99c35f66817fe9a532a7e313c2ca2b9",
-      "title": "THIS WEEK IN MXA: INSIDE THE SMX LA PITS + MXA RIDE DAY",
-      "link": "https://motocrossactionmag.com/this-week-in-mxa-inside-the-smx-la-pits-mxa-ride-day",
-      "lang": "en",
-      "source": "Motocross Action",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Justin Lee",
-      "published": "2026-09-24T16:11:36+00:00",
-      "excerpt": "\ufeff THIS WEEK IN MXA: INSIDE THE SMX LA PITS + MXA RIDE DAY Inside the SMX LA pits at Round 2: we talked to the mechanics behind Jorge Prado\u2019s factory KTM, Hunter Lawrence\u2019s HRC Honda, and Justin Hill\u2019s privateer Team Tedder KTM, including a first look at the black fork on Prado\u2019s ",
-      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/gqcjbni-efm.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.92,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.68,
-        "review": 0.03,
-        "comparison-test": 0.08,
-        "first-look": 0.63,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.07,
-        "profile-interview": 0.24,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.21,
-        "press-release": 0.15,
-        "digest": 0.85,
-        "photo-gallery": 0.21,
-        "ride-report": 0.12,
-        "history": 0.03,
-        "rumor": 0.44,
-        "safety-notice": 0.01,
-        "episode": 0.64,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.93,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "d24aa742292753cd8f524db789fb31e8c31e5df0",
       "title": "Fight to The Finish! SMX Finals Rd.2",
       "link": "https://dirtrider.net/fight-to-the-finish-smx-finals-rd-2",
@@ -4010,6 +3927,87 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.14,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "c09a7f0fa99c35f66817fe9a532a7e313c2ca2b9",
+      "title": "THIS WEEK IN MXA: INSIDE THE SMX LA PITS + MXA RIDE DAY",
+      "link": "https://motocrossactionmag.com/this-week-in-mxa-inside-the-smx-la-pits-mxa-ride-day",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-24T16:11:36+00:00",
+      "excerpt": "\ufeff THIS WEEK IN MXA: INSIDE THE SMX LA PITS + MXA RIDE DAY Inside the SMX LA pits at Round 2: we talked to the mechanics behind Jorge Prado\u2019s factory KTM, Hunter Lawrence\u2019s HRC Honda, and Justin Hill\u2019s privateer Team Tedder KTM, including a first look at the black fork on Prado\u2019s ",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2026/09/gqcjbni-efm.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.92,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        }
+      ],
+      "form_scores": {
+        "news": 0.68,
+        "review": 0.03,
+        "comparison-test": 0.08,
+        "first-look": 0.63,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.07,
+        "profile-interview": 0.24,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.95,
+        "event-preview": 0.21,
+        "press-release": 0.15,
+        "digest": 0.85,
+        "photo-gallery": 0.21,
+        "ride-report": 0.12,
+        "history": 0.03,
+        "rumor": 0.44,
+        "safety-notice": 0.01,
+        "episode": 0.64,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.93,
       "tags": [
         "dirt-mx",
         "racing",
@@ -4576,87 +4574,6 @@
       "also": []
     },
     {
-      "id": "759b9d3be1b5b9bc429f49191f5a2d395a243a6b",
-      "title": "ZACH OSBORNE INTERVIEW: \u201cI\u2019M ABLE TO ENJOY IT WITHOUT A LOT OF PRESSURE ON THE RESULTS\u201d",
-      "link": "https://motocrossactionmag.com/zach-osborne-interview-im-able-to-enjoy-it-without-a-lot-of-pressure-on-the-results",
-      "lang": "en",
-      "source": "Motocross Action",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Justin Lee",
-      "published": "2026-09-22T19:41:36+00:00",
-      "excerpt": "ZACH OSBORNE INTERVIEW: \u201cI\u2019M ABLE TO ENJOY IT WITHOUT A LOT OF PRESSURE ON THE RESULTS\u201d It\u2019s now been six years since Zach Osborne was forced into retirement by a back injury. Since that time, the soon-to-be 37-year-old has done some off-road racing and made the switch to Beta. O",
-      "image": "https://motocrossactionmag.com/wp-content/uploads/2024/12/Dave-Feeney-13-150x150.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.18,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.07,
-        "profile-interview": 0.99,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.06,
-        "press-release": 0.12,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.45
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "327e3f433b9a6c1dc881d633cb88385af7d02791",
       "title": "Fly Racing Racer X LA SMX Review",
       "link": "https://dirtrider.net/fly-racing-racer-x-la-smx-review",
@@ -4730,6 +4647,87 @@
         "q-and-a": 0.04
       },
       "multi_subject": 0.76,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "759b9d3be1b5b9bc429f49191f5a2d395a243a6b",
+      "title": "ZACH OSBORNE INTERVIEW: \u201cI\u2019M ABLE TO ENJOY IT WITHOUT A LOT OF PRESSURE ON THE RESULTS\u201d",
+      "link": "https://motocrossactionmag.com/zach-osborne-interview-im-able-to-enjoy-it-without-a-lot-of-pressure-on-the-results",
+      "lang": "en",
+      "source": "Motocross Action",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Justin Lee",
+      "published": "2026-09-22T19:41:36+00:00",
+      "excerpt": "ZACH OSBORNE INTERVIEW: \u201cI\u2019M ABLE TO ENJOY IT WITHOUT A LOT OF PRESSURE ON THE RESULTS\u201d It\u2019s now been six years since Zach Osborne was forced into retirement by a back injury. Since that time, the soon-to-be 37-year-old has done some off-road racing and made the switch to Beta. O",
+      "image": "https://motocrossactionmag.com/wp-content/uploads/2024/12/Dave-Feeney-13-150x150.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.18,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.07,
+        "profile-interview": 0.99,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.06,
+        "press-release": 0.12,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.45
+      },
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "racing",
@@ -5231,87 +5229,6 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.1,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "f03da855a62e477345eb430de23de9f8bccff664",
-      "title": "Weege Show: Playoff Patterns on a Wild Night for SMX",
-      "link": "https://dirtrider.net/weege-show-playoff-patterns-on-a-wild-night-for-smx",
-      "lang": "en",
-      "source": "DirtRider",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Racer X",
-      "published": "2026-09-20T17:53:20+00:00",
-      "excerpt": "Jason Weigandt walks and talks to quickly wrap up the Monster Energy SMX World Championship from California. Presented by RaceTech.com Seminars and Gold Valves and Motosport.com\u2019s Triumph Adventure Sweepstakes. Go to Motosport.com/win Visit Racer X Online: https://bit.ly/2VKTEp0 ",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.63,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.13,
-        "opinion": 0.35,
-        "profile-interview": 0.16,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.92,
-        "event-preview": 0.06,
-        "press-release": 0.16,
-        "digest": 0.18,
-        "photo-gallery": 0.38,
-        "ride-report": 0.05,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.8,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.23,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9678,6 +9595,162 @@
         "q-and-a": 0.01
       },
       "multi_subject": 0.36,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "afd493a44a383dbadeb5f90d69984d6cd60a2ec1",
+      "title": "MotoGP 2026: Round 15 Team Race Reports",
+      "link": "https://www.insidemotorcycles.com/motogp-2026-round-15-team-race-reports",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-20T21:10:57+00:00",
+      "excerpt": "Ducati Lenovo The Ducati Lenovo Team completed the Austrian Grand Prix, the fifteenth round of the season. At the Red Bull Ring, Marc M\u00e1rquez finished the race in fifth position, while Francesco Bagnaia crossed the finish line seventh. M\u00e1rquez, after a good start, lost three posi",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/yfr_editorial_use_pictures_201926703742-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.94,
+        "event-preview": 0.04,
+        "press-release": 0.34,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.12,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "f03da855a62e477345eb430de23de9f8bccff664",
+      "title": "Weege Show: Playoff Patterns on a Wild Night for SMX",
+      "link": "https://dirtrider.net/weege-show-playoff-patterns-on-a-wild-night-for-smx",
+      "lang": "en",
+      "source": "DirtRider",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Racer X",
+      "published": "2026-09-20T17:53:20+00:00",
+      "excerpt": "Jason Weigandt walks and talks to quickly wrap up the Monster Energy SMX World Championship from California. Presented by RaceTech.com Seminars and Gold Valves and Motosport.com\u2019s Triumph Adventure Sweepstakes. Go to Motosport.com/win Visit Racer X Online: https://bit.ly/2VKTEp0 ",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.93,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.63,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.13,
+        "opinion": 0.35,
+        "profile-interview": 0.16,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.92,
+        "event-preview": 0.06,
+        "press-release": 0.16,
+        "digest": 0.18,
+        "photo-gallery": 0.38,
+        "ride-report": 0.05,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.8,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.23,
       "tags": [
         "dirt-mx",
         "racing",
