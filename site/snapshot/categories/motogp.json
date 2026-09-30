@@ -446,6 +446,83 @@
       "also": []
     },
     {
+      "id": "f06c8cd697b48a444c56334b8c9359efaece3ef0",
+      "title": "KTM CEO reveals cost-cutting solution for MotoGP after strongly opposing single-bike rule",
+      "link": "https://www.visordown.com/news/ktm-ceo-reveals-cost-cutting-solution-motogp-after-strongly-opposing-single-bike-rule",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T12:03:10+00:00",
+      "excerpt": "KTM CEO Gottfried Neumeister has offered an interesting view on how MotoGP could implement effective cost-cutting measures going forward.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1345871_hires_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "industry": 0.85,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.78,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.24,
+        "opinion": 0.21,
+        "profile-interview": 0.59,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.04,
+        "press-release": 0.24,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "56622c6dee61348e79b93cac3e92af2a16964c68",
       "title": "MotoGP: Vi\u00f1ales Returns To Action For Japanese GP",
       "link": "https://www.roadracingworld.com/news/motogp-vinales-returns-to-action-for-japanese-gp",
@@ -619,83 +696,6 @@
         "q-and-a": 0.05
       },
       "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "6b1e122380f4622f041e2fd6fdb140530bbe388f",
-      "title": "Marquez: \"Now that I have less strength, I appreciate Pedrosa even more\"",
-      "link": "https://www.gpone.com/en/2026/09/30/motogp/marquez-now-that-i-have-less-strength-i-appreciate-pedrosa-even-more.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-30T09:53:18+00:00",
-      "excerpt": "\"More than one rider has won the title with half his talent. Every time I see him, I ask him for advice.\" Lorenzo adds: \"Because of his stature, he's had to develop a greater sense of feel.\"",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.62,
-        "motogp": 0.92
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.23,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.17,
-        "opinion": 0.38,
-        "profile-interview": 0.85,
-        "tribute": 0.18,
-        "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.05,
-        "press-release": 0.06,
-        "digest": 0.14,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.11,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.09,
-        "build-feature": 0.02,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.1,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1132,16 +1132,16 @@
       "also": []
     },
     {
-      "id": "c17c464b53c52fe792dfb61d3eeef2a6a937414b",
-      "title": "A spot for four: no certainties in race for title",
-      "link": "https://www.gpone.com/en/2026/09/30/motogp/a-spot-for-four-no-certainties-in-race-for-title.html",
+      "id": "6b1e122380f4622f041e2fd6fdb140530bbe388f",
+      "title": "Marquez: \"Now that I have less strength, I appreciate Pedrosa even more\"",
+      "link": "https://www.gpone.com/en/2026/09/30/motogp/marquez-now-that-i-have-less-strength-i-appreciate-pedrosa-even-more.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Matteo Aglio",
-      "published": "2026-09-30T09:19:08+00:00",
-      "excerpt": "Martin, Marquez, Bezzecchi, and Acosta are all tied at 72 points, and each has led the standings at some point or another in 2026. With seven GPs remaining, simply being the fastest won't be enough.",
+      "author": "GPOne",
+      "published": "2026-09-30T09:53:18+00:00",
+      "excerpt": "\"More than one rider has won the title with half his talent. Every time I see him, I ask him for advice.\" Lorenzo adds: \"Because of his stature, he's had to develop a greater sense of feel.\"",
       "image": null,
       "audio": null,
       "categories": [
@@ -1158,7 +1158,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.67,
+        "sport-bikes": 0.62,
         "motogp": 0.92
       },
       "subcategories": [
@@ -1168,34 +1168,39 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
       "form_scores": {
-        "news": 0.47,
-        "review": 0.01,
-        "comparison-test": 0.1,
+        "news": 0.23,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.02,
-        "ranked-list": 0.07,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.35,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.17,
+        "opinion": 0.38,
+        "profile-interview": 0.85,
+        "tribute": 0.18,
         "listing": 0.01,
-        "event-report": 0.22,
-        "event-preview": 0.27,
-        "press-release": 0.04,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.04,
+        "event-report": 0.09,
+        "event-preview": 0.05,
+        "press-release": 0.06,
+        "digest": 0.14,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.11,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.09,
         "build-feature": 0.02,
-        "q-and-a": 0.04
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.1,
       "tags": [
         "racing",
         "sport-bikes",
@@ -1343,77 +1348,6 @@
         "q-and-a": 0.03
       },
       "multi_subject": 0.12,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
-      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
-      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T10:48:46+00:00",
-      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.71,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.06,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.95,
-        "press-release": 0.57,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.67,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -1578,6 +1512,78 @@
       "also": []
     },
     {
+      "id": "c17c464b53c52fe792dfb61d3eeef2a6a937414b",
+      "title": "A spot for four: no certainties in race for title",
+      "link": "https://www.gpone.com/en/2026/09/30/motogp/a-spot-for-four-no-certainties-in-race-for-title.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Matteo Aglio",
+      "published": "2026-09-30T09:19:08+00:00",
+      "excerpt": "Martin, Marquez, Bezzecchi, and Acosta are all tied at 72 points, and each has led the standings at some point or another in 2026. With seven GPs remaining, simply being the fastest won't be enough.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.67,
+        "motogp": 0.92
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.47,
+        "review": 0.01,
+        "comparison-test": 0.1,
+        "first-look": 0.02,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.35,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.22,
+        "event-preview": 0.27,
+        "press-release": 0.04,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "7d42c2e3a10338b732503248a2b92285f6a2d9f3",
       "title": "MotoGP's New Aussie Street Race Might Not Happen Next Year",
       "link": "https://www.rideapart.com/news/809466/motogps-new-aussie-street-race-might-not-happen-next-year",
@@ -1656,98 +1662,17 @@
       ]
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
+      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
+      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.92,
-        "racing": 0.81,
-        "motogp": 0.84
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.18,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.13,
-      "tags": [
-        "industry",
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
-      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
-      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T09:29:04+00:00",
-      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
+      "published": "2026-09-24T10:48:46+00:00",
+      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1758,8 +1683,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "racing": 0.96,
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -1775,32 +1700,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.68,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
+        "news": 0.71,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.07,
+        "profile-interview": 0.13,
+        "tribute": 0.06,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.79,
-        "press-release": 0.32,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
+        "event-report": 0.04,
+        "event-preview": 0.95,
+        "press-release": 0.57,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.28,
-        "safety-notice": 0.04,
-        "episode": 0.03,
-        "build-feature": 0.01,
+        "history": 0.05,
+        "rumor": 0.67,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -1998,16 +1923,16 @@
       "also": []
     },
     {
-      "id": "4ec62f25890d968bbab1019fffa3afcb8ac1a89e",
-      "title": "Cost cap planned for MotoGP! Will this lure BMW in?",
-      "link": "https://www.gpone.com/en/2026/09/30/motogp/cost-cap-planned-for-motogp-will-this-lure-bmw-in.html",
+      "id": "c98062b15e3ddaca125b46ff53a993a97e1bbe8d",
+      "title": "Michelin: \"At Motegi, the main challenge will be the new asphalt\"",
+      "link": "https://www.gpone.com/en/2026/09/30/motogp/michelin-at-motegi-the-main-challenge-will-be-the-new-asphalt.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "G\u00fcnther Wiesinger",
-      "published": "2026-09-30T07:37:08+00:00",
-      "excerpt": "For years, BMW has been spending up to \u20ac30 million on the Superbike. Plans to enter MotoGP have been scrapped five times since 2002. The Bavarian manufacturer was deterred by the high costs",
+      "author": "GPOne",
+      "published": "2026-09-30T12:34:43+00:00",
+      "excerpt": "The track surface at the Japanese circuit has been resurfaced, and the French tyre manufacturer has no data. It will bring three options; the hard rear will have a reinforced casing.",
       "image": null,
       "audio": null,
       "categories": [
@@ -2016,21 +1941,16 @@
           "label": "Racing"
         },
         {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.89,
-        "sport-bikes": 0.61,
-        "motogp": 0.88
+        "gear": 0.88,
+        "motogp": 0.55
       },
       "subcategories": [
         {
@@ -2039,38 +1959,46 @@
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.52,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
+        "news": 0.87,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.07,
         "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
         "explainer": 0.17,
-        "opinion": 0.32,
-        "profile-interview": 0.13,
+        "opinion": 0.08,
+        "profile-interview": 0.37,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.06,
-        "press-release": 0.15,
-        "digest": 0.11,
+        "event-report": 0.05,
+        "event-preview": 0.89,
+        "press-release": 0.73,
+        "digest": 0.08,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.09,
-        "rumor": 0.13,
-        "safety-notice": 0.08,
-        "episode": 0.06,
+        "history": 0.03,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.05
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "industry",
-        "sport-bikes",
+        "gear",
         "motogp"
       ],
       "also": []
@@ -2151,148 +2079,6 @@
       "also": []
     },
     {
-      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
-      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
-      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T14:49:42+00:00",
-      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.75,
-        "motogp": 0.75
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.42,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.1,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.84,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "5ed03544621d4e2a2545c7e32902708c209fcc4e",
-      "title": "Pirelli MotoGP test reveals clearer look at Ducati\u2019s new 850cc prototype",
-      "link": "https://www.visordown.com/news/pirelli-motogp-test-reveals-clearer-look-ducatis-new-850cc-prototype",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T08:06:00+00:00",
-      "excerpt": "Pirelli has completed its final in-season MotoGP test, which saw a range of 850cc prototypes on-track, including Ducati\u2019s trimmed-down Desmosedici.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1347311_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.87,
-        "motogp": 0.87
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.1,
-        "comparison-test": 0.47,
-        "first-look": 0.72,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.16,
-        "opinion": 0.07,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.6,
-        "event-preview": 0.08,
-        "press-release": 0.23,
-        "digest": 0.07,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.14,
-        "rumor": 0.4,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "68d39351ee514f5d87c5b40e16df334aacacf5a8",
       "title": "Guevara fights back as Quiles moves within reach of Moto3 crown",
       "link": "https://www.mcnews.com.au/2026-austria-moto2-moto3-race-results",
@@ -2361,6 +2147,158 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.62,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.92,
+        "racing": 0.81,
+        "motogp": 0.84
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.18,
+        "press-release": 0.81,
+        "digest": 0.12,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "industry",
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
+      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
+      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T09:29:04+00:00",
+      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.68,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.79,
+        "press-release": 0.32,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.28,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "motogp"
@@ -2515,29 +2453,39 @@
       "also": []
     },
     {
-      "id": "dd56b67b030e5d284864bb799b39397128f57b3e",
-      "title": "Milan Pawelec gets another chance in World Championship: replacing Collin Veijer at Motegi",
-      "link": "https://www.gpone.com/en/2026/09/29/moto2/milan-pawelec-gets-another-chance-in-world-championship-replacing-collin-veijer-at-motegi.html",
+      "id": "4ec62f25890d968bbab1019fffa3afcb8ac1a89e",
+      "title": "Cost cap planned for MotoGP! Will this lure BMW in?",
+      "link": "https://www.gpone.com/en/2026/09/30/motogp/cost-cap-planned-for-motogp-will-this-lure-bmw-in.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-29T16:08:41+00:00",
-      "excerpt": "Just a few days after winning his second Moto2 European Championship title, the 19-year-old Polish rider will take to the track in Japan with the Ajo team to replace the injured Dutch rider",
+      "author": "G\u00fcnther Wiesinger",
+      "published": "2026-09-30T07:37:08+00:00",
+      "excerpt": "For years, BMW has been spending up to \u20ac30 million on the Superbike. Plans to enter MotoGP have been scrapped five times since 2002. The Bavarian manufacturer was deterred by the high costs",
       "image": null,
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.98
+        "industry": 0.89,
+        "sport-bikes": 0.61,
+        "motogp": 0.88
       },
       "subcategories": [
         {
@@ -2546,45 +2494,38 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.02,
+        "news": 0.52,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
+        "buyers-guide": 0.03,
         "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.14,
+        "explainer": 0.17,
+        "opinion": 0.32,
+        "profile-interview": 0.13,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.15,
-        "event-preview": 0.95,
-        "press-release": 0.28,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.11,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.06,
+        "press-release": 0.15,
+        "digest": 0.11,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.13,
+        "safety-notice": 0.08,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
+        "industry",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -2686,6 +2627,148 @@
         "adventure",
         "motogp",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
+      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
+      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T14:49:42+00:00",
+      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.75,
+        "motogp": 0.75
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.84,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "5ed03544621d4e2a2545c7e32902708c209fcc4e",
+      "title": "Pirelli MotoGP test reveals clearer look at Ducati\u2019s new 850cc prototype",
+      "link": "https://www.visordown.com/news/pirelli-motogp-test-reveals-clearer-look-ducatis-new-850cc-prototype",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T08:06:00+00:00",
+      "excerpt": "Pirelli has completed its final in-season MotoGP test, which saw a range of 850cc prototypes on-track, including Ducati\u2019s trimmed-down Desmosedici.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1347311_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.87,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.1,
+        "comparison-test": 0.47,
+        "first-look": 0.72,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.16,
+        "opinion": 0.07,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.6,
+        "event-preview": 0.08,
+        "press-release": 0.23,
+        "digest": 0.07,
+        "photo-gallery": 0.12,
+        "ride-report": 0.02,
+        "history": 0.14,
+        "rumor": 0.4,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -2850,106 +2933,29 @@
       "also": []
     },
     {
-      "id": "99e664cf7ea9a02564f3e06dd4ed74cf1365a6aa",
-      "title": "Neumeister: Fuel at 86 euros per litre? KTM proposes a single supplier",
-      "link": "https://www.gpone.com/en/2026/09/30/motogp/neumeister-fuel-at-86-euros-per-litre-ktm-proposes-a-single-supplier.html",
+      "id": "dd56b67b030e5d284864bb799b39397128f57b3e",
+      "title": "Milan Pawelec gets another chance in World Championship: replacing Collin Veijer at Motegi",
+      "link": "https://www.gpone.com/en/2026/09/29/moto2/milan-pawelec-gets-another-chance-in-world-championship-replacing-collin-veijer-at-motegi.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-09-30T07:56:09+00:00",
-      "excerpt": "Neumeister is open to a common solution to keep the costs of non-fossil fuels in check, while allowing teams to have different sponsors: \"Why not streamline something the public doesn't even see?\"",
+      "published": "2026-09-29T16:08:41+00:00",
+      "excerpt": "Just a few days after winning his second Moto2 European Championship title, the 19-year-old Polish rider will take to the track in Japan with the Ajo team to replace the injured Dutch rider",
       "image": null,
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.89,
-        "motogp": 0.83
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.61,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.24,
-        "opinion": 0.29,
-        "profile-interview": 0.69,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.06,
-        "press-release": 0.39,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "industry",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "dec12eb5f2a505e08dc617fe5f67e017ffeff9ea",
-      "title": "Mart\u00edn: \"We're heading into the Asian leg of the season in good form; let's stay focused.\"",
-      "link": "https://www.gpone.com/en/2026/09/29/motogp/martin-were-heading-into-the-asian-leg-of-the-season-in-good-form-lets-stay-focused.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-29T15:29:16+00:00",
-      "excerpt": "Jorge on the eve of Motegi: \"We're working really well as a team, and I want to thank Aprilia.\" Bezzecchi: \"We were fast here last year.\"",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.86,
-        "motogp": 0.94
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -2964,40 +2970,39 @@
           "label": "Event Preview"
         },
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.54,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.04,
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.8,
-        "tribute": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.92,
-        "press-release": 0.16,
-        "digest": 0.19,
-        "photo-gallery": 0.09,
-        "ride-report": 0.05,
-        "history": 0.04,
+        "event-report": 0.15,
+        "event-preview": 0.95,
+        "press-release": 0.28,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.11,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.08,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.17,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
-        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -3230,16 +3235,16 @@
       "also": []
     },
     {
-      "id": "23e57874de2e96587a107b08b983233536ad661e",
-      "title": "Background: Why didn't the MotoGP teams get a Concorde Agreement?",
-      "link": "https://www.gpone.com/en/2026/09/29/motogp/background-why-didnt-the-motogp-teams-get-a-concorde-agreement.html",
+      "id": "99e664cf7ea9a02564f3e06dd4ed74cf1365a6aa",
+      "title": "Neumeister: Fuel at 86 euros per litre? KTM proposes a single supplier",
+      "link": "https://www.gpone.com/en/2026/09/30/motogp/neumeister-fuel-at-86-euros-per-litre-ktm-proposes-a-single-supplier.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "G\u00fcnther Wiesinger",
-      "published": "2026-09-29T08:16:11+00:00",
-      "excerpt": "It was understandable that the teams wanted a larger slice of the pie following Liberty Media\u2019s entry, though there were limits to what could be achieved",
+      "author": "GPOne",
+      "published": "2026-09-30T07:56:09+00:00",
+      "excerpt": "Neumeister is open to a common solution to keep the costs of non-fossil fuels in check, while allowing teams to have different sponsors: \"Why not streamline something the public doesn't even see?\"",
       "image": null,
       "audio": null,
       "categories": [
@@ -3256,8 +3261,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.54,
-        "motogp": 0.9
+        "industry": 0.89,
+        "motogp": 0.83
       },
       "subcategories": [
         {
@@ -3268,35 +3273,116 @@
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.18,
+        "news": 0.61,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.5,
-        "opinion": 0.57,
-        "profile-interview": 0.08,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.12,
+        "explainer": 0.24,
+        "opinion": 0.29,
+        "profile-interview": 0.69,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.06,
+        "press-release": 0.39,
+        "digest": 0.08,
         "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.4,
-        "rumor": 0.03,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.09,
         "safety-notice": 0.04,
-        "episode": 0.1,
+        "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.19
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "industry",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "dec12eb5f2a505e08dc617fe5f67e017ffeff9ea",
+      "title": "Mart\u00edn: \"We're heading into the Asian leg of the season in good form; let's stay focused.\"",
+      "link": "https://www.gpone.com/en/2026/09/29/motogp/martin-were-heading-into-the-asian-leg-of-the-season-in-good-form-lets-stay-focused.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-29T15:29:16+00:00",
+      "excerpt": "Jorge on the eve of Motegi: \"We're working really well as a team, and I want to thank Aprilia.\" Bezzecchi: \"We were fast here last year.\"",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.86,
+        "motogp": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.54,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.8,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.92,
+        "press-release": 0.16,
+        "digest": 0.19,
+        "photo-gallery": 0.09,
+        "ride-report": 0.05,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.08,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.17,
+      "tags": [
+        "racing",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -3486,6 +3572,149 @@
       "also": []
     },
     {
+      "id": "23e57874de2e96587a107b08b983233536ad661e",
+      "title": "Background: Why didn't the MotoGP teams get a Concorde Agreement?",
+      "link": "https://www.gpone.com/en/2026/09/29/motogp/background-why-didnt-the-motogp-teams-get-a-concorde-agreement.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "G\u00fcnther Wiesinger",
+      "published": "2026-09-29T08:16:11+00:00",
+      "excerpt": "It was understandable that the teams wanted a larger slice of the pie following Liberty Media\u2019s entry, though there were limits to what could be achieved",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "industry": 0.54,
+        "motogp": 0.9
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.18,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.5,
+        "opinion": 0.57,
+        "profile-interview": 0.08,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.12,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.4,
+        "rumor": 0.03,
+        "safety-notice": 0.04,
+        "episode": 0.1,
+        "build-feature": 0.02,
+        "q-and-a": 0.19
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "dd924cfee45555d77097c3e54fa70c16c67f014e",
+      "title": "The Pedro Acosta trait \"great riders do\" that stunned his KTM crew chief",
+      "link": "https://www.crash.net/motogp/news/1105871/1/pedro-acosta-trait-great-riders-do-stunned-his-ktm-crew-chief",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T13:22:01+00:00",
+      "excerpt": "Pedro Acosta\u2019s KTM crew chief Paul Trevathan says it is a \u201cscary question\u201d to predict how much further the MotoGP winner can improve.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346947_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.15,
+        "opinion": 0.22,
+        "profile-interview": 0.78,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.14,
+        "event-preview": 0.05,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "dfbd7e944be98f2b662803bc9b26e293935bf01c",
       "title": "Foti: \u201cBulega? At first, he didn\u2019t trust anyone\u2014I just told him to smile.\u201d",
       "link": "https://www.gpone.com/en/2026/09/28/wsbk/foti-bulega-at-first-he-didnt-trust-anyone-i-just-told-him-to-smile.html",
@@ -3570,17 +3799,17 @@
       "also": []
     },
     {
-      "id": "dd924cfee45555d77097c3e54fa70c16c67f014e",
-      "title": "The Pedro Acosta trait \"great riders do\" that stunned his KTM crew chief",
-      "link": "https://www.crash.net/motogp/news/1105871/1/pedro-acosta-trait-great-riders-do-stunned-his-ktm-crew-chief",
+      "id": "fb5b29c8da75c71ecefcdd43fb342ae7a57618d6",
+      "title": "KTM downplays 'unfair' Nicolo Bulega Ducati 850cc test advantage",
+      "link": "https://www.crash.net/motogp/news/1105869/1/ktm-explains-why-pedro-acosta-was-allowed-test-its-2027-motogp-bike",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T13:22:01+00:00",
-      "excerpt": "Pedro Acosta\u2019s KTM crew chief Paul Trevathan says it is a \u201cscary question\u201d to predict how much further the MotoGP winner can improve.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346947_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-28T12:36:01+00:00",
+      "excerpt": "KTM expects Nicolo Bulega\u2019s MotoGP head start to last only a \u201cvery short period\u201d.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347313_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3591,8 +3820,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.97
+        "racing": 0.96,
+        "motogp": 0.95
       },
       "subcategories": [
         {
@@ -3601,39 +3830,34 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.42,
+        "news": 0.68,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
+        "comparison-test": 0.1,
+        "first-look": 0.09,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.15,
-        "opinion": 0.22,
-        "profile-interview": 0.78,
-        "tribute": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.23,
+        "profile-interview": 0.34,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.14,
-        "event-preview": 0.05,
-        "press-release": 0.07,
-        "digest": 0.06,
+        "event-report": 0.1,
+        "event-preview": 0.08,
+        "press-release": 0.19,
+        "digest": 0.08,
         "photo-gallery": 0.07,
-        "ride-report": 0.02,
+        "ride-report": 0.01,
         "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.06,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "motogp"
@@ -3713,72 +3937,6 @@
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "fb5b29c8da75c71ecefcdd43fb342ae7a57618d6",
-      "title": "KTM downplays 'unfair' Nicolo Bulega Ducati 850cc test advantage",
-      "link": "https://www.crash.net/motogp/news/1105869/1/ktm-explains-why-pedro-acosta-was-allowed-test-its-2027-motogp-bike",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T12:36:01+00:00",
-      "excerpt": "KTM expects Nicolo Bulega\u2019s MotoGP head start to last only a \u201cvery short period\u201d.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347313_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.68,
-        "review": 0.02,
-        "comparison-test": 0.1,
-        "first-look": 0.09,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.23,
-        "profile-interview": 0.34,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.08,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
         "motogp"
       ],
       "also": []
@@ -3865,6 +4023,77 @@
       "also": []
     },
     {
+      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
+      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
+      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T06:40:57+00:00",
+      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.93,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.54,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.09,
+        "explainer": 0.31,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.96,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "92550a58fe179bf77b11291d77e643328b85980a",
       "title": "Quartararo on a Honda without the green Monster claw: Will he ride for Red Bull?",
       "link": "https://www.gpone.com/en/2026/09/28/motogp/quartararo-on-a-honda-without-the-green-monster-claw-will-he-ride-for-red-bull.html",
@@ -3943,17 +4172,17 @@
       "also": []
     },
     {
-      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
-      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
-      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
+      "id": "d2f5183edbd1ff30e003e6cec78ef4595d1aab51",
+      "title": "Pol Espargaro: Motegi would be \u201cperfect\u201d for Maverick Vinales return",
+      "link": "https://www.crash.net/motogp/news/1105492/1/pol-espargaro-motegi-would-be-perfect-maverick-vinales-return",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T06:40:57+00:00",
-      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-27T13:00:00+00:00",
+      "excerpt": "Pol Espargaro believes Motegi would be the \u201cperfect\u201d MotoGP return for Maverick Vinales as his long shoulder recovery continues.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1332997_hires_1600x900_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3964,8 +4193,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.93,
-        "motogp": 0.96
+        "racing": 0.96,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -3974,39 +4203,34 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.54,
+        "news": 0.35,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.02,
+        "first-look": 0.03,
         "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.09,
-        "explainer": 0.31,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.64,
+        "profile-interview": 0.51,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.96,
-        "press-release": 0.11,
+        "event-report": 0.05,
+        "event-preview": 0.42,
+        "press-release": 0.05,
         "digest": 0.07,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.05,
         "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
+        "history": 0.04,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.08
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -4078,72 +4302,6 @@
         "q-and-a": 0.06
       },
       "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "d2f5183edbd1ff30e003e6cec78ef4595d1aab51",
-      "title": "Pol Espargaro: Motegi would be \u201cperfect\u201d for Maverick Vinales return",
-      "link": "https://www.crash.net/motogp/news/1105492/1/pol-espargaro-motegi-would-be-perfect-maverick-vinales-return",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-27T13:00:00+00:00",
-      "excerpt": "Pol Espargaro believes Motegi would be the \u201cperfect\u201d MotoGP return for Maverick Vinales as his long shoulder recovery continues.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1332997_hires_1600x900_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.35,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.64,
-        "profile-interview": 0.51,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.42,
-        "press-release": 0.05,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -4305,6 +4463,83 @@
       "also": []
     },
     {
+      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
+      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
+      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-27T08:00:00+00:00",
+      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "law-safety": 0.51,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.2,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.09,
+        "event-preview": 0.18,
+        "press-release": 0.33,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "3dbe19fbbb982661bb07107e6a8011279a826363",
       "title": "Lecuona: \"I expect Bulega to be fast right away in MotoGP; he has a lot of experience with Pirelli tyres.\"",
       "link": "https://www.gpone.com/en/2026/09/27/wsbk/lecuona-i-expect-bulega-to-be-fast-right-away-in-motogp-he-has-a-lot-of-experience-with-pirelli.html",
@@ -4382,17 +4617,17 @@
       "also": []
     },
     {
-      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
-      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
-      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
+      "id": "b9b10cde76e52365450539b3e46c150096fcc597",
+      "title": "Toprak Razgatlioglu reveals when he thought to \u201cstop racing\u201d",
+      "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T08:00:00+00:00",
-      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-26T08:00:00+00:00",
+      "excerpt": "Toprak Razgatlioglu says his difficult MotoGP rookie season reminds him of 2018, when he even considered stopping racing.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -4400,61 +4635,68 @@
           "label": "Racing"
         },
         {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "law-safety": 0.51,
-        "motogp": 0.99
+        "sport-bikes": 0.84,
+        "motogp": 0.96,
+        "worldsbk-superbike": 0.51
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
           "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
         }
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.82,
-        "review": 0.01,
+        "news": 0.64,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.2,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.1,
+        "profile-interview": 0.93,
+        "tribute": 0.03,
         "listing": 0.01,
         "event-report": 0.09,
-        "event-preview": 0.18,
-        "press-release": 0.33,
+        "event-preview": 0.03,
+        "press-release": 0.05,
         "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
+        "photo-gallery": 0.06,
+        "ride-report": 0.04,
+        "history": 0.15,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
-        "law-safety",
-        "motogp"
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -4547,22 +4789,26 @@
       "also": []
     },
     {
-      "id": "b9b10cde76e52365450539b3e46c150096fcc597",
-      "title": "Toprak Razgatlioglu reveals when he thought to \u201cstop racing\u201d",
-      "link": "https://www.crash.net/motogp/news/1105481/1/toprak-razgatlioglu-reveals-when-he-thought-stop-racing",
+      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
+      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
+      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:00:00+00:00",
-      "excerpt": "Toprak Razgatlioglu says his difficult MotoGP rookie season reminds him of 2018, when he even considered stopping racing.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346519_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T11:00:23+00:00",
+      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
         },
         {
           "slug": "sport-bikes",
@@ -4573,60 +4819,50 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "sport-bikes": 0.84,
-        "motogp": 0.96,
-        "worldsbk-superbike": 0.51
+        "gear": 0.63,
+        "sport-bikes": 0.53,
+        "motogp": 0.98
       },
       "subcategories": [
         {
           "slug": "motogp",
           "label": "MotoGP",
           "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.64,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.1,
-        "profile-interview": 0.93,
-        "tribute": 0.03,
+        "news": 0.46,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.13,
+        "opinion": 0.69,
+        "profile-interview": 0.5,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.03,
-        "press-release": 0.05,
+        "event-report": 0.12,
+        "event-preview": 0.05,
+        "press-release": 0.07,
         "digest": 0.06,
         "photo-gallery": 0.06,
-        "ride-report": 0.04,
-        "history": 0.15,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.05
+        "q-and-a": 0.06
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
+        "gear",
         "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -4803,39 +5039,29 @@
       "also": []
     },
     {
-      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
-      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
-      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
+      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
+      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
+      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T11:00:23+00:00",
-      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-25T09:10:23+00:00",
+      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "gear": 0.63,
-        "sport-bikes": 0.53,
-        "motogp": 0.98
+        "racing": 0.95,
+        "motogp": 0.96
       },
       "subcategories": [
         {
@@ -4846,36 +5072,34 @@
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.46,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
+        "news": 0.53,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
         "explainer": 0.13,
-        "opinion": 0.69,
-        "profile-interview": 0.5,
+        "opinion": 0.16,
+        "profile-interview": 0.65,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.12,
+        "event-report": 0.06,
         "event-preview": 0.05,
-        "press-release": 0.07,
-        "digest": 0.06,
+        "press-release": 0.32,
+        "digest": 0.07,
         "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.04,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.05,
         "build-feature": 0.01,
-        "q-and-a": 0.06
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "gear",
-        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -4973,72 +5197,6 @@
       "also": []
     },
     {
-      "id": "1b8428d6d0332ca6e17d2d20f70c2336f6026af3",
-      "title": "KTM: Pedro Acosta told us 'I want to beat Marc Marquez with the same weapon'",
-      "link": "https://www.crash.net/motogp/news/1105333/1/ktm-pedro-acosta-told-us-i-want-beat-marc-marquez-same-weapon",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T09:10:23+00:00",
-      "excerpt": "Pedro Acosta told KTM his Ducati move was about challenging Marc Marquez on equal MotoGP machinery rather than bigger money offers.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1340868_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.95,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.53,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.13,
-        "opinion": 0.16,
-        "profile-interview": 0.65,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.05,
-        "press-release": 0.32,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "7714949b2b76e9dda39648e309fa2a705e20d128",
       "title": "Jorge Martin has \u201ctwo huge advantages\u201d over Marco Bezzecchi in MotoGP title fight",
       "link": "https://www.crash.net/motogp/news/1105281/1/jorge-martin-has-two-huge-advantages-over-marco-bezzecchi-motogp-title-fight",
@@ -5098,6 +5256,77 @@
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
+      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
+      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:52:19+00:00",
+      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.89,
+        "motogp": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.12,
+        "press-release": 0.47,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "motogp"
@@ -5171,17 +5400,17 @@
       "also": []
     },
     {
-      "id": "f88b4d0747a4d8016ef8d7193901a7f456e91111",
-      "title": "One of MotoGP\u2019s \u201cspiritual homes\u201d secures long-term future",
-      "link": "https://www.crash.net/motogp/news/1105248/1/one-motogps-spiritual-homes-secures-long-term-future",
+      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
+      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
+      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T15:52:19+00:00",
-      "excerpt": "Mugello will remain home of the Italian MotoGP after the iconic Tuscan circuit agreed a new five-year deal.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1317112_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-24T15:13:14+00:00",
+      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5192,8 +5421,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.89,
-        "motogp": 0.95
+        "racing": 0.97,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -5204,37 +5433,37 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
+        "news": 0.6,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.16,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.35,
+        "opinion": 0.76,
+        "profile-interview": 0.6,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.12,
-        "press-release": 0.47,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
+        "event-report": 0.05,
+        "event-preview": 0.11,
+        "press-release": 0.31,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.03,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "motogp"
@@ -5330,17 +5559,17 @@
       "also": []
     },
     {
-      "id": "852475499a94ab99efe67a7cbd22bdff93394ff5",
-      "title": "The key traits that make Luca Marini right \u2018mix\u2019 for Tech3 MotoGP team",
-      "link": "https://www.crash.net/motogp/news/1105244/1/key-traits-make-luca-marini-right-mix-tech3-motogp-team",
+      "id": "5a54cd9c11c79c41099a5d82ec782c6d5e50204f",
+      "title": "Finnish teenager gets \u201cdream\u201d KTM Ajo Moto3 chance",
+      "link": "https://www.crash.net/moto3/news/1105240/1/finnish-teenager-gets-dream-ktm-ajo-moto3-chance",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T15:13:14+00:00",
-      "excerpt": "Guenther Steiner says Luca Marini brings the experience and temperament Tech3 needs alongside rookie Senna Agius for the new MotoGP era.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346024_hires.jpg?width=1200",
+      "published": "2026-09-24T14:18:49+00:00",
+      "excerpt": "Rico Salmela joins Red Bull KTM Ajo for 2027 Moto3 as Alvaro Carpe departs.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1342264_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5351,7 +5580,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
+        "racing": 0.96,
         "motogp": 0.98
       },
       "subcategories": [
@@ -5363,37 +5592,37 @@
       ],
       "forms": [
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.6,
+        "news": 0.87,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.16,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.35,
-        "opinion": 0.76,
-        "profile-interview": 0.6,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.27,
         "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.11,
-        "press-release": 0.31,
-        "digest": 0.05,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.2,
+        "press-release": 0.62,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.06
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -5562,17 +5791,17 @@
       "also": []
     },
     {
-      "id": "5a54cd9c11c79c41099a5d82ec782c6d5e50204f",
-      "title": "Finnish teenager gets \u201cdream\u201d KTM Ajo Moto3 chance",
-      "link": "https://www.crash.net/moto3/news/1105240/1/finnish-teenager-gets-dream-ktm-ajo-moto3-chance",
+      "id": "312a438b8228fc4861d8b0f3ed776b68fe34d21a",
+      "title": "Guenther Steiner explains \"very difficult\" Tech3 MotoGP line-up decision",
+      "link": "https://www.crash.net/motogp/news/1105093/1/guenther-steiner-explains-very-difficult-tech3-motogp-line-decision",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T14:18:49+00:00",
-      "excerpt": "Rico Salmela joins Red Bull KTM Ajo for 2027 Moto3 as Alvaro Carpe departs.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1342264_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-23T15:56:35+00:00",
+      "excerpt": "Guenther Steiner says choosing between Senna Agius and Moto2 title leader Manuel Gonzalez for Tech3\u2019s 2027 MotoGP seat was \u201cvery difficult\".",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1344815_hires_1600x900_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5583,7 +5812,7 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
+        "racing": 0.97,
         "motogp": 0.98
       },
       "subcategories": [
@@ -5600,30 +5829,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.02,
+        "news": 0.76,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.04,
+        "first-look": 0.03,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.27,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.2,
-        "press-release": 0.62,
+        "explainer": 0.14,
+        "opinion": 0.1,
+        "profile-interview": 0.71,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.08,
+        "press-release": 0.21,
         "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.01,
-        "episode": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
@@ -5713,77 +5942,6 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "312a438b8228fc4861d8b0f3ed776b68fe34d21a",
-      "title": "Guenther Steiner explains \"very difficult\" Tech3 MotoGP line-up decision",
-      "link": "https://www.crash.net/motogp/news/1105093/1/guenther-steiner-explains-very-difficult-tech3-motogp-line-decision",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T15:56:35+00:00",
-      "excerpt": "Guenther Steiner says choosing between Senna Agius and Moto2 title leader Manuel Gonzalez for Tech3\u2019s 2027 MotoGP seat was \u201cvery difficult\".",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1344815_hires_1600x900_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.76,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.14,
-        "opinion": 0.1,
-        "profile-interview": 0.71,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.08,
-        "press-release": 0.21,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },

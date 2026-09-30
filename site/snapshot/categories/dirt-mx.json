@@ -99,6 +99,12 @@
           "title": "Yamaha pushes ahead with YE-01 electric motocross development",
           "link": "https://www.mcnews.com.au/yamaha-ye-01-electric-motocross-mxon-2026",
           "published": "2026-09-28T14:09:15+00:00"
+        },
+        {
+          "source": "RideApart",
+          "title": "Yamaha Is Taking Its EV Motocross Concept Global. We're Stoked",
+          "link": "https://www.rideapart.com/news/810035/yamaha-is-taking-its-ev-motocross-concept-to-motocross-of-nations",
+          "published": "2026-09-30T12:19:00+00:00"
         }
       ]
     },
@@ -181,7 +187,14 @@
         "racing",
         "motocross-supercross"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "KTM Thanks Aaron Plessinger for Five Seasons Together, Confirms Departure from Team",
+          "link": "https://racerxonline.com/2026/09/30/ktm-thanks-aaron-plessinger-for-five-seasons-together-confirms-departure-from-team",
+          "published": "2026-09-30T12:25:00+00:00"
+        }
+      ]
     },
     {
       "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
@@ -741,17 +754,17 @@
       "also": []
     },
     {
-      "id": "bde147d9df4d6638ca905db1b7a72e012e16a999",
-      "title": "Mason-Dixon GNCC is Non-Points-Paying for Bike (XC1, XC2, and WXC) Classes This Weekend Due to ISDE Conflict",
-      "link": "https://racerxonline.com/2026/09/29/mason-dixon-gncc-is-non-points-paying-for-the-bike-classes-this-weekend-due-to-isde-conflict",
+      "id": "0f608333195f59509bd2ea3957fafe478bc60df7",
+      "title": "Cameron McAdoo Thanks Mitch Payton and Kawasaki",
+      "link": "https://racerxonline.com/2026/09/30/cameron-mcadoo-thanks-mitch-payton-and-kawasaki",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-29T12:00:00+00:00",
-      "excerpt": "The Mason-Dixon GNCC will be non-points-paying for the bike XC1, XC2 and WXC classes as a result of the schedule conflict with the International Six Days Enduro (ISDE).",
-      "image": "https://rx.iscdn.net/2026/09/337240_dsc8612.jpg?w=1000",
+      "author": "Press Release",
+      "published": "2026-09-30T12:45:00+00:00",
+      "excerpt": "The Iowa native thanked Mitch Payton and the Monster Energy/Pro Circuit Kawasaki team for their time together.",
+      "image": "https://rx.iscdn.net/2026/05/329371_mcadooalignmediasx26salt-lake-city027.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -767,49 +780,53 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95
+        "racing": 0.82,
+        "motocross-supercross": 0.91
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
+        "news": 0.84,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.06,
+        "profile-interview": 0.67,
+        "tribute": 0.22,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.94,
-        "press-release": 0.42,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.05,
+        "event-report": 0.09,
+        "event-preview": 0.04,
+        "press-release": 0.41,
+        "digest": 0.12,
+        "photo-gallery": 0.12,
+        "ride-report": 0.03,
+        "history": 0.21,
         "rumor": 0.01,
-        "safety-notice": 0.1,
-        "episode": 0.03,
-        "build-feature": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.03,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
-        "racing"
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -1076,102 +1093,6 @@
         "racing"
       ],
       "also": []
-    },
-    {
-      "id": "3ccfa34b193e2bc8d1678bb854676b9a906334f1",
-      "title": "Alarm Bells Ringing for World Supercross Championship as British GP Canceled",
-      "link": "https://www.rideapart.com/news/809326/alarm-bells-ringing-for-world-supercross-as-british-gp-cancelled",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T11:24:00+00:00",
-      "excerpt": "World Supercross is openly looking for significant investment, a new owner, and partners. Now, it has canceled the British GP on short notice.",
-      "image": "https://cdn.motor1.com/images/mgl/2N9Lbk/s3/world-supercross.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "dirt-mx": 0.94,
-        "industry": 0.74,
-        "motocross-supercross": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.82,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.22,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.06,
-        "event-preview": 0.07,
-        "press-release": 0.18,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "dirt-mx",
-        "industry",
-        "motocross-supercross"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "World Supercross British GP cancelled as SX Global seeks new investment",
-          "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
-          "published": "2026-09-22T08:56:11+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "FIM World Supercross cancels British GP as investment talks continue",
-          "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
-          "published": "2026-09-22T10:23:37+00:00"
-        }
-      ]
     },
     {
       "id": "41914649d716f39449e855766d43c381d6394448",
@@ -1784,17 +1705,17 @@
       "also": []
     },
     {
-      "id": "1008db405acf0a2252c66e3fcf93fa39e68abd8b",
-      "title": "Romain Febvre: \u201cIf you are not at the front, you have no chance of catching him [Herlings]\u201d",
-      "link": "https://racerxonline.com/2026/09/29/febvre-if-you-are-not-at-the-front-you-have-no-chance-of-catching-him-herlings",
+      "id": "7b864e78ad79386062e00368a92fcbb4b2006e12",
+      "title": "SuperMotocross Championship Payout: How Each Rider Earned",
+      "link": "https://racerxonline.com/2026/09/30/supermotocross-championship-payout-how-each-rider-earned",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Eric Johnson",
-      "published": "2026-09-29T12:00:00+00:00",
-      "excerpt": "Eric Johnson chats with Romain Febvre about racing against Jeffrey Herlings, the upcoming Motocross of Nations, moving to Ducati, and more.",
-      "image": "https://rx.iscdn.net/2026/09/337254_febvregp19ph4381001.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-30T12:00:00+00:00",
+      "excerpt": "You know Kitchen and Prado won the SMX titles, but who finished tenth? Who was the highest finisher from the unseeded group? Check out the title payouts for both classes.",
+      "image": "https://rx.iscdn.net/2026/09/337260_gordon-lalignmediasmx26ridgedale026.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -1811,7 +1732,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.96,
-        "motocross-supercross": 0.97
+        "motocross-supercross": 0.99
       },
       "subcategories": [
         {
@@ -1822,37 +1743,41 @@
       ],
       "forms": [
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.15,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.08,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "news": 0.67,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.01,
+        "ranked-list": 0.78,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.26,
-        "profile-interview": 0.98,
+        "explainer": 0.4,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.58,
-        "press-release": 0.08,
-        "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.03,
-        "history": 0.04,
+        "event-report": 0.91,
+        "event-preview": 0.05,
+        "press-release": 0.15,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.01,
+        "history": 0.09,
         "rumor": 0.02,
         "safety-notice": 0.01,
-        "episode": 0.13,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.13
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.35,
+      "multi_subject": 0.09,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1953,81 +1878,6 @@
           "published": "2026-09-29T17:00:00+00:00"
         }
       ]
-    },
-    {
-      "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
-      "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
-      "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T11:44:00+00:00",
-      "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
-      "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "electric",
-      "confident": true,
-      "cat_scores": {
-        "electric": 0.96,
-        "dirt-mx": 0.94,
-        "new-models": 0.76
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.27,
-        "review": 0.14,
-        "comparison-test": 0.11,
-        "first-look": 0.57,
-        "ranked-list": 0.2,
-        "buyers-guide": 0.24,
-        "how-to": 0.05,
-        "explainer": 0.2,
-        "opinion": 0.87,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.04,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.48,
-        "digest": 0.08,
-        "photo-gallery": 0.16,
-        "ride-report": 0.1,
-        "history": 0.03,
-        "rumor": 0.31,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "electric",
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
     },
     {
       "id": "10ee47acc6ddbca0c2454f76463d9d96efa20971",
@@ -2203,94 +2053,98 @@
       "also": []
     },
     {
-      "id": "d972f1c7ade49799a5a7ebf28d46914944e2e570",
-      "title": "Sam Sunderland sees world record attempt cut short by technical issue",
-      "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
+      "id": "3ccfa34b193e2bc8d1678bb854676b9a906334f1",
+      "title": "Alarm Bells Ringing for World Supercross Championship as British GP Canceled",
+      "link": "https://www.rideapart.com/news/809326/alarm-bells-ringing-for-world-supercross-as-british-gp-cancelled",
       "lang": "en",
-      "source": "Visordown",
+      "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T13:06:00+00:00",
-      "excerpt": "After recently completing the second leg of his world record attempt, Sam Sunderland has pulled out after suffering a technical issue aboard his Triumph Tiger 1200 Rally Explorer.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
+      "published": "2026-09-25T11:24:00+00:00",
+      "excerpt": "World Supercross is openly looking for significant investment, a new owner, and partners. Now, it has canceled the British GP on short notice.",
+      "image": "https://cdn.motor1.com/images/mgl/2N9Lbk/s3/world-supercross.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "racing",
+          "label": "Racing"
         },
         {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
         },
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
-      "primary": "adventure",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.95,
-        "dirt-mx": 0.91,
-        "racing": 0.58
+        "racing": 0.96,
+        "dirt-mx": 0.94,
+        "industry": 0.74,
+        "motocross-supercross": 0.96
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.03,
+        "news": 0.82,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.14,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.87,
-        "event-preview": 0.04,
-        "press-release": 0.2,
+        "explainer": 0.08,
+        "opinion": 0.22,
+        "profile-interview": 0.08,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.07,
+        "press-release": 0.18,
         "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
         "rumor": 0.02,
-        "safety-notice": 0.03,
+        "safety-notice": 0.04,
         "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
-        "adventure",
+        "racing",
         "dirt-mx",
-        "racing"
+        "industry",
+        "motocross-supercross"
       ],
       "also": [
         {
-          "source": "Motorcycle News (MCN)",
-          "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
-          "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
-          "published": "2026-09-28T13:29:53+00:00"
+          "source": "MCNews Australia",
+          "title": "World Supercross British GP cancelled as SX Global seeks new investment",
+          "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
+          "published": "2026-09-22T08:56:11+00:00"
         },
         {
-          "source": "Crash.net",
-          "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
-          "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
-          "published": "2026-09-28T14:39:14+00:00"
+          "source": "Visordown",
+          "title": "FIM World Supercross cancels British GP as investment talks continue",
+          "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
+          "published": "2026-09-22T10:23:37+00:00"
         }
       ]
     },
@@ -2538,17 +2392,17 @@
       "also": []
     },
     {
-      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
-      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
-      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
+      "id": "bde147d9df4d6638ca905db1b7a72e012e16a999",
+      "title": "Mason-Dixon GNCC is Non-Points-Paying for Bike (XC1, XC2, and WXC) Classes This Weekend Due to ISDE Conflict",
+      "link": "https://racerxonline.com/2026/09/29/mason-dixon-gncc-is-non-points-paying-for-the-bike-classes-this-weekend-due-to-isde-conflict",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-28T21:05:00+00:00",
-      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
-      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-29T12:00:00+00:00",
+      "excerpt": "The Mason-Dixon GNCC will be non-points-paying for the bike XC1, XC2 and WXC classes as a result of the schedule conflict with the International Six Days Enduro (ISDE).",
+      "image": "https://rx.iscdn.net/2026/09/337240_dsc8612.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -2564,57 +2418,49 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
+        "racing": 0.95
       },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
+        "news": 0.89,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.14,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.21,
-        "press-release": 0.89,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
+        "event-report": 0.08,
+        "event-preview": 0.94,
+        "press-release": 0.42,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.1,
         "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
-        "racing",
-        "motocross-supercross"
+        "racing"
       ],
       "also": []
     },
@@ -2861,164 +2707,6 @@
       "also": []
     },
     {
-      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
-      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
-      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-26T12:20:00+00:00",
-      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
-      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": false,
-      "cat_scores": {
-        "adventure": 0.79,
-        "dirt-mx": 0.57,
-        "new-models": 0.57
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.48,
-        "review": 0.08,
-        "comparison-test": 0.05,
-        "first-look": 0.35,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.12,
-        "how-to": 0.03,
-        "explainer": 0.15,
-        "opinion": 0.52,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.34,
-        "digest": 0.07,
-        "photo-gallery": 0.11,
-        "ride-report": 0.05,
-        "history": 0.03,
-        "rumor": 0.61,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
-      "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
-      "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T11:22:00+00:00",
-      "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
-      "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.9,
-        "dirt-mx": 0.85,
-        "racing": 0.79,
-        "events-rides": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.5,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.57,
-        "profile-interview": 0.16,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.76,
-        "press-release": 0.15,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.14
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "racing",
-        "events-rides"
-      ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
-          "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
-          "published": "2026-09-21T13:22:28+00:00"
-        }
-      ]
-    },
-    {
       "id": "83fe0b3b86e2d65e84c5f6e879ca1a9b9d688c01",
       "title": "Unholy Matrimony: Marrying Cagiva and Ducati Bits in a 308 cc Trials Hybrid",
       "link": "https://www.bikeexif.com/ducati-cagiva-hybrid-hand-built-308cc-trials-bike",
@@ -3169,6 +2857,98 @@
       "also": []
     },
     {
+      "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
+      "title": "Sam Sunderland\u2019s Triumph Motorcycle Suffers a Mechanical Problem During World Record Ride and Ended the Attempt",
+      "link": "https://www.rideapart.com/news/810027/sam-sunderlands-triumph-tiger-suffers-a-mechanical-problem-during-heartbreaking-world-record-attempt",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T12:53:00+00:00",
+      "excerpt": "Sam Sunderland's circumnavigation world record attempt is over after his Triumph Tiger 1200 breaks down in the Australian outback.",
+      "image": "https://cdn.motor1.com/images/mgl/RqbqnA/s3/sam-sunderland-sets-off-on-world-record-circumnavigation-attempt-aboard-all-new-triumph.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.96,
+        "dirt-mx": 0.75
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.84,
+        "event-preview": 0.02,
+        "press-release": 0.13,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.06,
+        "history": 0.17,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "adventure",
+        "dirt-mx"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Sam Sunderland sees world record attempt cut short by technical issue",
+          "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
+          "published": "2026-09-28T13:06:00+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
+          "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
+          "published": "2026-09-28T13:29:53+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
+          "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
+          "published": "2026-09-28T14:39:14+00:00"
+        }
+      ]
+    },
+    {
       "id": "d74a7fcaafa4ff18076a913350571a78dc640d7d",
       "title": "Atlas Defender Hybrid Ai Product Review",
       "link": "https://pulpmx.com/2026/09/23/atlas-defender-hybrid-ai-product-review",
@@ -3238,6 +3018,81 @@
       "tags": [
         "dirt-mx",
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
+      "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
+      "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T11:44:00+00:00",
+      "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
+      "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.96,
+        "dirt-mx": 0.94,
+        "new-models": 0.76
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.27,
+        "review": 0.14,
+        "comparison-test": 0.11,
+        "first-look": 0.57,
+        "ranked-list": 0.2,
+        "buyers-guide": 0.24,
+        "how-to": 0.05,
+        "explainer": 0.2,
+        "opinion": 0.87,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.48,
+        "digest": 0.08,
+        "photo-gallery": 0.16,
+        "ride-report": 0.1,
+        "history": 0.03,
+        "rumor": 0.31,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "electric",
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
@@ -3318,6 +3173,81 @@
         "industry",
         "electric",
         "sport-bikes",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
+      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
+      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T07:10:29+00:00",
+      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.97,
+        "new-models": 0.94,
+        "dirt-mx": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.21,
+        "comparison-test": 0.11,
+        "first-look": 0.25,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.32,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.1,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.67,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
         "dirt-mx"
       ],
       "also": []
@@ -3540,17 +3470,17 @@
       "also": []
     },
     {
-      "id": "ce6a533f6eda691120ddc7d0db203b76158194a5",
-      "title": "Kitchen: \u201cThey lined up next to me and I was just like, \u2018You boys ain\u2019t getting me this time\u2019\u201d",
-      "link": "https://racerxonline.com/2026/09/28/kitchen-they-lined-up-next-to-me-and-i-was-just-like-you-boys-aint-getting-me-this-time",
+      "id": "1008db405acf0a2252c66e3fcf93fa39e68abd8b",
+      "title": "Romain Febvre: \u201cIf you are not at the front, you have no chance of catching him [Herlings]\u201d",
+      "link": "https://racerxonline.com/2026/09/29/febvre-if-you-are-not-at-the-front-you-have-no-chance-of-catching-him-herlings",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-09-28T20:20:00+00:00",
-      "excerpt": "The pressure was high, and this time Levi Kitchen passed the test.",
-      "image": "https://rx.iscdn.net/2026/09/337198_startsalignmediasmx26ridgedale015.jpg?w=1000",
+      "author": "Eric Johnson",
+      "published": "2026-09-29T12:00:00+00:00",
+      "excerpt": "Eric Johnson chats with Romain Febvre about racing against Jeffrey Herlings, the upcoming Motocross of Nations, moving to Ducati, and more.",
+      "image": "https://rx.iscdn.net/2026/09/337254_febvregp19ph4381001.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -3566,8 +3496,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.75,
-        "motocross-supercross": 0.77
+        "racing": 0.96,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -3578,41 +3508,37 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "profile-interview",
           "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.4,
-        "review": 0.05,
-        "comparison-test": 0.36,
-        "first-look": 0.07,
-        "ranked-list": 0.07,
+        "news": 0.15,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
         "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.07,
-        "opinion": 0.15,
-        "profile-interview": 0.78,
-        "tribute": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.26,
+        "profile-interview": 0.98,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.09,
-        "press-release": 0.06,
-        "digest": 0.11,
-        "photo-gallery": 0.14,
-        "ride-report": 0.16,
-        "history": 0.16,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.12,
-        "build-feature": 0.17,
-        "q-and-a": 0.05
+        "event-report": 0.08,
+        "event-preview": 0.58,
+        "press-release": 0.08,
+        "digest": 0.05,
+        "photo-gallery": 0.05,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.13,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.35,
       "tags": [
         "dirt-mx",
         "racing",
@@ -3901,6 +3827,164 @@
       ]
     },
     {
+      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
+      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
+      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-26T12:20:00+00:00",
+      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
+      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.79,
+        "dirt-mx": 0.57,
+        "new-models": 0.57
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.48,
+        "review": 0.08,
+        "comparison-test": 0.05,
+        "first-look": 0.35,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.12,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.52,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.34,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.05,
+        "history": 0.03,
+        "rumor": 0.61,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
+      "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
+      "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T11:22:00+00:00",
+      "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
+      "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.9,
+        "dirt-mx": 0.85,
+        "racing": 0.79,
+        "events-rides": 0.61
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.5,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.57,
+        "profile-interview": 0.16,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.76,
+        "press-release": 0.15,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.14
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "racing",
+        "events-rides"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
+          "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
+          "published": "2026-09-21T13:22:28+00:00"
+        }
+      ]
+    },
+    {
       "id": "2ce230ac60a05e4ab76083b40a3ea29db29f3fc2",
       "title": "Norfolk, Harrison, Coker, Snyder, Nicoletti Archive",
       "link": "https://pulpmx.com/2026/09/21/norfolk-harrison-coker-snyder-nicoletti-archive",
@@ -3978,77 +4062,66 @@
       "also": []
     },
     {
-      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
-      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
-      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "id": "433c992aa7f88bfe3173d3d63473d56b27e732bc",
+      "title": "SR75 Suzuki Off-Road Experience review",
+      "link": "https://www.visordown.com/reviews/sr75-suzuki-road-experience-review",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T07:10:29+00:00",
-      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "published": "2026-09-22T12:51:42+00:00",
+      "excerpt": "Suzuki\u2019s off-road school in Wales is headed up by the legend that is Geoff Walker, and it\u2019s the perfect way to dip a toe into the mud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/suzuki-offroad-2109_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.97,
-        "new-models": 0.94,
-        "dirt-mx": 0.89
+        "dirt-mx": 0.96,
+        "adventure": 0.58
       },
       "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.21,
-        "comparison-test": 0.11,
-        "first-look": 0.25,
+        "news": 0.08,
+        "review": 0.43,
+        "comparison-test": 0.05,
+        "first-look": 0.23,
         "ranked-list": 0.04,
-        "buyers-guide": 0.32,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.1,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.05,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.67,
+        "buyers-guide": 0.17,
+        "how-to": 0.15,
+        "explainer": 0.34,
+        "opinion": 0.55,
+        "profile-interview": 0.21,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.13,
         "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.15,
+        "photo-gallery": 0.13,
+        "ride-report": 0.44,
+        "history": 0.07,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
-        "adventure",
-        "new-models",
-        "dirt-mx"
+        "dirt-mx",
+        "adventure"
       ],
       "also": []
     },
@@ -4377,17 +4450,17 @@
       "also": []
     },
     {
-      "id": "9312b06ba3e62a0d7746e4894fbd132181e6e83a",
-      "title": "Harrison: \u201cI mean, it was epic for us\u201d",
-      "link": "https://racerxonline.com/2026/09/28/harrison-i-mean-it-was-epic-for-us",
+      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
+      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
+      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Steve Matthes",
-      "published": "2026-09-28T16:00:00+00:00",
-      "excerpt": "The Red Bull KTM Team Manager on Jorge Prado\u2019s incredible effort, and behind-the-scenes on getting Julian Beaumer onto the Motocross of Nations team.",
-      "image": "https://rx.iscdn.net/2026/09/337170_pradoalignmediasmx26ridgedale181.jpg?w=1000",
+      "author": "Press Release",
+      "published": "2026-09-28T21:05:00+00:00",
+      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
+      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
       "audio": null,
       "categories": [
         {
@@ -4403,8 +4476,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.96
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -4415,37 +4488,41 @@
       ],
       "forms": [
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.31,
+        "news": 0.9,
         "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.16,
-        "opinion": 0.18,
-        "profile-interview": 0.94,
-        "tribute": 0.05,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.67,
-        "event-preview": 0.12,
-        "press-release": 0.19,
+        "event-report": 0.04,
+        "event-preview": 0.21,
+        "press-release": 0.89,
         "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.07,
-        "history": 0.12,
-        "rumor": 0.02,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.06,
         "safety-notice": 0.01,
-        "episode": 0.13,
+        "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.09
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.2,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
         "racing",
@@ -4701,6 +4778,79 @@
       "also": []
     },
     {
+      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
+      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
+      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:49:00+00:00",
+      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.96,
+        "dirt-mx": 0.79
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.12,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.04,
+        "press-release": 0.26,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.05,
+        "history": 0.11,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "adventure",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
       "id": "159e0d97f487b7f54fdd90fa061207fbf2af2e39",
       "title": "TRIUMPH CELEBRATES FIRST WORLD CHAMPIONSHIP TITLE",
       "link": "https://www.mxpmag.com/triumph-celebrates-first-world-championship-title",
@@ -4797,70 +4947,6 @@
           "published": "2026-09-24T11:14:00+00:00"
         }
       ]
-    },
-    {
-      "id": "433c992aa7f88bfe3173d3d63473d56b27e732bc",
-      "title": "SR75 Suzuki Off-Road Experience review",
-      "link": "https://www.visordown.com/reviews/sr75-suzuki-road-experience-review",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T12:51:42+00:00",
-      "excerpt": "Suzuki\u2019s off-road school in Wales is headed up by the legend that is Geoff Walker, and it\u2019s the perfect way to dip a toe into the mud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/suzuki-offroad-2109_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.96,
-        "adventure": 0.58
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.08,
-        "review": 0.43,
-        "comparison-test": 0.05,
-        "first-look": 0.23,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.17,
-        "how-to": 0.15,
-        "explainer": 0.34,
-        "opinion": 0.55,
-        "profile-interview": 0.21,
-        "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.11,
-        "event-preview": 0.05,
-        "press-release": 0.13,
-        "digest": 0.09,
-        "photo-gallery": 0.13,
-        "ride-report": 0.44,
-        "history": 0.07,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "dirt-mx",
-        "adventure"
-      ],
-      "also": []
     },
     {
       "id": "68706ca9b363fa652547221a387e9362eeca3822",
@@ -5107,17 +5193,17 @@
       "also": []
     },
     {
-      "id": "8ae891bde8a9cd8ddf1c7a841ff9f0af73f6dab1",
-      "title": "Watch: 250SMX, 450SMX, and WMX Video Highlights from SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/28/watch-250smx-450smx-and-wmx-video-highlights-from-smx-world-championship-final",
+      "id": "ce6a533f6eda691120ddc7d0db203b76158194a5",
+      "title": "Kitchen: \u201cThey lined up next to me and I was just like, \u2018You boys ain\u2019t getting me this time\u2019\u201d",
+      "link": "https://racerxonline.com/2026/09/28/kitchen-they-lined-up-next-to-me-and-i-was-just-like-you-boys-aint-getting-me-this-time",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-28T14:15:00+00:00",
-      "excerpt": "Video highlights from the 2026 SMX World Championship Final in Missouri.",
-      "image": "https://rx.iscdn.net/2026/09/337176_miscalignmediasmx26ridgedale148.jpg?w=1000",
+      "author": "Jason Weigandt",
+      "published": "2026-09-28T20:20:00+00:00",
+      "excerpt": "The pressure was high, and this time Levi Kitchen passed the test.",
+      "image": "https://rx.iscdn.net/2026/09/337198_startsalignmediasmx26ridgedale015.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -5133,8 +5219,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.75,
+        "motocross-supercross": 0.77
       },
       "subcategories": [
         {
@@ -5149,37 +5235,37 @@
           "label": "Event Report"
         },
         {
-          "slug": "photo-gallery",
-          "label": "Photo Gallery"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.71,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
+        "news": 0.4,
+        "review": 0.05,
+        "comparison-test": 0.36,
+        "first-look": 0.07,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.15,
+        "profile-interview": 0.78,
+        "tribute": 0.05,
         "listing": 0.01,
-        "event-report": 0.87,
-        "event-preview": 0.05,
-        "press-release": 0.12,
-        "digest": 0.08,
-        "photo-gallery": 0.83,
-        "ride-report": 0.02,
-        "history": 0.06,
+        "event-report": 0.79,
+        "event-preview": 0.09,
+        "press-release": 0.06,
+        "digest": 0.11,
+        "photo-gallery": 0.14,
+        "ride-report": 0.16,
+        "history": 0.16,
         "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.5,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "episode": 0.12,
+        "build-feature": 0.17,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
         "racing",
@@ -5269,79 +5355,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
-      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
-      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T11:49:00+00:00",
-      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.96,
-        "dirt-mx": 0.79
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.04,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.12,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.04,
-        "press-release": 0.26,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.05,
-        "history": 0.11,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "adventure",
-        "dirt-mx"
       ],
       "also": []
     },
@@ -5785,17 +5798,17 @@
       "also": []
     },
     {
-      "id": "4bc3716d5655012300c69e2dc5e15c7bf213e5a6",
-      "title": "Wake-Up Call",
-      "link": "https://racerxonline.com/2026/09/28/wake-up-call",
+      "id": "9312b06ba3e62a0d7746e4894fbd132181e6e83a",
+      "title": "Harrison: \u201cI mean, it was epic for us\u201d",
+      "link": "https://racerxonline.com/2026/09/28/harrison-i-mean-it-was-epic-for-us",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-28T09:30:00+00:00",
-      "excerpt": "Results and standings from around the world: the SMX World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337167_daviesalignmediasmx26ridgedale069.jpg?w=1000",
+      "author": "Steve Matthes",
+      "published": "2026-09-28T16:00:00+00:00",
+      "excerpt": "The Red Bull KTM Team Manager on Jorge Prado\u2019s incredible effort, and behind-the-scenes on getting Julian Beaumer onto the Motocross of Nations team.",
+      "image": "https://rx.iscdn.net/2026/09/337170_pradoalignmediasmx26ridgedale181.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -5811,7 +5824,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
+        "racing": 0.94,
         "motocross-supercross": 0.96
       },
       "subcategories": [
@@ -5823,41 +5836,37 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.79,
-        "review": 0.03,
-        "comparison-test": 0.07,
+        "news": 0.31,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.04,
-        "ranked-list": 0.41,
-        "buyers-guide": 0.03,
-        "how-to": 0.04,
-        "explainer": 0.1,
-        "opinion": 0.1,
-        "profile-interview": 0.06,
-        "tribute": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.16,
+        "opinion": 0.18,
+        "profile-interview": 0.94,
+        "tribute": 0.05,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.09,
-        "press-release": 0.1,
-        "digest": 0.44,
-        "photo-gallery": 0.16,
-        "ride-report": 0.03,
-        "history": 0.09,
+        "event-report": 0.67,
+        "event-preview": 0.12,
+        "press-release": 0.19,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.07,
+        "history": 0.12,
         "rumor": 0.02,
-        "safety-notice": 0.03,
-        "episode": 0.06,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
+        "safety-notice": 0.01,
+        "episode": 0.13,
+        "build-feature": 0.02,
+        "q-and-a": 0.09
       },
-      "multi_subject": 0.53,
+      "multi_subject": 0.2,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6095,17 +6104,17 @@
       "also": []
     },
     {
-      "id": "7811eb4222526b28844042da1bbef3e72b0ceef9",
-      "title": "The Post Show! Inside the Madness Post-Race at Thunder Ridge",
-      "link": "https://racerxonline.com/2026/09/27/the-post-show-inside-the-madness-post-race-at-thunder-ridge",
+      "id": "8ae891bde8a9cd8ddf1c7a841ff9f0af73f6dab1",
+      "title": "Watch: 250SMX, 450SMX, and WMX Video Highlights from SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/28/watch-250smx-450smx-and-wmx-video-highlights-from-smx-world-championship-final",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-09-28T02:45:00+00:00",
-      "excerpt": "Jason Weigandt, Adam Enticknap and Steve Matthes head to the center of the Red Bull KTM party, catch Ken Roczen's gift to Eli Tomac, Rockstar Husky's final race, and more.",
-      "image": "https://rx.iscdn.net/2026/09/337179_pradoalignmediasmx26ridgedale165.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-28T14:15:00+00:00",
+      "excerpt": "Video highlights from the 2026 SMX World Championship Final in Missouri.",
+      "image": "https://rx.iscdn.net/2026/09/337176_miscalignmediasmx26ridgedale148.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -6121,8 +6130,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.89,
-        "motocross-supercross": 0.94
+        "racing": 0.96,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -6137,37 +6146,37 @@
           "label": "Event Report"
         },
         {
-          "slug": "episode",
-          "label": "Episode"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.29,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.07,
+        "news": 0.71,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
         "ranked-list": 0.09,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.16,
-        "profile-interview": 0.15,
-        "tribute": 0.12,
+        "explainer": 0.06,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.86,
+        "event-report": 0.87,
         "event-preview": 0.05,
-        "press-release": 0.08,
-        "digest": 0.33,
-        "photo-gallery": 0.33,
-        "ride-report": 0.06,
-        "history": 0.09,
-        "rumor": 0.02,
+        "press-release": 0.12,
+        "digest": 0.08,
+        "photo-gallery": 0.83,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.81,
+        "episode": 0.5,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.82,
+      "multi_subject": 0.13,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6257,6 +6266,85 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "28d4e335e2dea2550ad5867d37ec5772ab3a73c6",
+      "title": "Akrapovic titanium adventure footpegs announced",
+      "link": "https://www.visordown.com/news/akrapovic-titanium-adventure-footpegs-announced",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T07:44:17+00:00",
+      "excerpt": "First WP began making braking systems, and now Akrapovic is branching out with new titanium adventure bike footpegs.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/akrapovic-foot-pegs-03.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.87,
+        "gear": 0.85,
+        "dirt-mx": 0.7
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.16,
+        "comparison-test": 0.03,
+        "first-look": 0.16,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.17,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.05,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.07,
+        "event-report": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.91,
+        "digest": 0.18,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.26,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.14,
+      "tags": [
+        "adventure",
+        "gear",
+        "dirt-mx"
       ],
       "also": []
     },
@@ -6574,17 +6662,17 @@
       "also": []
     },
     {
-      "id": "817bc51d68986d2c0b0a0b7494122e333e25cfbb",
-      "title": "Live Written Updates and Results From SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/26/live-written-updates-and-results-from-smx-world-championship-final",
+      "id": "4bc3716d5655012300c69e2dc5e15c7bf213e5a6",
+      "title": "Wake-Up Call",
+      "link": "https://racerxonline.com/2026/09/28/wake-up-call",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
       "author": "Mitch Kendra",
-      "published": "2026-09-26T14:45:00+00:00",
-      "excerpt": "Full race day coverage from the 31st and final SMX round of 2026 from Missouri.",
-      "image": "https://rx.iscdn.net/2026/09/337111_img0516.jpg?w=1000",
+      "published": "2026-09-28T09:30:00+00:00",
+      "excerpt": "Results and standings from around the world: the SMX World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337167_daviesalignmediasmx26ridgedale069.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -6600,8 +6688,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.92,
+        "motocross-supercross": 0.96
       },
       "subcategories": [
         {
@@ -6614,35 +6702,39 @@
         {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.74,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
+        "news": 0.79,
+        "review": 0.03,
+        "comparison-test": 0.07,
+        "first-look": 0.04,
+        "ranked-list": 0.41,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.1,
+        "profile-interview": 0.06,
+        "tribute": 0.04,
         "listing": 0.01,
-        "event-report": 0.83,
-        "event-preview": 0.08,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
+        "event-report": 0.93,
+        "event-preview": 0.09,
+        "press-release": 0.1,
+        "digest": 0.44,
+        "photo-gallery": 0.16,
         "ride-report": 0.03,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.53,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6732,85 +6824,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "28d4e335e2dea2550ad5867d37ec5772ab3a73c6",
-      "title": "Akrapovic titanium adventure footpegs announced",
-      "link": "https://www.visordown.com/news/akrapovic-titanium-adventure-footpegs-announced",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T07:44:17+00:00",
-      "excerpt": "First WP began making braking systems, and now Akrapovic is branching out with new titanium adventure bike footpegs.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/akrapovic-foot-pegs-03.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.87,
-        "gear": 0.85,
-        "dirt-mx": 0.7
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.16,
-        "comparison-test": 0.03,
-        "first-look": 0.16,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.17,
-        "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.05,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.07,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.91,
-        "digest": 0.18,
-        "photo-gallery": 0.14,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.26,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.14,
-      "tags": [
-        "adventure",
-        "gear",
-        "dirt-mx"
       ],
       "also": []
     },
@@ -6973,17 +6986,17 @@
       "also": []
     },
     {
-      "id": "3417bf13a485cdfbca3e32e43c7c3c78f9708044",
-      "title": "Watch: SMX World Championship Final Friday Raw Free Practice Video Highlights",
-      "link": "https://racerxonline.com/2026/09/26/watch-smx-world-championship-final-friday-raw-free-practice-video-highlights",
+      "id": "7811eb4222526b28844042da1bbef3e72b0ceef9",
+      "title": "The Post Show! Inside the Madness Post-Race at Thunder Ridge",
+      "link": "https://racerxonline.com/2026/09/27/the-post-show-inside-the-madness-post-race-at-thunder-ridge",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Tom Journet",
-      "published": "2026-09-26T14:00:00+00:00",
-      "excerpt": "Check out some raw interview clips and riding footage from Tom Journet's camera here at Thunder Ridge Nature Arena.",
-      "image": "https://rx.iscdn.net/2026/09/337147_al14374.jpg?w=1000",
+      "author": "Jason Weigandt",
+      "published": "2026-09-28T02:45:00+00:00",
+      "excerpt": "Jason Weigandt, Adam Enticknap and Steve Matthes head to the center of the Red Bull KTM party, catch Ken Roczen's gift to Eli Tomac, Rockstar Husky's final race, and more.",
+      "image": "https://rx.iscdn.net/2026/09/337179_pradoalignmediasmx26ridgedale165.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -6999,8 +7012,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.97
+        "racing": 0.89,
+        "motocross-supercross": 0.94
       },
       "subcategories": [
         {
@@ -7011,37 +7024,41 @@
       ],
       "forms": [
         {
-          "slug": "photo-gallery",
-          "label": "Photo Gallery"
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.4,
+        "news": 0.29,
         "review": 0.02,
         "comparison-test": 0.03,
-        "first-look": 0.06,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.16,
-        "tribute": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.16,
+        "profile-interview": 0.15,
+        "tribute": 0.12,
         "listing": 0.01,
-        "event-report": 0.34,
-        "event-preview": 0.29,
-        "press-release": 0.09,
-        "digest": 0.07,
-        "photo-gallery": 0.85,
-        "ride-report": 0.04,
-        "history": 0.06,
-        "rumor": 0.03,
+        "event-report": 0.86,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.33,
+        "photo-gallery": 0.33,
+        "ride-report": 0.06,
+        "history": 0.09,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.47,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "episode": 0.81,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.82,
       "tags": [
         "dirt-mx",
         "racing",
@@ -7454,17 +7471,17 @@
       "also": []
     },
     {
-      "id": "eb6463d96626893e27c80f4baf57ea30017c27ae",
-      "title": "Racerhead #39",
-      "link": "https://racerxonline.com/2026/09/25/racerhead-39",
+      "id": "817bc51d68986d2c0b0a0b7494122e333e25cfbb",
+      "title": "Live Written Updates and Results From SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/26/live-written-updates-and-results-from-smx-world-championship-final",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Davey Coombs",
-      "published": "2026-09-25T17:30:00+00:00",
-      "excerpt": "This week in your sport: SMX takes over Thunder Ridge Nature Arena in Missouri for an exciting 2026 season finale, MXGP finished their season in Australia, Pastrana Pro Challenge at PVR, and more.",
-      "image": "https://rx.iscdn.net/2026/09/337103_img0524-1.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-26T14:45:00+00:00",
+      "excerpt": "Full race day coverage from the 31st and final SMX round of 2026 from Missouri.",
+      "image": "https://rx.iscdn.net/2026/09/337111_img0516.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -7480,8 +7497,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
-        "motocross-supercross": 0.96
+        "racing": 0.96,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -7492,45 +7509,37 @@
       ],
       "forms": [
         {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.8,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.05,
-        "ranked-list": 0.12,
+        "news": 0.74,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.08,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.09,
-        "opinion": 0.08,
-        "profile-interview": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
         "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.67,
-        "event-preview": 0.76,
-        "press-release": 0.16,
-        "digest": 0.89,
-        "photo-gallery": 0.15,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.13,
-        "build-feature": 0.03,
-        "q-and-a": 0.13
+        "event-report": 0.83,
+        "event-preview": 0.08,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.92,
+      "multi_subject": 0.09,
       "tags": [
         "dirt-mx",
         "racing",
@@ -7788,17 +7797,17 @@
       "also": []
     },
     {
-      "id": "e42adfc96af112b77919387b0b25c6da28aa7256",
-      "title": "Watch: SuperMotocross World Championship Final Pre-Race Press Conference Live at 12:30 p.m. Eastern/9:30 a.m. Pacific",
-      "link": "https://racerxonline.com/2026/09/25/watch-supermotocross-world-championship-final-pre-race-press-conference-live",
+      "id": "3417bf13a485cdfbca3e32e43c7c3c78f9708044",
+      "title": "Watch: SMX World Championship Final Friday Raw Free Practice Video Highlights",
+      "link": "https://racerxonline.com/2026/09/26/watch-smx-world-championship-final-friday-raw-free-practice-video-highlights",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-25T15:00:00+00:00",
-      "excerpt": "Check out what the top 450SMX, 250SMX, and WMX riders have to say ahead of the Monster Energy SuperMotocross World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337079_deeganalignmediasmx26losangeles016.jpg?w=1000",
+      "author": "Tom Journet",
+      "published": "2026-09-26T14:00:00+00:00",
+      "excerpt": "Check out some raw interview clips and riding footage from Tom Journet's camera here at Thunder Ridge Nature Arena.",
+      "image": "https://rx.iscdn.net/2026/09/337147_al14374.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -7814,8 +7823,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.99
+        "racing": 0.94,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -7826,37 +7835,37 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.65,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.08,
+        "news": 0.4,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
+        "opinion": 0.04,
+        "profile-interview": 0.16,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.94,
-        "press-release": 0.43,
-        "digest": 0.06,
-        "photo-gallery": 0.36,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.43,
-        "build-feature": 0.01,
+        "event-report": 0.34,
+        "event-preview": 0.29,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.85,
+        "ride-report": 0.04,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.47,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.09,
       "tags": [
         "dirt-mx",
         "racing",
@@ -8177,17 +8186,17 @@
       "also": []
     },
     {
-      "id": "ad28cb0996424235fe7ac71ec73d89d05f3c0599",
-      "title": "10 Things to Watch at SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/25/10-things-to-watch-in-missouri",
+      "id": "eb6463d96626893e27c80f4baf57ea30017c27ae",
+      "title": "Racerhead #39",
+      "link": "https://racerxonline.com/2026/09/25/racerhead-39",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Sarah Whitmore",
-      "published": "2026-09-25T14:30:00+00:00",
-      "excerpt": "Championship math, could DiFrancesco win it without winning a single race? Webb vs Deegan, huge money on the line, plus WMX is back. A ton of action is set to take place this weekend!",
-      "image": "https://rx.iscdn.net/2026/09/337051_pradoalignmediasmx26losangeles003.jpg?w=1000",
+      "author": "Davey Coombs",
+      "published": "2026-09-25T17:30:00+00:00",
+      "excerpt": "This week in your sport: SMX takes over Thunder Ridge Nature Arena in Missouri for an exciting 2026 season finale, MXGP finished their season in Australia, Pastrana Pro Challenge at PVR, and more.",
+      "image": "https://rx.iscdn.net/2026/09/337103_img0524-1.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -8203,8 +8212,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.92,
+        "motocross-supercross": 0.96
       },
       "subcategories": [
         {
@@ -8215,41 +8224,45 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "digest",
+          "label": "Digest"
         },
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.21,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.84,
+        "news": 0.8,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.12,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.18,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
+        "how-to": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.08,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.97,
-        "press-release": 0.09,
-        "digest": 0.18,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "event-report": 0.67,
+        "event-preview": 0.76,
+        "press-release": 0.16,
+        "digest": 0.89,
+        "photo-gallery": 0.15,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.13,
+        "build-feature": 0.03,
+        "q-and-a": 0.13
       },
-      "multi_subject": 0.52,
+      "multi_subject": 0.92,
       "tags": [
         "dirt-mx",
         "racing",
@@ -8497,17 +8510,17 @@
       "also": []
     },
     {
-      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
-      "title": "Video: SMX World Championship Final Preview and Injury Updates",
-      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
+      "id": "e42adfc96af112b77919387b0b25c6da28aa7256",
+      "title": "Watch: SuperMotocross World Championship Final Pre-Race Press Conference Live at 12:30 p.m. Eastern/9:30 a.m. Pacific",
+      "link": "https://racerxonline.com/2026/09/25/watch-supermotocross-world-championship-final-pre-race-press-conference-live",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Sarah Whitmore",
-      "published": "2026-09-25T14:00:00+00:00",
-      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
-      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-25T15:00:00+00:00",
+      "excerpt": "Check out what the top 450SMX, 250SMX, and WMX riders have to say ahead of the Monster Energy SuperMotocross World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337079_deeganalignmediasmx26losangeles016.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -8523,8 +8536,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
+        "racing": 0.97,
+        "motocross-supercross": 0.99
       },
       "subcategories": [
         {
@@ -8537,39 +8550,35 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.32,
-        "review": 0.02,
+        "news": 0.65,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.08,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.09,
-        "profile-interview": 0.07,
-        "tribute": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.96,
-        "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.56,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.79,
-        "build-feature": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.94,
+        "press-release": 0.43,
+        "digest": 0.06,
+        "photo-gallery": 0.36,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.43,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
@@ -8817,17 +8826,17 @@
       "also": []
     },
     {
-      "id": "8f7ea855988e0c0cabf3211e65eaaec2e35ee12c",
-      "title": "Justin Barcia Out for SMX Finale With Ankle Injury, Ends Tenure with TLD/Red Bull Ducati",
-      "link": "https://racerxonline.com/2026/09/25/justin-barcia-out-with-ankle-injury-ends-tenure-with-tld-red-bull-ducati",
+      "id": "ad28cb0996424235fe7ac71ec73d89d05f3c0599",
+      "title": "10 Things to Watch at SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/25/10-things-to-watch-in-missouri",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-09-25T12:30:00+00:00",
-      "excerpt": "Justin Barcia expected to move to Twisted Tea Suzuki in 2027 after a year with Ducati.",
-      "image": "https://rx.iscdn.net/2026/01/320637_26tldred-bull-ducatijb16.jpg?w=1000",
+      "author": "Sarah Whitmore",
+      "published": "2026-09-25T14:30:00+00:00",
+      "excerpt": "Championship math, could DiFrancesco win it without winning a single race? Webb vs Deegan, huge money on the line, plus WMX is back. A ton of action is set to take place this weekend!",
+      "image": "https://rx.iscdn.net/2026/09/337051_pradoalignmediasmx26losangeles003.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -8843,7 +8852,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
+        "racing": 0.96,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -8855,37 +8864,41 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.85,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "news": 0.21,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.84,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.14,
-        "tribute": 0.03,
+        "explainer": 0.17,
+        "opinion": 0.18,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.13,
-        "event-preview": 0.17,
-        "press-release": 0.22,
-        "digest": 0.12,
-        "photo-gallery": 0.07,
+        "event-report": 0.07,
+        "event-preview": 0.97,
+        "press-release": 0.09,
+        "digest": 0.18,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.52,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9137,17 +9150,17 @@
       "also": []
     },
     {
-      "id": "b78d9d6080d79f0507991318444582757e0a4324",
-      "title": "How to Watch: SMX World Championship Final TV Broadcast/Streaming Information",
-      "link": "https://racerxonline.com/2026/09/25/how-to-watch-smx-world-championship-final-tv-broadcast-streaming-information",
+      "id": "5e4a36e9726b8b8700c655d3157cb198ef221fda",
+      "title": "Video: SMX World Championship Final Preview and Injury Updates",
+      "link": "https://racerxonline.com/2026/09/25/video-smx-world-championship-final-preview-and-injury-updates",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-25T12:00:00+00:00",
-      "excerpt": "Full race day and broadcast schedules, track map video, live timing link, and more for the big showdown at the SMX finale in Missouri.",
-      "image": "https://rx.iscdn.net/2026/09/337064_deeganalignmediasmx26losangeles052.jpg?w=1000",
+      "author": "Sarah Whitmore",
+      "published": "2026-09-25T14:00:00+00:00",
+      "excerpt": "Video preview: Sarah Whitmore covers the storylines and injury report for the SMX World Championship Final.",
+      "image": "https://rx.iscdn.net/2026/09/337102_3369882026los-angelessmxalignmediaxracerx042.webp?w=1000",
       "audio": null,
       "categories": [
         {
@@ -9163,8 +9176,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.98
+        "racing": 0.93,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -9177,35 +9190,39 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
         "news": 0.32,
-        "review": 0.01,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
         "buyers-guide": 0.02,
-        "how-to": 0.19,
-        "explainer": 0.58,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.09,
+        "profile-interview": 0.07,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.9,
-        "press-release": 0.19,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.09,
         "digest": 0.08,
-        "photo-gallery": 0.09,
+        "photo-gallery": 0.56,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.01,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.79,
         "build-feature": 0.02,
-        "q-and-a": 0.08
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.12,
+      "multi_subject": 0.1,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9457,17 +9474,17 @@
       "also": []
     },
     {
-      "id": "603e5948449c72fdaef77d929f9eec35e7327802",
-      "title": "Top 13 WMX Competitors to Race in WMX Invitational at SMX World Championship Final on Saturday",
-      "link": "https://racerxonline.com/2026/09/24/top-13-wmx-competitors-to-race-in-wmx-invitational-at-smx-world-championship-final-on-saturday",
+      "id": "8f7ea855988e0c0cabf3211e65eaaec2e35ee12c",
+      "title": "Justin Barcia Out for SMX Finale With Ankle Injury, Ends Tenure with TLD/Red Bull Ducati",
+      "link": "https://racerxonline.com/2026/09/25/justin-barcia-out-with-ankle-injury-ends-tenure-with-tld-red-bull-ducati",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T19:45:00+00:00",
-      "excerpt": "The inaugural WMX Invitational Powered by Synchrony will pit 13 of the top WMX racers against one another in a showcase race on the hybrid racetrack built at arguably the most unique venue the sport has ever visited.",
-      "image": "https://rx.iscdn.net/2026/09/337094_unnamed.jpg?w=1000",
+      "author": "Jason Weigandt",
+      "published": "2026-09-25T12:30:00+00:00",
+      "excerpt": "Justin Barcia expected to move to Twisted Tea Suzuki in 2027 after a year with Ducati.",
+      "image": "https://rx.iscdn.net/2026/01/320637_26tldred-bull-ducatijb16.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -9483,8 +9500,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.96
+        "racing": 0.94,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -9495,45 +9512,37 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
-        {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.8,
-        "review": 0.01,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.91,
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.11,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.97,
-        "press-release": 0.5,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
+        "event-report": 0.13,
+        "event-preview": 0.17,
+        "press-release": 0.22,
+        "digest": 0.12,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
+        "history": 0.08,
+        "rumor": 0.09,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.05,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9698,17 +9707,17 @@
       "also": []
     },
     {
-      "id": "85e628ffacf7f3f175945212cf5577b49b5089bf",
-      "title": "SMX World Championship Final Full Friday and Saturday Schedules",
-      "link": "https://racerxonline.com/2026/09/24/smx-world-championship-final-full-friday-and-saturday-schedules",
+      "id": "b78d9d6080d79f0507991318444582757e0a4324",
+      "title": "How to Watch: SMX World Championship Final TV Broadcast/Streaming Information",
+      "link": "https://racerxonline.com/2026/09/25/how-to-watch-smx-world-championship-final-tv-broadcast-streaming-information",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
       "author": "Mitch Kendra",
-      "published": "2026-09-24T19:10:00+00:00",
-      "excerpt": "What you need to know the most for the Monster Energy SMX World Championship Final on Saturday: the points-paying motos start just after 7 p.m. Eastern/4 p.m. Pacific on Peacock. Remember, you can every moto LIVE on Peacock.",
-      "image": "https://rx.iscdn.net/2026/09/337092_hampshirealignmediasmx26losangeles062.jpg?w=1000",
+      "published": "2026-09-25T12:00:00+00:00",
+      "excerpt": "Full race day and broadcast schedules, track map video, live timing link, and more for the big showdown at the SMX finale in Missouri.",
+      "image": "https://rx.iscdn.net/2026/09/337064_deeganalignmediasmx26losangeles052.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -9724,7 +9733,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
+        "racing": 0.94,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -9738,39 +9747,35 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.77,
+        "news": 0.32,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.14,
+        "how-to": 0.19,
+        "explainer": 0.58,
         "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.12,
-        "event-preview": 0.92,
-        "press-release": 0.39,
+        "event-preview": 0.9,
+        "press-release": 0.19,
         "digest": 0.08,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.08
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.12,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9930,17 +9935,17 @@
       "also": []
     },
     {
-      "id": "4c5281ea5f14f688b0e20f27986b3f2690abd5ce",
-      "title": "Vote: Who Wins the 450SMX Title? Who Wins the 250SMX Finale Overall? WMX Main Event?",
-      "link": "https://racerxonline.com/2026/09/24/vote-who-wins-the-450smx-title-who-wins-the-250smx-finale-overall-wmx-main-event",
+      "id": "603e5948449c72fdaef77d929f9eec35e7327802",
+      "title": "Top 13 WMX Competitors to Race in WMX Invitational at SMX World Championship Final on Saturday",
+      "link": "https://racerxonline.com/2026/09/24/top-13-wmx-competitors-to-race-in-wmx-invitational-at-smx-world-championship-final-on-saturday",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-24T18:00:00+00:00",
-      "excerpt": "Get in on the action! Give us your predictions on who will win this weekend.",
-      "image": "https://rx.iscdn.net/2026/09/337077_difrancescoalignmediasmx26losangeles017.jpg?w=1000",
+      "author": "Press Release",
+      "published": "2026-09-24T19:45:00+00:00",
+      "excerpt": "The inaugural WMX Invitational Powered by Synchrony will pit 13 of the top WMX racers against one another in a showcase race on the hybrid racetrack built at arguably the most unique venue the sport has ever visited.",
+      "image": "https://rx.iscdn.net/2026/09/337094_unnamed.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -9956,8 +9961,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.97
+        "racing": 0.97,
+        "motocross-supercross": 0.96
       },
       "subcategories": [
         {
@@ -9970,35 +9975,43 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.06,
+        "news": 0.8,
         "review": 0.01,
-        "comparison-test": 0.06,
+        "comparison-test": 0.05,
         "first-look": 0.03,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.01,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
+        "ranked-list": 0.91,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.11,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.93,
-        "press-release": 0.06,
-        "digest": 0.17,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
+        "event-report": 0.1,
+        "event-preview": 0.97,
+        "press-release": 0.5,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.06
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.58,
+      "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
         "racing",
@@ -10175,17 +10188,17 @@
       "also": []
     },
     {
-      "id": "996bfde6c1daec66fea035c7781f9feaaa238168",
-      "title": "Injury Report: Updates on Anderson, Yoder, Ross, and More Ahead of Monster Energy SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/24/updates-on-anderson-yoder-ross-and-more-ahead-of-the-monster-energy-smx-world-championship-final",
+      "id": "85e628ffacf7f3f175945212cf5577b49b5089bf",
+      "title": "SMX World Championship Final Full Friday and Saturday Schedules",
+      "link": "https://racerxonline.com/2026/09/24/smx-world-championship-final-full-friday-and-saturday-schedules",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Aaron Hansel",
-      "published": "2026-09-24T17:00:00+00:00",
-      "excerpt": "Update: Barcia's status for the weekend, and more. Check out who'll be missing the action at Thunder Ridge Nature Arena.",
-      "image": "https://rx.iscdn.net/2026/09/337063_yoderalignmediasmx26losangeles010.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-24T19:10:00+00:00",
+      "excerpt": "What you need to know the most for the Monster Energy SMX World Championship Final on Saturday: the points-paying motos start just after 7 p.m. Eastern/4 p.m. Pacific on Peacock. Remember, you can every moto LIVE on Peacock.",
+      "image": "https://rx.iscdn.net/2026/09/337092_hampshirealignmediasmx26losangeles062.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -10201,8 +10214,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.97
+        "racing": 0.96,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -10222,32 +10235,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.78,
+        "news": 0.77,
         "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.93,
-        "press-release": 0.16,
-        "digest": 0.4,
+        "event-report": 0.12,
+        "event-preview": 0.92,
+        "press-release": 0.39,
+        "digest": 0.08,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.65,
+      "multi_subject": 0.06,
       "tags": [
         "dirt-mx",
         "racing",
@@ -10339,17 +10352,17 @@
       "also": []
     },
     {
-      "id": "8652242b5f8b3df2dc91ef1cfa4d52409fb24cf5",
-      "title": "Watch: 2019 WW Ranch 450 Moto 1",
-      "link": "https://racerxonline.com/2026/09/24/watch-2019-ww-ranch-450-moto-1",
+      "id": "4c5281ea5f14f688b0e20f27986b3f2690abd5ce",
+      "title": "Vote: Who Wins the 450SMX Title? Who Wins the 250SMX Finale Overall? WMX Main Event?",
+      "link": "https://racerxonline.com/2026/09/24/vote-who-wins-the-450smx-title-who-wins-the-250smx-finale-overall-wmx-main-event",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Donnie \"RotoMoto\" Southers",
-      "published": "2026-09-24T15:35:00+00:00",
-      "excerpt": "The full moto from the Florida National, with Ken Roczen, Eli Tomac, Marvin Musquin, Blake Baggett, Zach Osborne, Cooper Webb and more.",
-      "image": "https://rx.iscdn.net/2026/09/337086_186353jk8343.webp?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-24T18:00:00+00:00",
+      "excerpt": "Get in on the action! Give us your predictions on who will win this weekend.",
+      "image": "https://rx.iscdn.net/2026/09/337077_difrancescoalignmediasmx26losangeles017.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -10365,8 +10378,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
+        "racing": 0.96,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -10377,41 +10390,37 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "photo-gallery",
-          "label": "Photo Gallery"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.34,
-        "review": 0.02,
+        "news": 0.06,
+        "review": 0.01,
         "comparison-test": 0.06,
         "first-look": 0.03,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.01,
+        "how-to": 0.03,
         "explainer": 0.05,
-        "opinion": 0.04,
+        "opinion": 0.1,
         "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.85,
-        "event-preview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.93,
         "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.81,
-        "ride-report": 0.02,
-        "history": 0.16,
-        "rumor": 0.02,
+        "digest": 0.17,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.68,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.58,
       "tags": [
         "dirt-mx",
         "racing",
@@ -10501,17 +10510,17 @@
       "also": []
     },
     {
-      "id": "9a9bd6db872cebd9f8389cb6c7bcfd2c8979d142",
-      "title": "JT on What to Expect at the Brand-New Venue for the SMX World Championship Final",
-      "link": "https://racerxonline.com/2026/09/24/jt-on-what-to-expect-at-the-brand-new-venue-for-the-smx-final",
+      "id": "996bfde6c1daec66fea035c7781f9feaaa238168",
+      "title": "Injury Report: Updates on Anderson, Yoder, Ross, and More Ahead of Monster Energy SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/24/updates-on-anderson-yoder-ross-and-more-ahead-of-the-monster-energy-smx-world-championship-final",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Thomas",
-      "published": "2026-09-24T14:10:00+00:00",
-      "excerpt": "JT previews the SMX finale. \"There has been a lot of conversation about what can be better and where to improve these playoff rounds but I think this one is a great fit.\"",
-      "image": "https://rx.iscdn.net/2026/09/336863_podiumalignmediasmx26losangeles004.jpg?w=1000",
+      "author": "Aaron Hansel",
+      "published": "2026-09-24T17:00:00+00:00",
+      "excerpt": "Update: Barcia's status for the weekend, and more. Check out who'll be missing the action at Thunder Ridge Nature Arena.",
+      "image": "https://rx.iscdn.net/2026/09/337063_yoderalignmediasmx26losangeles010.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -10527,7 +10536,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
+        "racing": 0.95,
         "motocross-supercross": 0.97
       },
       "subcategories": [
@@ -10543,37 +10552,37 @@
           "label": "Event Preview"
         },
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.33,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.25,
-        "ranked-list": 0.02,
+        "news": 0.78,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.06,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.42,
-        "profile-interview": 0.89,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.08,
-        "event-preview": 0.95,
-        "press-release": 0.11,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.03,
+        "event-preview": 0.93,
+        "press-release": 0.16,
+        "digest": 0.4,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.1,
+        "episode": 0.06,
         "build-feature": 0.02,
-        "q-and-a": 0.07
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.65,
       "tags": [
         "dirt-mx",
         "racing",
@@ -10666,17 +10675,17 @@
       ]
     },
     {
-      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
-      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
-      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
+      "id": "8652242b5f8b3df2dc91ef1cfa4d52409fb24cf5",
+      "title": "Watch: 2019 WW Ranch 450 Moto 1",
+      "link": "https://racerxonline.com/2026/09/24/watch-2019-ww-ranch-450-moto-1",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T11:00:00+00:00",
-      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
-      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
+      "author": "Donnie \"RotoMoto\" Southers",
+      "published": "2026-09-24T15:35:00+00:00",
+      "excerpt": "The full moto from the Florida National, with Ken Roczen, Eli Tomac, Marvin Musquin, Blake Baggett, Zach Osborne, Cooper Webb and more.",
+      "image": "https://rx.iscdn.net/2026/09/337086_186353jk8343.webp?w=1000",
       "audio": null,
       "categories": [
         {
@@ -10692,8 +10701,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.94
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -10704,41 +10713,37 @@
       ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
+        "news": 0.34,
+        "review": 0.02,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.04,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.88,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
+        "event-report": 0.85,
+        "event-preview": 0.05,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.81,
         "ride-report": 0.02,
-        "history": 0.05,
+        "history": 0.16,
         "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.68,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
@@ -10832,17 +10837,17 @@
       "also": []
     },
     {
-      "id": "50e7004d1f8dda2d1d51953a8f2578b5210d504d",
-      "title": "Cole Davies: \u201cI\u2019m thinking about next year. I\u2019m excited for it. Hopefully, I can have another step up and do what I do best\u201d",
-      "link": "https://racerxonline.com/2026/09/24/cole-davies-hopefully-i-can-have-another-step-up-and-do-what-i-do-best",
+      "id": "9a9bd6db872cebd9f8389cb6c7bcfd2c8979d142",
+      "title": "JT on What to Expect at the Brand-New Venue for the SMX World Championship Final",
+      "link": "https://racerxonline.com/2026/09/24/jt-on-what-to-expect-at-the-brand-new-venue-for-the-smx-final",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Eric Johnson",
-      "published": "2026-09-24T10:00:00+00:00",
-      "excerpt": "Plus, Davies is anticipating racing a 450, which could happen as early as 2028: \u201cI\u2019ll be as ready as I can. When that time comes, I\u2019ll be ready. I\u2019m excited about it.\u201d",
-      "image": "https://rx.iscdn.net/2026/09/337066_daviesalignmediasmx26losangeles043.jpg?w=1000",
+      "author": "Jason Thomas",
+      "published": "2026-09-24T14:10:00+00:00",
+      "excerpt": "JT previews the SMX finale. \"There has been a lot of conversation about what can be better and where to improve these playoff rounds but I think this one is a great fit.\"",
+      "image": "https://rx.iscdn.net/2026/09/336863_podiumalignmediasmx26losangeles004.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -10858,8 +10863,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.87,
-        "motocross-supercross": 0.86
+        "racing": 0.92,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -10870,37 +10875,41 @@
       ],
       "forms": [
         {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
           "slug": "profile-interview",
           "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.35,
+        "news": 0.33,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.25,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.08,
-        "profile-interview": 0.95,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.42,
+        "profile-interview": 0.89,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.14,
-        "press-release": 0.08,
-        "digest": 0.1,
-        "photo-gallery": 0.06,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.95,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
         "episode": 0.1,
         "build-feature": 0.02,
         "q-and-a": 0.07
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "racing",
@@ -10986,17 +10995,17 @@
       "also": []
     },
     {
-      "id": "f08d84fbe65c3c4a6b442f3980da793b00f5e347",
-      "title": "What Does the SMX Word Championship Final at Thunder Ridge Nature Arena Track Look Like? Watch: Track Map Video",
-      "link": "https://racerxonline.com/2026/09/23/what-does-the-smx-final-track-look-like-watch-track-map-video",
+      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
+      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
+      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Mitch Kendra",
-      "published": "2026-09-23T20:10:00+00:00",
-      "excerpt": "Take a lap around Thunder Ridge Nature Arena for the Monster Energy SMX Word Championship Final in Missouri.",
-      "image": "https://rx.iscdn.net/2026/09/336035_smxridgedaleoverview01.png?w=1000",
+      "author": "Press Release",
+      "published": "2026-09-24T11:00:00+00:00",
+      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
+      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11012,8 +11021,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.9,
-        "motocross-supercross": 0.96
+        "racing": 0.95,
+        "motocross-supercross": 0.94
       },
       "subcategories": [
         {
@@ -11026,33 +11035,41 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.36,
-        "review": 0.02,
+        "news": 0.88,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.06,
+        "first-look": 0.01,
         "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.07,
-        "explainer": 0.3,
-        "opinion": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.03,
         "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.15,
-        "event-preview": 0.82,
-        "press-release": 0.18,
-        "digest": 0.06,
-        "photo-gallery": 0.64,
-        "ride-report": 0.06,
-        "history": 0.04,
-        "rumor": 0.04,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.41,
-        "build-feature": 0.03,
-        "q-and-a": 0.04
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.05,
       "tags": [
@@ -11144,17 +11161,17 @@
       "also": []
     },
     {
-      "id": "2930a42f7242a7b68553664b53ae1e4b92e7d150",
-      "title": "10 Things We Learned at Carson SMX Playoff 2",
-      "link": "https://racerxonline.com/2026/09/23/10-things-we-learned-at-carson-smx-playoff-2",
+      "id": "50e7004d1f8dda2d1d51953a8f2578b5210d504d",
+      "title": "Cole Davies: \u201cI\u2019m thinking about next year. I\u2019m excited for it. Hopefully, I can have another step up and do what I do best\u201d",
+      "link": "https://racerxonline.com/2026/09/24/cole-davies-hopefully-i-can-have-another-step-up-and-do-what-i-do-best",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Travis Delnicki",
-      "published": "2026-09-23T19:30:00+00:00",
-      "excerpt": "DiFrancesco rebounds after running into a downed Davies, Shimoda shows some fight after a challenging year, Prado likes racing with the red plates, and more from California.",
-      "image": "https://rx.iscdn.net/2026/09/337057_difrancescoalignmediasmx26losangeles044.jpg?w=1000",
+      "author": "Eric Johnson",
+      "published": "2026-09-24T10:00:00+00:00",
+      "excerpt": "Plus, Davies is anticipating racing a 450, which could happen as early as 2028: \u201cI\u2019ll be as ready as I can. When that time comes, I\u2019ll be ready. I\u2019m excited about it.\u201d",
+      "image": "https://rx.iscdn.net/2026/09/337066_daviesalignmediasmx26losangeles043.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11170,8 +11187,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.87,
+        "motocross-supercross": 0.86
       },
       "subcategories": [
         {
@@ -11182,41 +11199,37 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.66,
+        "news": 0.35,
         "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.04,
-        "ranked-list": 0.88,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.22,
-        "profile-interview": 0.08,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.08,
+        "profile-interview": 0.95,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.96,
-        "event-preview": 0.05,
-        "press-release": 0.05,
-        "digest": 0.4,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.05,
+        "event-report": 0.06,
+        "event-preview": 0.14,
+        "press-release": 0.08,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.1,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.07
       },
-      "multi_subject": 0.84,
+      "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
         "racing",
@@ -11302,17 +11315,17 @@
       "also": []
     },
     {
-      "id": "5067764b5aba35d3fc11bb4e23870292fb9f8df2",
-      "title": "Weege Show Wednesday: A Week Packed With News, Plus Playoff Scenarios",
-      "link": "https://racerxonline.com/2026/09/23/weege-show-wednesday-a-week-packed-with-news-plus-playoff-scenarios",
+      "id": "f08d84fbe65c3c4a6b442f3980da793b00f5e347",
+      "title": "What Does the SMX Word Championship Final at Thunder Ridge Nature Arena Track Look Like? Watch: Track Map Video",
+      "link": "https://racerxonline.com/2026/09/23/what-does-the-smx-final-track-look-like-watch-track-map-video",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-09-23T18:45:00+00:00",
-      "excerpt": "Dylan Ferrandis\u2019 retirement, SMX media rules, the next WSX round is canceled, and SMX finale championship math, Jason Weigandt unpacks it all.",
-      "image": "https://rx.iscdn.net/2026/09/336869_pradoalignmediasmx26losangeles137.jpg?w=1000",
+      "author": "Mitch Kendra",
+      "published": "2026-09-23T20:10:00+00:00",
+      "excerpt": "Take a lap around Thunder Ridge Nature Arena for the Monster Energy SMX Word Championship Final in Missouri.",
+      "image": "https://rx.iscdn.net/2026/09/336035_smxridgedaleoverview01.png?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11328,8 +11341,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.97
+        "racing": 0.9,
+        "motocross-supercross": 0.96
       },
       "subcategories": [
         {
@@ -11340,41 +11353,37 @@
       ],
       "forms": [
         {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.28,
-        "review": 0.01,
+        "news": 0.36,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.06,
+        "first-look": 0.06,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.49,
-        "opinion": 0.31,
-        "profile-interview": 0.22,
-        "tribute": 0.11,
+        "how-to": 0.07,
+        "explainer": 0.3,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.26,
-        "press-release": 0.08,
-        "digest": 0.8,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.82,
-        "build-feature": 0.02,
-        "q-and-a": 0.12
+        "event-report": 0.15,
+        "event-preview": 0.82,
+        "press-release": 0.18,
+        "digest": 0.06,
+        "photo-gallery": 0.64,
+        "ride-report": 0.06,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.41,
+        "build-feature": 0.03,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.93,
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
         "racing",
@@ -11446,17 +11455,17 @@
       "also": []
     },
     {
-      "id": "915b3b3ffd9da029602ed70785230c2df8d517a1",
-      "title": "Steve Matthes' Observations From SMX Playoff 2",
-      "link": "https://racerxonline.com/2026/09/23/observations-from-smx-playoff-2",
+      "id": "2930a42f7242a7b68553664b53ae1e4b92e7d150",
+      "title": "10 Things We Learned at Carson SMX Playoff 2",
+      "link": "https://racerxonline.com/2026/09/23/10-things-we-learned-at-carson-smx-playoff-2",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Steve Matthes",
-      "published": "2026-09-23T18:45:00+00:00",
-      "excerpt": "Play by play of the action in Carson where nobody could hold onto the overall lead (or championship points lead) for too long!",
-      "image": "https://rx.iscdn.net/2026/09/337043_startsalignmediasmx26losangeles019.jpg?w=1000",
+      "author": "Travis Delnicki",
+      "published": "2026-09-23T19:30:00+00:00",
+      "excerpt": "DiFrancesco rebounds after running into a downed Davies, Shimoda shows some fight after a challenging year, Prado likes racing with the red plates, and more from California.",
+      "image": "https://rx.iscdn.net/2026/09/337057_difrancescoalignmediasmx26losangeles044.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11472,7 +11481,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.95,
+        "racing": 0.96,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -11486,35 +11495,39 @@
         {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.44,
+        "news": 0.66,
         "review": 0.02,
-        "comparison-test": 0.04,
+        "comparison-test": 0.05,
         "first-look": 0.04,
-        "ranked-list": 0.1,
+        "ranked-list": 0.88,
         "buyers-guide": 0.02,
         "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.42,
-        "profile-interview": 0.34,
+        "explainer": 0.1,
+        "opinion": 0.22,
+        "profile-interview": 0.08,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.95,
+        "event-report": 0.96,
         "event-preview": 0.05,
-        "press-release": 0.03,
-        "digest": 0.07,
-        "photo-gallery": 0.1,
-        "ride-report": 0.12,
-        "history": 0.17,
+        "press-release": 0.05,
+        "digest": 0.4,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.09,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.05
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.84,
       "tags": [
         "dirt-mx",
         "racing",
@@ -11604,17 +11617,17 @@
       "also": []
     },
     {
-      "id": "6133d9f080eff4edaf1abbbf39dd547b09321560",
-      "title": "Adams: \"It feels like a true family over here and they\u2019ve been by my side through the ups and downs\"",
-      "link": "https://racerxonline.com/2026/09/23/adams-it-feels-like-a-true-family-over-here-and-theyve-been-by-my-side-through-the-ups-and-downs",
+      "id": "5067764b5aba35d3fc11bb4e23870292fb9f8df2",
+      "title": "Weege Show Wednesday: A Week Packed With News, Plus Playoff Scenarios",
+      "link": "https://racerxonline.com/2026/09/23/weege-show-wednesday-a-week-packed-with-news-plus-playoff-scenarios",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Eric Johnson",
-      "published": "2026-09-23T13:00:00+00:00",
-      "excerpt": "Eric Johnson caught up with Drew Adams to chat about his season, the future, and how he plans on spending his off-season.",
-      "image": "https://rx.iscdn.net/2026/09/337052_adamsalignmediasmx26losangeles024.jpg?w=1000",
+      "author": "Jason Weigandt",
+      "published": "2026-09-23T18:45:00+00:00",
+      "excerpt": "Dylan Ferrandis\u2019 retirement, SMX media rules, the next WSX round is canceled, and SMX finale championship math, Jason Weigandt unpacks it all.",
+      "image": "https://rx.iscdn.net/2026/09/336869_pradoalignmediasmx26losangeles137.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11630,8 +11643,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.78,
-        "motocross-supercross": 0.81
+        "racing": 0.95,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -11642,37 +11655,41 @@
       ],
       "forms": [
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "episode",
+          "label": "Episode"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
         }
       ],
       "form_scores": {
-        "news": 0.23,
-        "review": 0.02,
+        "news": 0.28,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.06,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.09,
-        "profile-interview": 0.98,
-        "tribute": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.49,
+        "opinion": 0.31,
+        "profile-interview": 0.22,
+        "tribute": 0.11,
         "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.05,
+        "event-report": 0.29,
+        "event-preview": 0.26,
         "press-release": 0.08,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.04,
+        "digest": 0.8,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
         "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.14,
-        "build-feature": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.82,
+        "build-feature": 0.02,
         "q-and-a": 0.12
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.93,
       "tags": [
         "dirt-mx",
         "racing",
@@ -11766,17 +11783,17 @@
       "also": []
     },
     {
-      "id": "26313e6ee4a079be0f2b0e7e67d14305639af4e1",
-      "title": "Carson SMX Playoff 2 Photos",
-      "link": "https://racerxonline.com/2026/09/22/carson-smx-playoff-2-photos",
+      "id": "915b3b3ffd9da029602ed70785230c2df8d517a1",
+      "title": "Steve Matthes' Observations From SMX Playoff 2",
+      "link": "https://racerxonline.com/2026/09/23/observations-from-smx-playoff-2",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Align Media",
-      "published": "2026-09-23T00:00:00+00:00",
-      "excerpt": "Our best from the second round of the SMX Playoffs from California.",
-      "image": "https://rx.iscdn.net/2026/09/337041_shimodaalignmediasmx26losangeles060.jpg?w=1000",
+      "author": "Steve Matthes",
+      "published": "2026-09-23T18:45:00+00:00",
+      "excerpt": "Play by play of the action in Carson where nobody could hold onto the overall lead (or championship points lead) for too long!",
+      "image": "https://rx.iscdn.net/2026/09/337043_startsalignmediasmx26losangeles019.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -11792,8 +11809,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
+        "racing": 0.95,
+        "motocross-supercross": 0.98
       },
       "subcategories": [
         {
@@ -11806,43 +11823,35 @@
         {
           "slug": "event-report",
           "label": "Event Report"
-        },
-        {
-          "slug": "photo-gallery",
-          "label": "Photo Gallery"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.49,
+        "news": 0.44,
         "review": 0.02,
         "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.85,
+        "first-look": 0.04,
+        "ranked-list": 0.1,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.42,
+        "profile-interview": 0.34,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.87,
-        "event-preview": 0.04,
-        "press-release": 0.09,
+        "event-report": 0.95,
+        "event-preview": 0.05,
+        "press-release": 0.03,
         "digest": 0.07,
-        "photo-gallery": 0.86,
-        "ride-report": 0.04,
-        "history": 0.1,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.12,
+        "history": 0.17,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.09,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.1,
       "tags": [
         "dirt-mx",
         "racing",
@@ -11932,6 +11941,83 @@
       "also": []
     },
     {
+      "id": "6133d9f080eff4edaf1abbbf39dd547b09321560",
+      "title": "Adams: \"It feels like a true family over here and they\u2019ve been by my side through the ups and downs\"",
+      "link": "https://racerxonline.com/2026/09/23/adams-it-feels-like-a-true-family-over-here-and-theyve-been-by-my-side-through-the-ups-and-downs",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Eric Johnson",
+      "published": "2026-09-23T13:00:00+00:00",
+      "excerpt": "Eric Johnson caught up with Drew Adams to chat about his season, the future, and how he plans on spending his off-season.",
+      "image": "https://rx.iscdn.net/2026/09/337052_adamsalignmediasmx26losangeles024.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.78,
+        "motocross-supercross": 0.81
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.23,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.09,
+        "profile-interview": 0.98,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.05,
+        "press-release": 0.08,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.04,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.14,
+        "build-feature": 0.05,
+        "q-and-a": 0.12
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
       "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
       "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
@@ -12005,6 +12091,91 @@
         "q-and-a": 0.01
       },
       "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "26313e6ee4a079be0f2b0e7e67d14305639af4e1",
+      "title": "Carson SMX Playoff 2 Photos",
+      "link": "https://racerxonline.com/2026/09/22/carson-smx-playoff-2-photos",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Align Media",
+      "published": "2026-09-23T00:00:00+00:00",
+      "excerpt": "Our best from the second round of the SMX Playoffs from California.",
+      "image": "https://rx.iscdn.net/2026/09/337041_shimodaalignmediasmx26losangeles060.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.93,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.49,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.85,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.87,
+        "event-preview": 0.04,
+        "press-release": 0.09,
+        "digest": 0.07,
+        "photo-gallery": 0.86,
+        "ride-report": 0.04,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
