@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import asyncio
+import collections
 import csv
 import hashlib
 import html
@@ -115,6 +116,8 @@ def db_connect(cfg: dict) -> sqlite3.Connection:
             url TEXT PRIMARY KEY, name TEXT, etag TEXT, modified TEXT,
             last_fetch TEXT, last_status INTEGER, last_error TEXT,
             last_new INTEGER, last_new_at TEXT);
+        CREATE TABLE IF NOT EXISTS verdicts (
+            id INTEGER PRIMARY KEY, item_id TEXT, action TEXT, tag TEXT, reason TEXT, at TEXT);
         """
     )
     have = {r["name"] for r in con.execute("PRAGMA table_info(items)")}
@@ -899,6 +902,45 @@ def _ts(iso: str) -> float:
 MORE = {"slug": "odd-ball", "label": "Odd Ball"}
 
 
+def sync_verdicts(con) -> None:
+    """Copy the owner's tag verdicts (given on the site, stored in Neon) into the local DB.
+    Unreachable Neon is not fatal: the last copy keeps applying."""
+    url = os.environ.get("TDM_DATABASE_URL")
+    if not url:
+        return
+    try:
+        host = url.split("@", 1)[1].split("/", 1)[0]
+        r = httpx.post(f"https://{host}/sql", headers={"Neon-Connection-String": url}, timeout=20, json={
+            "query": "SELECT id, item_id, action, tag, reason, created_at FROM verdicts ORDER BY id", "params": []})
+        r.raise_for_status()
+        rows = r.json()["rows"]
+    except Exception as e:
+        print(f"  verdicts: Neon unreachable ({type(e).__name__}); using the last copy")
+        return
+    con.execute("DELETE FROM verdicts")
+    con.executemany("INSERT INTO verdicts VALUES (?, ?, ?, ?, ?, ?)",
+                    [(int(v["id"]), v["item_id"], v["action"], v["tag"], v["reason"], v["created_at"]) for v in rows])
+    con.commit()
+    print(f"  verdicts: {len(rows)} synced")
+
+
+def apply_verdicts(stored: list, verdicts: list, kids: dict, valid: set) -> list:
+    """The owner overrules Jev: replay add/remove verdicts (oldest first) over the tags Jev gave.
+    Adding a child adds its parent; removing a parent removes its children. An added tag goes first,
+    since the owner usually adds the article's real subject."""
+    tags = list(stored)
+    for action, tag in verdicts:
+        if tag not in valid:
+            continue
+        if action == "add":
+            for t in ([kids[tag][1]] if tag in kids else []) + [tag]:
+                if t not in tags:
+                    tags.insert(0, t)
+        elif action == "remove":
+            tags = [t for t in tags if t != tag and kids.get(t, (None, None))[1] != tag]
+    return tags
+
+
 def row_to_public(row, labels: dict, kids: dict | None = None, form_labels: dict | None = None, form_cut: float = 0.75) -> dict:
     kids = kids or {}                            # child slug -> (label, parent slug)
     stored = json.loads(row["categories"] or "[]")
@@ -940,6 +982,13 @@ def export(con, cfg: dict) -> None:
     ).fetchall()
     window = cfg.get("ranking", {}).get("window_days", 21)
     form_labels = {f["slug"]: f["label"] for f in cfg.get("forms", [])}
+    verdicts = collections.defaultdict(list)
+    for v in con.execute("SELECT item_id, action, tag FROM verdicts WHERE action != 'confirm' ORDER BY id"):
+        verdicts[v["item_id"]].append((v["action"], v["tag"]))
+    if verdicts:
+        rows = [dict(r) | {"categories": json.dumps(apply_verdicts(
+                    json.loads(r["categories"] or "[]"), verdicts[r["id"]], kids, set(labels) | set(kids)))}
+                if r["id"] in verdicts and r["lang"] == "en" else r for r in rows]
     public = [row_to_public(r, labels, kids, form_labels, cfg["thresholds"].get("form", 0.75)) for r in rows]
     pairs = [(p["a"], p["b"], p["same_story"]) for p in con.execute("SELECT a, b, same_story FROM story_pairs")]
     public = collapse_stories(public, pairs, cfg.get("stories", {}).get("same_story_threshold", 0.85))
@@ -1076,6 +1125,7 @@ def main() -> None:
         asyncio.run(classify_new(con, cfg, clf))
         asyncio.run(group_new(con, cfg, clf))
         asyncio.run(enrich_images(con, cfg))
+        sync_verdicts(con)
         export(con, cfg)
     elif args.command == "group":
         clf = MockClassifier() if args.mock else JevClassifier(cfg)
@@ -1084,6 +1134,7 @@ def main() -> None:
     elif args.command == "review":
         review(con, cfg)
     elif args.command == "export":
+        sync_verdicts(con)
         export(con, cfg)
     elif args.command == "stats":
         stats(con, cfg)

@@ -11,7 +11,7 @@ const also = item.also ?? [];
     </a>
   )}
   <h3><a href={item.link} target="_blank" rel="noopener noreferrer">{item.title}</a></h3>
-  <p class="meta">
+  <p class="meta" data-v={item.id} data-tags={item.tags.join(' ')}>
     {item.source} · <time datetime={item.published}>{date}</time>
     {item.categories.map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}
     {(item.subcategories ?? []).map((c) => (<> · <a href={`/c/${c.slug}/`}>{c.label}</a></>))}

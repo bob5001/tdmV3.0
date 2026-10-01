@@ -151,6 +151,9 @@ const updated = meta.updated;
       }
       relativeTimes();
 
+      // Owner mode (set by the private garage link): load the tag-verdict menus. Readers never download this.
+      if (/(?:^|;\s*)tdm_o=1/.test(document.cookie)) import('../scripts/owner').then((m) => m.startOwnerMode());
+
       // Pictures are loaded from the sources' own servers; hide the box when one fails.
       // Listening on the document also catches pictures added later (search results).
       const dropImage = (img: HTMLImageElement) => {
