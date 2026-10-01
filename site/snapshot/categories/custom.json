@@ -11,7 +11,7 @@
     {
       "slug": "scramblers",
       "label": "Scramblers",
-      "count": 6
+      "count": 8
     },
     {
       "slug": "bobbers-choppers",
@@ -21,7 +21,7 @@
     {
       "slug": "trackers",
       "label": "Trackers",
-      "count": 3
+      "count": 5
     },
     {
       "slug": "restomods",
@@ -122,6 +122,75 @@
       "also": []
     },
     {
+      "id": "df9df8c8f38b412c6212e2069cec719a22470986",
+      "title": "PROJECT MEGA: Royal Enfield Bear by Black Cycles.",
+      "link": "https://pipeburn.com/royal-enfield-bear-black-cycles",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Hawwa",
+      "published": "2026-09-24T22:33:53+00:00",
+      "excerpt": "The line between custom motorcycle building and art has always been difficult to define. Art is free to exist simply to provoke a reaction, while a motorcycle still must carry its rider, manoeuvre, stop and survive road conditions. But every so often, a builder creates a machine ",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/Royal-Enfield-Bear-650-Black-cycles-11-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "cruisers": 0.58
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.24,
+        "comparison-test": 0.03,
+        "first-look": 0.28,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.22,
+        "opinion": 0.34,
+        "profile-interview": 0.74,
+        "tribute": 0.05,
+        "listing": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.17,
+        "digest": 0.07,
+        "photo-gallery": 0.21,
+        "ride-report": 0.04,
+        "history": 0.09,
+        "rumor": 0.08,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.92,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "cruisers"
+      ],
+      "also": []
+    },
+    {
       "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
       "title": "Honda\u2019s Custom Contest Winner: Mugen",
       "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
@@ -206,17 +275,17 @@
       ]
     },
     {
-      "id": "df9df8c8f38b412c6212e2069cec719a22470986",
-      "title": "PROJECT MEGA: Royal Enfield Bear by Black Cycles.",
-      "link": "https://pipeburn.com/royal-enfield-bear-black-cycles",
+      "id": "639284da6aaef1a2cf5a98c5cb6b78640f819100",
+      "title": "Today on BikeBound.com: Ducati 175 from @kickback.magazine.and.events at\u2026",
+      "link": "https://bikebound.tumblr.com/post/829282101396373504",
       "lang": "en",
-      "source": "Pipeburn",
+      "source": "BikeBound",
       "ownership": "independent",
       "media": "article",
-      "author": "Mark Hawwa",
-      "published": "2026-09-24T22:33:53+00:00",
-      "excerpt": "The line between custom motorcycle building and art has always been difficult to define. Art is free to exist simply to provoke a reaction, while a motorcycle still must carry its rider, manoeuvre, stop and survive road conditions. But every so often, a builder creates a machine ",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/Royal-Enfield-Bear-650-Black-cycles-11-2.jpg",
+      "author": null,
+      "published": "2026-10-01T14:30:41+00:00",
+      "excerpt": "Today on BikeBound.com: Ducati 175 from @kickback.magazine.and.events at @sammymillermotorcyclemuseum. Photos: @roga______ Full gallery: https://ift.tt/D6k35eI \u2014\u2014\u2014 #ducati #ducatiscrambler #scrambler #streettracker #ducatigram via Instagram https://instagr.am/p/Dd9IBnLMJpu/",
+      "image": "https://64.media.tumblr.com/90756c91330e74f61a523f3a82e19149/bae19ef1e063fe46-c2/s640x960/1c4e83113e472b6003002c9b3774589d3f3cf1a3.jpg",
       "audio": null,
       "categories": [
         {
@@ -224,53 +293,68 @@
           "label": "Custom"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94,
-        "cruisers": 0.58
+        "custom": 0.93,
+        "classic": 0.59,
+        "scramblers": 0.7,
+        "trackers": 0.54
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        },
+        {
+          "slug": "trackers",
+          "label": "Trackers",
+          "parent": "custom"
+        }
+      ],
       "forms": [
         {
-          "slug": "build-feature",
-          "label": "Build Feature"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.2,
-        "review": 0.24,
+        "news": 0.26,
+        "review": 0.2,
         "comparison-test": 0.03,
-        "first-look": 0.28,
+        "first-look": 0.15,
         "ranked-list": 0.04,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.34,
-        "profile-interview": 0.74,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
         "tribute": 0.05,
         "listing": 0.07,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.17,
-        "digest": 0.07,
-        "photo-gallery": 0.21,
-        "ride-report": 0.04,
-        "history": 0.09,
-        "rumor": 0.08,
+        "event-report": 0.12,
+        "event-preview": 0.07,
+        "press-release": 0.15,
+        "digest": 0.15,
+        "photo-gallery": 0.88,
+        "ride-report": 0.05,
+        "history": 0.2,
+        "rumor": 0.06,
         "safety-notice": 0.01,
         "episode": 0.04,
-        "build-feature": 0.92,
-        "q-and-a": 0.02
+        "build-feature": 0.71,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.09,
       "tags": [
         "custom",
-        "cruisers"
+        "classic",
+        "scramblers",
+        "trackers"
       ],
       "also": []
     },
@@ -415,17 +499,17 @@
       "also": []
     },
     {
-      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
-      "title": "BMW R100 by Bolt Motor Company.",
-      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "id": "484efcac0b8f335057993cf1c6fcf71acd9247cf",
+      "title": "Today on BikeBound.com: Ducati 175 from @kickback.magazine.and.events at\u2026",
+      "link": "https://bikebound.tumblr.com/post/829281799467401216",
       "lang": "en",
-      "source": "Pipeburn",
+      "source": "BikeBound",
       "ownership": "independent",
       "media": "article",
-      "author": "Martin Hodgson",
-      "published": "2026-09-21T10:46:21+00:00",
-      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
+      "author": null,
+      "published": "2026-10-01T14:25:53+00:00",
+      "excerpt": "Today on BikeBound.com: Ducati 175 from @kickback.magazine.and.events at @sammymillermotorcyclemuseum. Photos: @roga______ Full gallery: https://ift.tt/D6k35eI \u2014\u2014\u2014 #ducati #ducatiscrambler #scrambler #streettracker #ducatigram via Instagram https://instagr.am/p/Dd9HnKwlQj3/",
+      "image": "https://64.media.tumblr.com/f5ca704e82c974446f55c3b052b2b9c6/e9a2863f5e975d80-8a/s640x960/fd9049ccb672ef40f38317d5546d1313dcca8248.jpg",
       "audio": null,
       "categories": [
         {
@@ -440,46 +524,61 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94,
-        "classic": 0.8
+        "custom": 0.92,
+        "classic": 0.62,
+        "scramblers": 0.7,
+        "trackers": 0.52
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        },
+        {
+          "slug": "trackers",
+          "label": "Trackers",
+          "parent": "custom"
+        }
+      ],
       "forms": [
         {
-          "slug": "build-feature",
-          "label": "Build Feature"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.15,
-        "review": 0.22,
-        "comparison-test": 0.02,
-        "first-look": 0.13,
-        "ranked-list": 0.03,
+        "news": 0.3,
+        "review": 0.2,
+        "comparison-test": 0.03,
+        "first-look": 0.15,
+        "ranked-list": 0.04,
         "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.12,
-        "profile-interview": 0.57,
-        "tribute": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.05,
         "listing": 0.09,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.2,
-        "digest": 0.08,
-        "photo-gallery": 0.16,
-        "ride-report": 0.04,
-        "history": 0.22,
+        "event-report": 0.13,
+        "event-preview": 0.07,
+        "press-release": 0.17,
+        "digest": 0.16,
+        "photo-gallery": 0.88,
+        "ride-report": 0.05,
+        "history": 0.21,
         "rumor": 0.06,
         "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.9,
-        "q-and-a": 0.03
+        "episode": 0.05,
+        "build-feature": 0.74,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.1,
       "tags": [
         "custom",
-        "classic"
+        "classic",
+        "scramblers",
+        "trackers"
       ],
       "also": []
     },
@@ -638,90 +737,6 @@
         "for-sale",
         "classic",
         "cafe-racers"
-      ],
-      "also": []
-    },
-    {
-      "id": "11d5ff89d47f12318d8007f0c64e9e5194d8f069",
-      "title": "Triumph Originals: Desert sleds, rally builds and a 1200 cc supermoto",
-      "link": "https://www.mcnews.com.au/triumph-originals-2026-custom-scramblers",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-21T01:39:36+00:00",
-      "excerpt": "A 1200 cc supermoto, a Tiger Trail tribute and two contrasting 400 XC customs headline this year\u2019s Triumph Originals field. Explore all seven builds before voting closes at 10 pm AEST on September 22. The post Triumph Originals: Desert sleds, rally builds and a 1200 cc supermoto ",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-Triumph-Originals-Canada.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.92,
-        "custom": 0.88,
-        "adventure": 0.73,
-        "events-rides": 0.53,
-        "adv-events-competitions": 0.5
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.73,
-        "review": 0.03,
-        "comparison-test": 0.27,
-        "first-look": 0.1,
-        "ranked-list": 0.22,
-        "buyers-guide": 0.11,
-        "how-to": 0.04,
-        "explainer": 0.11,
-        "opinion": 0.08,
-        "profile-interview": 0.1,
-        "tribute": 0.05,
-        "listing": 0.05,
-        "event-report": 0.11,
-        "event-preview": 0.55,
-        "press-release": 0.55,
-        "digest": 0.16,
-        "photo-gallery": 0.26,
-        "ride-report": 0.03,
-        "history": 0.06,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.04,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.61,
-      "tags": [
-        "dirt-mx",
-        "custom",
-        "adventure",
-        "events-rides",
-        "adv-events-competitions"
       ],
       "also": []
     },
@@ -1699,6 +1714,138 @@
       "also": []
     },
     {
+      "id": "fe410b0c3c89ddc5d703d850dfa4dd80edecb81a",
+      "title": "Breaking the Mold: The Top 7 Custom Royal Enfield Builds of 2022",
+      "link": "https://www.bikeexif.com/top-7-custom-royal-enfield-builds-2022",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Tom Gosselin",
+      "published": "2026-09-21T18:00:00+00:00",
+      "excerpt": "When it comes to platforms that absolutely dominated the custom motorcycle scene...",
+      "image": "https://images.bikeexif.com/2022/04/_1200x675_crop_center-center_82_line/royal-enfield-dustbin-fairing-motorcycle.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.03,
+        "comparison-test": 0.39,
+        "first-look": 0.05,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.13,
+        "how-to": 0.05,
+        "explainer": 0.15,
+        "opinion": 0.53,
+        "profile-interview": 0.08,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.02,
+        "press-release": 0.08,
+        "digest": 0.09,
+        "photo-gallery": 0.31,
+        "ride-report": 0.03,
+        "history": 0.12,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.21,
+      "tags": [
+        "custom"
+      ],
+      "also": []
+    },
+    {
+      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
+      "title": "BMW R100 by Bolt Motor Company.",
+      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Martin Hodgson",
+      "published": "2026-09-21T10:46:21+00:00",
+      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "classic": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.22,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.12,
+        "profile-interview": 0.57,
+        "tribute": 0.03,
+        "listing": 0.09,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.2,
+        "digest": 0.08,
+        "photo-gallery": 0.16,
+        "ride-report": 0.04,
+        "history": 0.22,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.9,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "classic"
+      ],
+      "also": []
+    },
+    {
       "id": "36a4f627ee011a09d0e2b0dbee8d3bac53c3428a",
       "title": "Top 20 Most Expensive Caf\u00e9 Racers Ever Sold at Auction",
       "link": "https://www.returnofthecaferacers.com/top-lists/top-20-most-expensive-cafe-racers-ever-sold-at-auction",
@@ -1768,65 +1915,86 @@
       "also": []
     },
     {
-      "id": "fe410b0c3c89ddc5d703d850dfa4dd80edecb81a",
-      "title": "Breaking the Mold: The Top 7 Custom Royal Enfield Builds of 2022",
-      "link": "https://www.bikeexif.com/top-7-custom-royal-enfield-builds-2022",
+      "id": "11d5ff89d47f12318d8007f0c64e9e5194d8f069",
+      "title": "Triumph Originals: Desert sleds, rally builds and a 1200 cc supermoto",
+      "link": "https://www.mcnews.com.au/triumph-originals-2026-custom-scramblers",
       "lang": "en",
-      "source": "BIKE EXIF",
+      "source": "MCNews Australia",
       "ownership": "independent",
       "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-21T18:00:00+00:00",
-      "excerpt": "When it comes to platforms that absolutely dominated the custom motorcycle scene...",
-      "image": "https://images.bikeexif.com/2022/04/_1200x675_crop_center-center_82_line/royal-enfield-dustbin-fairing-motorcycle.jpg",
+      "author": "Trev",
+      "published": "2026-09-21T01:39:36+00:00",
+      "excerpt": "A 1200 cc supermoto, a Tiger Trail tribute and two contrasting 400 XC customs headline this year\u2019s Triumph Originals field. Explore all seven builds before voting closes at 10 pm AEST on September 22. The post Triumph Originals: Desert sleds, rally builds and a 1200 cc supermoto ",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-Triumph-Originals-Canada.jpg",
       "audio": null,
       "categories": [
         {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
           "slug": "custom",
           "label": "Custom"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
         }
       ],
-      "primary": "custom",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "custom": 0.89
+        "dirt-mx": 0.92,
+        "custom": 0.88,
+        "adventure": 0.73,
+        "events-rides": 0.53,
+        "adv-events-competitions": 0.5
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
         }
       ],
+      "forms": [],
       "form_scores": {
-        "news": 0.1,
+        "news": 0.73,
         "review": 0.03,
-        "comparison-test": 0.39,
-        "first-look": 0.05,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.13,
-        "how-to": 0.05,
-        "explainer": 0.15,
-        "opinion": 0.53,
-        "profile-interview": 0.08,
-        "tribute": 0.03,
-        "listing": 0.03,
-        "event-report": 0.06,
-        "event-preview": 0.02,
-        "press-release": 0.08,
-        "digest": 0.09,
-        "photo-gallery": 0.31,
+        "comparison-test": 0.27,
+        "first-look": 0.1,
+        "ranked-list": 0.22,
+        "buyers-guide": 0.11,
+        "how-to": 0.04,
+        "explainer": 0.11,
+        "opinion": 0.08,
+        "profile-interview": 0.1,
+        "tribute": 0.05,
+        "listing": 0.05,
+        "event-report": 0.11,
+        "event-preview": 0.55,
+        "press-release": 0.55,
+        "digest": 0.16,
+        "photo-gallery": 0.26,
         "ride-report": 0.03,
-        "history": 0.12,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.04,
+        "history": 0.06,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.06,
         "build-feature": 0.04,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.21,
+      "multi_subject": 0.61,
       "tags": [
-        "custom"
+        "dirt-mx",
+        "custom",
+        "adventure",
+        "events-rides",
+        "adv-events-competitions"
       ],
       "also": []
     },
