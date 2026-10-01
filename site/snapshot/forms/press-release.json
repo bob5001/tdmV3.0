@@ -180,87 +180,6 @@
       ]
     },
     {
-      "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
-      "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
-      "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-26T13:26:08+00:00",
-      "excerpt": "The announcement comes from Zhang Xue at Cremona: \u201cWe\u2019re considering whether or not to form a team with Evan Bros. In China, we\u2019ve already started working on a project with a displacement greater than 820, which is the Superbike class.\u201d",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.91,
-        "worldsbk-superbike": 0.85
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.73,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.66,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.25,
-        "press-release": 0.75,
-        "digest": 0.09,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.76,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "0192db56a50e27aa33415b0a3988ec7f861632f0",
       "title": "LET THE BOYS BE BOYS. SMX PRESS DAY!",
       "link": "https://dirtrider.net/let-the-boys-be-boys-smx-press-day",
@@ -391,6 +310,87 @@
       "multi_subject": 0.04,
       "tags": [
         "electric"
+      ],
+      "also": []
+    },
+    {
+      "id": "f6d36f7311e7e107a8535ce5b4dc72053bf1445e",
+      "title": "Honda Racing Corporation and Red Bull re-unite to add to past success",
+      "link": "https://www.gpone.com/en/2026/10/01/motogp/honda-racing-corporation-and-red-bull-re-unite-to-add-to-past-success.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-01T08:13:01+00:00",
+      "excerpt": "Red Bull to again collaborate with Honda HRC\u2019s factory MotoGP team, the pairing already outlining ambitious plans to add to their 45 wins and over 90 podiums together in a multi-year deal",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "industry": 0.68,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.22,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.12,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.1,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -1393,6 +1393,87 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
+      "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
+      "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-26T13:26:08+00:00",
+      "excerpt": "The announcement comes from Zhang Xue at Cremona: \u201cWe\u2019re considering whether or not to form a team with Evan Bros. In China, we\u2019ve already started working on a project with a displacement greater than 820, which is the Superbike class.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.91,
+        "worldsbk-superbike": 0.85
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.73,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.66,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.25,
+        "press-release": 0.75,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.76,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -4560,85 +4641,6 @@
       "also": []
     },
     {
-      "id": "28d4e335e2dea2550ad5867d37ec5772ab3a73c6",
-      "title": "Akrapovic titanium adventure footpegs announced",
-      "link": "https://www.visordown.com/news/akrapovic-titanium-adventure-footpegs-announced",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T07:44:17+00:00",
-      "excerpt": "First WP began making braking systems, and now Akrapovic is branching out with new titanium adventure bike footpegs.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/akrapovic-foot-pegs-03.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.86,
-        "gear": 0.84,
-        "dirt-mx": 0.69
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.17,
-        "comparison-test": 0.03,
-        "first-look": 0.16,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.16,
-        "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.05,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.08,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.91,
-        "digest": 0.17,
-        "photo-gallery": 0.14,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.25,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.13,
-      "tags": [
-        "adventure",
-        "gear",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
       "id": "5d4dc69da98898a32f736e33151b5e3b450abbdb",
       "title": "April Franzoni stays with Team SR and receives HRC support in 2027",
       "link": "https://mxvice.com/2026/09/24/april-franzoni-stays-with-team-sr-and-receives-hrc-support-in-2027",
@@ -4803,6 +4805,85 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "28d4e335e2dea2550ad5867d37ec5772ab3a73c6",
+      "title": "Akrapovic titanium adventure footpegs announced",
+      "link": "https://www.visordown.com/news/akrapovic-titanium-adventure-footpegs-announced",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T07:44:17+00:00",
+      "excerpt": "First WP began making braking systems, and now Akrapovic is branching out with new titanium adventure bike footpegs.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/akrapovic-foot-pegs-03.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.86,
+        "gear": 0.84,
+        "dirt-mx": 0.69
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.17,
+        "comparison-test": 0.03,
+        "first-look": 0.16,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.16,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.05,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.08,
+        "event-report": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.91,
+        "digest": 0.17,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.25,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "adventure",
+        "gear",
+        "dirt-mx"
       ],
       "also": []
     },
