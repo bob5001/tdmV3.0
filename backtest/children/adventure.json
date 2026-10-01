@@ -1,0 +1,21 @@
+{
+ "parent": "adventure",
+ "status": "ADOPTED in config.yaml and backtest/categories.yaml 2026-10-01 (the publisher reclassifies on its next tick after the push)",
+ "cutoff": 0.5,
+ "tested_on": "40 confident Adventure articles from live data",
+ "owner_decisions": [
+  {"topic": "Rally bikes", "answer": "Own child in Adventure for rally-style and lightweight ADV models (690 Rally, 450 Rally Replica, Ténéré World Raid), separate from big-bore touring ADVs. Pure race news can also carry Racing (multi-label)."},
+  {"topic": "ADV events", "answer": "Adventure keeps an 'ADV Events & Competitions' child: GS Trophy, Dakar and rally-raid, brand challenges, round-the-world/record rides. Event reports and previews are already forms, so this child is about the subject."},
+  {"topic": "Travel stories", "answer": "No child. The ride-report form already lets readers find trip and destination stories."},
+  {"topic": "Edge cases", "answer": "No child for ADV gear, ADV customs or off-road modern classics; they keep Adventure and also get Gear/Custom/Classic."},
+  {"topic": "Record attempts", "answer": "Folded into ADV Events & Competitions."},
+  {"topic": "Big touring ADVs", "answer": "Added after the first Jev test, which left the largest bike group (GS, Multistrada, 1390, Tiger, Pan America) without a child."}
+ ],
+ "result": {
+  "adventure-touring": "9 hits (4 at 0.85), 3 also in another child",
+  "rally-lightweight-adv": "10 hits (7 at 0.85), 3 also in another child",
+  "adv-events-competitions": "6 hits (6 at 0.85), 0 also in another child",
+  "coverage": "22/40 Adventure articles get a child; the rest are mostly travel stories, by design"
+ },
+ "notes": "First draft (model-proposed) let the rally child catch Dakar news (0.61) and a Himalayas travel blog (0.50), and the events child catch a 450 Rally Replica gallery (0.52). Rewording both as 'mainly about a specific model' vs 'mainly about an event' cleared all three. The Voge DS9 (middleweight) lands in both bike children, which is acceptable. The R 12 G/S review lands in Adventure Touring and should also carry Classic."
+}

@@ -87,6 +87,24 @@ categories:
   label: Adventure
   instructions: The article is about adventure, dual-sport, or off-pavement touring motorcycles, ADV riding,
     or overlanding.
+  children:
+  - slug: adventure-touring
+    label: Adventure Touring
+    instructions: 'The article is mainly about a specific big-bore adventure-touring motorcycle model (roughly
+      900cc and up, such as the BMW R 1300 GS, Ducati Multistrada, KTM 1390 Super Adventure, Triumph Tiger
+      1200, Honda Africa Twin, Harley Pan America): its launch, specs, price, special edition, review or test.'
+  - slug: rally-lightweight-adv
+    label: Rally & Lightweight ADV
+    instructions: 'The article is mainly about a specific rally-style or lightweight adventure/dual-sport motorcycle
+      model (such as the KTM 690 Rally, KTM 450 Rally Replica, Yamaha Ténéré 700 or World Raid, Honda CRF300L
+      Rally): its launch, specs, price, availability, review or test. Not articles about rally races or events
+      themselves, and not travel stories.'
+  - slug: adv-events-competitions
+    label: ADV Events & Competitions
+    instructions: 'The article is mainly about an organized adventure-riding event, competition or record
+      attempt (such as the BMW GS Trophy, Dakar or another rally-raid, a brand riding challenge, or a round-the-world
+      record ride): its route, participants, results or organization. Not articles that are mainly about a
+      motorcycle model.'
 - slug: racing
   label: Racing
   instructions: 'The article covers competitive motorcycle racing: a race, championship or series, results,
