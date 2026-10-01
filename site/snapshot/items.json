@@ -1080,77 +1080,79 @@
     "also": []
   },
   {
-    "id": "7427c961cd7b44f508bf45d54e194c1704be84a1",
-    "title": "Two-Stroke Terror: Johnny Cecotto\u2019s 1978 Factory Yamaha 0W31",
-    "link": "https://www.bikeexif.com/johnny-cecottos-factory-yamaha-0w31-two-stroke-750",
+    "id": "4043f072519b721ac9e400e263b5aab98100148f",
+    "title": "Throwback Thursday\u2014Trail Breaker: K-Speed Mods the Newest (and Littlest) XSR",
+    "link": "https://www.bikeexif.com/throwback-thursday-trail-breaker-k-speed-mods-the-newest-and-littlest-xsr",
     "lang": "en",
     "source": "BIKE EXIF",
     "ownership": "independent",
     "media": "article",
-    "author": "Dean Larson",
-    "published": "2026-09-29T17:00:00+00:00",
-    "excerpt": "Formula 750 started out as a noble concept to put big-bore street bikes on the g...",
-    "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/j-cecotto-0w31-yamaha-750-14.jpg?v=1790627045",
+    "author": "Iron Air",
+    "published": "2026-10-01T19:46:00+00:00",
+    "excerpt": "Based in a country where sub-250cc bikes rule, it\u2019s no surprise that K-Speed has...",
+    "image": "https://images.bikeexif.com/2019/09/_1200x675_crop_center-center_82_line/yamaha-xsr155-scrambler.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "classic",
-        "label": "Classic"
+        "slug": "custom",
+        "label": "Custom"
       },
       {
-        "slug": "racing",
-        "label": "Racing"
-      },
-      {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "new-models",
+        "label": "New Models"
       }
     ],
-    "primary": "classic",
+    "primary": "custom",
     "confident": true,
     "cat_scores": {
-      "classic": 0.96,
-      "racing": 0.87,
-      "sport-bikes": 0.55
+      "custom": 0.9,
+      "new-models": 0.69,
+      "scramblers": 0.7
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "scramblers",
+        "label": "Scramblers",
+        "parent": "custom"
+      }
+    ],
     "forms": [
       {
-        "slug": "history",
-        "label": "History"
+        "slug": "build-feature",
+        "label": "Build Feature"
       }
     ],
     "form_scores": {
-      "news": 0.06,
-      "review": 0.22,
-      "comparison-test": 0.07,
-      "first-look": 0.06,
-      "ranked-list": 0.08,
-      "buyers-guide": 0.1,
-      "how-to": 0.05,
-      "explainer": 0.41,
-      "opinion": 0.28,
-      "profile-interview": 0.31,
-      "tribute": 0.25,
-      "listing": 0.14,
-      "event-report": 0.17,
+      "news": 0.21,
+      "review": 0.61,
+      "comparison-test": 0.06,
+      "first-look": 0.45,
+      "ranked-list": 0.06,
+      "buyers-guide": 0.19,
+      "how-to": 0.11,
+      "explainer": 0.31,
+      "opinion": 0.21,
+      "profile-interview": 0.58,
+      "tribute": 0.16,
+      "listing": 0.08,
+      "event-report": 0.06,
       "event-preview": 0.04,
-      "press-release": 0.06,
-      "digest": 0.08,
-      "photo-gallery": 0.16,
+      "press-release": 0.32,
+      "digest": 0.1,
+      "photo-gallery": 0.28,
       "ride-report": 0.06,
-      "history": 0.94,
-      "rumor": 0.03,
-      "safety-notice": 0.02,
+      "history": 0.4,
+      "rumor": 0.15,
+      "safety-notice": 0.03,
       "episode": 0.05,
-      "build-feature": 0.46,
-      "q-and-a": 0.04
+      "build-feature": 0.82,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.06,
+    "multi_subject": 0.07,
     "tags": [
-      "classic",
-      "racing",
-      "sport-bikes"
+      "custom",
+      "new-models",
+      "scramblers"
     ],
     "also": []
   },
@@ -1747,69 +1749,83 @@
     ]
   },
   {
-    "id": "304dec0483380d1fb20087b559fa1ff74e2d793d",
-    "title": "New BSA Gold Star Paint Job Has A Much Cooler Backstory Than You\u2019d Expect",
-    "link": "https://www.rideapart.com/news/810154/bsa-gold-star-650-new-colors-birmingham-blue-brooklands-black",
+    "id": "53c7ce25074b844c6120a9892cc9bc1cf7ceac99",
+    "title": "Harley-Davidson Ends King of the Baggers Team. 'Evolves' Racing Going Forward",
+    "link": "https://www.rideapart.com/news/810509/harley-davidson-will-end-its-king-of-the-baggers-team",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-10-01T13:13:00+00:00",
-    "excerpt": "Birmingham Blue celebrates where BSA came from. Brooklands Black celebrates where the Gold Star earned its name.",
-    "image": "https://cdn.motor1.com/images/mgl/xqOKzv/s3/new-bsa-gold-star-paint-job-has-a-much-cooler-backstory-than-you-d-expect.jpg",
+    "published": "2026-10-01T20:03:54+00:00",
+    "excerpt": "Instead, Harley-Davidson will focus on \"premiere\" racing and support operations.",
+    "image": "https://cdn.motor1.com/images/mgl/XBb64b/s3/harley-davidson-leaves-king-of-the-baggers.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "classic",
-        "label": "Classic"
+        "slug": "racing",
+        "label": "Racing"
+      },
+      {
+        "slug": "cruisers",
+        "label": "Cruisers"
+      },
+      {
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
-    "primary": "classic",
+    "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "classic": 0.91
+      "racing": 0.88,
+      "cruisers": 0.84,
+      "industry": 0.73
     },
     "subcategories": [],
-    "forms": [],
-    "form_scores": {
-      "news": 0.32,
-      "review": 0.17,
-      "comparison-test": 0.05,
-      "first-look": 0.22,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.12,
-      "how-to": 0.03,
-      "explainer": 0.67,
-      "opinion": 0.25,
-      "profile-interview": 0.2,
-      "tribute": 0.2,
-      "listing": 0.08,
-      "event-report": 0.06,
-      "event-preview": 0.05,
-      "press-release": 0.55,
-      "digest": 0.08,
-      "photo-gallery": 0.2,
-      "ride-report": 0.05,
-      "history": 0.42,
-      "rumor": 0.23,
-      "safety-notice": 0.02,
-      "episode": 0.08,
-      "build-feature": 0.25,
-      "q-and-a": 0.06
-    },
-    "multi_subject": 0.07,
-    "tags": [
-      "classic"
-    ],
-    "also": [
+    "forms": [
       {
-        "source": "Visordown",
-        "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
-        "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
-        "published": "2026-09-29T10:50:24+00:00"
+        "slug": "news",
+        "label": "News"
+      },
+      {
+        "slug": "press-release",
+        "label": "Announcement"
       }
-    ]
+    ],
+    "form_scores": {
+      "news": 0.86,
+      "review": 0.02,
+      "comparison-test": 0.02,
+      "first-look": 0.02,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.05,
+      "how-to": 0.02,
+      "explainer": 0.16,
+      "opinion": 0.12,
+      "profile-interview": 0.22,
+      "tribute": 0.1,
+      "listing": 0.01,
+      "event-report": 0.07,
+      "event-preview": 0.05,
+      "press-release": 0.77,
+      "digest": 0.08,
+      "photo-gallery": 0.07,
+      "ride-report": 0.02,
+      "history": 0.07,
+      "rumor": 0.03,
+      "safety-notice": 0.02,
+      "episode": 0.04,
+      "build-feature": 0.02,
+      "q-and-a": 0.03
+    },
+    "multi_subject": 0.05,
+    "tags": [
+      "racing",
+      "cruisers",
+      "industry"
+    ],
+    "also": []
   },
   {
     "id": "18e8e96cac3b469bb1321d3bf58c2620fdd8916e",
@@ -2811,65 +2827,77 @@
     "also": []
   },
   {
-    "id": "886d67d873b233368de29e386c171aed893078c8",
-    "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
-    "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
+    "id": "7427c961cd7b44f508bf45d54e194c1704be84a1",
+    "title": "Two-Stroke Terror: Johnny Cecotto\u2019s 1978 Factory Yamaha 0W31",
+    "link": "https://www.bikeexif.com/johnny-cecottos-factory-yamaha-0w31-two-stroke-750",
     "lang": "en",
     "source": "BIKE EXIF",
     "ownership": "independent",
     "media": "article",
-    "author": "Tom Gosselin",
-    "published": "2026-09-28T18:00:00+00:00",
-    "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
-    "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
+    "author": "Dean Larson",
+    "published": "2026-09-29T17:00:00+00:00",
+    "excerpt": "Formula 750 started out as a noble concept to put big-bore street bikes on the g...",
+    "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/j-cecotto-0w31-yamaha-750-14.jpg?v=1790627045",
     "audio": null,
     "categories": [
       {
-        "slug": "custom",
-        "label": "Custom"
+        "slug": "classic",
+        "label": "Classic"
+      },
+      {
+        "slug": "racing",
+        "label": "Racing"
+      },
+      {
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "custom",
+    "primary": "classic",
     "confident": true,
     "cat_scores": {
-      "custom": 0.92
+      "classic": 0.96,
+      "racing": 0.87,
+      "sport-bikes": 0.55
     },
     "subcategories": [],
     "forms": [
       {
-        "slug": "ranked-list",
-        "label": "Ten Best"
+        "slug": "history",
+        "label": "History"
       }
     ],
     "form_scores": {
-      "news": 0.1,
-      "review": 0.03,
-      "comparison-test": 0.48,
-      "first-look": 0.07,
-      "ranked-list": 0.97,
-      "buyers-guide": 0.16,
-      "how-to": 0.04,
-      "explainer": 0.15,
-      "opinion": 0.56,
-      "profile-interview": 0.08,
-      "tribute": 0.06,
-      "listing": 0.03,
-      "event-report": 0.08,
-      "event-preview": 0.03,
-      "press-release": 0.09,
-      "digest": 0.13,
-      "photo-gallery": 0.27,
-      "ride-report": 0.04,
-      "history": 0.22,
+      "news": 0.06,
+      "review": 0.22,
+      "comparison-test": 0.07,
+      "first-look": 0.06,
+      "ranked-list": 0.08,
+      "buyers-guide": 0.1,
+      "how-to": 0.05,
+      "explainer": 0.41,
+      "opinion": 0.28,
+      "profile-interview": 0.31,
+      "tribute": 0.25,
+      "listing": 0.14,
+      "event-report": 0.17,
+      "event-preview": 0.04,
+      "press-release": 0.06,
+      "digest": 0.08,
+      "photo-gallery": 0.16,
+      "ride-report": 0.06,
+      "history": 0.94,
       "rumor": 0.03,
-      "safety-notice": 0.01,
-      "episode": 0.04,
-      "build-feature": 0.04,
-      "q-and-a": 0.03
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.46,
+      "q-and-a": 0.04
     },
-    "multi_subject": 0.44,
+    "multi_subject": 0.06,
     "tags": [
-      "custom"
+      "classic",
+      "racing",
+      "sport-bikes"
     ],
     "also": []
   },
@@ -3507,73 +3535,69 @@
     "also": []
   },
   {
-    "id": "fd085d03ebd7f6e1f93fe3b8419725800fcd69ff",
-    "title": "Here's The New Yamaha R2. But Is It The Droid You're Looking For?",
-    "link": "https://www.rideapart.com/news/810347/yamaha-yzf-r2-r2m-sportbike-launched",
+    "id": "304dec0483380d1fb20087b559fa1ff74e2d793d",
+    "title": "New BSA Gold Star Paint Job Has A Much Cooler Backstory Than You\u2019d Expect",
+    "link": "https://www.rideapart.com/news/810154/bsa-gold-star-650-new-colors-birmingham-blue-brooklands-black",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-10-01T12:58:00+00:00",
-    "excerpt": "If you've been looking for a 200cc sportbike with an up-and-down quickshifter, the YZF-R2 may just fit the bill.",
-    "image": "https://cdn.motor1.com/images/mgl/KbZ8R1/s3/yamaha-yzf-r2.jpg",
+    "published": "2026-10-01T13:13:00+00:00",
+    "excerpt": "Birmingham Blue celebrates where BSA came from. Brooklands Black celebrates where the Gold Star earned its name.",
+    "image": "https://cdn.motor1.com/images/mgl/xqOKzv/s3/new-bsa-gold-star-paint-job-has-a-much-cooler-backstory-than-you-d-expect.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
-      },
-      {
-        "slug": "new-models",
-        "label": "New Models"
+        "slug": "classic",
+        "label": "Classic"
       }
     ],
-    "primary": "sport-bikes",
+    "primary": "classic",
     "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.91,
-      "new-models": 0.89
+      "classic": 0.91
     },
     "subcategories": [],
-    "forms": [
-      {
-        "slug": "review",
-        "label": "Review"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.45,
-      "review": 0.76,
-      "comparison-test": 0.09,
-      "first-look": 0.63,
-      "ranked-list": 0.04,
-      "buyers-guide": 0.48,
-      "how-to": 0.06,
-      "explainer": 0.26,
-      "opinion": 0.53,
-      "profile-interview": 0.06,
-      "tribute": 0.02,
-      "listing": 0.03,
-      "event-report": 0.04,
-      "event-preview": 0.03,
-      "press-release": 0.37,
-      "digest": 0.07,
-      "photo-gallery": 0.14,
-      "ride-report": 0.07,
-      "history": 0.04,
-      "rumor": 0.25,
+      "news": 0.32,
+      "review": 0.17,
+      "comparison-test": 0.05,
+      "first-look": 0.22,
+      "ranked-list": 0.05,
+      "buyers-guide": 0.12,
+      "how-to": 0.03,
+      "explainer": 0.67,
+      "opinion": 0.25,
+      "profile-interview": 0.2,
+      "tribute": 0.2,
+      "listing": 0.08,
+      "event-report": 0.06,
+      "event-preview": 0.05,
+      "press-release": 0.55,
+      "digest": 0.08,
+      "photo-gallery": 0.2,
+      "ride-report": 0.05,
+      "history": 0.42,
+      "rumor": 0.23,
       "safety-notice": 0.02,
-      "episode": 0.09,
-      "build-feature": 0.03,
-      "q-and-a": 0.08
+      "episode": 0.08,
+      "build-feature": 0.25,
+      "q-and-a": 0.06
     },
-    "multi_subject": 0.06,
+    "multi_subject": 0.07,
     "tags": [
-      "sport-bikes",
-      "new-models"
+      "classic"
     ],
-    "also": []
+    "also": [
+      {
+        "source": "Visordown",
+        "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
+        "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
+        "published": "2026-09-29T10:50:24+00:00"
+      }
+    ]
   },
   {
     "id": "7a8f4142cfabbad47d9af6cbe3510d478869a850",
@@ -4461,72 +4485,65 @@
     "also": []
   },
   {
-    "id": "9a19f8dbfe9485923ae7521eaa16c2becde9044b",
-    "title": "Grab-and-go: A custom kit for the Honda CB350 from Taiwan",
-    "link": "https://www.bikeexif.com/honda-cb350-custom-kit-2",
+    "id": "886d67d873b233368de29e386c171aed893078c8",
+    "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
+    "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
     "lang": "en",
     "source": "BIKE EXIF",
     "ownership": "independent",
     "media": "article",
-    "author": "Wesley Reyneke",
-    "published": "2026-09-27T18:00:00+00:00",
-    "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-    "image": "https://images.bikeexif.com/2023/11/_1200x675_crop_center-center_82_line/honda-cb350-custom-kit.jpg",
+    "author": "Tom Gosselin",
+    "published": "2026-09-28T18:00:00+00:00",
+    "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
+    "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
     "audio": null,
     "categories": [
       {
         "slug": "custom",
         "label": "Custom"
-      },
-      {
-        "slug": "classic",
-        "label": "Classic"
-      },
-      {
-        "slug": "gear",
-        "label": "Gear"
       }
     ],
     "primary": "custom",
-    "confident": false,
+    "confident": true,
     "cat_scores": {
-      "custom": 0.75,
-      "classic": 0.73,
-      "gear": 0.67
+      "custom": 0.92
     },
     "subcategories": [],
-    "forms": [],
+    "forms": [
+      {
+        "slug": "ranked-list",
+        "label": "Ten Best"
+      }
+    ],
     "form_scores": {
-      "news": 0.2,
-      "review": 0.52,
-      "comparison-test": 0.07,
-      "first-look": 0.18,
-      "ranked-list": 0.08,
-      "buyers-guide": 0.24,
-      "how-to": 0.22,
-      "explainer": 0.36,
-      "opinion": 0.14,
-      "profile-interview": 0.47,
+      "news": 0.1,
+      "review": 0.03,
+      "comparison-test": 0.48,
+      "first-look": 0.07,
+      "ranked-list": 0.97,
+      "buyers-guide": 0.16,
+      "how-to": 0.04,
+      "explainer": 0.15,
+      "opinion": 0.56,
+      "profile-interview": 0.08,
       "tribute": 0.06,
-      "listing": 0.17,
-      "event-report": 0.06,
-      "event-preview": 0.04,
-      "press-release": 0.17,
-      "digest": 0.25,
-      "photo-gallery": 0.29,
-      "ride-report": 0.11,
-      "history": 0.15,
-      "rumor": 0.1,
-      "safety-notice": 0.03,
-      "episode": 0.06,
-      "build-feature": 0.67,
-      "q-and-a": 0.08
+      "listing": 0.03,
+      "event-report": 0.08,
+      "event-preview": 0.03,
+      "press-release": 0.09,
+      "digest": 0.13,
+      "photo-gallery": 0.27,
+      "ride-report": 0.04,
+      "history": 0.22,
+      "rumor": 0.03,
+      "safety-notice": 0.01,
+      "episode": 0.04,
+      "build-feature": 0.04,
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.16,
+    "multi_subject": 0.44,
     "tags": [
-      "custom",
-      "classic",
-      "gear"
+      "custom"
     ],
     "also": []
   },
@@ -5056,65 +5073,70 @@
     "also": []
   },
   {
-    "id": "bc2920ea79ad676577ee98f5f18a9599682512e9",
-    "title": "Ultraviolette Says It\u2019s Coming To America Next Year. Is This The Motorcycle It\u2019s Bringing?",
-    "link": "https://www.rideapart.com/news/810155/ultraviolette-100v-architecture-new-technology",
+    "id": "fd085d03ebd7f6e1f93fe3b8419725800fcd69ff",
+    "title": "Here's The New Yamaha R2. But Is It The Droid You're Looking For?",
+    "link": "https://www.rideapart.com/news/810347/yamaha-yzf-r2-r2m-sportbike-launched",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-10-01T12:12:00+00:00",
-    "excerpt": "The Shockwave just got a major electrical overhaul, and the timing lines up suspiciously well with Ultraviolette\u2019s US plans.",
-    "image": "https://cdn.motor1.com/images/mgl/2N4rPp/s3/ultraviolette-shockwave.jpg",
+    "published": "2026-10-01T12:58:00+00:00",
+    "excerpt": "If you've been looking for a 200cc sportbike with an up-and-down quickshifter, the YZF-R2 may just fit the bill.",
+    "image": "https://cdn.motor1.com/images/mgl/KbZ8R1/s3/yamaha-yzf-r2.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "electric",
-        "label": "Electric"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       },
       {
         "slug": "new-models",
         "label": "New Models"
       }
     ],
-    "primary": "electric",
+    "primary": "sport-bikes",
     "confident": true,
     "cat_scores": {
-      "electric": 0.97,
-      "new-models": 0.6
+      "sport-bikes": 0.91,
+      "new-models": 0.89
     },
     "subcategories": [],
-    "forms": [],
+    "forms": [
+      {
+        "slug": "review",
+        "label": "Review"
+      }
+    ],
     "form_scores": {
-      "news": 0.26,
-      "review": 0.13,
-      "comparison-test": 0.04,
-      "first-look": 0.3,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.12,
-      "how-to": 0.04,
-      "explainer": 0.18,
-      "opinion": 0.41,
-      "profile-interview": 0.21,
+      "news": 0.45,
+      "review": 0.76,
+      "comparison-test": 0.09,
+      "first-look": 0.63,
+      "ranked-list": 0.04,
+      "buyers-guide": 0.48,
+      "how-to": 0.06,
+      "explainer": 0.26,
+      "opinion": 0.53,
+      "profile-interview": 0.06,
       "tribute": 0.02,
       "listing": 0.03,
       "event-report": 0.04,
-      "event-preview": 0.13,
-      "press-release": 0.3,
-      "digest": 0.09,
-      "photo-gallery": 0.11,
-      "ride-report": 0.03,
+      "event-preview": 0.03,
+      "press-release": 0.37,
+      "digest": 0.07,
+      "photo-gallery": 0.14,
+      "ride-report": 0.07,
       "history": 0.04,
-      "rumor": 0.71,
-      "safety-notice": 0.03,
-      "episode": 0.08,
-      "build-feature": 0.1,
-      "q-and-a": 0.05
+      "rumor": 0.25,
+      "safety-notice": 0.02,
+      "episode": 0.09,
+      "build-feature": 0.03,
+      "q-and-a": 0.08
     },
-    "multi_subject": 0.08,
+    "multi_subject": 0.06,
     "tags": [
-      "electric",
+      "sport-bikes",
       "new-models"
     ],
     "also": []
@@ -5894,77 +5916,72 @@
     "also": []
   },
   {
-    "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
-    "title": "For Hooligans Only: Max Hazan's KTM 1190 Adventure R supermoto",
-    "link": "https://www.bikeexif.com/ktm-1190-adventure-r-max-hazan-2",
+    "id": "9a19f8dbfe9485923ae7521eaa16c2becde9044b",
+    "title": "Grab-and-go: A custom kit for the Honda CB350 from Taiwan",
+    "link": "https://www.bikeexif.com/honda-cb350-custom-kit-2",
     "lang": "en",
     "source": "BIKE EXIF",
     "ownership": "independent",
     "media": "article",
     "author": "Wesley Reyneke",
-    "published": "2026-09-26T18:00:00+00:00",
+    "published": "2026-09-27T18:00:00+00:00",
     "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-    "image": "https://images.bikeexif.com/2023/10/_1200x675_crop_center-center_82_line/ktm-1190-adventure-r-max-hazan.jpg",
+    "image": "https://images.bikeexif.com/2023/11/_1200x675_crop_center-center_82_line/honda-cb350-custom-kit.jpg",
     "audio": null,
     "categories": [
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      },
       {
         "slug": "custom",
         "label": "Custom"
       },
       {
-        "slug": "adventure",
-        "label": "Adventure"
+        "slug": "classic",
+        "label": "Classic"
+      },
+      {
+        "slug": "gear",
+        "label": "Gear"
       }
     ],
-    "primary": "dirt-mx",
-    "confident": true,
+    "primary": "custom",
+    "confident": false,
     "cat_scores": {
-      "dirt-mx": 0.95,
-      "custom": 0.85,
-      "adventure": 0.72
+      "custom": 0.75,
+      "classic": 0.73,
+      "gear": 0.67
     },
     "subcategories": [],
-    "forms": [
-      {
-        "slug": "build-feature",
-        "label": "Build Feature"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.1,
-      "review": 0.56,
-      "comparison-test": 0.05,
-      "first-look": 0.13,
-      "ranked-list": 0.07,
-      "buyers-guide": 0.11,
-      "how-to": 0.09,
-      "explainer": 0.19,
-      "opinion": 0.34,
-      "profile-interview": 0.48,
-      "tribute": 0.07,
-      "listing": 0.12,
-      "event-report": 0.08,
+      "news": 0.2,
+      "review": 0.52,
+      "comparison-test": 0.07,
+      "first-look": 0.18,
+      "ranked-list": 0.08,
+      "buyers-guide": 0.24,
+      "how-to": 0.22,
+      "explainer": 0.36,
+      "opinion": 0.14,
+      "profile-interview": 0.47,
+      "tribute": 0.06,
+      "listing": 0.17,
+      "event-report": 0.06,
       "event-preview": 0.04,
-      "press-release": 0.08,
-      "digest": 0.16,
-      "photo-gallery": 0.32,
-      "ride-report": 0.14,
-      "history": 0.17,
-      "rumor": 0.05,
-      "safety-notice": 0.02,
+      "press-release": 0.17,
+      "digest": 0.25,
+      "photo-gallery": 0.29,
+      "ride-report": 0.11,
+      "history": 0.15,
+      "rumor": 0.1,
+      "safety-notice": 0.03,
       "episode": 0.06,
-      "build-feature": 0.89,
-      "q-and-a": 0.05
+      "build-feature": 0.67,
+      "q-and-a": 0.08
     },
-    "multi_subject": 0.09,
+    "multi_subject": 0.16,
     "tags": [
-      "dirt-mx",
       "custom",
-      "adventure"
+      "classic",
+      "gear"
     ],
     "also": []
   },
@@ -6513,74 +6530,66 @@
     "also": []
   },
   {
-    "id": "dcaee7e4edee183e4e8a16ca371baa2485442e90",
-    "title": "The Amount of Data It Takes To Win a WSBK Championship Is Wild. Just Ask Ducati",
-    "link": "https://www.rideapart.com/news/809890/the-amount-of-data-it-takes-to-win-a-wsbk-championship-is-wild-just-ask-ducati",
+    "id": "bc2920ea79ad676577ee98f5f18a9599682512e9",
+    "title": "Ultraviolette Says It\u2019s Coming To America Next Year. Is This The Motorcycle It\u2019s Bringing?",
+    "link": "https://www.rideapart.com/news/810155/ultraviolette-100v-architecture-new-technology",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-10-01T11:21:00+00:00",
-    "excerpt": "Lenovo revealed just how much data went into every race weekend along Ducati's journey to win the WSBK Triple Crown.",
-    "image": "https://cdn.motor1.com/images/mgl/xqOn7w/s3/ducati-wsbk-lenovo-data.jpg",
+    "published": "2026-10-01T12:12:00+00:00",
+    "excerpt": "The Shockwave just got a major electrical overhaul, and the timing lines up suspiciously well with Ultraviolette\u2019s US plans.",
+    "image": "https://cdn.motor1.com/images/mgl/2N4rPp/s3/ultraviolette-shockwave.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
+        "slug": "electric",
+        "label": "Electric"
       },
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "new-models",
+        "label": "New Models"
       }
     ],
-    "primary": "racing",
+    "primary": "electric",
     "confident": true,
     "cat_scores": {
-      "racing": 0.96,
-      "sport-bikes": 0.94,
-      "worldsbk-superbike": 0.97
+      "electric": 0.97,
+      "new-models": 0.6
     },
-    "subcategories": [
-      {
-        "slug": "worldsbk-superbike",
-        "label": "WorldSBK & Superbike",
-        "parent": "racing"
-      }
-    ],
+    "subcategories": [],
     "forms": [],
     "form_scores": {
-      "news": 0.66,
-      "review": 0.03,
+      "news": 0.26,
+      "review": 0.13,
       "comparison-test": 0.04,
-      "first-look": 0.04,
-      "ranked-list": 0.04,
-      "buyers-guide": 0.06,
+      "first-look": 0.3,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.12,
       "how-to": 0.04,
-      "explainer": 0.58,
-      "opinion": 0.17,
-      "profile-interview": 0.54,
-      "tribute": 0.03,
-      "listing": 0.01,
-      "event-report": 0.64,
-      "event-preview": 0.05,
-      "press-release": 0.6,
-      "digest": 0.06,
-      "photo-gallery": 0.09,
-      "ride-report": 0.02,
-      "history": 0.25,
-      "rumor": 0.04,
-      "safety-notice": 0.02,
-      "episode": 0.06,
-      "build-feature": 0.02,
-      "q-and-a": 0.03
+      "explainer": 0.18,
+      "opinion": 0.41,
+      "profile-interview": 0.21,
+      "tribute": 0.02,
+      "listing": 0.03,
+      "event-report": 0.04,
+      "event-preview": 0.13,
+      "press-release": 0.3,
+      "digest": 0.09,
+      "photo-gallery": 0.11,
+      "ride-report": 0.03,
+      "history": 0.04,
+      "rumor": 0.71,
+      "safety-notice": 0.03,
+      "episode": 0.08,
+      "build-feature": 0.1,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.06,
+    "multi_subject": 0.08,
     "tags": [
-      "racing",
-      "sport-bikes",
-      "worldsbk-superbike"
+      "electric",
+      "new-models"
     ],
     "also": []
   },
@@ -7213,69 +7222,6 @@
     "also": []
   },
   {
-    "id": "6168c756775afe75bbb8c03067bca37951182a01",
-    "title": "Flashback Friday: The Top 10 Custom Motorcycles of September 2025",
-    "link": "https://www.bikeexif.com/top-10-custom-motorcycles-september-2025",
-    "lang": "en",
-    "source": "BIKE EXIF",
-    "ownership": "independent",
-    "media": "article",
-    "author": "Tom Gosselin",
-    "published": "2026-09-25T18:00:00+00:00",
-    "excerpt": "If there is one thing September 2025 proved, it is that the custom motorcycle wo...",
-    "image": "https://images.bikeexif.com/2025/09/_1200x675_crop_center-center_82_line/aprilia-rsv4-rough-crafts-1.jpg",
-    "audio": null,
-    "categories": [
-      {
-        "slug": "custom",
-        "label": "Custom"
-      }
-    ],
-    "primary": "custom",
-    "confident": false,
-    "cat_scores": {
-      "custom": 0.83
-    },
-    "subcategories": [],
-    "forms": [
-      {
-        "slug": "ranked-list",
-        "label": "Ten Best"
-      }
-    ],
-    "form_scores": {
-      "news": 0.11,
-      "review": 0.03,
-      "comparison-test": 0.23,
-      "first-look": 0.1,
-      "ranked-list": 0.97,
-      "buyers-guide": 0.1,
-      "how-to": 0.04,
-      "explainer": 0.13,
-      "opinion": 0.43,
-      "profile-interview": 0.07,
-      "tribute": 0.1,
-      "listing": 0.03,
-      "event-report": 0.13,
-      "event-preview": 0.03,
-      "press-release": 0.07,
-      "digest": 0.35,
-      "photo-gallery": 0.35,
-      "ride-report": 0.04,
-      "history": 0.35,
-      "rumor": 0.05,
-      "safety-notice": 0.02,
-      "episode": 0.04,
-      "build-feature": 0.04,
-      "q-and-a": 0.03
-    },
-    "multi_subject": 0.71,
-    "tags": [
-      "custom"
-    ],
-    "also": []
-  },
-  {
     "id": "10ae65646fc01bbcfce11492deff9042990b1d78",
     "title": "9 Best Caf\u00e9 Racers to Look Out for at the 2026 Autumn Stafford Sale",
     "link": "https://www.returnofthecaferacers.com/cafe-racers/9-best-cafe-racers-to-look-out-for-at-the-2026-autumn-stafford-sale",
@@ -7359,6 +7305,81 @@
       "custom",
       "for-sale",
       "cafe-racers"
+    ],
+    "also": []
+  },
+  {
+    "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
+    "title": "For Hooligans Only: Max Hazan's KTM 1190 Adventure R supermoto",
+    "link": "https://www.bikeexif.com/ktm-1190-adventure-r-max-hazan-2",
+    "lang": "en",
+    "source": "BIKE EXIF",
+    "ownership": "independent",
+    "media": "article",
+    "author": "Wesley Reyneke",
+    "published": "2026-09-26T18:00:00+00:00",
+    "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+    "image": "https://images.bikeexif.com/2023/10/_1200x675_crop_center-center_82_line/ktm-1190-adventure-r-max-hazan.jpg",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
+      },
+      {
+        "slug": "custom",
+        "label": "Custom"
+      },
+      {
+        "slug": "adventure",
+        "label": "Adventure"
+      }
+    ],
+    "primary": "dirt-mx",
+    "confident": true,
+    "cat_scores": {
+      "dirt-mx": 0.95,
+      "custom": 0.85,
+      "adventure": 0.72
+    },
+    "subcategories": [],
+    "forms": [
+      {
+        "slug": "build-feature",
+        "label": "Build Feature"
+      }
+    ],
+    "form_scores": {
+      "news": 0.1,
+      "review": 0.56,
+      "comparison-test": 0.05,
+      "first-look": 0.13,
+      "ranked-list": 0.07,
+      "buyers-guide": 0.11,
+      "how-to": 0.09,
+      "explainer": 0.19,
+      "opinion": 0.34,
+      "profile-interview": 0.48,
+      "tribute": 0.07,
+      "listing": 0.12,
+      "event-report": 0.08,
+      "event-preview": 0.04,
+      "press-release": 0.08,
+      "digest": 0.16,
+      "photo-gallery": 0.32,
+      "ride-report": 0.14,
+      "history": 0.17,
+      "rumor": 0.05,
+      "safety-notice": 0.02,
+      "episode": 0.06,
+      "build-feature": 0.89,
+      "q-and-a": 0.05
+    },
+    "multi_subject": 0.09,
+    "tags": [
+      "dirt-mx",
+      "custom",
+      "adventure"
     ],
     "also": []
   },
@@ -7958,85 +7979,74 @@
     "also": []
   },
   {
-    "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
-    "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
-    "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
+    "id": "dcaee7e4edee183e4e8a16ca371baa2485442e90",
+    "title": "The Amount of Data It Takes To Win a WSBK Championship Is Wild. Just Ask Ducati",
+    "link": "https://www.rideapart.com/news/809890/the-amount-of-data-it-takes-to-win-a-wsbk-championship-is-wild-just-ask-ducati",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-10-01T11:01:00+00:00",
-    "excerpt": "Good folks doing good work for every public land user.",
-    "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
+    "published": "2026-10-01T11:21:00+00:00",
+    "excerpt": "Lenovo revealed just how much data went into every race weekend along Ducati's journey to win the WSBK Triple Crown.",
+    "image": "https://cdn.motor1.com/images/mgl/xqOn7w/s3/ducati-wsbk-lenovo-data.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
+        "slug": "racing",
+        "label": "Racing"
       },
       {
-        "slug": "events-rides",
-        "label": "Events & Rides"
-      },
-      {
-        "slug": "adventure",
-        "label": "Adventure"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "dirt-mx",
+    "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "dirt-mx": 0.9,
-      "events-rides": 0.87,
-      "adventure": 0.74,
-      "adv-events-competitions": 0.78
+      "racing": 0.96,
+      "sport-bikes": 0.94,
+      "worldsbk-superbike": 0.97
     },
     "subcategories": [
       {
-        "slug": "adv-events-competitions",
-        "label": "ADV Events & Competitions",
-        "parent": "adventure"
+        "slug": "worldsbk-superbike",
+        "label": "WorldSBK & Superbike",
+        "parent": "racing"
       }
     ],
-    "forms": [
-      {
-        "slug": "event-report",
-        "label": "Event Report"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.65,
+      "news": 0.66,
       "review": 0.03,
-      "comparison-test": 0.03,
-      "first-look": 0.03,
+      "comparison-test": 0.04,
+      "first-look": 0.04,
       "ranked-list": 0.04,
-      "buyers-guide": 0.04,
-      "how-to": 0.08,
-      "explainer": 0.33,
-      "opinion": 0.41,
-      "profile-interview": 0.29,
-      "tribute": 0.06,
+      "buyers-guide": 0.06,
+      "how-to": 0.04,
+      "explainer": 0.58,
+      "opinion": 0.17,
+      "profile-interview": 0.54,
+      "tribute": 0.03,
       "listing": 0.01,
-      "event-report": 0.8,
-      "event-preview": 0.21,
-      "press-release": 0.31,
-      "digest": 0.07,
-      "photo-gallery": 0.14,
-      "ride-report": 0.07,
-      "history": 0.08,
-      "rumor": 0.02,
-      "safety-notice": 0.03,
-      "episode": 0.08,
-      "build-feature": 0.04,
+      "event-report": 0.64,
+      "event-preview": 0.05,
+      "press-release": 0.6,
+      "digest": 0.06,
+      "photo-gallery": 0.09,
+      "ride-report": 0.02,
+      "history": 0.25,
+      "rumor": 0.04,
+      "safety-notice": 0.02,
+      "episode": 0.06,
+      "build-feature": 0.02,
       "q-and-a": 0.03
     },
     "multi_subject": 0.06,
     "tags": [
-      "dirt-mx",
-      "events-rides",
-      "adventure",
-      "adv-events-competitions"
+      "racing",
+      "sport-bikes",
+      "worldsbk-superbike"
     ],
     "also": []
   },
@@ -8577,81 +8587,6 @@
     "also": []
   },
   {
-    "id": "41914649d716f39449e855766d43c381d6394448",
-    "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
-    "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
-    "lang": "en",
-    "source": "BIKE EXIF",
-    "ownership": "independent",
-    "media": "article",
-    "author": "Dean Larson",
-    "published": "2026-09-24T17:00:00+00:00",
-    "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
-    "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
-    "audio": null,
-    "categories": [
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      },
-      {
-        "slug": "custom",
-        "label": "Custom"
-      },
-      {
-        "slug": "adventure",
-        "label": "Adventure"
-      }
-    ],
-    "primary": "dirt-mx",
-    "confident": true,
-    "cat_scores": {
-      "dirt-mx": 0.95,
-      "custom": 0.91,
-      "adventure": 0.58
-    },
-    "subcategories": [],
-    "forms": [
-      {
-        "slug": "build-feature",
-        "label": "Build Feature"
-      }
-    ],
-    "form_scores": {
-      "news": 0.1,
-      "review": 0.32,
-      "comparison-test": 0.04,
-      "first-look": 0.2,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.11,
-      "how-to": 0.06,
-      "explainer": 0.19,
-      "opinion": 0.15,
-      "profile-interview": 0.51,
-      "tribute": 0.11,
-      "listing": 0.12,
-      "event-report": 0.06,
-      "event-preview": 0.04,
-      "press-release": 0.16,
-      "digest": 0.08,
-      "photo-gallery": 0.48,
-      "ride-report": 0.06,
-      "history": 0.66,
-      "rumor": 0.05,
-      "safety-notice": 0.02,
-      "episode": 0.05,
-      "build-feature": 0.89,
-      "q-and-a": 0.03
-    },
-    "multi_subject": 0.05,
-    "tags": [
-      "dirt-mx",
-      "custom",
-      "adventure"
-    ],
-    "also": []
-  },
-  {
     "id": "a34a1a500cc217b3f10ed4baa3e8d73795b84b00",
     "title": "FOR SALE: 2006 Ducati SportClassic Sport 1000 Monoposto",
     "link": "https://www.returnofthecaferacers.com/ducati-cafe-racer/for-sale-2006-ducati-sportclassic-sport-1000-monoposto-2",
@@ -8717,6 +8652,69 @@
     "tags": [
       "for-sale",
       "classic"
+    ],
+    "also": []
+  },
+  {
+    "id": "6168c756775afe75bbb8c03067bca37951182a01",
+    "title": "Flashback Friday: The Top 10 Custom Motorcycles of September 2025",
+    "link": "https://www.bikeexif.com/top-10-custom-motorcycles-september-2025",
+    "lang": "en",
+    "source": "BIKE EXIF",
+    "ownership": "independent",
+    "media": "article",
+    "author": "Tom Gosselin",
+    "published": "2026-09-25T18:00:00+00:00",
+    "excerpt": "If there is one thing September 2025 proved, it is that the custom motorcycle wo...",
+    "image": "https://images.bikeexif.com/2025/09/_1200x675_crop_center-center_82_line/aprilia-rsv4-rough-crafts-1.jpg",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "custom",
+        "label": "Custom"
+      }
+    ],
+    "primary": "custom",
+    "confident": false,
+    "cat_scores": {
+      "custom": 0.83
+    },
+    "subcategories": [],
+    "forms": [
+      {
+        "slug": "ranked-list",
+        "label": "Ten Best"
+      }
+    ],
+    "form_scores": {
+      "news": 0.11,
+      "review": 0.03,
+      "comparison-test": 0.23,
+      "first-look": 0.1,
+      "ranked-list": 0.97,
+      "buyers-guide": 0.1,
+      "how-to": 0.04,
+      "explainer": 0.13,
+      "opinion": 0.43,
+      "profile-interview": 0.07,
+      "tribute": 0.1,
+      "listing": 0.03,
+      "event-report": 0.13,
+      "event-preview": 0.03,
+      "press-release": 0.07,
+      "digest": 0.35,
+      "photo-gallery": 0.35,
+      "ride-report": 0.04,
+      "history": 0.35,
+      "rumor": 0.05,
+      "safety-notice": 0.02,
+      "episode": 0.04,
+      "build-feature": 0.04,
+      "q-and-a": 0.03
+    },
+    "multi_subject": 0.71,
+    "tags": [
+      "custom"
     ],
     "also": []
   },
@@ -9362,81 +9360,85 @@
     "also": []
   },
   {
-    "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
-    "title": "BMW Reveals Price of M 1000 RR Limited-Edition Isle of Man TT. It's Expensive",
-    "link": "https://www.rideapart.com/news/809942/bmw-reveals-price-of-m-1000-rr-limited-edition-isle-of-man-tt-and-how-to-buy-it-in-the-us",
+    "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
+    "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
+    "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-30T14:02:00+00:00",
-    "excerpt": "BMW Motorrad just revealed that the M 1000 RR Limited-Edition Isle of Man TT will have a $50,000 MSRP, plus a destination fee. Here's how you can buy one.",
-    "image": "https://cdn.motor1.com/images/mgl/KbgOAG/s3/bmw-m-1000-rr-iom-tt.jpg",
+    "published": "2026-10-01T11:01:00+00:00",
+    "excerpt": "Good folks doing good work for every public land user.",
+    "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
       },
       {
-        "slug": "new-models",
-        "label": "New Models"
+        "slug": "events-rides",
+        "label": "Events & Rides"
       },
       {
-        "slug": "for-sale",
-        "label": "For Sale"
+        "slug": "adventure",
+        "label": "Adventure"
       }
     ],
-    "primary": "sport-bikes",
+    "primary": "dirt-mx",
     "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.97,
-      "new-models": 0.8,
-      "for-sale": 0.58
+      "dirt-mx": 0.9,
+      "events-rides": 0.87,
+      "adventure": 0.74,
+      "adv-events-competitions": 0.78
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "adv-events-competitions",
+        "label": "ADV Events & Competitions",
+        "parent": "adventure"
+      }
+    ],
     "forms": [
       {
-        "slug": "news",
-        "label": "News"
-      },
-      {
-        "slug": "press-release",
-        "label": "Announcement"
+        "slug": "event-report",
+        "label": "Event Report"
       }
     ],
     "form_scores": {
-      "news": 0.89,
-      "review": 0.08,
-      "comparison-test": 0.02,
-      "first-look": 0.11,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.52,
-      "how-to": 0.2,
-      "explainer": 0.17,
-      "opinion": 0.09,
-      "profile-interview": 0.06,
-      "tribute": 0.02,
-      "listing": 0.08,
-      "event-report": 0.05,
-      "event-preview": 0.07,
-      "press-release": 0.81,
-      "digest": 0.05,
-      "photo-gallery": 0.08,
-      "ride-report": 0.02,
-      "history": 0.03,
-      "rumor": 0.06,
-      "safety-notice": 0.02,
-      "episode": 0.03,
+      "news": 0.65,
+      "review": 0.03,
+      "comparison-test": 0.03,
+      "first-look": 0.03,
+      "ranked-list": 0.04,
+      "buyers-guide": 0.04,
+      "how-to": 0.08,
+      "explainer": 0.33,
+      "opinion": 0.41,
+      "profile-interview": 0.29,
+      "tribute": 0.06,
+      "listing": 0.01,
+      "event-report": 0.8,
+      "event-preview": 0.21,
+      "press-release": 0.31,
+      "digest": 0.07,
+      "photo-gallery": 0.14,
+      "ride-report": 0.07,
+      "history": 0.08,
+      "rumor": 0.02,
+      "safety-notice": 0.03,
+      "episode": 0.08,
       "build-feature": 0.04,
-      "q-and-a": 0.05
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.04,
+    "multi_subject": 0.06,
     "tags": [
-      "sport-bikes",
-      "new-models",
-      "for-sale"
+      "dirt-mx",
+      "events-rides",
+      "adventure",
+      "adv-events-competitions"
     ],
     "also": []
   },
@@ -9914,89 +9916,6 @@
     "also": []
   },
   {
-    "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
-    "title": "Second wind: A Yamaha DT175 reconfigured for the road",
-    "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
-    "lang": "en",
-    "source": "BIKE EXIF",
-    "ownership": "independent",
-    "media": "article",
-    "author": "Chris Hunter",
-    "published": "2026-09-23T18:00:00+00:00",
-    "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-    "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
-    "audio": null,
-    "categories": [
-      {
-        "slug": "custom",
-        "label": "Custom"
-      },
-      {
-        "slug": "classic",
-        "label": "Classic"
-      },
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      }
-    ],
-    "primary": "custom",
-    "confident": true,
-    "cat_scores": {
-      "custom": 0.86,
-      "classic": 0.86,
-      "dirt-mx": 0.7,
-      "restomods": 0.55
-    },
-    "subcategories": [
-      {
-        "slug": "restomods",
-        "label": "Restomods",
-        "parent": "custom"
-      }
-    ],
-    "forms": [
-      {
-        "slug": "build-feature",
-        "label": "Build Feature"
-      }
-    ],
-    "form_scores": {
-      "news": 0.12,
-      "review": 0.54,
-      "comparison-test": 0.06,
-      "first-look": 0.17,
-      "ranked-list": 0.06,
-      "buyers-guide": 0.18,
-      "how-to": 0.25,
-      "explainer": 0.46,
-      "opinion": 0.22,
-      "profile-interview": 0.23,
-      "tribute": 0.09,
-      "listing": 0.14,
-      "event-report": 0.06,
-      "event-preview": 0.03,
-      "press-release": 0.08,
-      "digest": 0.16,
-      "photo-gallery": 0.17,
-      "ride-report": 0.14,
-      "history": 0.24,
-      "rumor": 0.04,
-      "safety-notice": 0.03,
-      "episode": 0.06,
-      "build-feature": 0.81,
-      "q-and-a": 0.08
-    },
-    "multi_subject": 0.1,
-    "tags": [
-      "custom",
-      "classic",
-      "dirt-mx",
-      "restomods"
-    ],
-    "also": []
-  },
-  {
     "id": "43cf13db4906010c130f4c743050b5e62a472c23",
     "title": "12 Best Motorcycle Upgrades for 2026: Essential Gear for Safety, Comfort and Reliability",
     "link": "https://www.returnofthecaferacers.com/motorcycle-accessories/12-best-motorcycle-upgrades-for-2026-essential-gear-for-safety-comfort-and-reliability",
@@ -10056,6 +9975,81 @@
     "multi_subject": 0.61,
     "tags": [
       "gear"
+    ],
+    "also": []
+  },
+  {
+    "id": "41914649d716f39449e855766d43c381d6394448",
+    "title": "Throwback Thursday\u2014Enduro AF: Auto Fabrica customizes the BMW G450X",
+    "link": "https://www.bikeexif.com/throwback-auto-fabrica-bmw-g450x-enduro-custom",
+    "lang": "en",
+    "source": "BIKE EXIF",
+    "ownership": "independent",
+    "media": "article",
+    "author": "Dean Larson",
+    "published": "2026-09-24T17:00:00+00:00",
+    "excerpt": "If it wasn't for the massive logos that run the length of this creation, we woul...",
+    "image": "https://images.bikeexif.com/2022/11/_1200x675_crop_center-center_82_line/custom-bmw-enduro.jpg",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
+      },
+      {
+        "slug": "custom",
+        "label": "Custom"
+      },
+      {
+        "slug": "adventure",
+        "label": "Adventure"
+      }
+    ],
+    "primary": "dirt-mx",
+    "confident": true,
+    "cat_scores": {
+      "dirt-mx": 0.95,
+      "custom": 0.91,
+      "adventure": 0.58
+    },
+    "subcategories": [],
+    "forms": [
+      {
+        "slug": "build-feature",
+        "label": "Build Feature"
+      }
+    ],
+    "form_scores": {
+      "news": 0.1,
+      "review": 0.32,
+      "comparison-test": 0.04,
+      "first-look": 0.2,
+      "ranked-list": 0.05,
+      "buyers-guide": 0.11,
+      "how-to": 0.06,
+      "explainer": 0.19,
+      "opinion": 0.15,
+      "profile-interview": 0.51,
+      "tribute": 0.11,
+      "listing": 0.12,
+      "event-report": 0.06,
+      "event-preview": 0.04,
+      "press-release": 0.16,
+      "digest": 0.08,
+      "photo-gallery": 0.48,
+      "ride-report": 0.06,
+      "history": 0.66,
+      "rumor": 0.05,
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.89,
+      "q-and-a": 0.03
+    },
+    "multi_subject": 0.05,
+    "tags": [
+      "dirt-mx",
+      "custom",
+      "adventure"
     ],
     "also": []
   },
@@ -10640,104 +10634,83 @@
     ]
   },
   {
-    "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
-    "title": "Sam Sunderland\u2019s Triumph Motorcycle Suffers a Mechanical Problem During World Record Ride and Ended the Attempt",
-    "link": "https://www.rideapart.com/news/810027/sam-sunderlands-triumph-tiger-suffers-a-mechanical-problem-during-heartbreaking-world-record-attempt",
+    "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
+    "title": "BMW Reveals Price of M 1000 RR Limited-Edition Isle of Man TT. It's Expensive",
+    "link": "https://www.rideapart.com/news/809942/bmw-reveals-price-of-m-1000-rr-limited-edition-isle-of-man-tt-and-how-to-buy-it-in-the-us",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-30T12:53:00+00:00",
-    "excerpt": "Sam Sunderland's circumnavigation world record attempt is over after his Triumph Tiger 1200 breaks down in the Australian outback.",
-    "image": "https://cdn.motor1.com/images/mgl/RqbqnA/s3/sam-sunderland-sets-off-on-world-record-circumnavigation-attempt-aboard-all-new-triumph.jpg",
+    "published": "2026-09-30T14:02:00+00:00",
+    "excerpt": "BMW Motorrad just revealed that the M 1000 RR Limited-Edition Isle of Man TT will have a $50,000 MSRP, plus a destination fee. Here's how you can buy one.",
+    "image": "https://cdn.motor1.com/images/mgl/KbgOAG/s3/bmw-m-1000-rr-iom-tt.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "adventure",
-        "label": "Adventure"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       },
       {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
+        "slug": "new-models",
+        "label": "New Models"
+      },
+      {
+        "slug": "for-sale",
+        "label": "For Sale"
       }
     ],
-    "primary": "adventure",
+    "primary": "sport-bikes",
     "confident": true,
     "cat_scores": {
-      "adventure": 0.97,
-      "dirt-mx": 0.76,
-      "adv-events-competitions": 0.95
+      "sport-bikes": 0.97,
+      "new-models": 0.8,
+      "for-sale": 0.58
     },
-    "subcategories": [
-      {
-        "slug": "adv-events-competitions",
-        "label": "ADV Events & Competitions",
-        "parent": "adventure"
-      }
-    ],
+    "subcategories": [],
     "forms": [
       {
         "slug": "news",
         "label": "News"
       },
       {
-        "slug": "event-report",
-        "label": "Event Report"
+        "slug": "press-release",
+        "label": "Announcement"
       }
     ],
     "form_scores": {
-      "news": 0.87,
-      "review": 0.04,
-      "comparison-test": 0.01,
-      "first-look": 0.03,
+      "news": 0.89,
+      "review": 0.08,
+      "comparison-test": 0.02,
+      "first-look": 0.11,
       "ranked-list": 0.02,
-      "buyers-guide": 0.04,
-      "how-to": 0.03,
-      "explainer": 0.07,
-      "opinion": 0.05,
-      "profile-interview": 0.1,
+      "buyers-guide": 0.52,
+      "how-to": 0.2,
+      "explainer": 0.17,
+      "opinion": 0.09,
+      "profile-interview": 0.06,
       "tribute": 0.02,
-      "listing": 0.01,
-      "event-report": 0.87,
-      "event-preview": 0.02,
-      "press-release": 0.13,
-      "digest": 0.06,
+      "listing": 0.08,
+      "event-report": 0.05,
+      "event-preview": 0.07,
+      "press-release": 0.81,
+      "digest": 0.05,
       "photo-gallery": 0.08,
-      "ride-report": 0.06,
-      "history": 0.17,
-      "rumor": 0.02,
-      "safety-notice": 0.03,
-      "episode": 0.05,
-      "build-feature": 0.03,
-      "q-and-a": 0.02
+      "ride-report": 0.02,
+      "history": 0.03,
+      "rumor": 0.06,
+      "safety-notice": 0.02,
+      "episode": 0.03,
+      "build-feature": 0.04,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.03,
+    "multi_subject": 0.04,
     "tags": [
-      "adventure",
-      "dirt-mx",
-      "adv-events-competitions"
+      "sport-bikes",
+      "new-models",
+      "for-sale"
     ],
-    "also": [
-      {
-        "source": "Visordown",
-        "title": "Sam Sunderland sees world record attempt cut short by technical issue",
-        "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
-        "published": "2026-09-28T13:06:00+00:00"
-      },
-      {
-        "source": "Motorcycle News (MCN)",
-        "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
-        "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
-        "published": "2026-09-28T13:29:53+00:00"
-      },
-      {
-        "source": "Crash.net",
-        "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
-        "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
-        "published": "2026-09-28T14:39:14+00:00"
-      }
-    ]
+    "also": []
   },
   {
     "id": "8f40175e2868646523f14af5b628615b8b828833",
@@ -11206,81 +11179,6 @@
     "also": []
   },
   {
-    "id": "83fe0b3b86e2d65e84c5f6e879ca1a9b9d688c01",
-    "title": "Unholy Matrimony: Marrying Cagiva and Ducati Bits in a 308 cc Trials Hybrid",
-    "link": "https://www.bikeexif.com/ducati-cagiva-hybrid-hand-built-308cc-trials-bike",
-    "lang": "en",
-    "source": "BIKE EXIF",
-    "ownership": "independent",
-    "media": "article",
-    "author": "Dean Larson",
-    "published": "2026-09-22T17:00:00+00:00",
-    "excerpt": "The most common path in the motorcycle world starts with a dealership and a big...",
-    "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/jl-mekaniikka-8.jpg?v=1789570145",
-    "audio": null,
-    "categories": [
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      },
-      {
-        "slug": "custom",
-        "label": "Custom"
-      },
-      {
-        "slug": "classic",
-        "label": "Classic"
-      }
-    ],
-    "primary": "dirt-mx",
-    "confident": true,
-    "cat_scores": {
-      "dirt-mx": 0.92,
-      "custom": 0.85,
-      "classic": 0.72
-    },
-    "subcategories": [],
-    "forms": [
-      {
-        "slug": "build-feature",
-        "label": "Build Feature"
-      }
-    ],
-    "form_scores": {
-      "news": 0.07,
-      "review": 0.23,
-      "comparison-test": 0.06,
-      "first-look": 0.2,
-      "ranked-list": 0.04,
-      "buyers-guide": 0.13,
-      "how-to": 0.17,
-      "explainer": 0.4,
-      "opinion": 0.23,
-      "profile-interview": 0.28,
-      "tribute": 0.06,
-      "listing": 0.09,
-      "event-report": 0.06,
-      "event-preview": 0.03,
-      "press-release": 0.05,
-      "digest": 0.07,
-      "photo-gallery": 0.15,
-      "ride-report": 0.11,
-      "history": 0.2,
-      "rumor": 0.06,
-      "safety-notice": 0.02,
-      "episode": 0.04,
-      "build-feature": 0.79,
-      "q-and-a": 0.07
-    },
-    "multi_subject": 0.07,
-    "tags": [
-      "dirt-mx",
-      "custom",
-      "classic"
-    ],
-    "also": []
-  },
-  {
     "id": "930339b20f3ab00ee85edc34ae7c494ad40c90e1",
     "title": "FOR SALE: 2006 Ducati Paul Smart 1000 Limited Edition",
     "link": "https://www.returnofthecaferacers.com/ducati-cafe-racer/for-sale-2006-ducati-paul-smart-1000-limited-edition",
@@ -11346,6 +11244,89 @@
     "tags": [
       "for-sale",
       "sport-bikes"
+    ],
+    "also": []
+  },
+  {
+    "id": "63ac09506668a97d4dd06df4dffdc81d62a71c07",
+    "title": "Second wind: A Yamaha DT175 reconfigured for the road",
+    "link": "https://www.bikeexif.com/yamaha-dt175-sabotage-motorcycles-2",
+    "lang": "en",
+    "source": "BIKE EXIF",
+    "ownership": "independent",
+    "media": "article",
+    "author": "Chris Hunter",
+    "published": "2026-09-23T18:00:00+00:00",
+    "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+    "image": "https://images.bikeexif.com/2021/05/_1200x675_crop_center-center_82_line/yamaha-dt175-sabotage-motorcycles.jpg",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "custom",
+        "label": "Custom"
+      },
+      {
+        "slug": "classic",
+        "label": "Classic"
+      },
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
+      }
+    ],
+    "primary": "custom",
+    "confident": true,
+    "cat_scores": {
+      "custom": 0.86,
+      "classic": 0.86,
+      "dirt-mx": 0.7,
+      "restomods": 0.55
+    },
+    "subcategories": [
+      {
+        "slug": "restomods",
+        "label": "Restomods",
+        "parent": "custom"
+      }
+    ],
+    "forms": [
+      {
+        "slug": "build-feature",
+        "label": "Build Feature"
+      }
+    ],
+    "form_scores": {
+      "news": 0.12,
+      "review": 0.54,
+      "comparison-test": 0.06,
+      "first-look": 0.17,
+      "ranked-list": 0.06,
+      "buyers-guide": 0.18,
+      "how-to": 0.25,
+      "explainer": 0.46,
+      "opinion": 0.22,
+      "profile-interview": 0.23,
+      "tribute": 0.09,
+      "listing": 0.14,
+      "event-report": 0.06,
+      "event-preview": 0.03,
+      "press-release": 0.08,
+      "digest": 0.16,
+      "photo-gallery": 0.17,
+      "ride-report": 0.14,
+      "history": 0.24,
+      "rumor": 0.04,
+      "safety-notice": 0.03,
+      "episode": 0.06,
+      "build-feature": 0.81,
+      "q-and-a": 0.08
+    },
+    "multi_subject": 0.1,
+    "tags": [
+      "custom",
+      "classic",
+      "dirt-mx",
+      "restomods"
     ],
     "also": []
   },
@@ -11883,68 +11864,104 @@
     "also": []
   },
   {
-    "id": "4f29a01fe37cece6f63e20ee699260e799ef0a26",
-    "title": "Is Harley-Davidson Done With King of the Baggers?",
-    "link": "https://www.rideapart.com/news/810141/harley-davidson-could-be-done-with-king-of-the-baggers-race-series",
+    "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
+    "title": "Sam Sunderland\u2019s Triumph Motorcycle Suffers a Mechanical Problem During World Record Ride and Ended the Attempt",
+    "link": "https://www.rideapart.com/news/810027/sam-sunderlands-triumph-tiger-suffers-a-mechanical-problem-during-heartbreaking-world-record-attempt",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-30T11:17:00+00:00",
-    "excerpt": "The Bar and Shielded brand could be looking more globally, and not just the States.",
-    "image": "https://cdn.motor1.com/images/mgl/P3VJqL/s3/harley-davidson-king-of-the-baggers.jpg",
+    "published": "2026-09-30T12:53:00+00:00",
+    "excerpt": "Sam Sunderland's circumnavigation world record attempt is over after his Triumph Tiger 1200 breaks down in the Australian outback.",
+    "image": "https://cdn.motor1.com/images/mgl/RqbqnA/s3/sam-sunderland-sets-off-on-world-record-circumnavigation-attempt-aboard-all-new-triumph.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "cruisers",
-        "label": "Cruisers"
+        "slug": "adventure",
+        "label": "Adventure"
       },
       {
-        "slug": "industry",
-        "label": "Industry & Business"
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
       }
     ],
-    "primary": "cruisers",
+    "primary": "adventure",
     "confident": true,
     "cat_scores": {
-      "cruisers": 0.88,
-      "industry": 0.66
+      "adventure": 0.97,
+      "dirt-mx": 0.76,
+      "adv-events-competitions": 0.95
     },
-    "subcategories": [],
-    "forms": [],
-    "form_scores": {
-      "news": 0.25,
-      "review": 0.07,
-      "comparison-test": 0.06,
-      "first-look": 0.14,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.11,
-      "how-to": 0.03,
-      "explainer": 0.15,
-      "opinion": 0.67,
-      "profile-interview": 0.24,
-      "tribute": 0.07,
-      "listing": 0.02,
-      "event-report": 0.13,
-      "event-preview": 0.13,
-      "press-release": 0.18,
-      "digest": 0.1,
-      "photo-gallery": 0.11,
-      "ride-report": 0.04,
-      "history": 0.08,
-      "rumor": 0.36,
-      "safety-notice": 0.03,
-      "episode": 0.08,
-      "build-feature": 0.05,
-      "q-and-a": 0.1
-    },
-    "multi_subject": 0.07,
-    "tags": [
-      "cruisers",
-      "industry"
+    "subcategories": [
+      {
+        "slug": "adv-events-competitions",
+        "label": "ADV Events & Competitions",
+        "parent": "adventure"
+      }
     ],
-    "also": []
+    "forms": [
+      {
+        "slug": "news",
+        "label": "News"
+      },
+      {
+        "slug": "event-report",
+        "label": "Event Report"
+      }
+    ],
+    "form_scores": {
+      "news": 0.87,
+      "review": 0.04,
+      "comparison-test": 0.01,
+      "first-look": 0.03,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.04,
+      "how-to": 0.03,
+      "explainer": 0.07,
+      "opinion": 0.05,
+      "profile-interview": 0.1,
+      "tribute": 0.02,
+      "listing": 0.01,
+      "event-report": 0.87,
+      "event-preview": 0.02,
+      "press-release": 0.13,
+      "digest": 0.06,
+      "photo-gallery": 0.08,
+      "ride-report": 0.06,
+      "history": 0.17,
+      "rumor": 0.02,
+      "safety-notice": 0.03,
+      "episode": 0.05,
+      "build-feature": 0.03,
+      "q-and-a": 0.02
+    },
+    "multi_subject": 0.03,
+    "tags": [
+      "adventure",
+      "dirt-mx",
+      "adv-events-competitions"
+    ],
+    "also": [
+      {
+        "source": "Visordown",
+        "title": "Sam Sunderland sees world record attempt cut short by technical issue",
+        "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
+        "published": "2026-09-28T13:06:00+00:00"
+      },
+      {
+        "source": "Motorcycle News (MCN)",
+        "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
+        "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
+        "published": "2026-09-28T13:29:53+00:00"
+      },
+      {
+        "source": "Crash.net",
+        "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
+        "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
+        "published": "2026-09-28T14:39:14+00:00"
+      }
+    ]
   },
   {
     "id": "cec70637616a77ec3209e7aabd4d879b464e2e72",
@@ -12391,6 +12408,81 @@
       "racing",
       "sport-bikes",
       "motogp"
+    ],
+    "also": []
+  },
+  {
+    "id": "83fe0b3b86e2d65e84c5f6e879ca1a9b9d688c01",
+    "title": "Unholy Matrimony: Marrying Cagiva and Ducati Bits in a 308 cc Trials Hybrid",
+    "link": "https://www.bikeexif.com/ducati-cagiva-hybrid-hand-built-308cc-trials-bike",
+    "lang": "en",
+    "source": "BIKE EXIF",
+    "ownership": "independent",
+    "media": "article",
+    "author": "Dean Larson",
+    "published": "2026-09-22T17:00:00+00:00",
+    "excerpt": "The most common path in the motorcycle world starts with a dealership and a big...",
+    "image": "https://images.bikeexif.com/2026/09/_1200x675_crop_center-center_82_line/jl-mekaniikka-8.jpg?v=1789570145",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
+      },
+      {
+        "slug": "custom",
+        "label": "Custom"
+      },
+      {
+        "slug": "classic",
+        "label": "Classic"
+      }
+    ],
+    "primary": "dirt-mx",
+    "confident": true,
+    "cat_scores": {
+      "dirt-mx": 0.92,
+      "custom": 0.85,
+      "classic": 0.72
+    },
+    "subcategories": [],
+    "forms": [
+      {
+        "slug": "build-feature",
+        "label": "Build Feature"
+      }
+    ],
+    "form_scores": {
+      "news": 0.07,
+      "review": 0.23,
+      "comparison-test": 0.06,
+      "first-look": 0.2,
+      "ranked-list": 0.04,
+      "buyers-guide": 0.13,
+      "how-to": 0.17,
+      "explainer": 0.4,
+      "opinion": 0.23,
+      "profile-interview": 0.28,
+      "tribute": 0.06,
+      "listing": 0.09,
+      "event-report": 0.06,
+      "event-preview": 0.03,
+      "press-release": 0.05,
+      "digest": 0.07,
+      "photo-gallery": 0.15,
+      "ride-report": 0.11,
+      "history": 0.2,
+      "rumor": 0.06,
+      "safety-notice": 0.02,
+      "episode": 0.04,
+      "build-feature": 0.79,
+      "q-and-a": 0.07
+    },
+    "multi_subject": 0.07,
+    "tags": [
+      "dirt-mx",
+      "custom",
+      "classic"
     ],
     "also": []
   },
@@ -12979,69 +13071,66 @@
     "also": []
   },
   {
-    "id": "f46c5f7758f058102e7eef7ef7efab24da4e5829",
-    "title": "I Got A Hands-On Look At Cardo's New Noise-Cancelling Motorcycle Helmet. What Do You Want To Know?",
-    "link": "https://www.rideapart.com/news/810078/cardo-beyond-gts-motorcycle-helmet-anc-hands-on-first-look",
+    "id": "4f29a01fe37cece6f63e20ee699260e799ef0a26",
+    "title": "Is Harley-Davidson Done With King of the Baggers?",
+    "link": "https://www.rideapart.com/news/810141/harley-davidson-could-be-done-with-king-of-the-baggers-race-series",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-30T11:00:00+00:00",
-    "excerpt": "This is a pre-production unit, and Cardo says it's currently refining the finished production version before a full public release.",
-    "image": "https://cdn.motor1.com/images/mgl/QeGvO0/s3/cardo-beyond-gts-helmet---pre-production-test-ride.jpg",
+    "published": "2026-09-30T11:17:00+00:00",
+    "excerpt": "The Bar and Shielded brand could be looking more globally, and not just the States.",
+    "image": "https://cdn.motor1.com/images/mgl/P3VJqL/s3/harley-davidson-king-of-the-baggers.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "gear",
-        "label": "Gear"
-      }
-    ],
-    "primary": "gear",
-    "confident": true,
-    "cat_scores": {
-      "gear": 0.99
-    },
-    "subcategories": [],
-    "forms": [
-      {
-        "slug": "first-look",
-        "label": "First Look"
+        "slug": "cruisers",
+        "label": "Cruisers"
       },
       {
-        "slug": "review",
-        "label": "Review"
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
-    "form_scores": {
-      "news": 0.29,
-      "review": 0.84,
-      "comparison-test": 0.05,
-      "first-look": 0.91,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.19,
-      "how-to": 0.05,
-      "explainer": 0.4,
-      "opinion": 0.23,
-      "profile-interview": 0.18,
-      "tribute": 0.01,
-      "listing": 0.02,
-      "event-report": 0.04,
-      "event-preview": 0.03,
-      "press-release": 0.35,
-      "digest": 0.05,
-      "photo-gallery": 0.16,
-      "ride-report": 0.12,
-      "history": 0.02,
-      "rumor": 0.37,
-      "safety-notice": 0.02,
-      "episode": 0.09,
-      "build-feature": 0.02,
-      "q-and-a": 0.38
+    "primary": "cruisers",
+    "confident": true,
+    "cat_scores": {
+      "cruisers": 0.88,
+      "industry": 0.66
     },
-    "multi_subject": 0.05,
+    "subcategories": [],
+    "forms": [],
+    "form_scores": {
+      "news": 0.25,
+      "review": 0.07,
+      "comparison-test": 0.06,
+      "first-look": 0.14,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.11,
+      "how-to": 0.03,
+      "explainer": 0.15,
+      "opinion": 0.67,
+      "profile-interview": 0.24,
+      "tribute": 0.07,
+      "listing": 0.02,
+      "event-report": 0.13,
+      "event-preview": 0.13,
+      "press-release": 0.18,
+      "digest": 0.1,
+      "photo-gallery": 0.11,
+      "ride-report": 0.04,
+      "history": 0.08,
+      "rumor": 0.36,
+      "safety-notice": 0.03,
+      "episode": 0.08,
+      "build-feature": 0.05,
+      "q-and-a": 0.1
+    },
+    "multi_subject": 0.07,
     "tags": [
-      "gear"
+      "cruisers",
+      "industry"
     ],
     "also": []
   },
@@ -14086,74 +14175,69 @@
     "also": []
   },
   {
-    "id": "693ea180d1cfdd47769c149b8be5537d89ef53d3",
-    "title": "Red Bull Might Actually Be Leaving KTM For Honda In MotoGP",
-    "link": "https://www.rideapart.com/news/809891/red-bull-may-be-leaving-ktm-motogp-next-year-for-homda",
+    "id": "f46c5f7758f058102e7eef7ef7efab24da4e5829",
+    "title": "I Got A Hands-On Look At Cardo's New Noise-Cancelling Motorcycle Helmet. What Do You Want To Know?",
+    "link": "https://www.rideapart.com/news/810078/cardo-beyond-gts-motorcycle-helmet-anc-hands-on-first-look",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-29T12:49:00+00:00",
-    "excerpt": "After rumors of Red Bull leaving KTM's MotoGP outfit ended with a re-up for 2027, those rumors are once again going strong. And with the culprit for said gossip being Tech3's Guenther Steiner.",
-    "image": "https://cdn.motor1.com/images/mgl/G3nbBA/s3/pedro-acosta.jpg",
+    "published": "2026-09-30T11:00:00+00:00",
+    "excerpt": "This is a pre-production unit, and Cardo says it's currently refining the finished production version before a full public release.",
+    "image": "https://cdn.motor1.com/images/mgl/QeGvO0/s3/cardo-beyond-gts-helmet---pre-production-test-ride.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
-      },
-      {
-        "slug": "industry",
-        "label": "Industry & Business"
+        "slug": "gear",
+        "label": "Gear"
       }
     ],
-    "primary": "racing",
+    "primary": "gear",
     "confident": true,
     "cat_scores": {
-      "racing": 0.95,
-      "industry": 0.94,
-      "motogp": 0.96
+      "gear": 0.99
     },
-    "subcategories": [
+    "subcategories": [],
+    "forms": [
       {
-        "slug": "motogp",
-        "label": "MotoGP",
-        "parent": "racing"
+        "slug": "first-look",
+        "label": "First Look"
+      },
+      {
+        "slug": "review",
+        "label": "Review"
       }
     ],
-    "forms": [],
     "form_scores": {
-      "news": 0.18,
-      "review": 0.01,
-      "comparison-test": 0.02,
-      "first-look": 0.02,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.02,
-      "how-to": 0.01,
-      "explainer": 0.09,
-      "opinion": 0.24,
-      "profile-interview": 0.1,
+      "news": 0.29,
+      "review": 0.84,
+      "comparison-test": 0.05,
+      "first-look": 0.91,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.19,
+      "how-to": 0.05,
+      "explainer": 0.4,
+      "opinion": 0.23,
+      "profile-interview": 0.18,
       "tribute": 0.01,
-      "listing": 0.01,
+      "listing": 0.02,
       "event-report": 0.04,
-      "event-preview": 0.05,
-      "press-release": 0.08,
-      "digest": 0.07,
-      "photo-gallery": 0.06,
-      "ride-report": 0.01,
-      "history": 0.03,
-      "rumor": 0.4,
+      "event-preview": 0.03,
+      "press-release": 0.35,
+      "digest": 0.05,
+      "photo-gallery": 0.16,
+      "ride-report": 0.12,
+      "history": 0.02,
+      "rumor": 0.37,
       "safety-notice": 0.02,
-      "episode": 0.06,
-      "build-feature": 0.01,
-      "q-and-a": 0.03
+      "episode": 0.09,
+      "build-feature": 0.02,
+      "q-and-a": 0.38
     },
     "multi_subject": 0.05,
     "tags": [
-      "racing",
-      "industry",
-      "motogp"
+      "gear"
     ],
     "also": []
   },
@@ -15137,66 +15221,74 @@
     "also": []
   },
   {
-    "id": "e004cf09c342750ada3a8c42ca8b18805abf82d3",
-    "title": "Voge Thinks The Future Of Motorcycles Is Something Cars Figured Out 15 Years Ago",
-    "link": "https://www.rideapart.com/news/809739/voge-cux-hybrid-motorcycle-concept-unveiled-at-cima",
+    "id": "693ea180d1cfdd47769c149b8be5537d89ef53d3",
+    "title": "Red Bull Might Actually Be Leaving KTM For Honda In MotoGP",
+    "link": "https://www.rideapart.com/news/809891/red-bull-may-be-leaving-ktm-motogp-next-year-for-homda",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-29T12:36:00+00:00",
-    "excerpt": "Kawasaki already gave us hybrid motorcycles. Voge wants to give us one you can actually plug into the wall.",
-    "image": "https://cdn.motor1.com/images/mgl/XBbYne/s3/voge-thinks-the-future-of-motorcycles-is-something-cars-figured-out-15-years-ago.jpg",
+    "published": "2026-09-29T12:49:00+00:00",
+    "excerpt": "After rumors of Red Bull leaving KTM's MotoGP outfit ended with a re-up for 2027, those rumors are once again going strong. And with the culprit for said gossip being Tech3's Guenther Steiner.",
+    "image": "https://cdn.motor1.com/images/mgl/G3nbBA/s3/pedro-acosta.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "electric",
-        "label": "Electric"
+        "slug": "racing",
+        "label": "Racing"
       },
       {
-        "slug": "new-models",
-        "label": "New Models"
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
-    "primary": "electric",
-    "confident": false,
+    "primary": "racing",
+    "confident": true,
     "cat_scores": {
-      "electric": 0.81,
-      "new-models": 0.63
+      "racing": 0.95,
+      "industry": 0.94,
+      "motogp": 0.96
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "motogp",
+        "label": "MotoGP",
+        "parent": "racing"
+      }
+    ],
     "forms": [],
     "form_scores": {
-      "news": 0.42,
-      "review": 0.21,
-      "comparison-test": 0.08,
-      "first-look": 0.47,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.13,
-      "how-to": 0.04,
-      "explainer": 0.36,
-      "opinion": 0.69,
-      "profile-interview": 0.32,
+      "news": 0.18,
+      "review": 0.01,
+      "comparison-test": 0.02,
+      "first-look": 0.02,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.02,
+      "how-to": 0.01,
+      "explainer": 0.09,
+      "opinion": 0.24,
+      "profile-interview": 0.1,
       "tribute": 0.01,
-      "listing": 0.02,
+      "listing": 0.01,
       "event-report": 0.04,
-      "event-preview": 0.02,
-      "press-release": 0.34,
-      "digest": 0.08,
-      "photo-gallery": 0.09,
-      "ride-report": 0.05,
-      "history": 0.04,
-      "rumor": 0.52,
+      "event-preview": 0.05,
+      "press-release": 0.08,
+      "digest": 0.07,
+      "photo-gallery": 0.06,
+      "ride-report": 0.01,
+      "history": 0.03,
+      "rumor": 0.4,
       "safety-notice": 0.02,
       "episode": 0.06,
-      "build-feature": 0.03,
+      "build-feature": 0.01,
       "q-and-a": 0.03
     },
-    "multi_subject": 0.07,
+    "multi_subject": 0.05,
     "tags": [
-      "electric",
-      "new-models"
+      "racing",
+      "industry",
+      "motogp"
     ],
     "also": []
   },
@@ -15978,65 +16070,66 @@
     "also": []
   },
   {
-    "id": "a43bb5146237f5a957ffc1bf8152ab11d8fe7e4e",
-    "title": "How Bad Do You Want This Tiny Retro Honda Scrambler To Be Real?",
-    "link": "https://www.rideapart.com/news/809670/honda-cb250ss-concept-retro-scrambler-design",
+    "id": "e004cf09c342750ada3a8c42ca8b18805abf82d3",
+    "title": "Voge Thinks The Future Of Motorcycles Is Something Cars Figured Out 15 Years Ago",
+    "link": "https://www.rideapart.com/news/809739/voge-cux-hybrid-motorcycle-concept-unveiled-at-cima",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-29T12:35:00+00:00",
-    "excerpt": "Imagine rolling down the street with your buddy on the XSR 125 with this lil guy? Seems like a pretty perfect pairing to us.",
-    "image": "https://cdn.motor1.com/images/mgl/9mWQjb/s3/honda-cb250ss-concept.jpg",
+    "published": "2026-09-29T12:36:00+00:00",
+    "excerpt": "Kawasaki already gave us hybrid motorcycles. Voge wants to give us one you can actually plug into the wall.",
+    "image": "https://cdn.motor1.com/images/mgl/XBbYne/s3/voge-thinks-the-future-of-motorcycles-is-something-cars-figured-out-15-years-ago.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "custom",
-        "label": "Custom"
+        "slug": "electric",
+        "label": "Electric"
+      },
+      {
+        "slug": "new-models",
+        "label": "New Models"
       }
     ],
-    "primary": "custom",
+    "primary": "electric",
     "confident": false,
     "cat_scores": {
-      "custom": 0.68
+      "electric": 0.81,
+      "new-models": 0.63
     },
     "subcategories": [],
-    "forms": [
-      {
-        "slug": "opinion",
-        "label": "Opinion"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.08,
-      "review": 0.33,
-      "comparison-test": 0.07,
-      "first-look": 0.34,
-      "ranked-list": 0.09,
+      "news": 0.42,
+      "review": 0.21,
+      "comparison-test": 0.08,
+      "first-look": 0.47,
+      "ranked-list": 0.05,
       "buyers-guide": 0.13,
       "how-to": 0.04,
-      "explainer": 0.11,
-      "opinion": 0.79,
-      "profile-interview": 0.06,
-      "tribute": 0.04,
-      "listing": 0.05,
-      "event-report": 0.03,
-      "event-preview": 0.03,
-      "press-release": 0.16,
-      "digest": 0.1,
-      "photo-gallery": 0.39,
-      "ride-report": 0.11,
-      "history": 0.06,
-      "rumor": 0.57,
+      "explainer": 0.36,
+      "opinion": 0.69,
+      "profile-interview": 0.32,
+      "tribute": 0.01,
+      "listing": 0.02,
+      "event-report": 0.04,
+      "event-preview": 0.02,
+      "press-release": 0.34,
+      "digest": 0.08,
+      "photo-gallery": 0.09,
+      "ride-report": 0.05,
+      "history": 0.04,
+      "rumor": 0.52,
       "safety-notice": 0.02,
-      "episode": 0.13,
-      "build-feature": 0.16,
-      "q-and-a": 0.07
+      "episode": 0.06,
+      "build-feature": 0.03,
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.08,
+    "multi_subject": 0.07,
     "tags": [
-      "custom"
+      "electric",
+      "new-models"
     ],
     "also": []
   },
@@ -16829,42 +16922,30 @@
     "also": []
   },
   {
-    "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
-    "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
-    "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
+    "id": "a43bb5146237f5a957ffc1bf8152ab11d8fe7e4e",
+    "title": "How Bad Do You Want This Tiny Retro Honda Scrambler To Be Real?",
+    "link": "https://www.rideapart.com/news/809670/honda-cb250ss-concept-retro-scrambler-design",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-29T11:55:00+00:00",
-    "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
-    "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
+    "published": "2026-09-29T12:35:00+00:00",
+    "excerpt": "Imagine rolling down the street with your buddy on the XSR 125 with this lil guy? Seems like a pretty perfect pairing to us.",
+    "image": "https://cdn.motor1.com/images/mgl/9mWQjb/s3/honda-cb250ss-concept.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "adventure",
-        "label": "Adventure"
-      },
-      {
-        "slug": "new-models",
-        "label": "New Models"
+        "slug": "custom",
+        "label": "Custom"
       }
     ],
-    "primary": "adventure",
-    "confident": true,
+    "primary": "custom",
+    "confident": false,
     "cat_scores": {
-      "adventure": 0.93,
-      "new-models": 0.8,
-      "adventure-touring": 0.92
+      "custom": 0.68
     },
-    "subcategories": [
-      {
-        "slug": "adventure-touring",
-        "label": "Adventure Touring",
-        "parent": "adventure"
-      }
-    ],
+    "subcategories": [],
     "forms": [
       {
         "slug": "opinion",
@@ -16872,36 +16953,34 @@
       }
     ],
     "form_scores": {
-      "news": 0.21,
-      "review": 0.65,
-      "comparison-test": 0.03,
-      "first-look": 0.32,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.12,
-      "how-to": 0.03,
-      "explainer": 0.13,
-      "opinion": 0.92,
-      "profile-interview": 0.05,
+      "news": 0.08,
+      "review": 0.33,
+      "comparison-test": 0.07,
+      "first-look": 0.34,
+      "ranked-list": 0.09,
+      "buyers-guide": 0.13,
+      "how-to": 0.04,
+      "explainer": 0.11,
+      "opinion": 0.79,
+      "profile-interview": 0.06,
       "tribute": 0.04,
-      "listing": 0.03,
-      "event-report": 0.07,
-      "event-preview": 0.08,
+      "listing": 0.05,
+      "event-report": 0.03,
+      "event-preview": 0.03,
       "press-release": 0.16,
-      "digest": 0.06,
-      "photo-gallery": 0.18,
-      "ride-report": 0.06,
-      "history": 0.03,
-      "rumor": 0.32,
+      "digest": 0.1,
+      "photo-gallery": 0.39,
+      "ride-report": 0.11,
+      "history": 0.06,
+      "rumor": 0.57,
       "safety-notice": 0.02,
-      "episode": 0.06,
-      "build-feature": 0.08,
-      "q-and-a": 0.06
+      "episode": 0.13,
+      "build-feature": 0.16,
+      "q-and-a": 0.07
     },
-    "multi_subject": 0.04,
+    "multi_subject": 0.08,
     "tags": [
-      "adventure",
-      "new-models",
-      "adventure-touring"
+      "custom"
     ],
     "also": []
   },
@@ -17697,73 +17776,79 @@
     ]
   },
   {
-    "id": "2f9e273a004db5cf1fd306a5941a5aa0a82a0e5f",
-    "title": "What Does MotoGP Racer Ai Ogura Get Up To In Training? Take A Look",
-    "link": "https://www.rideapart.com/news/809900/ai-ogura-motocross-training-motogp-summer-break-video",
+    "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
+    "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
+    "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-29T11:35:00+00:00",
-    "excerpt": "He may not be a pilot, but you could be forgiven for thinking otherwise with all the time he spends in the air.",
-    "image": "https://cdn.motor1.com/images/mgl/9mWQL1/s3/ms2ocfqhtwk.jpg",
+    "published": "2026-09-29T11:55:00+00:00",
+    "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
+    "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
+        "slug": "adventure",
+        "label": "Adventure"
+      },
+      {
+        "slug": "new-models",
+        "label": "New Models"
       }
     ],
-    "primary": "racing",
+    "primary": "adventure",
     "confident": true,
     "cat_scores": {
-      "racing": 0.85,
-      "motogp": 0.88
+      "adventure": 0.93,
+      "new-models": 0.8,
+      "adventure-touring": 0.92
     },
     "subcategories": [
       {
-        "slug": "motogp",
-        "label": "MotoGP",
-        "parent": "racing"
+        "slug": "adventure-touring",
+        "label": "Adventure Touring",
+        "parent": "adventure"
       }
     ],
     "forms": [
       {
-        "slug": "profile-interview",
-        "label": "Profile & Interview"
+        "slug": "opinion",
+        "label": "Opinion"
       }
     ],
     "form_scores": {
-      "news": 0.12,
-      "review": 0.03,
+      "news": 0.21,
+      "review": 0.65,
       "comparison-test": 0.03,
-      "first-look": 0.05,
-      "ranked-list": 0.07,
-      "buyers-guide": 0.04,
-      "how-to": 0.09,
-      "explainer": 0.33,
-      "opinion": 0.13,
-      "profile-interview": 0.89,
-      "tribute": 0.03,
-      "listing": 0.01,
-      "event-report": 0.08,
-      "event-preview": 0.07,
-      "press-release": 0.07,
-      "digest": 0.07,
-      "photo-gallery": 0.52,
+      "first-look": 0.32,
+      "ranked-list": 0.05,
+      "buyers-guide": 0.12,
+      "how-to": 0.03,
+      "explainer": 0.13,
+      "opinion": 0.92,
+      "profile-interview": 0.05,
+      "tribute": 0.04,
+      "listing": 0.03,
+      "event-report": 0.07,
+      "event-preview": 0.08,
+      "press-release": 0.16,
+      "digest": 0.06,
+      "photo-gallery": 0.18,
       "ride-report": 0.06,
-      "history": 0.07,
-      "rumor": 0.03,
+      "history": 0.03,
+      "rumor": 0.32,
       "safety-notice": 0.02,
-      "episode": 0.32,
-      "build-feature": 0.03,
-      "q-and-a": 0.1
+      "episode": 0.06,
+      "build-feature": 0.08,
+      "q-and-a": 0.06
     },
-    "multi_subject": 0.1,
+    "multi_subject": 0.04,
     "tags": [
-      "racing",
-      "motogp"
+      "adventure",
+      "new-models",
+      "adventure-touring"
     ],
     "also": []
   },
@@ -18570,30 +18655,37 @@
     ]
   },
   {
-    "id": "865138339c970852df8e3207761ba76c397eab81",
-    "title": "This Paralyzed Motorcyclist Just Went 200mph On a Turbo Hayabusa",
-    "link": "https://www.rideapart.com/news/809658/talan-skeels-piggins-set-a-paralyzed-motorcycle-rider-speed-record-with-a-turbo-hayabusa",
+    "id": "2f9e273a004db5cf1fd306a5941a5aa0a82a0e5f",
+    "title": "What Does MotoGP Racer Ai Ogura Get Up To In Training? Take A Look",
+    "link": "https://www.rideapart.com/news/809900/ai-ogura-motocross-training-motogp-summer-break-video",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-28T12:49:00+00:00",
-    "excerpt": "Just because life hands you a bad deal, doesn't mean you have to give up your dreams. Or your want to go fast.",
-    "image": "https://cdn.motor1.com/images/mgl/vx7ZGQ/s3/os8r6gscgno.jpg",
+    "published": "2026-09-29T11:35:00+00:00",
+    "excerpt": "He may not be a pilot, but you could be forgiven for thinking otherwise with all the time he spends in the air.",
+    "image": "https://cdn.motor1.com/images/mgl/9mWQL1/s3/ms2ocfqhtwk.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "racing",
+        "label": "Racing"
       }
     ],
-    "primary": "sport-bikes",
+    "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.95
+      "racing": 0.85,
+      "motogp": 0.88
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "motogp",
+        "label": "MotoGP",
+        "parent": "racing"
+      }
+    ],
     "forms": [
       {
         "slug": "profile-interview",
@@ -18601,43 +18693,37 @@
       }
     ],
     "form_scores": {
-      "news": 0.3,
-      "review": 0.13,
-      "comparison-test": 0.02,
-      "first-look": 0.06,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.05,
-      "how-to": 0.06,
-      "explainer": 0.15,
-      "opinion": 0.25,
-      "profile-interview": 0.79,
-      "tribute": 0.08,
-      "listing": 0.02,
-      "event-report": 0.22,
-      "event-preview": 0.03,
-      "press-release": 0.06,
-      "digest": 0.06,
-      "photo-gallery": 0.18,
-      "ride-report": 0.12,
-      "history": 0.1,
+      "news": 0.12,
+      "review": 0.03,
+      "comparison-test": 0.03,
+      "first-look": 0.05,
+      "ranked-list": 0.07,
+      "buyers-guide": 0.04,
+      "how-to": 0.09,
+      "explainer": 0.33,
+      "opinion": 0.13,
+      "profile-interview": 0.89,
+      "tribute": 0.03,
+      "listing": 0.01,
+      "event-report": 0.08,
+      "event-preview": 0.07,
+      "press-release": 0.07,
+      "digest": 0.07,
+      "photo-gallery": 0.52,
+      "ride-report": 0.06,
+      "history": 0.07,
       "rumor": 0.03,
       "safety-notice": 0.02,
-      "episode": 0.13,
-      "build-feature": 0.34,
-      "q-and-a": 0.05
+      "episode": 0.32,
+      "build-feature": 0.03,
+      "q-and-a": 0.1
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.1,
     "tags": [
-      "sport-bikes"
+      "racing",
+      "motogp"
     ],
-    "also": [
-      {
-        "source": "Motorcycle News (MCN)",
-        "title": "British rider becomes the first paralysed motorcyclist to top 200mph using turbo Suzuki Hayabusa",
-        "link": "https://www.motorcyclenews.com/news/2026/september/paralysed-racer-talan-skeels-piggins-hits-200mph-hayabusa",
-        "published": "2026-09-25T12:22:47+00:00"
-      }
-    ]
+    "also": []
   },
   {
     "id": "a8cc86d3838ab4d2b86eb9bb7faa9ea971149c31",
@@ -19319,75 +19405,74 @@
     "also": []
   },
   {
-    "id": "a069aa442295f5f661bc44321965382df6e72cd5",
-    "title": "MotoGP Drops the Worst Track From Its 2027 Season Calendar",
-    "link": "https://www.rideapart.com/news/809605/motogp-drops-the-worst-track-from-its-2027-season-calendar",
+    "id": "865138339c970852df8e3207761ba76c397eab81",
+    "title": "This Paralyzed Motorcyclist Just Went 200mph On a Turbo Hayabusa",
+    "link": "https://www.rideapart.com/news/809658/talan-skeels-piggins-set-a-paralyzed-motorcycle-rider-speed-record-with-a-turbo-hayabusa",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-28T12:29:00+00:00",
-    "excerpt": "Ahead of finalizing the 2027 calendar, MotoGP has revealed that Balaton Park will not host a race next year, among some other 2027 schedule details.",
-    "image": "https://cdn.motor1.com/images/mgl/8AZ8xW/s3/dorna-is-motogp-sport-entertainment-sl.jpg",
+    "published": "2026-09-28T12:49:00+00:00",
+    "excerpt": "Just because life hands you a bad deal, doesn't mean you have to give up your dreams. Or your want to go fast.",
+    "image": "https://cdn.motor1.com/images/mgl/vx7ZGQ/s3/os8r6gscgno.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "racing",
+    "primary": "sport-bikes",
     "confident": true,
     "cat_scores": {
-      "racing": 0.95,
-      "motogp": 0.97
+      "sport-bikes": 0.95
     },
-    "subcategories": [
-      {
-        "slug": "motogp",
-        "label": "MotoGP",
-        "parent": "racing"
-      }
-    ],
+    "subcategories": [],
     "forms": [
       {
-        "slug": "news",
-        "label": "News"
+        "slug": "profile-interview",
+        "label": "Profile & Interview"
       }
     ],
     "form_scores": {
-      "news": 0.88,
-      "review": 0.01,
-      "comparison-test": 0.01,
-      "first-look": 0.02,
-      "ranked-list": 0.04,
-      "buyers-guide": 0.02,
-      "how-to": 0.02,
-      "explainer": 0.09,
-      "opinion": 0.14,
-      "profile-interview": 0.04,
-      "tribute": 0.02,
-      "listing": 0.01,
-      "event-report": 0.06,
-      "event-preview": 0.48,
-      "press-release": 0.59,
-      "digest": 0.14,
-      "photo-gallery": 0.08,
-      "ride-report": 0.02,
-      "history": 0.03,
-      "rumor": 0.12,
-      "safety-notice": 0.06,
-      "episode": 0.04,
-      "build-feature": 0.01,
-      "q-and-a": 0.03
+      "news": 0.3,
+      "review": 0.13,
+      "comparison-test": 0.02,
+      "first-look": 0.06,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.05,
+      "how-to": 0.06,
+      "explainer": 0.15,
+      "opinion": 0.25,
+      "profile-interview": 0.79,
+      "tribute": 0.08,
+      "listing": 0.02,
+      "event-report": 0.22,
+      "event-preview": 0.03,
+      "press-release": 0.06,
+      "digest": 0.06,
+      "photo-gallery": 0.18,
+      "ride-report": 0.12,
+      "history": 0.1,
+      "rumor": 0.03,
+      "safety-notice": 0.02,
+      "episode": 0.13,
+      "build-feature": 0.34,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.12,
+    "multi_subject": 0.05,
     "tags": [
-      "racing",
-      "motogp"
+      "sport-bikes"
     ],
-    "also": []
+    "also": [
+      {
+        "source": "Motorcycle News (MCN)",
+        "title": "British rider becomes the first paralysed motorcyclist to top 200mph using turbo Suzuki Hayabusa",
+        "link": "https://www.motorcyclenews.com/news/2026/september/paralysed-racer-talan-skeels-piggins-hits-200mph-hayabusa",
+        "published": "2026-09-25T12:22:47+00:00"
+      }
+    ]
   },
   {
     "id": "7f1e8a3a7aa91fd23c92d2a3510a85c04691eba7",
@@ -20000,66 +20085,73 @@
     "also": []
   },
   {
-    "id": "ab3826990c88b87d570e3a03b8542541697a73b1",
-    "title": "Could This New Helmet Tech Make Riders Significantly Safer In A Crash?",
-    "link": "https://www.rideapart.com/news/809655/helmet-rotational-safety-technology-rls-tested-video",
+    "id": "a069aa442295f5f661bc44321965382df6e72cd5",
+    "title": "MotoGP Drops the Worst Track From Its 2027 Season Calendar",
+    "link": "https://www.rideapart.com/news/809605/motogp-drops-the-worst-track-from-its-2027-season-calendar",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-28T11:59:00+00:00",
-    "excerpt": "Independent lab testing at the official FIM lab shows a striking reduction in rotational force by integrating the Release Layer System (RLS).",
-    "image": "https://cdn.motor1.com/images/mgl/AkOQV6/s3/ulj4yiy5uim.jpg",
+    "published": "2026-09-28T12:29:00+00:00",
+    "excerpt": "Ahead of finalizing the 2027 calendar, MotoGP has revealed that Balaton Park will not host a race next year, among some other 2027 schedule details.",
+    "image": "https://cdn.motor1.com/images/mgl/8AZ8xW/s3/dorna-is-motogp-sport-entertainment-sl.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "gear",
-        "label": "Gear"
-      },
-      {
-        "slug": "law-safety",
-        "label": "Law & Safety"
+        "slug": "racing",
+        "label": "Racing"
       }
     ],
-    "primary": "gear",
+    "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "gear": 0.98,
-      "law-safety": 0.93
+      "racing": 0.95,
+      "motogp": 0.97
     },
-    "subcategories": [],
-    "forms": [],
+    "subcategories": [
+      {
+        "slug": "motogp",
+        "label": "MotoGP",
+        "parent": "racing"
+      }
+    ],
+    "forms": [
+      {
+        "slug": "news",
+        "label": "News"
+      }
+    ],
     "form_scores": {
-      "news": 0.51,
-      "review": 0.44,
-      "comparison-test": 0.12,
-      "first-look": 0.17,
+      "news": 0.88,
+      "review": 0.01,
+      "comparison-test": 0.01,
+      "first-look": 0.02,
       "ranked-list": 0.04,
-      "buyers-guide": 0.25,
-      "how-to": 0.05,
-      "explainer": 0.68,
-      "opinion": 0.19,
-      "profile-interview": 0.12,
-      "tribute": 0.01,
-      "listing": 0.03,
+      "buyers-guide": 0.02,
+      "how-to": 0.02,
+      "explainer": 0.09,
+      "opinion": 0.14,
+      "profile-interview": 0.04,
+      "tribute": 0.02,
+      "listing": 0.01,
       "event-report": 0.06,
-      "event-preview": 0.02,
-      "press-release": 0.39,
-      "digest": 0.08,
+      "event-preview": 0.48,
+      "press-release": 0.59,
+      "digest": 0.14,
       "photo-gallery": 0.08,
       "ride-report": 0.02,
-      "history": 0.02,
-      "rumor": 0.18,
+      "history": 0.03,
+      "rumor": 0.12,
       "safety-notice": 0.06,
-      "episode": 0.05,
-      "build-feature": 0.02,
-      "q-and-a": 0.05
+      "episode": 0.04,
+      "build-feature": 0.01,
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.12,
     "tags": [
-      "gear",
-      "law-safety"
+      "racing",
+      "motogp"
     ],
     "also": []
   },
@@ -20593,65 +20685,66 @@
     "also": []
   },
   {
-    "id": "22e5b47e7c5b9e07c2223f44dfa8d84fb3f26f71",
-    "title": "Is Honda Developing an All-New V3 Sport Bike To Replace the CBR600RR?",
-    "link": "https://www.rideapart.com/news/809595/is-honda-developing-a-v3-supersport-bike-to-replace-the-cbr600rr",
+    "id": "ab3826990c88b87d570e3a03b8542541697a73b1",
+    "title": "Could This New Helmet Tech Make Riders Significantly Safer In A Crash?",
+    "link": "https://www.rideapart.com/news/809655/helmet-rotational-safety-technology-rls-tested-video",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-28T11:18:00+00:00",
-    "excerpt": "There are rumors that Honda has a V3-powered supersport in the works, which could replace the CBR600RR.",
-    "image": "https://cdn.motor1.com/images/mgl/7Zoqj7/s3/honda-v3-concept.jpg",
+    "published": "2026-09-28T11:59:00+00:00",
+    "excerpt": "Independent lab testing at the official FIM lab shows a striking reduction in rotational force by integrating the Release Layer System (RLS).",
+    "image": "https://cdn.motor1.com/images/mgl/AkOQV6/s3/ulj4yiy5uim.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "gear",
+        "label": "Gear"
+      },
+      {
+        "slug": "law-safety",
+        "label": "Law & Safety"
       }
     ],
-    "primary": "sport-bikes",
+    "primary": "gear",
     "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.96
+      "gear": 0.98,
+      "law-safety": 0.93
     },
     "subcategories": [],
-    "forms": [
-      {
-        "slug": "rumor",
-        "label": "Rumor & Spy Shots"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.12,
-      "review": 0.02,
-      "comparison-test": 0.02,
-      "first-look": 0.05,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.08,
-      "how-to": 0.02,
-      "explainer": 0.1,
-      "opinion": 0.13,
-      "profile-interview": 0.06,
-      "tribute": 0.02,
-      "listing": 0.01,
-      "event-report": 0.02,
+      "news": 0.51,
+      "review": 0.44,
+      "comparison-test": 0.12,
+      "first-look": 0.17,
+      "ranked-list": 0.04,
+      "buyers-guide": 0.25,
+      "how-to": 0.05,
+      "explainer": 0.68,
+      "opinion": 0.19,
+      "profile-interview": 0.12,
+      "tribute": 0.01,
+      "listing": 0.03,
+      "event-report": 0.06,
       "event-preview": 0.02,
-      "press-release": 0.07,
-      "digest": 0.07,
-      "photo-gallery": 0.06,
+      "press-release": 0.39,
+      "digest": 0.08,
+      "photo-gallery": 0.08,
       "ride-report": 0.02,
       "history": 0.02,
-      "rumor": 0.94,
-      "safety-notice": 0.01,
-      "episode": 0.04,
+      "rumor": 0.18,
+      "safety-notice": 0.06,
+      "episode": 0.05,
       "build-feature": 0.02,
-      "q-and-a": 0.06
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.04,
+    "multi_subject": 0.05,
     "tags": [
-      "sport-bikes"
+      "gear",
+      "law-safety"
     ],
     "also": []
   },
@@ -21200,71 +21293,65 @@
     "also": []
   },
   {
-    "id": "654ceed1c3a3d98e51d37adee88cb78229529345",
-    "title": "Intel\u2019s CEO Just Bet On Ultraviolette, And Its Electric Motorcycles Are Coming To America",
-    "link": "https://www.rideapart.com/news/809519/intel-ceo-invests-in-ultraviolette-coming-to-usa",
+    "id": "22e5b47e7c5b9e07c2223f44dfa8d84fb3f26f71",
+    "title": "Is Honda Developing an All-New V3 Sport Bike To Replace the CBR600RR?",
+    "link": "https://www.rideapart.com/news/809595/is-honda-developing-a-v3-supersport-bike-to-replace-the-cbr600rr",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-27T11:11:00+00:00",
-    "excerpt": "An $85 million funding round, Intel\u2019s CEO in the advisory room, and a 2027 US launch. Ultraviolette is getting serious.",
-    "image": "https://cdn.motor1.com/images/mgl/qk6wMq/s3/ultraviolette-s-f77-mach-2-ev-moto-is-ready-to-charge-up-india-s-roads.jpg",
+    "published": "2026-09-28T11:18:00+00:00",
+    "excerpt": "There are rumors that Honda has a V3-powered supersport in the works, which could replace the CBR600RR.",
+    "image": "https://cdn.motor1.com/images/mgl/7Zoqj7/s3/honda-v3-concept.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "electric",
-        "label": "Electric"
-      },
-      {
-        "slug": "industry",
-        "label": "Industry & Business"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "electric",
+    "primary": "sport-bikes",
     "confident": true,
     "cat_scores": {
-      "electric": 0.99,
-      "industry": 0.89
+      "sport-bikes": 0.96
     },
     "subcategories": [],
     "forms": [
       {
-        "slug": "news",
-        "label": "News"
+        "slug": "rumor",
+        "label": "Rumor & Spy Shots"
       }
     ],
     "form_scores": {
-      "news": 0.8,
-      "review": 0.04,
-      "comparison-test": 0.03,
-      "first-look": 0.12,
+      "news": 0.12,
+      "review": 0.02,
+      "comparison-test": 0.02,
+      "first-look": 0.05,
       "ranked-list": 0.02,
-      "buyers-guide": 0.07,
+      "buyers-guide": 0.08,
       "how-to": 0.02,
-      "explainer": 0.16,
-      "opinion": 0.14,
-      "profile-interview": 0.54,
-      "tribute": 0.01,
-      "listing": 0.02,
-      "event-report": 0.03,
-      "event-preview": 0.12,
-      "press-release": 0.47,
-      "digest": 0.06,
+      "explainer": 0.1,
+      "opinion": 0.13,
+      "profile-interview": 0.06,
+      "tribute": 0.02,
+      "listing": 0.01,
+      "event-report": 0.02,
+      "event-preview": 0.02,
+      "press-release": 0.07,
+      "digest": 0.07,
       "photo-gallery": 0.06,
       "ride-report": 0.02,
-      "history": 0.03,
-      "rumor": 0.19,
-      "safety-notice": 0.02,
+      "history": 0.02,
+      "rumor": 0.94,
+      "safety-notice": 0.01,
       "episode": 0.04,
       "build-feature": 0.02,
-      "q-and-a": 0.02
+      "q-and-a": 0.06
     },
-    "multi_subject": 0.06,
+    "multi_subject": 0.04,
     "tags": [
-      "electric",
-      "industry"
+      "sport-bikes"
     ],
     "also": []
   },
@@ -21813,72 +21900,71 @@
     "also": []
   },
   {
-    "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
-    "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
-    "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
+    "id": "654ceed1c3a3d98e51d37adee88cb78229529345",
+    "title": "Intel\u2019s CEO Just Bet On Ultraviolette, And Its Electric Motorcycles Are Coming To America",
+    "link": "https://www.rideapart.com/news/809519/intel-ceo-invests-in-ultraviolette-coming-to-usa",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-26T12:20:00+00:00",
-    "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
-    "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
+    "published": "2026-09-27T11:11:00+00:00",
+    "excerpt": "An $85 million funding round, Intel\u2019s CEO in the advisory room, and a 2027 US launch. Ultraviolette is getting serious.",
+    "image": "https://cdn.motor1.com/images/mgl/qk6wMq/s3/ultraviolette-s-f77-mach-2-ev-moto-is-ready-to-charge-up-india-s-roads.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "adventure",
-        "label": "Adventure"
+        "slug": "electric",
+        "label": "Electric"
       },
       {
-        "slug": "new-models",
-        "label": "New Models"
-      },
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
-    "primary": "adventure",
-    "confident": false,
+    "primary": "electric",
+    "confident": true,
     "cat_scores": {
-      "adventure": 0.82,
-      "new-models": 0.61,
-      "dirt-mx": 0.58
+      "electric": 0.99,
+      "industry": 0.89
     },
     "subcategories": [],
-    "forms": [],
+    "forms": [
+      {
+        "slug": "news",
+        "label": "News"
+      }
+    ],
     "form_scores": {
-      "news": 0.51,
-      "review": 0.08,
-      "comparison-test": 0.06,
-      "first-look": 0.38,
-      "ranked-list": 0.04,
-      "buyers-guide": 0.11,
-      "how-to": 0.03,
-      "explainer": 0.15,
-      "opinion": 0.54,
-      "profile-interview": 0.09,
+      "news": 0.8,
+      "review": 0.04,
+      "comparison-test": 0.03,
+      "first-look": 0.12,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.07,
+      "how-to": 0.02,
+      "explainer": 0.16,
+      "opinion": 0.14,
+      "profile-interview": 0.54,
       "tribute": 0.01,
       "listing": 0.02,
-      "event-report": 0.04,
-      "event-preview": 0.05,
-      "press-release": 0.35,
-      "digest": 0.07,
-      "photo-gallery": 0.1,
-      "ride-report": 0.05,
+      "event-report": 0.03,
+      "event-preview": 0.12,
+      "press-release": 0.47,
+      "digest": 0.06,
+      "photo-gallery": 0.06,
+      "ride-report": 0.02,
       "history": 0.03,
-      "rumor": 0.63,
+      "rumor": 0.19,
       "safety-notice": 0.02,
-      "episode": 0.06,
-      "build-feature": 0.03,
-      "q-and-a": 0.03
+      "episode": 0.04,
+      "build-feature": 0.02,
+      "q-and-a": 0.02
     },
-    "multi_subject": 0.07,
+    "multi_subject": 0.06,
     "tags": [
-      "adventure",
-      "new-models",
-      "dirt-mx"
+      "electric",
+      "industry"
     ],
     "also": []
   },
@@ -22427,63 +22513,72 @@
     "also": []
   },
   {
-    "id": "d5208cd9210ae2157ee0bcf5eb258b0c59143c36",
-    "title": "Royal Enfield Celebrated Its 125-Year History By Helping to Support Endangered Snow Leopard Conservation",
-    "link": "https://www.rideapart.com/news/809476/royal-enfield-one-ride-helps-support-snow-leopard-conservation-efforts",
+    "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
+    "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
+    "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-25T12:27:00+00:00",
-    "excerpt": "Royal Enfield and the snow leopard both call the Himalayas home.",
-    "image": "https://cdn.motor1.com/images/mgl/vx7ZpG/s3/royal-enfield-one-ride.jpg",
+    "published": "2026-09-26T12:20:00+00:00",
+    "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
+    "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "odd-ball",
-        "label": "Odd Ball"
-      }
-    ],
-    "primary": "odd-ball",
-    "confident": false,
-    "cat_scores": {},
-    "subcategories": [],
-    "forms": [
+        "slug": "adventure",
+        "label": "Adventure"
+      },
       {
-        "slug": "press-release",
-        "label": "Announcement"
+        "slug": "new-models",
+        "label": "New Models"
+      },
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
       }
     ],
-    "form_scores": {
-      "news": 0.68,
-      "review": 0.03,
-      "comparison-test": 0.02,
-      "first-look": 0.04,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.05,
-      "how-to": 0.02,
-      "explainer": 0.19,
-      "opinion": 0.1,
-      "profile-interview": 0.31,
-      "tribute": 0.36,
-      "listing": 0.02,
-      "event-report": 0.09,
-      "event-preview": 0.04,
-      "press-release": 0.78,
-      "digest": 0.11,
-      "photo-gallery": 0.15,
-      "ride-report": 0.05,
-      "history": 0.22,
-      "rumor": 0.03,
-      "safety-notice": 0.02,
-      "episode": 0.07,
-      "build-feature": 0.04,
-      "q-and-a": 0.04
+    "primary": "adventure",
+    "confident": false,
+    "cat_scores": {
+      "adventure": 0.82,
+      "new-models": 0.61,
+      "dirt-mx": 0.58
     },
-    "multi_subject": 0.08,
+    "subcategories": [],
+    "forms": [],
+    "form_scores": {
+      "news": 0.51,
+      "review": 0.08,
+      "comparison-test": 0.06,
+      "first-look": 0.38,
+      "ranked-list": 0.04,
+      "buyers-guide": 0.11,
+      "how-to": 0.03,
+      "explainer": 0.15,
+      "opinion": 0.54,
+      "profile-interview": 0.09,
+      "tribute": 0.01,
+      "listing": 0.02,
+      "event-report": 0.04,
+      "event-preview": 0.05,
+      "press-release": 0.35,
+      "digest": 0.07,
+      "photo-gallery": 0.1,
+      "ride-report": 0.05,
+      "history": 0.03,
+      "rumor": 0.63,
+      "safety-notice": 0.02,
+      "episode": 0.06,
+      "build-feature": 0.03,
+      "q-and-a": 0.03
+    },
+    "multi_subject": 0.07,
     "tags": [
-      "odd-ball"
+      "adventure",
+      "new-models",
+      "dirt-mx"
     ],
     "also": []
   },
@@ -23046,17 +23141,17 @@
     "also": []
   },
   {
-    "id": "8e0264ce1eef982a211b59dcd4d9c9cae9843570",
-    "title": "This Discount Grocery Store Will Totally Sell You A Motorcycle, Too",
-    "link": "https://www.rideapart.com/news/809504/discount-grocery-store-lidl-sells-motorcycles-scooters-amazingly",
+    "id": "d5208cd9210ae2157ee0bcf5eb258b0c59143c36",
+    "title": "Royal Enfield Celebrated Its 125-Year History By Helping to Support Endangered Snow Leopard Conservation",
+    "link": "https://www.rideapart.com/news/809476/royal-enfield-one-ride-helps-support-snow-leopard-conservation-efforts",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-25T12:11:00+00:00",
-    "excerpt": "For those of us who like to pick up groceries on two wheels, now you can pick up a bike with your next loaf of bread.",
-    "image": "https://cdn.motor1.com/images/mgl/7Z1Q2p/s3/prike-pxs-125-scrambler.jpg",
+    "published": "2026-09-25T12:27:00+00:00",
+    "excerpt": "Royal Enfield and the snow leopard both call the Himalayas home.",
+    "image": "https://cdn.motor1.com/images/mgl/vx7ZpG/s3/royal-enfield-one-ride.jpg",
     "audio": null,
     "categories": [
       {
@@ -23068,34 +23163,39 @@
     "confident": false,
     "cat_scores": {},
     "subcategories": [],
-    "forms": [],
+    "forms": [
+      {
+        "slug": "press-release",
+        "label": "Announcement"
+      }
+    ],
     "form_scores": {
-      "news": 0.36,
-      "review": 0.12,
-      "comparison-test": 0.06,
-      "first-look": 0.12,
-      "ranked-list": 0.09,
-      "buyers-guide": 0.2,
-      "how-to": 0.04,
+      "news": 0.68,
+      "review": 0.03,
+      "comparison-test": 0.02,
+      "first-look": 0.04,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.05,
+      "how-to": 0.02,
       "explainer": 0.19,
-      "opinion": 0.25,
-      "profile-interview": 0.23,
-      "tribute": 0.03,
-      "listing": 0.11,
-      "event-report": 0.04,
-      "event-preview": 0.02,
-      "press-release": 0.26,
-      "digest": 0.14,
-      "photo-gallery": 0.16,
-      "ride-report": 0.07,
-      "history": 0.06,
-      "rumor": 0.23,
-      "safety-notice": 0.03,
+      "opinion": 0.1,
+      "profile-interview": 0.31,
+      "tribute": 0.36,
+      "listing": 0.02,
+      "event-report": 0.09,
+      "event-preview": 0.04,
+      "press-release": 0.78,
+      "digest": 0.11,
+      "photo-gallery": 0.15,
+      "ride-report": 0.05,
+      "history": 0.22,
+      "rumor": 0.03,
+      "safety-notice": 0.02,
       "episode": 0.07,
-      "build-feature": 0.06,
-      "q-and-a": 0.07
+      "build-feature": 0.04,
+      "q-and-a": 0.04
     },
-    "multi_subject": 0.13,
+    "multi_subject": 0.08,
     "tags": [
       "odd-ball"
     ],
@@ -23642,82 +23742,60 @@
     "also": []
   },
   {
-    "id": "7d42c2e3a10338b732503248a2b92285f6a2d9f3",
-    "title": "MotoGP's New Aussie Street Race Might Not Happen Next Year",
-    "link": "https://www.rideapart.com/news/809466/motogps-new-aussie-street-race-might-not-happen-next-year",
+    "id": "8e0264ce1eef982a211b59dcd4d9c9cae9843570",
+    "title": "This Discount Grocery Store Will Totally Sell You A Motorcycle, Too",
+    "link": "https://www.rideapart.com/news/809504/discount-grocery-store-lidl-sells-motorcycles-scooters-amazingly",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-25T12:09:00+00:00",
-    "excerpt": "An injunction has been filed to prohibit construction of the Adelaide street circuit for next year's MotoGP event, due to the need to fell up to 400 trees.",
-    "image": "https://cdn.motor1.com/images/mgl/VzWP0l/s3/adelaide-motogp-street-circuit.jpg",
+    "published": "2026-09-25T12:11:00+00:00",
+    "excerpt": "For those of us who like to pick up groceries on two wheels, now you can pick up a bike with your next loaf of bread.",
+    "image": "https://cdn.motor1.com/images/mgl/7Z1Q2p/s3/prike-pxs-125-scrambler.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
+        "slug": "odd-ball",
+        "label": "Odd Ball"
       }
     ],
-    "primary": "racing",
-    "confident": true,
-    "cat_scores": {
-      "racing": 0.9,
-      "motogp": 0.95
-    },
-    "subcategories": [
-      {
-        "slug": "motogp",
-        "label": "MotoGP",
-        "parent": "racing"
-      }
-    ],
-    "forms": [
-      {
-        "slug": "news",
-        "label": "News"
-      }
-    ],
+    "primary": "odd-ball",
+    "confident": false,
+    "cat_scores": {},
+    "subcategories": [],
+    "forms": [],
     "form_scores": {
-      "news": 0.85,
-      "review": 0.01,
-      "comparison-test": 0.01,
-      "first-look": 0.01,
-      "ranked-list": 0.01,
-      "buyers-guide": 0.02,
-      "how-to": 0.01,
-      "explainer": 0.09,
-      "opinion": 0.08,
-      "profile-interview": 0.03,
-      "tribute": 0.01,
-      "listing": 0.01,
+      "news": 0.36,
+      "review": 0.12,
+      "comparison-test": 0.06,
+      "first-look": 0.12,
+      "ranked-list": 0.09,
+      "buyers-guide": 0.2,
+      "how-to": 0.04,
+      "explainer": 0.19,
+      "opinion": 0.25,
+      "profile-interview": 0.23,
+      "tribute": 0.03,
+      "listing": 0.11,
       "event-report": 0.04,
-      "event-preview": 0.62,
-      "press-release": 0.08,
-      "digest": 0.07,
-      "photo-gallery": 0.06,
-      "ride-report": 0.02,
-      "history": 0.02,
-      "rumor": 0.05,
-      "safety-notice": 0.22,
-      "episode": 0.03,
-      "build-feature": 0.01,
-      "q-and-a": 0.02
+      "event-preview": 0.02,
+      "press-release": 0.26,
+      "digest": 0.14,
+      "photo-gallery": 0.16,
+      "ride-report": 0.07,
+      "history": 0.06,
+      "rumor": 0.23,
+      "safety-notice": 0.03,
+      "episode": 0.07,
+      "build-feature": 0.06,
+      "q-and-a": 0.07
     },
-    "multi_subject": 0.04,
+    "multi_subject": 0.13,
     "tags": [
-      "racing",
-      "motogp"
+      "odd-ball"
     ],
-    "also": [
-      {
-        "source": "Visordown",
-        "title": "Adelaide MotoGP facing fresh concerns after legal action taken",
-        "link": "https://www.visordown.com/news/adelaide-motogp-facing-fresh-concerns-after-legal-action-taken",
-        "published": "2026-09-24T12:44:08+00:00"
-      }
-    ]
+    "also": []
   },
   {
     "id": "405e535c9ee214a64f04a81f901604bcf5140360",
@@ -24246,84 +24324,80 @@
     "also": []
   },
   {
-    "id": "cb616cd799e34c3506aec7964698db09076428fb",
-    "title": "Is Honda Hiding a New CBR750R in Plain Sight?",
-    "link": "https://www.rideapart.com/news/809438/is-honda-hiding-a-new-cbr750r-in-plain-sight",
+    "id": "7d42c2e3a10338b732503248a2b92285f6a2d9f3",
+    "title": "MotoGP's New Aussie Street Race Might Not Happen Next Year",
+    "link": "https://www.rideapart.com/news/809466/motogps-new-aussie-street-race-might-not-happen-next-year",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-25T11:58:00+00:00",
-    "excerpt": "Honda just collaborated with Onitsuka Tiger to make a mid-capacity sportbike concept, which could actually be a CBR750 hiding in plain sight.",
-    "image": "https://cdn.motor1.com/images/mgl/wlkZp6/s3/honda-cbr750r-concept.jpg",
+    "published": "2026-09-25T12:09:00+00:00",
+    "excerpt": "An injunction has been filed to prohibit construction of the Adelaide street circuit for next year's MotoGP event, due to the need to fell up to 400 trees.",
+    "image": "https://cdn.motor1.com/images/mgl/VzWP0l/s3/adelaide-motogp-street-circuit.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "racing",
+        "label": "Racing"
       }
     ],
-    "primary": "sport-bikes",
+    "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.91
+      "racing": 0.9,
+      "motogp": 0.95
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "motogp",
+        "label": "MotoGP",
+        "parent": "racing"
+      }
+    ],
     "forms": [
       {
-        "slug": "rumor",
-        "label": "Rumor & Spy Shots"
+        "slug": "news",
+        "label": "News"
       }
     ],
     "form_scores": {
-      "news": 0.27,
-      "review": 0.08,
-      "comparison-test": 0.03,
-      "first-look": 0.39,
-      "ranked-list": 0.03,
-      "buyers-guide": 0.09,
-      "how-to": 0.03,
-      "explainer": 0.21,
-      "opinion": 0.71,
-      "profile-interview": 0.07,
-      "tribute": 0.02,
-      "listing": 0.02,
-      "event-report": 0.05,
-      "event-preview": 0.03,
-      "press-release": 0.18,
+      "news": 0.85,
+      "review": 0.01,
+      "comparison-test": 0.01,
+      "first-look": 0.01,
+      "ranked-list": 0.01,
+      "buyers-guide": 0.02,
+      "how-to": 0.01,
+      "explainer": 0.09,
+      "opinion": 0.08,
+      "profile-interview": 0.03,
+      "tribute": 0.01,
+      "listing": 0.01,
+      "event-report": 0.04,
+      "event-preview": 0.62,
+      "press-release": 0.08,
       "digest": 0.07,
-      "photo-gallery": 0.13,
-      "ride-report": 0.03,
-      "history": 0.04,
-      "rumor": 0.77,
-      "safety-notice": 0.02,
-      "episode": 0.05,
-      "build-feature": 0.07,
-      "q-and-a": 0.04
+      "photo-gallery": 0.06,
+      "ride-report": 0.02,
+      "history": 0.02,
+      "rumor": 0.05,
+      "safety-notice": 0.22,
+      "episode": 0.03,
+      "build-feature": 0.01,
+      "q-and-a": 0.02
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.04,
     "tags": [
-      "sport-bikes"
+      "racing",
+      "motogp"
     ],
     "also": [
       {
         "source": "Visordown",
-        "title": "Honda reveals new middleweight sportbike concept with a twist",
-        "link": "https://www.visordown.com/news/honda-reveals-new-middleweight-sportbike-concept-twist",
-        "published": "2026-09-24T08:14:06+00:00"
-      },
-      {
-        "source": "Motorcycle News (MCN)",
-        "title": "Is this Honda's new CBR750R? Sportsbike concept model spotted in Milan Fashion Week collaboration",
-        "link": "https://www.motorcyclenews.com/news/2026/september/honda-cbr750r-milan-fashion-week",
-        "published": "2026-09-24T11:40:59+00:00"
-      },
-      {
-        "source": "Visordown",
-        "title": "Is this sleek concept actually a Honda CBR750R hiding in plain sight?",
-        "link": "https://www.visordown.com/news/sleek-concept-actually-honda-cbr750r-hiding-plain-sight",
-        "published": "2026-09-25T07:40:03+00:00"
+        "title": "Adelaide MotoGP facing fresh concerns after legal action taken",
+        "link": "https://www.visordown.com/news/adelaide-motogp-facing-fresh-concerns-after-legal-action-taken",
+        "published": "2026-09-24T12:44:08+00:00"
       }
     ]
   },
@@ -24871,98 +24945,84 @@
     "also": []
   },
   {
-    "id": "3ccfa34b193e2bc8d1678bb854676b9a906334f1",
-    "title": "Alarm Bells Ringing for World Supercross Championship as British GP Canceled",
-    "link": "https://www.rideapart.com/news/809326/alarm-bells-ringing-for-world-supercross-as-british-gp-cancelled",
+    "id": "cb616cd799e34c3506aec7964698db09076428fb",
+    "title": "Is Honda Hiding a New CBR750R in Plain Sight?",
+    "link": "https://www.rideapart.com/news/809438/is-honda-hiding-a-new-cbr750r-in-plain-sight",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-25T11:24:00+00:00",
-    "excerpt": "World Supercross is openly looking for significant investment, a new owner, and partners. Now, it has canceled the British GP on short notice.",
-    "image": "https://cdn.motor1.com/images/mgl/2N9Lbk/s3/world-supercross.jpg",
+    "published": "2026-09-25T11:58:00+00:00",
+    "excerpt": "Honda just collaborated with Onitsuka Tiger to make a mid-capacity sportbike concept, which could actually be a CBR750 hiding in plain sight.",
+    "image": "https://cdn.motor1.com/images/mgl/wlkZp6/s3/honda-cbr750r-concept.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "racing",
-        "label": "Racing"
-      },
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      },
-      {
-        "slug": "industry",
-        "label": "Industry & Business"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "racing",
+    "primary": "sport-bikes",
     "confident": true,
     "cat_scores": {
-      "racing": 0.95,
-      "dirt-mx": 0.95,
-      "industry": 0.78,
-      "motocross-supercross": 0.97
+      "sport-bikes": 0.91
     },
-    "subcategories": [
-      {
-        "slug": "motocross-supercross",
-        "label": "Motocross & Supercross",
-        "parent": "racing"
-      }
-    ],
+    "subcategories": [],
     "forms": [
       {
-        "slug": "news",
-        "label": "News"
+        "slug": "rumor",
+        "label": "Rumor & Spy Shots"
       }
     ],
     "form_scores": {
-      "news": 0.84,
-      "review": 0.01,
-      "comparison-test": 0.02,
-      "first-look": 0.01,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.02,
-      "how-to": 0.01,
-      "explainer": 0.08,
-      "opinion": 0.21,
+      "news": 0.27,
+      "review": 0.08,
+      "comparison-test": 0.03,
+      "first-look": 0.39,
+      "ranked-list": 0.03,
+      "buyers-guide": 0.09,
+      "how-to": 0.03,
+      "explainer": 0.21,
+      "opinion": 0.71,
       "profile-interview": 0.07,
-      "tribute": 0.03,
+      "tribute": 0.02,
       "listing": 0.02,
-      "event-report": 0.07,
-      "event-preview": 0.06,
-      "press-release": 0.16,
-      "digest": 0.09,
-      "photo-gallery": 0.06,
-      "ride-report": 0.02,
-      "history": 0.03,
-      "rumor": 0.02,
-      "safety-notice": 0.04,
-      "episode": 0.04,
-      "build-feature": 0.01,
-      "q-and-a": 0.03
+      "event-report": 0.05,
+      "event-preview": 0.03,
+      "press-release": 0.18,
+      "digest": 0.07,
+      "photo-gallery": 0.13,
+      "ride-report": 0.03,
+      "history": 0.04,
+      "rumor": 0.77,
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.07,
+      "q-and-a": 0.04
     },
-    "multi_subject": 0.07,
+    "multi_subject": 0.05,
     "tags": [
-      "racing",
-      "dirt-mx",
-      "industry",
-      "motocross-supercross"
+      "sport-bikes"
     ],
     "also": [
       {
-        "source": "MCNews Australia",
-        "title": "World Supercross British GP cancelled as SX Global seeks new investment",
-        "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
-        "published": "2026-09-22T08:56:11+00:00"
+        "source": "Visordown",
+        "title": "Honda reveals new middleweight sportbike concept with a twist",
+        "link": "https://www.visordown.com/news/honda-reveals-new-middleweight-sportbike-concept-twist",
+        "published": "2026-09-24T08:14:06+00:00"
+      },
+      {
+        "source": "Motorcycle News (MCN)",
+        "title": "Is this Honda's new CBR750R? Sportsbike concept model spotted in Milan Fashion Week collaboration",
+        "link": "https://www.motorcyclenews.com/news/2026/september/honda-cbr750r-milan-fashion-week",
+        "published": "2026-09-24T11:40:59+00:00"
       },
       {
         "source": "Visordown",
-        "title": "FIM World Supercross cancels British GP as investment talks continue",
-        "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
-        "published": "2026-09-22T10:23:37+00:00"
+        "title": "Is this sleek concept actually a Honda CBR750R hiding in plain sight?",
+        "link": "https://www.visordown.com/news/sleek-concept-actually-honda-cbr750r-hiding-plain-sight",
+        "published": "2026-09-25T07:40:03+00:00"
       }
     ]
   },
@@ -25500,17 +25560,17 @@
     "also": []
   },
   {
-    "id": "d78deddeee9fdbdbcfa717e08219301dc97280c7",
-    "title": "Ex-MotoGP Race Winner Fails To Secure FIM Bagger World Cup Title",
-    "link": "https://www.rideapart.com/news/809249/ex-motogp-race-winner-fails-to-secure-bagger-world-cup-title",
+    "id": "3ccfa34b193e2bc8d1678bb854676b9a906334f1",
+    "title": "Alarm Bells Ringing for World Supercross Championship as British GP Canceled",
+    "link": "https://www.rideapart.com/news/809326/alarm-bells-ringing-for-world-supercross-as-british-gp-cancelled",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-24T12:57:00+00:00",
-    "excerpt": "Andrea Iannone finished fourth in the inaugural FIM Bagger World Cup, but that could prove to be a good thing for the sport.",
-    "image": "https://cdn.motor1.com/images/mgl/wlkpLV/s3/fim-bagger-world-cup-2026.jpg",
+    "published": "2026-09-25T11:24:00+00:00",
+    "excerpt": "World Supercross is openly looking for significant investment, a new owner, and partners. Now, it has canceled the British GP on short notice.",
+    "image": "https://cdn.motor1.com/images/mgl/2N9Lbk/s3/world-supercross.jpg",
     "audio": null,
     "categories": [
       {
@@ -25518,72 +25578,80 @@
         "label": "Racing"
       },
       {
-        "slug": "cruisers",
-        "label": "Cruisers"
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
       },
       {
-        "slug": "custom",
-        "label": "Custom"
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
     "primary": "racing",
     "confident": true,
     "cat_scores": {
-      "racing": 0.96,
-      "cruisers": 0.86,
-      "custom": 0.56
+      "racing": 0.95,
+      "dirt-mx": 0.95,
+      "industry": 0.78,
+      "motocross-supercross": 0.97
     },
-    "subcategories": [],
+    "subcategories": [
+      {
+        "slug": "motocross-supercross",
+        "label": "Motocross & Supercross",
+        "parent": "racing"
+      }
+    ],
     "forms": [
       {
-        "slug": "event-report",
-        "label": "Event Report"
+        "slug": "news",
+        "label": "News"
       }
     ],
     "form_scores": {
-      "news": 0.65,
-      "review": 0.04,
-      "comparison-test": 0.09,
-      "first-look": 0.06,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.03,
-      "how-to": 0.02,
-      "explainer": 0.16,
-      "opinion": 0.68,
-      "profile-interview": 0.13,
-      "tribute": 0.02,
-      "listing": 0.01,
-      "event-report": 0.95,
-      "event-preview": 0.05,
-      "press-release": 0.09,
-      "digest": 0.07,
-      "photo-gallery": 0.07,
-      "ride-report": 0.03,
-      "history": 0.13,
+      "news": 0.84,
+      "review": 0.01,
+      "comparison-test": 0.02,
+      "first-look": 0.01,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.02,
+      "how-to": 0.01,
+      "explainer": 0.08,
+      "opinion": 0.21,
+      "profile-interview": 0.07,
+      "tribute": 0.03,
+      "listing": 0.02,
+      "event-report": 0.07,
+      "event-preview": 0.06,
+      "press-release": 0.16,
+      "digest": 0.09,
+      "photo-gallery": 0.06,
+      "ride-report": 0.02,
+      "history": 0.03,
       "rumor": 0.02,
-      "safety-notice": 0.02,
-      "episode": 0.05,
-      "build-feature": 0.08,
+      "safety-notice": 0.04,
+      "episode": 0.04,
+      "build-feature": 0.01,
       "q-and-a": 0.03
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.07,
     "tags": [
       "racing",
-      "cruisers",
-      "custom"
+      "dirt-mx",
+      "industry",
+      "motocross-supercross"
     ],
     "also": [
       {
         "source": "MCNews Australia",
-        "title": "Archie McDonald crowned inaugural Bagger World Cup champion",
-        "link": "https://www.mcnews.com.au/archie-mcdonald-crowned-inaugural-bagger-world-cup-champion",
-        "published": "2026-09-20T07:37:52+00:00"
+        "title": "World Supercross British GP cancelled as SX Global seeks new investment",
+        "link": "https://www.mcnews.com.au/world-supercross-british-gp-cancelled-2026",
+        "published": "2026-09-22T08:56:11+00:00"
       },
       {
         "source": "Visordown",
-        "title": "Harley-Davidson crowns first-ever Bagger World Cup champion in Austria",
-        "link": "https://www.visordown.com/news/harley-davidson-crowns-first-ever-bagger-world-cup-champion-austria",
-        "published": "2026-09-23T10:03:17+00:00"
+        "title": "FIM World Supercross cancels British GP as investment talks continue",
+        "link": "https://www.visordown.com/news/fim-world-supercross-cancels-british-gp-investment-talks-continue",
+        "published": "2026-09-22T10:23:37+00:00"
       }
     ]
   },
@@ -26103,67 +26171,92 @@
     "also": []
   },
   {
-    "id": "0ae61ac09ea6037d0dd882c499147d2b1b142a5f",
-    "title": "Give Us This Cheap As Hell Retro Honda Motorcycle Now!",
-    "link": "https://www.rideapart.com/news/809317/honda-cb500-cafe-racer-indian-price-debut",
+    "id": "d78deddeee9fdbdbcfa717e08219301dc97280c7",
+    "title": "Ex-MotoGP Race Winner Fails To Secure FIM Bagger World Cup Title",
+    "link": "https://www.rideapart.com/news/809249/ex-motogp-race-winner-fails-to-secure-bagger-world-cup-title",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-24T11:48:00+00:00",
-    "excerpt": "An actual whole motorcycle for under $3,000? Give it to us.",
-    "image": "https://cdn.motor1.com/images/mgl/OoZexL/s3/honda-cb500.jpg",
+    "published": "2026-09-24T12:57:00+00:00",
+    "excerpt": "Andrea Iannone finished fourth in the inaugural FIM Bagger World Cup, but that could prove to be a good thing for the sport.",
+    "image": "https://cdn.motor1.com/images/mgl/wlkpLV/s3/fim-bagger-world-cup-2026.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "classic",
-        "label": "Classic"
+        "slug": "racing",
+        "label": "Racing"
+      },
+      {
+        "slug": "cruisers",
+        "label": "Cruisers"
+      },
+      {
+        "slug": "custom",
+        "label": "Custom"
       }
     ],
-    "primary": "classic",
-    "confident": false,
+    "primary": "racing",
+    "confident": true,
     "cat_scores": {
-      "classic": 0.65
+      "racing": 0.96,
+      "cruisers": 0.86,
+      "custom": 0.56
     },
     "subcategories": [],
     "forms": [
       {
-        "slug": "opinion",
-        "label": "Opinion"
+        "slug": "event-report",
+        "label": "Event Report"
       }
     ],
     "form_scores": {
-      "news": 0.14,
-      "review": 0.37,
-      "comparison-test": 0.16,
-      "first-look": 0.21,
-      "ranked-list": 0.32,
-      "buyers-guide": 0.48,
-      "how-to": 0.1,
-      "explainer": 0.15,
-      "opinion": 0.82,
-      "profile-interview": 0.1,
-      "tribute": 0.05,
-      "listing": 0.19,
-      "event-report": 0.06,
-      "event-preview": 0.03,
-      "press-release": 0.11,
-      "digest": 0.12,
-      "photo-gallery": 0.21,
-      "ride-report": 0.08,
-      "history": 0.19,
-      "rumor": 0.33,
-      "safety-notice": 0.03,
-      "episode": 0.12,
-      "build-feature": 0.22,
-      "q-and-a": 0.14
+      "news": 0.65,
+      "review": 0.04,
+      "comparison-test": 0.09,
+      "first-look": 0.06,
+      "ranked-list": 0.05,
+      "buyers-guide": 0.03,
+      "how-to": 0.02,
+      "explainer": 0.16,
+      "opinion": 0.68,
+      "profile-interview": 0.13,
+      "tribute": 0.02,
+      "listing": 0.01,
+      "event-report": 0.95,
+      "event-preview": 0.05,
+      "press-release": 0.09,
+      "digest": 0.07,
+      "photo-gallery": 0.07,
+      "ride-report": 0.03,
+      "history": 0.13,
+      "rumor": 0.02,
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.08,
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.13,
+    "multi_subject": 0.05,
     "tags": [
-      "classic"
+      "racing",
+      "cruisers",
+      "custom"
     ],
-    "also": []
+    "also": [
+      {
+        "source": "MCNews Australia",
+        "title": "Archie McDonald crowned inaugural Bagger World Cup champion",
+        "link": "https://www.mcnews.com.au/archie-mcdonald-crowned-inaugural-bagger-world-cup-champion",
+        "published": "2026-09-20T07:37:52+00:00"
+      },
+      {
+        "source": "Visordown",
+        "title": "Harley-Davidson crowns first-ever Bagger World Cup champion in Austria",
+        "link": "https://www.visordown.com/news/harley-davidson-crowns-first-ever-bagger-world-cup-champion-austria",
+        "published": "2026-09-23T10:03:17+00:00"
+      }
+    ]
   },
   {
     "id": "a4269656731c84c0038874580eb0781defccece9",
@@ -26693,17 +26786,17 @@
     "also": []
   },
   {
-    "id": "d5e1f7539dd583120d04aed02731254fd6bdfdfe",
-    "title": "The World\u2019s First Gas Motorcycle Was A Wooden Test Mule With Training Wheels",
-    "link": "https://www.rideapart.com/features/809179/daimler-reitwagen-first-gas-powered-motorcycle",
+    "id": "0ae61ac09ea6037d0dd882c499147d2b1b142a5f",
+    "title": "Give Us This Cheap As Hell Retro Honda Motorcycle Now!",
+    "link": "https://www.rideapart.com/news/809317/honda-cb500-cafe-racer-indian-price-debut",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-24T11:01:00+00:00",
-    "excerpt": "Before superbikes, baggers, and adventure bikes, there was half a horsepower, a wooden frame, and two extra wheels.",
-    "image": "https://cdn.motor1.com/images/mgl/YAbGGq/s3/the-world-s-first-gas-motorcycle-was-a-wooden-test-mule-with-training-wheels.jpg",
+    "published": "2026-09-24T11:48:00+00:00",
+    "excerpt": "An actual whole motorcycle for under $3,000? Give it to us.",
+    "image": "https://cdn.motor1.com/images/mgl/OoZexL/s3/honda-cb500.jpg",
     "audio": null,
     "categories": [
       {
@@ -26712,44 +26805,44 @@
       }
     ],
     "primary": "classic",
-    "confident": true,
+    "confident": false,
     "cat_scores": {
-      "classic": 0.94
+      "classic": 0.65
     },
     "subcategories": [],
     "forms": [
       {
-        "slug": "history",
-        "label": "History"
+        "slug": "opinion",
+        "label": "Opinion"
       }
     ],
     "form_scores": {
-      "news": 0.05,
-      "review": 0.04,
-      "comparison-test": 0.02,
-      "first-look": 0.03,
-      "ranked-list": 0.05,
-      "buyers-guide": 0.03,
-      "how-to": 0.03,
-      "explainer": 0.53,
-      "opinion": 0.12,
-      "profile-interview": 0.06,
-      "tribute": 0.07,
-      "listing": 0.02,
-      "event-report": 0.05,
-      "event-preview": 0.02,
-      "press-release": 0.03,
-      "digest": 0.06,
-      "photo-gallery": 0.11,
-      "ride-report": 0.04,
-      "history": 0.95,
-      "rumor": 0.02,
-      "safety-notice": 0.02,
-      "episode": 0.05,
-      "build-feature": 0.14,
-      "q-and-a": 0.05
+      "news": 0.14,
+      "review": 0.37,
+      "comparison-test": 0.16,
+      "first-look": 0.21,
+      "ranked-list": 0.32,
+      "buyers-guide": 0.48,
+      "how-to": 0.1,
+      "explainer": 0.15,
+      "opinion": 0.82,
+      "profile-interview": 0.1,
+      "tribute": 0.05,
+      "listing": 0.19,
+      "event-report": 0.06,
+      "event-preview": 0.03,
+      "press-release": 0.11,
+      "digest": 0.12,
+      "photo-gallery": 0.21,
+      "ride-report": 0.08,
+      "history": 0.19,
+      "rumor": 0.33,
+      "safety-notice": 0.03,
+      "episode": 0.12,
+      "build-feature": 0.22,
+      "q-and-a": 0.14
     },
-    "multi_subject": 0.06,
+    "multi_subject": 0.13,
     "tags": [
       "classic"
     ],
@@ -27239,65 +27332,65 @@
     "also": []
   },
   {
-    "id": "fb53c9fdf7575b2c582c2f838c21e58763c56490",
-    "title": "Yamaha Is Now Suing This East Coast Dealership For Nearly $3 Million",
-    "link": "https://www.rideapart.com/news/809140/yamaha-sues-motorcycles-of-manchester-dealership-over-breach-of-contract",
+    "id": "d5e1f7539dd583120d04aed02731254fd6bdfdfe",
+    "title": "The World\u2019s First Gas Motorcycle Was A Wooden Test Mule With Training Wheels",
+    "link": "https://www.rideapart.com/features/809179/daimler-reitwagen-first-gas-powered-motorcycle",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-23T12:49:00+00:00",
-    "excerpt": "Motorcycles of Manchester is in Yamaha's crosshairs over a breach of contract.",
-    "image": "https://cdn.motor1.com/images/mgl/Qebrr0/s3/2026-yamaha-tenere-700-world-raid.jpg",
+    "published": "2026-09-24T11:01:00+00:00",
+    "excerpt": "Before superbikes, baggers, and adventure bikes, there was half a horsepower, a wooden frame, and two extra wheels.",
+    "image": "https://cdn.motor1.com/images/mgl/YAbGGq/s3/the-world-s-first-gas-motorcycle-was-a-wooden-test-mule-with-training-wheels.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "industry",
-        "label": "Industry & Business"
+        "slug": "classic",
+        "label": "Classic"
       }
     ],
-    "primary": "industry",
+    "primary": "classic",
     "confident": true,
     "cat_scores": {
-      "industry": 0.96
+      "classic": 0.94
     },
     "subcategories": [],
     "forms": [
       {
-        "slug": "news",
-        "label": "News"
+        "slug": "history",
+        "label": "History"
       }
     ],
     "form_scores": {
-      "news": 0.8,
-      "review": 0.02,
+      "news": 0.05,
+      "review": 0.04,
       "comparison-test": 0.02,
-      "first-look": 0.02,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.04,
-      "how-to": 0.02,
-      "explainer": 0.08,
-      "opinion": 0.06,
-      "profile-interview": 0.09,
-      "tribute": 0.01,
+      "first-look": 0.03,
+      "ranked-list": 0.05,
+      "buyers-guide": 0.03,
+      "how-to": 0.03,
+      "explainer": 0.53,
+      "opinion": 0.12,
+      "profile-interview": 0.06,
+      "tribute": 0.07,
       "listing": 0.02,
-      "event-report": 0.02,
+      "event-report": 0.05,
       "event-preview": 0.02,
-      "press-release": 0.19,
-      "digest": 0.09,
-      "photo-gallery": 0.07,
-      "ride-report": 0.01,
-      "history": 0.03,
+      "press-release": 0.03,
+      "digest": 0.06,
+      "photo-gallery": 0.11,
+      "ride-report": 0.04,
+      "history": 0.95,
       "rumor": 0.02,
-      "safety-notice": 0.04,
-      "episode": 0.04,
-      "build-feature": 0.02,
-      "q-and-a": 0.03
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.14,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.06,
     "tags": [
-      "industry"
+      "classic"
     ],
     "also": []
   },
@@ -27755,60 +27848,65 @@
     "also": []
   },
   {
-    "id": "4db894185206ecf3cc6d9625bd61286d05149922",
-    "title": "Some Insane Person Is Going to Try and Go 400mph On a Motorcycle",
-    "link": "https://www.rideapart.com/news/809143/bolivia-salt-flat-time-trial-world-record-motorcycle-speed-run-set-for-400mph",
+    "id": "fb53c9fdf7575b2c582c2f838c21e58763c56490",
+    "title": "Yamaha Is Now Suing This East Coast Dealership For Nearly $3 Million",
+    "link": "https://www.rideapart.com/news/809140/yamaha-sues-motorcycles-of-manchester-dealership-over-breach-of-contract",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-23T12:09:00+00:00",
-    "excerpt": "Sometimes, even 90mph feels too fast on a motorcycle. Imagine three and some change times that...",
-    "image": "https://cdn.motor1.com/images/mgl/JO6xXg/s3/hfo1xcnlv7e.jpg",
+    "published": "2026-09-23T12:49:00+00:00",
+    "excerpt": "Motorcycles of Manchester is in Yamaha's crosshairs over a breach of contract.",
+    "image": "https://cdn.motor1.com/images/mgl/Qebrr0/s3/2026-yamaha-tenere-700-world-raid.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "sport-bikes",
-        "label": "Sport Bikes"
+        "slug": "industry",
+        "label": "Industry & Business"
       }
     ],
-    "primary": "sport-bikes",
-    "confident": false,
+    "primary": "industry",
+    "confident": true,
     "cat_scores": {
-      "sport-bikes": 0.61
+      "industry": 0.96
     },
     "subcategories": [],
-    "forms": [],
+    "forms": [
+      {
+        "slug": "news",
+        "label": "News"
+      }
+    ],
     "form_scores": {
-      "news": 0.15,
-      "review": 0.06,
-      "comparison-test": 0.05,
-      "first-look": 0.06,
-      "ranked-list": 0.07,
+      "news": 0.8,
+      "review": 0.02,
+      "comparison-test": 0.02,
+      "first-look": 0.02,
+      "ranked-list": 0.02,
       "buyers-guide": 0.04,
-      "how-to": 0.06,
-      "explainer": 0.2,
-      "opinion": 0.59,
-      "profile-interview": 0.23,
-      "tribute": 0.06,
+      "how-to": 0.02,
+      "explainer": 0.08,
+      "opinion": 0.06,
+      "profile-interview": 0.09,
+      "tribute": 0.01,
       "listing": 0.02,
-      "event-report": 0.12,
-      "event-preview": 0.23,
-      "press-release": 0.07,
-      "digest": 0.1,
-      "photo-gallery": 0.14,
-      "ride-report": 0.06,
-      "history": 0.09,
-      "rumor": 0.23,
+      "event-report": 0.02,
+      "event-preview": 0.02,
+      "press-release": 0.19,
+      "digest": 0.09,
+      "photo-gallery": 0.07,
+      "ride-report": 0.01,
+      "history": 0.03,
+      "rumor": 0.02,
       "safety-notice": 0.04,
-      "episode": 0.12,
-      "build-feature": 0.11,
-      "q-and-a": 0.09
+      "episode": 0.04,
+      "build-feature": 0.02,
+      "q-and-a": 0.03
     },
-    "multi_subject": 0.09,
+    "multi_subject": 0.05,
     "tags": [
-      "sport-bikes"
+      "industry"
     ],
     "also": []
   },
@@ -28272,77 +28370,60 @@
     "also": []
   },
   {
-    "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
-    "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
-    "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
+    "id": "4db894185206ecf3cc6d9625bd61286d05149922",
+    "title": "Some Insane Person Is Going to Try and Go 400mph On a Motorcycle",
+    "link": "https://www.rideapart.com/news/809143/bolivia-salt-flat-time-trial-world-record-motorcycle-speed-run-set-for-400mph",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-23T11:44:00+00:00",
-    "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
-    "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
+    "published": "2026-09-23T12:09:00+00:00",
+    "excerpt": "Sometimes, even 90mph feels too fast on a motorcycle. Imagine three and some change times that...",
+    "image": "https://cdn.motor1.com/images/mgl/JO6xXg/s3/hfo1xcnlv7e.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "electric",
-        "label": "Electric"
-      },
-      {
-        "slug": "dirt-mx",
-        "label": "MX & Dirt"
-      },
-      {
-        "slug": "new-models",
-        "label": "New Models"
+        "slug": "sport-bikes",
+        "label": "Sport Bikes"
       }
     ],
-    "primary": "electric",
-    "confident": true,
+    "primary": "sport-bikes",
+    "confident": false,
     "cat_scores": {
-      "electric": 0.97,
-      "dirt-mx": 0.93,
-      "new-models": 0.76
+      "sport-bikes": 0.61
     },
     "subcategories": [],
-    "forms": [
-      {
-        "slug": "opinion",
-        "label": "Opinion"
-      }
-    ],
+    "forms": [],
     "form_scores": {
-      "news": 0.28,
-      "review": 0.14,
-      "comparison-test": 0.11,
-      "first-look": 0.59,
-      "ranked-list": 0.2,
-      "buyers-guide": 0.25,
-      "how-to": 0.05,
-      "explainer": 0.21,
-      "opinion": 0.86,
-      "profile-interview": 0.1,
-      "tribute": 0.02,
-      "listing": 0.05,
-      "event-report": 0.04,
-      "event-preview": 0.03,
-      "press-release": 0.49,
-      "digest": 0.08,
-      "photo-gallery": 0.16,
-      "ride-report": 0.11,
-      "history": 0.02,
-      "rumor": 0.28,
-      "safety-notice": 0.02,
-      "episode": 0.07,
-      "build-feature": 0.03,
-      "q-and-a": 0.05
+      "news": 0.15,
+      "review": 0.06,
+      "comparison-test": 0.05,
+      "first-look": 0.06,
+      "ranked-list": 0.07,
+      "buyers-guide": 0.04,
+      "how-to": 0.06,
+      "explainer": 0.2,
+      "opinion": 0.59,
+      "profile-interview": 0.23,
+      "tribute": 0.06,
+      "listing": 0.02,
+      "event-report": 0.12,
+      "event-preview": 0.23,
+      "press-release": 0.07,
+      "digest": 0.1,
+      "photo-gallery": 0.14,
+      "ride-report": 0.06,
+      "history": 0.09,
+      "rumor": 0.23,
+      "safety-notice": 0.04,
+      "episode": 0.12,
+      "build-feature": 0.11,
+      "q-and-a": 0.09
     },
-    "multi_subject": 0.08,
+    "multi_subject": 0.09,
     "tags": [
-      "electric",
-      "dirt-mx",
-      "new-models"
+      "sport-bikes"
     ],
     "also": []
   },
@@ -28789,100 +28870,79 @@
     "also": []
   },
   {
-    "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
-    "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
-    "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
+    "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
+    "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
+    "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
     "lang": "en",
     "source": "RideApart",
     "ownership": "commercial",
     "media": "article",
     "author": null,
-    "published": "2026-09-23T11:22:00+00:00",
-    "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
-    "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
+    "published": "2026-09-23T11:44:00+00:00",
+    "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
+    "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
     "audio": null,
     "categories": [
       {
-        "slug": "adventure",
-        "label": "Adventure"
+        "slug": "electric",
+        "label": "Electric"
       },
       {
         "slug": "dirt-mx",
         "label": "MX & Dirt"
       },
       {
-        "slug": "racing",
-        "label": "Racing"
-      },
-      {
-        "slug": "events-rides",
-        "label": "Events & Rides"
+        "slug": "new-models",
+        "label": "New Models"
       }
     ],
-    "primary": "adventure",
+    "primary": "electric",
     "confident": true,
     "cat_scores": {
-      "adventure": 0.91,
-      "dirt-mx": 0.84,
-      "racing": 0.76,
-      "events-rides": 0.62,
-      "adv-events-competitions": 0.98
+      "electric": 0.97,
+      "dirt-mx": 0.93,
+      "new-models": 0.76
     },
-    "subcategories": [
-      {
-        "slug": "adv-events-competitions",
-        "label": "ADV Events & Competitions",
-        "parent": "adventure"
-      }
-    ],
+    "subcategories": [],
     "forms": [
       {
-        "slug": "event-preview",
-        "label": "Event Preview"
+        "slug": "opinion",
+        "label": "Opinion"
       }
     ],
     "form_scores": {
-      "news": 0.43,
-      "review": 0.01,
-      "comparison-test": 0.02,
-      "first-look": 0.02,
-      "ranked-list": 0.02,
-      "buyers-guide": 0.03,
-      "how-to": 0.02,
-      "explainer": 0.1,
-      "opinion": 0.62,
-      "profile-interview": 0.17,
-      "tribute": 0.01,
-      "listing": 0.01,
-      "event-report": 0.05,
-      "event-preview": 0.77,
-      "press-release": 0.14,
-      "digest": 0.06,
-      "photo-gallery": 0.07,
-      "ride-report": 0.03,
-      "history": 0.03,
-      "rumor": 0.03,
-      "safety-notice": 0.03,
-      "episode": 0.06,
-      "build-feature": 0.02,
-      "q-and-a": 0.14
+      "news": 0.28,
+      "review": 0.14,
+      "comparison-test": 0.11,
+      "first-look": 0.59,
+      "ranked-list": 0.2,
+      "buyers-guide": 0.25,
+      "how-to": 0.05,
+      "explainer": 0.21,
+      "opinion": 0.86,
+      "profile-interview": 0.1,
+      "tribute": 0.02,
+      "listing": 0.05,
+      "event-report": 0.04,
+      "event-preview": 0.03,
+      "press-release": 0.49,
+      "digest": 0.08,
+      "photo-gallery": 0.16,
+      "ride-report": 0.11,
+      "history": 0.02,
+      "rumor": 0.28,
+      "safety-notice": 0.02,
+      "episode": 0.07,
+      "build-feature": 0.03,
+      "q-and-a": 0.05
     },
-    "multi_subject": 0.05,
+    "multi_subject": 0.08,
     "tags": [
-      "adventure",
+      "electric",
       "dirt-mx",
-      "racing",
-      "events-rides",
-      "adv-events-competitions"
+      "new-models"
     ],
-    "also": [
-      {
-        "source": "Visordown",
-        "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
-        "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
-        "published": "2026-09-21T13:22:28+00:00"
-      }
-    ]
+    "also": []
   },
   {
     "id": "f964924957b999fa1ef09f403a50783d9afafd3e",
@@ -29357,6 +29417,102 @@
       "motocross-supercross"
     ],
     "also": []
+  },
+  {
+    "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
+    "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
+    "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
+    "lang": "en",
+    "source": "RideApart",
+    "ownership": "commercial",
+    "media": "article",
+    "author": null,
+    "published": "2026-09-23T11:22:00+00:00",
+    "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
+    "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "adventure",
+        "label": "Adventure"
+      },
+      {
+        "slug": "dirt-mx",
+        "label": "MX & Dirt"
+      },
+      {
+        "slug": "racing",
+        "label": "Racing"
+      },
+      {
+        "slug": "events-rides",
+        "label": "Events & Rides"
+      }
+    ],
+    "primary": "adventure",
+    "confident": true,
+    "cat_scores": {
+      "adventure": 0.91,
+      "dirt-mx": 0.84,
+      "racing": 0.76,
+      "events-rides": 0.62,
+      "adv-events-competitions": 0.98
+    },
+    "subcategories": [
+      {
+        "slug": "adv-events-competitions",
+        "label": "ADV Events & Competitions",
+        "parent": "adventure"
+      }
+    ],
+    "forms": [
+      {
+        "slug": "event-preview",
+        "label": "Event Preview"
+      }
+    ],
+    "form_scores": {
+      "news": 0.43,
+      "review": 0.01,
+      "comparison-test": 0.02,
+      "first-look": 0.02,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.03,
+      "how-to": 0.02,
+      "explainer": 0.1,
+      "opinion": 0.62,
+      "profile-interview": 0.17,
+      "tribute": 0.01,
+      "listing": 0.01,
+      "event-report": 0.05,
+      "event-preview": 0.77,
+      "press-release": 0.14,
+      "digest": 0.06,
+      "photo-gallery": 0.07,
+      "ride-report": 0.03,
+      "history": 0.03,
+      "rumor": 0.03,
+      "safety-notice": 0.03,
+      "episode": 0.06,
+      "build-feature": 0.02,
+      "q-and-a": 0.14
+    },
+    "multi_subject": 0.05,
+    "tags": [
+      "adventure",
+      "dirt-mx",
+      "racing",
+      "events-rides",
+      "adv-events-competitions"
+    ],
+    "also": [
+      {
+        "source": "Visordown",
+        "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
+        "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
+        "published": "2026-09-21T13:22:28+00:00"
+      }
+    ]
   },
   {
     "id": "1f9fe84de60a071a44309e9e1cab4e9160d2f26b",
@@ -49777,6 +49933,75 @@
       "classic",
       "for-sale",
       "dirt-mx"
+    ],
+    "also": []
+  },
+  {
+    "id": "56b0946a22e90119b336279a38f92cd31e613362",
+    "title": "2024 Harley-Davidson Road Glide",
+    "link": "https://bringatrailer.com/listing/2024-harley-davidson-road-glide-7",
+    "lang": "en",
+    "source": "Bring A Trailer (motorcycles)",
+    "ownership": "commercial",
+    "media": "article",
+    "author": "bringatrailer",
+    "published": "2026-09-14T19:58:14+00:00",
+    "excerpt": "This 2024 Harley-Davidson Road Glide was purchased new by the seller who has ridden it 1,400 miles and has modified it with Rockford Fosgate Speakers, an amplifier, a chopped Tour-Pak, CFR slip-on mufflers, and highway pegs. It is finished in Blue Burst and is powered by a 117ci ",
+    "image": "https://bringatrailer.com/wp-content/uploads/2026/09/DSC01167-scaled-copy-2026-09-22-kby-21280.jpg?w=940",
+    "audio": null,
+    "categories": [
+      {
+        "slug": "for-sale",
+        "label": "For Sale"
+      },
+      {
+        "slug": "cruisers",
+        "label": "Cruisers"
+      }
+    ],
+    "primary": "for-sale",
+    "confident": true,
+    "cat_scores": {
+      "for-sale": 0.98,
+      "cruisers": 0.96
+    },
+    "subcategories": [],
+    "forms": [
+      {
+        "slug": "listing",
+        "label": "Listing"
+      }
+    ],
+    "form_scores": {
+      "news": 0.05,
+      "review": 0.19,
+      "comparison-test": 0.02,
+      "first-look": 0.04,
+      "ranked-list": 0.02,
+      "buyers-guide": 0.41,
+      "how-to": 0.02,
+      "explainer": 0.06,
+      "opinion": 0.03,
+      "profile-interview": 0.02,
+      "tribute": 0.01,
+      "listing": 0.97,
+      "event-report": 0.01,
+      "event-preview": 0.01,
+      "press-release": 0.06,
+      "digest": 0.04,
+      "photo-gallery": 0.07,
+      "ride-report": 0.02,
+      "history": 0.03,
+      "rumor": 0.02,
+      "safety-notice": 0.02,
+      "episode": 0.05,
+      "build-feature": 0.1,
+      "q-and-a": 0.02
+    },
+    "multi_subject": 0.03,
+    "tags": [
+      "for-sale",
+      "cruisers"
     ],
     "also": []
   },

@@ -90,6 +90,75 @@
       "also": []
     },
     {
+      "id": "df9df8c8f38b412c6212e2069cec719a22470986",
+      "title": "PROJECT MEGA: Royal Enfield Bear by Black Cycles.",
+      "link": "https://pipeburn.com/royal-enfield-bear-black-cycles",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Hawwa",
+      "published": "2026-09-24T22:33:53+00:00",
+      "excerpt": "The line between custom motorcycle building and art has always been difficult to define. Art is free to exist simply to provoke a reaction, while a motorcycle still must carry its rider, manoeuvre, stop and survive road conditions. But every so often, a builder creates a machine ",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/Royal-Enfield-Bear-650-Black-cycles-11-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "cruisers": 0.58
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.2,
+        "review": 0.24,
+        "comparison-test": 0.03,
+        "first-look": 0.28,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.22,
+        "opinion": 0.34,
+        "profile-interview": 0.74,
+        "tribute": 0.05,
+        "listing": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.17,
+        "digest": 0.07,
+        "photo-gallery": 0.21,
+        "ride-report": 0.04,
+        "history": 0.09,
+        "rumor": 0.08,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.92,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "cruisers"
+      ],
+      "also": []
+    },
+    {
       "id": "ab2cb44e7f9548235ed89f0702137c9521d5e7ce",
       "title": "Slow Burn: 7,000 hours of heavy metal inspired by Hetfield\u2019s Auburn",
       "link": "https://www.mcnews.com.au/game-over-cycles-slow-burn-custom-motorcycle",
@@ -251,17 +320,17 @@
       ]
     },
     {
-      "id": "df9df8c8f38b412c6212e2069cec719a22470986",
-      "title": "PROJECT MEGA: Royal Enfield Bear by Black Cycles.",
-      "link": "https://pipeburn.com/royal-enfield-bear-black-cycles",
+      "id": "4043f072519b721ac9e400e263b5aab98100148f",
+      "title": "Throwback Thursday\u2014Trail Breaker: K-Speed Mods the Newest (and Littlest) XSR",
+      "link": "https://www.bikeexif.com/throwback-thursday-trail-breaker-k-speed-mods-the-newest-and-littlest-xsr",
       "lang": "en",
-      "source": "Pipeburn",
+      "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Mark Hawwa",
-      "published": "2026-09-24T22:33:53+00:00",
-      "excerpt": "The line between custom motorcycle building and art has always been difficult to define. Art is free to exist simply to provoke a reaction, while a motorcycle still must carry its rider, manoeuvre, stop and survive road conditions. But every so often, a builder creates a machine ",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/Royal-Enfield-Bear-650-Black-cycles-11-2.jpg",
+      "author": "Iron Air",
+      "published": "2026-10-01T19:46:00+00:00",
+      "excerpt": "Based in a country where sub-250cc bikes rule, it\u2019s no surprise that K-Speed has...",
+      "image": "https://images.bikeexif.com/2019/09/_1200x675_crop_center-center_82_line/yamaha-xsr155-scrambler.jpg",
       "audio": null,
       "categories": [
         {
@@ -269,17 +338,24 @@
           "label": "Custom"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94,
-        "cruisers": 0.58
+        "custom": 0.9,
+        "new-models": 0.69,
+        "scramblers": 0.7
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        }
+      ],
       "forms": [
         {
           "slug": "build-feature",
@@ -287,35 +363,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.2,
-        "review": 0.24,
-        "comparison-test": 0.03,
-        "first-look": 0.28,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.22,
-        "opinion": 0.34,
-        "profile-interview": 0.74,
-        "tribute": 0.05,
-        "listing": 0.07,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.17,
-        "digest": 0.07,
-        "photo-gallery": 0.21,
-        "ride-report": 0.04,
-        "history": 0.09,
-        "rumor": 0.08,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.92,
-        "q-and-a": 0.02
+        "news": 0.21,
+        "review": 0.61,
+        "comparison-test": 0.06,
+        "first-look": 0.45,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.19,
+        "how-to": 0.11,
+        "explainer": 0.31,
+        "opinion": 0.21,
+        "profile-interview": 0.58,
+        "tribute": 0.16,
+        "listing": 0.08,
+        "event-report": 0.06,
+        "event-preview": 0.04,
+        "press-release": 0.32,
+        "digest": 0.1,
+        "photo-gallery": 0.28,
+        "ride-report": 0.06,
+        "history": 0.4,
+        "rumor": 0.15,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.82,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "custom",
-        "cruisers"
+        "new-models",
+        "scramblers"
       ],
       "also": []
     },
@@ -391,75 +468,6 @@
         "dirt-mx",
         "custom",
         "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
-      "title": "BMW R100 by Bolt Motor Company.",
-      "link": "https://pipeburn.com/bmw-r100-bolt",
-      "lang": "en",
-      "source": "Pipeburn",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Martin Hodgson",
-      "published": "2026-09-21T10:46:21+00:00",
-      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
-      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.94,
-        "classic": 0.8
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.15,
-        "review": 0.22,
-        "comparison-test": 0.02,
-        "first-look": 0.13,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.12,
-        "profile-interview": 0.57,
-        "tribute": 0.03,
-        "listing": 0.09,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.2,
-        "digest": 0.08,
-        "photo-gallery": 0.16,
-        "ride-report": 0.04,
-        "history": 0.22,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.9,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "custom",
-        "classic"
       ],
       "also": []
     },
@@ -691,6 +699,75 @@
       "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
+        "custom",
+        "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "1ee43168cfaa9eb340a657cf9fd94fcb1ade2774",
+      "title": "BMW R100 by Bolt Motor Company.",
+      "link": "https://pipeburn.com/bmw-r100-bolt",
+      "lang": "en",
+      "source": "Pipeburn",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Martin Hodgson",
+      "published": "2026-09-21T10:46:21+00:00",
+      "excerpt": "Most custom motorcycles, all things going well, are built once, which seems entirely reasonable when you consider how much time, money and swearing is involved. But when this BMW R100 arrived at Bolt Motor Company in Valencia, it wasn\u2019t a motorcycle at all; it was a collection of",
+      "image": "https://pipeburn.com/wp-content/uploads/2026/09/BMW-R100R-20.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94,
+        "classic": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.22,
+        "comparison-test": 0.02,
+        "first-look": 0.13,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.12,
+        "profile-interview": 0.57,
+        "tribute": 0.03,
+        "listing": 0.09,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.2,
+        "digest": 0.08,
+        "photo-gallery": 0.16,
+        "ride-report": 0.04,
+        "history": 0.22,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.9,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
         "custom",
         "classic"
       ],

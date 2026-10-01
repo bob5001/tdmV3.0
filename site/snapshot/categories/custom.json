@@ -11,7 +11,7 @@
     {
       "slug": "scramblers",
       "label": "Scramblers",
-      "count": 8
+      "count": 9
     },
     {
       "slug": "bobbers-choppers",
@@ -436,65 +436,79 @@
       "also": []
     },
     {
-      "id": "886d67d873b233368de29e386c171aed893078c8",
-      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
-      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
+      "id": "4043f072519b721ac9e400e263b5aab98100148f",
+      "title": "Throwback Thursday\u2014Trail Breaker: K-Speed Mods the Newest (and Littlest) XSR",
+      "link": "https://www.bikeexif.com/throwback-thursday-trail-breaker-k-speed-mods-the-newest-and-littlest-xsr",
       "lang": "en",
       "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-28T18:00:00+00:00",
-      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
-      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
+      "author": "Iron Air",
+      "published": "2026-10-01T19:46:00+00:00",
+      "excerpt": "Based in a country where sub-250cc bikes rule, it\u2019s no surprise that K-Speed has...",
+      "image": "https://images.bikeexif.com/2019/09/_1200x675_crop_center-center_82_line/yamaha-xsr155-scrambler.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "custom",
           "label": "Custom"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.92
+        "custom": 0.9,
+        "new-models": 0.69,
+        "scramblers": 0.7
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "scramblers",
+          "label": "Scramblers",
+          "parent": "custom"
+        }
+      ],
       "forms": [
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
+          "slug": "build-feature",
+          "label": "Build Feature"
         }
       ],
       "form_scores": {
-        "news": 0.1,
-        "review": 0.03,
-        "comparison-test": 0.48,
-        "first-look": 0.07,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.16,
-        "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.56,
-        "profile-interview": 0.08,
-        "tribute": 0.06,
-        "listing": 0.03,
-        "event-report": 0.08,
-        "event-preview": 0.03,
-        "press-release": 0.09,
-        "digest": 0.13,
-        "photo-gallery": 0.27,
-        "ride-report": 0.04,
-        "history": 0.22,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
+        "news": 0.21,
+        "review": 0.61,
+        "comparison-test": 0.06,
+        "first-look": 0.45,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.19,
+        "how-to": 0.11,
+        "explainer": 0.31,
+        "opinion": 0.21,
+        "profile-interview": 0.58,
+        "tribute": 0.16,
+        "listing": 0.08,
+        "event-report": 0.06,
+        "event-preview": 0.04,
+        "press-release": 0.32,
+        "digest": 0.1,
+        "photo-gallery": 0.28,
+        "ride-report": 0.06,
+        "history": 0.4,
+        "rumor": 0.15,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.82,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.44,
+      "multi_subject": 0.07,
       "tags": [
-        "custom"
+        "custom",
+        "new-models",
+        "scramblers"
       ],
       "also": []
     },
@@ -741,6 +755,69 @@
       "also": []
     },
     {
+      "id": "886d67d873b233368de29e386c171aed893078c8",
+      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
+      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Tom Gosselin",
+      "published": "2026-09-28T18:00:00+00:00",
+      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
+      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.92
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.03,
+        "comparison-test": 0.48,
+        "first-look": 0.07,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.16,
+        "how-to": 0.04,
+        "explainer": 0.15,
+        "opinion": 0.56,
+        "profile-interview": 0.08,
+        "tribute": 0.06,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.03,
+        "press-release": 0.09,
+        "digest": 0.13,
+        "photo-gallery": 0.27,
+        "ride-report": 0.04,
+        "history": 0.22,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.44,
+      "tags": [
+        "custom"
+      ],
+      "also": []
+    },
+    {
       "id": "99effd71492b997a61fb272cea1b77049204f83f",
       "title": "FOR SALE: 1981 Honda CX500 Custom Cafe Racer",
       "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1981-honda-cx500-custom-cafe-racer",
@@ -827,81 +904,6 @@
         "classic",
         "cafe-racers",
         "restomods"
-      ],
-      "also": []
-    },
-    {
-      "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
-      "title": "For Hooligans Only: Max Hazan's KTM 1190 Adventure R supermoto",
-      "link": "https://www.bikeexif.com/ktm-1190-adventure-r-max-hazan-2",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Wesley Reyneke",
-      "published": "2026-09-26T18:00:00+00:00",
-      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
-      "image": "https://images.bikeexif.com/2023/10/_1200x675_crop_center-center_82_line/ktm-1190-adventure-r-max-hazan.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.95,
-        "custom": 0.85,
-        "adventure": 0.72
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "build-feature",
-          "label": "Build Feature"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.56,
-        "comparison-test": 0.05,
-        "first-look": 0.13,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.11,
-        "how-to": 0.09,
-        "explainer": 0.19,
-        "opinion": 0.34,
-        "profile-interview": 0.48,
-        "tribute": 0.07,
-        "listing": 0.12,
-        "event-report": 0.08,
-        "event-preview": 0.04,
-        "press-release": 0.08,
-        "digest": 0.16,
-        "photo-gallery": 0.32,
-        "ride-report": 0.14,
-        "history": 0.17,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.89,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "dirt-mx",
-        "custom",
-        "adventure"
       ],
       "also": []
     },
@@ -1256,6 +1258,81 @@
         "custom",
         "for-sale",
         "cafe-racers"
+      ],
+      "also": []
+    },
+    {
+      "id": "7d47da8881ccf58e24e9fc068e04eeae96b4a36c",
+      "title": "For Hooligans Only: Max Hazan's KTM 1190 Adventure R supermoto",
+      "link": "https://www.bikeexif.com/ktm-1190-adventure-r-max-hazan-2",
+      "lang": "en",
+      "source": "BIKE EXIF",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Wesley Reyneke",
+      "published": "2026-09-26T18:00:00+00:00",
+      "excerpt": "Whether you're a new reader or just missed it the first time around, we\u2019re diggi...",
+      "image": "https://images.bikeexif.com/2023/10/_1200x675_crop_center-center_82_line/ktm-1190-adventure-r-max-hazan.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.95,
+        "custom": 0.85,
+        "adventure": 0.72
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.56,
+        "comparison-test": 0.05,
+        "first-look": 0.13,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.11,
+        "how-to": 0.09,
+        "explainer": 0.19,
+        "opinion": 0.34,
+        "profile-interview": 0.48,
+        "tribute": 0.07,
+        "listing": 0.12,
+        "event-report": 0.08,
+        "event-preview": 0.04,
+        "press-release": 0.08,
+        "digest": 0.16,
+        "photo-gallery": 0.32,
+        "ride-report": 0.14,
+        "history": 0.17,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.89,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "custom",
+        "adventure"
       ],
       "also": []
     },
