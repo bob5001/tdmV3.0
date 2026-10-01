@@ -16,7 +16,7 @@
     {
       "slug": "adv-events-competitions",
       "label": "ADV Events & Competitions",
-      "count": 15
+      "count": 16
     }
   ],
   "items": [
@@ -275,29 +275,34 @@
       ]
     },
     {
-      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
-      "title": "One RTW Record Attempt Ends, Another Begins!",
-      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
+      "id": "4c1ed4f1d6e1cadcec5d6673fe2581f381f9804e",
+      "title": "Trick Or Treat At Pikes Peak! Exit Tours\u2019 Final Trip For 2026 Takes You To The Clouds",
+      "link": "https://www.advrider.com/trick-or-treat-at-pikes-peak-exit-tours-final-trip-for-2026-takes-you-to-the-clouds",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-29T10:17:21+00:00",
-      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
+      "published": "2026-10-01T04:00:01+00:00",
+      "excerpt": "Exit Tours MC has announced its final run for 2026, and it looks like it should be a lot of fun. Over Halloween weekend, they\u2019re hitting the trails around Pikes Peak in their Trick or Treat Four-Day Backroads Adventure Quest. The trails and roads will take you through scenic and ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/EXIT-TOURS-450x330.jpg",
       "audio": null,
       "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
         {
           "slug": "adventure",
           "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.98,
-        "adv-events-competitions": 0.95
+        "events-rides": 0.98,
+        "adventure": 0.97,
+        "adv-events-competitions": 0.97
       },
       "subcategories": [
         {
@@ -308,38 +313,47 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.51,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.17,
-        "profile-interview": 0.09,
+        "news": 0.8,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.2,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
         "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.8,
-        "event-preview": 0.1,
-        "press-release": 0.13,
-        "digest": 0.11,
-        "photo-gallery": 0.04,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
         "ride-report": 0.03,
-        "history": 0.18,
-        "rumor": 0.03,
+        "history": 0.03,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.07,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.15,
+      "multi_subject": 0.04,
       "tags": [
+        "events-rides",
         "adventure",
         "adv-events-competitions"
       ],
@@ -423,83 +437,73 @@
       "also": []
     },
     {
-      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
-      "title": "Here\u2019s The Kove 350 Rally!",
-      "link": "https://www.advrider.com/heres-the-kove-350-rally",
+      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
+      "title": "One RTW Record Attempt Ends, Another Begins!",
+      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-29T09:35:05+00:00",
-      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
+      "published": "2026-09-29T10:17:21+00:00",
+      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "adventure",
           "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "new-models": 0.95,
-        "rally-lightweight-adv": 0.96
+        "adv-events-competitions": 0.95
       },
       "subcategories": [
         {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
           "parent": "adventure"
         }
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.8,
-        "review": 0.24,
-        "comparison-test": 0.05,
-        "first-look": 0.76,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.15,
+        "news": 0.51,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.24,
-        "opinion": 0.25,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.38,
-        "event-preview": 0.03,
-        "press-release": 0.57,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.42,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.17,
+        "profile-interview": 0.09,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.8,
+        "event-preview": 0.1,
+        "press-release": 0.13,
+        "digest": 0.11,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.18,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.15,
       "tags": [
         "adventure",
-        "new-models",
-        "rally-lightweight-adv"
+        "adv-events-competitions"
       ],
       "also": []
     },
@@ -668,75 +672,83 @@
       "also": []
     },
     {
-      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
-      "title": "SW-Motech PRO City WP Tankbag",
-      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
+      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
+      "title": "Here\u2019s The Kove 350 Rally!",
+      "link": "https://www.advrider.com/heres-the-kove-350-rally",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-28T07:46:24+00:00",
-      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
+      "published": "2026-09-29T09:35:05+00:00",
+      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.98,
-        "adventure": 0.93
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
         },
         {
-          "slug": "explainer",
-          "label": "Explainer"
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "new-models": 0.95,
+        "rally-lightweight-adv": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
         }
       ],
       "form_scores": {
-        "news": 0.05,
-        "review": 0.96,
-        "comparison-test": 0.04,
-        "first-look": 0.63,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.54,
-        "how-to": 0.1,
-        "explainer": 0.79,
-        "opinion": 0.3,
-        "profile-interview": 0.04,
+        "news": 0.8,
+        "review": 0.24,
+        "comparison-test": 0.05,
+        "first-look": 0.76,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.15,
+        "how-to": 0.02,
+        "explainer": 0.24,
+        "opinion": 0.25,
+        "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.03,
-        "event-report": 0.01,
-        "event-preview": 0.01,
-        "press-release": 0.11,
+        "event-report": 0.38,
+        "event-preview": 0.03,
+        "press-release": 0.57,
         "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.38,
-        "history": 0.03,
-        "rumor": 0.03,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.42,
         "safety-notice": 0.01,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "gear",
-        "adventure"
+        "adventure",
+        "new-models",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
@@ -1257,6 +1269,79 @@
       "also": []
     },
     {
+      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
+      "title": "SW-Motech PRO City WP Tankbag",
+      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-28T07:46:24+00:00",
+      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.98,
+        "adventure": 0.93
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.96,
+        "comparison-test": 0.04,
+        "first-look": 0.63,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.54,
+        "how-to": 0.1,
+        "explainer": 0.79,
+        "opinion": 0.3,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.11,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.38,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
       "id": "8d5f4b9a18acea67249665283ddefaac891afe81",
       "title": "LiveWire S4 Honcho Trail review",
       "link": "https://www.visordown.com/reviews/livewire-s4-honcho-trail-review",
@@ -1678,106 +1763,6 @@
       "also": []
     },
     {
-      "id": "d61d7c6125426815a2fbae917f879082426852cb",
-      "title": "Euro, German Teams Win At BMW GS Trophy",
-      "link": "https://www.advrider.com/euro-german-teams-win-at-bmw-gs-trophy",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-22T04:30:26+00:00",
-      "excerpt": "The BMW Motorrad International GS Trophy 2026 Romania has been decided, with the Euro team winning the female category and the German team winning the male category. It was a close-run thing, with the winning points earned on the final challenge of this year\u2019s competition. This y",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-GS-TROPHY-6-750x500.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.98,
-        "dirt-mx": 0.7,
-        "racing": 0.64,
-        "events-rides": 0.52,
-        "adv-events-competitions": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.05,
-        "comparison-test": 0.06,
-        "first-look": 0.03,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.06,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.03,
-        "press-release": 0.52,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.1,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "racing",
-        "events-rides",
-        "adv-events-competitions"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Six days, 1500 kilometres and a GS Trophy podium for Australia",
-          "link": "https://www.mcnews.com.au/2026-bmw-gs-trophy-romania-results",
-          "published": "2026-09-21T09:54:12+00:00"
-        }
-      ]
-    },
-    {
       "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
       "title": "KTM teases major off-road plans for EICMA 2026 in November",
       "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
@@ -1917,6 +1902,178 @@
       "also": []
     },
     {
+      "id": "d61d7c6125426815a2fbae917f879082426852cb",
+      "title": "Euro, German Teams Win At BMW GS Trophy",
+      "link": "https://www.advrider.com/euro-german-teams-win-at-bmw-gs-trophy",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-22T04:30:26+00:00",
+      "excerpt": "The BMW Motorrad International GS Trophy 2026 Romania has been decided, with the Euro team winning the female category and the German team winning the male category. It was a close-run thing, with the winning points earned on the final challenge of this year\u2019s competition. This y",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-GS-TROPHY-6-750x500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "dirt-mx": 0.7,
+        "racing": 0.64,
+        "events-rides": 0.52,
+        "adv-events-competitions": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.05,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.52,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "racing",
+        "events-rides",
+        "adv-events-competitions"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Six days, 1500 kilometres and a GS Trophy podium for Australia",
+          "link": "https://www.mcnews.com.au/2026-bmw-gs-trophy-romania-results",
+          "published": "2026-09-21T09:54:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": "88c2991a0b3a49cf3717621da563b3cea3263066",
+      "title": "CF MOTO 800MT-ES 1790597772000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/800mt-es/2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T12:15:59+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/439423/390x260/image_11_800mt-es.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.88,
+        "new-models": 0.82,
+        "rally-lightweight-adv": 0.74
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.52,
+        "review": 0.7,
+        "comparison-test": 0.14,
+        "first-look": 0.54,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.4,
+        "how-to": 0.12,
+        "explainer": 0.27,
+        "opinion": 0.16,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.45,
+        "event-report": 0.07,
+        "event-preview": 0.04,
+        "press-release": 0.6,
+        "digest": 0.1,
+        "photo-gallery": 0.22,
+        "ride-report": 0.13,
+        "history": 0.04,
+        "rumor": 0.48,
+        "safety-notice": 0.11,
+        "episode": 0.05,
+        "build-feature": 0.06,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "adventure",
+        "new-models",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
       "id": "7730525985976e2d3375e70a21ca05aca4caaf3f",
       "title": "KTM 690 Rally Pricing Announced For US, Canada",
       "link": "https://www.advrider.com/ktm-690-rally-pricing-announced-for-us-canada",
@@ -1998,160 +2155,6 @@
         "rally-lightweight-adv"
       ],
       "also": []
-    },
-    {
-      "id": "88c2991a0b3a49cf3717621da563b3cea3263066",
-      "title": "CF MOTO 800MT-ES 1790597772000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/cf-moto/800mt-es/2026",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T12:15:59+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/439423/390x260/image_11_800mt-es.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.88,
-        "new-models": 0.82,
-        "rally-lightweight-adv": 0.74
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.52,
-        "review": 0.7,
-        "comparison-test": 0.14,
-        "first-look": 0.54,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.4,
-        "how-to": 0.12,
-        "explainer": 0.27,
-        "opinion": 0.16,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.45,
-        "event-report": 0.07,
-        "event-preview": 0.04,
-        "press-release": 0.6,
-        "digest": 0.1,
-        "photo-gallery": 0.22,
-        "ride-report": 0.13,
-        "history": 0.04,
-        "rumor": 0.48,
-        "safety-notice": 0.11,
-        "episode": 0.05,
-        "build-feature": 0.06,
-        "q-and-a": 0.09
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "adventure",
-        "new-models",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "174021fec651999c58af4f03e1a19d3a61ce31cb",
-      "title": "GS Gets Naked: BMW Teases F 450 R Naked Bike",
-      "link": "https://www.advrider.com/gs-gets-naked-bmw-teases-f-450-r-naked-bike",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-25T06:18:27+00:00",
-      "excerpt": "Achtung! BMW wants you to know they have a new naked bike coming soon, and it\u2019s based off a platform we know about already. The BMW F 450 GS is shedding its ADV outfit and also getting new wheels, and will be repackaged soon as the F 450 R naked bike. See below! View this post on",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-F450-ENGINE.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "new-models",
-      "confident": false,
-      "cat_scores": {
-        "new-models": 0.84,
-        "adventure": 0.58
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.45,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.2,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.17,
-        "how-to": 0.02,
-        "explainer": 0.36,
-        "opinion": 0.18,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.16,
-        "press-release": 0.47,
-        "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.75,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models",
-        "adventure"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
-          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
-          "published": "2026-09-24T16:31:02+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "BMW F450 R parallel twin-cylinder naked teased",
-          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
-          "published": "2026-09-25T08:57:18+00:00"
-        }
-      ]
     },
     {
       "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
@@ -2306,6 +2309,88 @@
         "rally-lightweight-adv"
       ],
       "also": []
+    },
+    {
+      "id": "174021fec651999c58af4f03e1a19d3a61ce31cb",
+      "title": "GS Gets Naked: BMW Teases F 450 R Naked Bike",
+      "link": "https://www.advrider.com/gs-gets-naked-bmw-teases-f-450-r-naked-bike",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-25T06:18:27+00:00",
+      "excerpt": "Achtung! BMW wants you to know they have a new naked bike coming soon, and it\u2019s based off a platform we know about already. The BMW F 450 GS is shedding its ADV outfit and also getting new wheels, and will be repackaged soon as the F 450 R naked bike. See below! View this post on",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-F450-ENGINE.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "new-models",
+      "confident": false,
+      "cat_scores": {
+        "new-models": 0.84,
+        "adventure": 0.58
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.45,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.2,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.17,
+        "how-to": 0.02,
+        "explainer": 0.36,
+        "opinion": 0.18,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.16,
+        "press-release": 0.47,
+        "digest": 0.05,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.75,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "new-models",
+        "adventure"
+      ],
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
+          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
+          "published": "2026-09-24T16:31:02+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "BMW F450 R parallel twin-cylinder naked teased",
+          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
+          "published": "2026-09-25T08:57:18+00:00"
+        }
+      ]
     },
     {
       "id": "da93dd9609e33871a6e675a52a1dd540c012a853",
