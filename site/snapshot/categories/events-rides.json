@@ -82,17 +82,17 @@
       "also": []
     },
     {
-      "id": "83e754dab96e7889f15666139b3bc6565f49314f",
-      "title": "ONE RIDE 2026",
-      "link": "https://www.insidemotorcycles.com/one-ride-2026",
+      "id": "eeb8025ace6b6a458c170305f0543202e4c9e12e",
+      "title": "TMFF 2026 Starts Tonight!",
+      "link": "https://www.insidemotorcycles.com/tmff-2026-starts-tonight",
       "lang": "en",
       "source": "Inside Motorcycles",
       "ownership": "independent",
       "media": "article",
       "author": "Patrick Lambie",
-      "published": "2026-09-24T20:04:37+00:00",
-      "excerpt": "More than 150,000 riders across 60 countries came together on September 20th, as over 1,600 rides took place for One Ride, making the 2026 edition the largest of Royal Enfield\u2019s global riding initiative since its inception in 2011. In the company\u2019s 125th year, riders united acros",
-      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/FGM_8805P-scaled.jpg",
+      "published": "2026-10-01T14:47:24+00:00",
+      "excerpt": "We start at The Motor Pool Cafe with our 10th-anniversary Opening Party. If you have a Toronto ticket or Pass, you\u2019re in. Doors open to the party from 7 PM onwards. And yes, we\u2019re dressing up a little. Leather, tailoring, vintage moto, Mod, Rocker\u2026 take the cue and make it your o",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/10/Untitled-scaled.jpg",
       "audio": null,
       "categories": [
         {
@@ -103,61 +103,46 @@
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.98
+        "events-rides": 0.88
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.57,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
         "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.08,
-        "profile-interview": 0.1,
-        "tribute": 0.05,
-        "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.08,
-        "press-release": 0.85,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.96,
+        "press-release": 0.72,
         "digest": 0.09,
-        "photo-gallery": 0.11,
-        "ride-report": 0.07,
-        "history": 0.15,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "photo-gallery": 0.05,
+        "ride-report": 0.04,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "events-rides"
       ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Nearly 2,000 Australian riders join Royal Enfield\u2019s biggest One Ride yet",
-          "link": "https://www.mcnews.com.au/royal-enfield-one-ride-2026-australia",
-          "published": "2026-09-22T23:23:22+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
@@ -387,6 +372,84 @@
         "racing"
       ],
       "also": []
+    },
+    {
+      "id": "83e754dab96e7889f15666139b3bc6565f49314f",
+      "title": "ONE RIDE 2026",
+      "link": "https://www.insidemotorcycles.com/one-ride-2026",
+      "lang": "en",
+      "source": "Inside Motorcycles",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Patrick Lambie",
+      "published": "2026-09-24T20:04:37+00:00",
+      "excerpt": "More than 150,000 riders across 60 countries came together on September 20th, as over 1,600 rides took place for One Ride, making the 2026 edition the largest of Royal Enfield\u2019s global riding initiative since its inception in 2011. In the company\u2019s 125th year, riders united acros",
+      "image": "https://www.insidemotorcycles.com/wp-content/uploads/2026/09/FGM_8805P-scaled.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.08,
+        "profile-interview": 0.1,
+        "tribute": 0.05,
+        "listing": 0.01,
+        "event-report": 0.88,
+        "event-preview": 0.08,
+        "press-release": 0.85,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.07,
+        "history": 0.15,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Nearly 2,000 Australian riders join Royal Enfield\u2019s biggest One Ride yet",
+          "link": "https://www.mcnews.com.au/royal-enfield-one-ride-2026-australia",
+          "published": "2026-09-22T23:23:22+00:00"
+        }
+      ]
     },
     {
       "id": "4c1ed4f1d6e1cadcec5d6673fe2581f381f9804e",
