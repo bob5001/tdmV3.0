@@ -2014,16 +2014,16 @@
       "also": []
     },
     {
-      "id": "835bfa1f0ae48f200da9354b34f4dd827c9007fe",
-      "title": "Josephine Bruno triumphs in Varano and leads Women\u2019s European Championship",
-      "link": "https://www.gpone.com/en/2026/09/29/wsbk/josephine-bruno-triumphs-in-varano-and-leads-womens-european-championship.html",
+      "id": "f1454e9c3f38605bc3f446871a82f00ea2f4f6d6",
+      "title": "Rins, available as a test rider: \u201cA race in 2027? I\u2019ll always be available.\u201d",
+      "link": "https://www.gpone.com/en/2026/10/01/motogp/rins-available-as-a-test-rider-a-race-in-2027-ill-always-be-available.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-29T13:00:18+00:00",
-      "excerpt": "\u201cJoy\u201d dominated the second to last round of the season and climbed to the top of the standings with a four-point lead over Elisabetta Monti, who finished second by three tenths of a second. Yvonne Cerpa Cuellar rounded out the podium.",
+      "author": "Daniela Piazza",
+      "published": "2026-10-01T10:05:54+00:00",
+      "excerpt": "\u201cI would've liked to try out the 850 and the new tires. If they offered me a race next year, I\u2019d consider it.\u201d",
       "image": null,
       "audio": null,
       "categories": [
@@ -2032,23 +2032,35 @@
           "label": "Racing"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "dirt-mx": 0.63,
-        "sport-bikes": 0.61,
-        "motocross-supercross": 0.56
+        "sport-bikes": 0.75,
+        "dirt-mx": 0.74,
+        "motogp": 0.89,
+        "worldsbk-superbike": 0.7,
+        "motocross-supercross": 0.73
       },
       "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        },
         {
           "slug": "motocross-supercross",
           "label": "Motocross & Supercross",
@@ -2057,45 +2069,43 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.03,
-        "comparison-test": 0.12,
-        "first-look": 0.02,
-        "ranked-list": 0.19,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.06,
-        "press-release": 0.14,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.12,
-        "rumor": 0.01,
+        "news": 0.43,
+        "review": 0.06,
+        "comparison-test": 0.07,
+        "first-look": 0.16,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.1,
+        "profile-interview": 0.9,
+        "tribute": 0.03,
+        "listing": 0.05,
+        "event-report": 0.05,
+        "event-preview": 0.15,
+        "press-release": 0.17,
+        "digest": 0.14,
+        "photo-gallery": 0.08,
+        "ride-report": 0.05,
+        "history": 0.05,
+        "rumor": 0.11,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.09
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
         "racing",
-        "dirt-mx",
         "sport-bikes",
+        "dirt-mx",
+        "motogp",
+        "worldsbk-superbike",
         "motocross-supercross"
       ],
       "also": []
@@ -2572,16 +2582,16 @@
       "also": []
     },
     {
-      "id": "4daac84e4f8f4aa62445daf9a3b0434b21869484",
-      "title": "Torres: \u201cI was in danger of not racing this year; this is the beginning of a great story\u201d",
-      "link": "https://www.gpone.com/en/2026/09/23/civ/torres-i-was-in-danger-of-not-racing-this-year-this-is-the-beginning-of-a-great-story.html",
+      "id": "835bfa1f0ae48f200da9354b34f4dd827c9007fe",
+      "title": "Josephine Bruno triumphs in Varano and leads Women\u2019s European Championship",
+      "link": "https://www.gpone.com/en/2026/09/29/wsbk/josephine-bruno-triumphs-in-varano-and-leads-womens-european-championship.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-23T07:51:03+00:00",
-      "excerpt": "The new V2 Future Champ winner speaks out: \u201cI don\u2019t come from a wealthy family; we don\u2019t have 200,000 euros to spend. If Pirro hadn\u2019t offered me a test, I would have kept working. The secret to the Spaniards\u2019 success? Their mindset.\u201d",
+      "author": "GPOne",
+      "published": "2026-09-29T13:00:18+00:00",
+      "excerpt": "\u201cJoy\u201d dominated the second to last round of the season and climbed to the top of the standings with a four-point lead over Elisabetta Monti, who finished second by three tenths of a second. Yvonne Cerpa Cuellar rounded out the podium.",
       "image": null,
       "audio": null,
       "categories": [
@@ -2602,23 +2612,11 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "dirt-mx": 0.54,
-        "sport-bikes": 0.5,
-        "motogp": 0.75,
-        "worldsbk-superbike": 0.51,
-        "motocross-supercross": 0.55
+        "dirt-mx": 0.63,
+        "sport-bikes": 0.61,
+        "motocross-supercross": 0.56
       },
       "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        },
         {
           "slug": "motocross-supercross",
           "label": "Motocross & Supercross",
@@ -2627,43 +2625,45 @@
       ],
       "forms": [
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.56,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
+        "news": 0.9,
+        "review": 0.03,
+        "comparison-test": 0.12,
+        "first-look": 0.02,
+        "ranked-list": 0.19,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.12,
-        "opinion": 0.28,
-        "profile-interview": 0.95,
-        "tribute": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.65,
-        "event-preview": 0.07,
-        "press-release": 0.12,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.05,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.06
+        "event-report": 0.97,
+        "event-preview": 0.06,
+        "press-release": 0.14,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.12,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "dirt-mx",
         "sport-bikes",
-        "motogp",
-        "worldsbk-superbike",
         "motocross-supercross"
       ],
       "also": []
@@ -3189,6 +3189,103 @@
       "tags": [
         "dirt-mx",
         "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "4daac84e4f8f4aa62445daf9a3b0434b21869484",
+      "title": "Torres: \u201cI was in danger of not racing this year; this is the beginning of a great story\u201d",
+      "link": "https://www.gpone.com/en/2026/09/23/civ/torres-i-was-in-danger-of-not-racing-this-year-this-is-the-beginning-of-a-great-story.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-09-23T07:51:03+00:00",
+      "excerpt": "The new V2 Future Champ winner speaks out: \u201cI don\u2019t come from a wealthy family; we don\u2019t have 200,000 euros to spend. If Pirro hadn\u2019t offered me a test, I would have kept working. The secret to the Spaniards\u2019 success? Their mindset.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "dirt-mx": 0.54,
+        "sport-bikes": 0.5,
+        "motogp": 0.75,
+        "worldsbk-superbike": 0.51,
+        "motocross-supercross": 0.55
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        },
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.56,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.12,
+        "opinion": 0.28,
+        "profile-interview": 0.95,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.65,
+        "event-preview": 0.07,
+        "press-release": 0.12,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.05,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "dirt-mx",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike",
         "motocross-supercross"
       ],
       "also": []
@@ -5909,87 +6006,6 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.09,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "327e3f433b9a6c1dc881d633cb88385af7d02791",
-      "title": "Fly Racing Racer X LA SMX Review",
-      "link": "https://dirtrider.net/fly-racing-racer-x-la-smx-review",
-      "lang": "en",
-      "source": "DirtRider",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "PulpMX",
-      "published": "2026-09-21T05:24:25+00:00",
-      "excerpt": "Weege, Matthes and Matthes get together to talk about the 2nd round of SMX in LA, the nutty second 450 main, Deegs vs Webb, Roczen\u2019s fade, Prado\u2019s win, the 250SMX class, new Feld media rules and more. Thanks to Fly Racing, use the code Pulpmx to save there, Renthal, Maxxis, Race ",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.17,
-        "review": 0.07,
-        "comparison-test": 0.07,
-        "first-look": 0.04,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.12,
-        "how-to": 0.04,
-        "explainer": 0.11,
-        "opinion": 0.7,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.96,
-        "event-preview": 0.05,
-        "press-release": 0.11,
-        "digest": 0.24,
-        "photo-gallery": 0.09,
-        "ride-report": 0.05,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.04,
-        "episode": 0.82,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.74,
       "tags": [
         "dirt-mx",
         "racing",
@@ -9789,6 +9805,87 @@
         "q-and-a": 0.12
       },
       "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "327e3f433b9a6c1dc881d633cb88385af7d02791",
+      "title": "Fly Racing Racer X LA SMX Review",
+      "link": "https://dirtrider.net/fly-racing-racer-x-la-smx-review",
+      "lang": "en",
+      "source": "DirtRider",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "PulpMX",
+      "published": "2026-09-21T05:24:25+00:00",
+      "excerpt": "Weege, Matthes and Matthes get together to talk about the 2nd round of SMX in LA, the nutty second 450 main, Deegs vs Webb, Roczen\u2019s fade, Prado\u2019s win, the 250SMX class, new Feld media rules and more. Thanks to Fly Racing, use the code Pulpmx to save there, Renthal, Maxxis, Race ",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.94,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.17,
+        "review": 0.07,
+        "comparison-test": 0.07,
+        "first-look": 0.04,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.12,
+        "how-to": 0.04,
+        "explainer": 0.11,
+        "opinion": 0.7,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.96,
+        "event-preview": 0.05,
+        "press-release": 0.11,
+        "digest": 0.24,
+        "photo-gallery": 0.09,
+        "ride-report": 0.05,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.04,
+        "episode": 0.82,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.74,
       "tags": [
         "dirt-mx",
         "racing",
