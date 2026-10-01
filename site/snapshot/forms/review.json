@@ -3,69 +3,91 @@
   "label": "Review",
   "items": [
     {
-      "id": "f46c5f7758f058102e7eef7ef7efab24da4e5829",
-      "title": "I Got A Hands-On Look At Cardo's New Noise-Cancelling Motorcycle Helmet. What Do You Want To Know?",
-      "link": "https://www.rideapart.com/news/810078/cardo-beyond-gts-motorcycle-helmet-anc-hands-on-first-look",
+      "id": "8d5f4b9a18acea67249665283ddefaac891afe81",
+      "title": "LiveWire S4 Honcho Trail review",
+      "link": "https://www.visordown.com/reviews/livewire-s4-honcho-trail-review",
       "lang": "en",
-      "source": "RideApart",
+      "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T11:00:00+00:00",
-      "excerpt": "This is a pre-production unit, and Cardo says it's currently refining the finished production version before a full public release.",
-      "image": "https://cdn.motor1.com/images/mgl/QeGvO0/s3/cardo-beyond-gts-helmet---pre-production-test-ride.jpg",
+      "published": "2026-09-30T16:28:28+00:00",
+      "excerpt": "The LiveWire S4 Honcho Trail is a tiny electric off-roader with 14.6bhp, 30Nm of torque, 73 miles of claimed range and a distinctly mischievous character.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/andrea_vailetti-97.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "gear",
+      "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "gear": 0.99
+        "electric": 0.97,
+        "dirt-mx": 0.91,
+        "new-models": 0.9,
+        "adventure": 0.79,
+        "rally-lightweight-adv": 0.65
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "first-look",
-          "label": "First Look"
-        },
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
         {
           "slug": "review",
           "label": "Review"
         }
       ],
       "form_scores": {
-        "news": 0.29,
-        "review": 0.84,
-        "comparison-test": 0.05,
-        "first-look": 0.91,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.19,
-        "how-to": 0.05,
-        "explainer": 0.4,
-        "opinion": 0.23,
-        "profile-interview": 0.18,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
+        "news": 0.07,
+        "review": 0.97,
+        "comparison-test": 0.07,
+        "first-look": 0.57,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.4,
+        "how-to": 0.06,
+        "explainer": 0.2,
+        "opinion": 0.47,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.05,
+        "event-report": 0.06,
         "event-preview": 0.03,
-        "press-release": 0.35,
-        "digest": 0.05,
-        "photo-gallery": 0.16,
-        "ride-report": 0.12,
-        "history": 0.02,
-        "rumor": 0.37,
+        "press-release": 0.15,
+        "digest": 0.08,
+        "photo-gallery": 0.11,
+        "ride-report": 0.36,
+        "history": 0.04,
+        "rumor": 0.05,
         "safety-notice": 0.02,
-        "episode": 0.09,
-        "build-feature": 0.02,
-        "q-and-a": 0.38
+        "episode": 0.06,
+        "build-feature": 0.09,
+        "q-and-a": 0.04
       },
       "multi_subject": 0.05,
       "tags": [
-        "gear"
+        "electric",
+        "dirt-mx",
+        "new-models",
+        "adventure",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
@@ -216,52 +238,35 @@
       "also": []
     },
     {
-      "id": "8d5f4b9a18acea67249665283ddefaac891afe81",
-      "title": "LiveWire S4 Honcho Trail review",
-      "link": "https://www.visordown.com/reviews/livewire-s4-honcho-trail-review",
+      "id": "fd085d03ebd7f6e1f93fe3b8419725800fcd69ff",
+      "title": "Here's The New Yamaha R2. But Is It The Droid You're Looking For?",
+      "link": "https://www.rideapart.com/news/810347/yamaha-yzf-r2-r2m-sportbike-launched",
       "lang": "en",
-      "source": "Visordown",
+      "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T16:28:28+00:00",
-      "excerpt": "The LiveWire S4 Honcho Trail is a tiny electric off-roader with 14.6bhp, 30Nm of torque, 73 miles of claimed range and a distinctly mischievous character.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/andrea_vailetti-97.jpg?width=1200",
+      "published": "2026-10-01T12:58:00+00:00",
+      "excerpt": "If you've been looking for a 200cc sportbike with an up-and-down quickshifter, the YZF-R2 may just fit the bill.",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ8R1/s3/yamaha-yzf-r2.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         },
         {
           "slug": "new-models",
           "label": "New Models"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
         }
       ],
-      "primary": "electric",
+      "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97,
-        "dirt-mx": 0.91,
-        "new-models": 0.9,
-        "adventure": 0.79,
-        "rally-lightweight-adv": 0.65
+        "sport-bikes": 0.91,
+        "new-models": 0.89
       },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "review",
@@ -269,38 +274,35 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
-        "review": 0.97,
-        "comparison-test": 0.07,
-        "first-look": 0.57,
+        "news": 0.45,
+        "review": 0.76,
+        "comparison-test": 0.09,
+        "first-look": 0.63,
         "ranked-list": 0.04,
-        "buyers-guide": 0.4,
+        "buyers-guide": 0.48,
         "how-to": 0.06,
-        "explainer": 0.2,
-        "opinion": 0.47,
-        "profile-interview": 0.05,
+        "explainer": 0.26,
+        "opinion": 0.53,
+        "profile-interview": 0.06,
         "tribute": 0.02,
-        "listing": 0.05,
-        "event-report": 0.06,
+        "listing": 0.03,
+        "event-report": 0.04,
         "event-preview": 0.03,
-        "press-release": 0.15,
-        "digest": 0.08,
-        "photo-gallery": 0.11,
-        "ride-report": 0.36,
+        "press-release": 0.37,
+        "digest": 0.07,
+        "photo-gallery": 0.14,
+        "ride-report": 0.07,
         "history": 0.04,
-        "rumor": 0.05,
+        "rumor": 0.25,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.09,
-        "q-and-a": 0.04
+        "episode": 0.09,
+        "build-feature": 0.03,
+        "q-and-a": 0.08
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
-        "electric",
-        "dirt-mx",
-        "new-models",
-        "adventure",
-        "rally-lightweight-adv"
+        "sport-bikes",
+        "new-models"
       ],
       "also": []
     },
@@ -554,6 +556,73 @@
       "also": []
     },
     {
+      "id": "f46c5f7758f058102e7eef7ef7efab24da4e5829",
+      "title": "I Got A Hands-On Look At Cardo's New Noise-Cancelling Motorcycle Helmet. What Do You Want To Know?",
+      "link": "https://www.rideapart.com/news/810078/cardo-beyond-gts-motorcycle-helmet-anc-hands-on-first-look",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T11:00:00+00:00",
+      "excerpt": "This is a pre-production unit, and Cardo says it's currently refining the finished production version before a full public release.",
+      "image": "https://cdn.motor1.com/images/mgl/QeGvO0/s3/cardo-beyond-gts-helmet---pre-production-test-ride.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.99
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        },
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.29,
+        "review": 0.84,
+        "comparison-test": 0.05,
+        "first-look": 0.91,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.19,
+        "how-to": 0.05,
+        "explainer": 0.4,
+        "opinion": 0.23,
+        "profile-interview": 0.18,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.35,
+        "digest": 0.05,
+        "photo-gallery": 0.16,
+        "ride-report": 0.12,
+        "history": 0.02,
+        "rumor": 0.37,
+        "safety-notice": 0.02,
+        "episode": 0.09,
+        "build-feature": 0.02,
+        "q-and-a": 0.38
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
       "id": "053a19ecadec1d2fc602c94e5697266a9057220b",
       "title": "MXA RETRO TEST: THE WEIRD & WILD 2010 YAMAHA YZ450F",
       "link": "https://motocrossactionmag.com/mxa-retro-test-the-weird-wild-2010-yamaha-yz450f",
@@ -629,86 +698,6 @@
         "new-models"
       ],
       "also": []
-    },
-    {
-      "id": "5ae3681395f7c3e34f91e563eee65c92683b9d62",
-      "title": "Royal Enfield Flying Flea C6 (2026) Review",
-      "link": "https://www.visordown.com/reviews/royal-enfield-flying-flea-c6-2026-review-road-test",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-21T07:00:00+00:00",
-      "excerpt": "We ride the \u00a35,300 Flying Flea C6 to see if Royal Enfield has cracked the lightweight electric motorcycle formula.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/ja_flying_flea_paris-7406-large_0.jpeg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "electric",
-      "confident": true,
-      "cat_scores": {
-        "electric": 0.97,
-        "new-models": 0.94
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        }
-      ],
-      "form_scores": {
-        "news": 0.09,
-        "review": 0.97,
-        "comparison-test": 0.07,
-        "first-look": 0.76,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.6,
-        "how-to": 0.05,
-        "explainer": 0.28,
-        "opinion": 0.41,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.04,
-        "event-report": 0.05,
-        "event-preview": 0.02,
-        "press-release": 0.15,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.55,
-        "history": 0.03,
-        "rumor": 0.18,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "electric",
-        "new-models"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "FLYING FLEA C6 1790266384000 (2026-on)",
-          "link": "https://www.motorcyclenews.com/bike-reviews/flying-flea/c6/2026",
-          "published": "2026-09-23T15:50:16+00:00"
-        }
-      ]
     },
     {
       "id": "35104eaf31f621232a5d1e0b9db6a5696a7a3a89",
@@ -1367,6 +1356,86 @@
         "gear"
       ],
       "also": []
+    },
+    {
+      "id": "5ae3681395f7c3e34f91e563eee65c92683b9d62",
+      "title": "Royal Enfield Flying Flea C6 (2026) Review",
+      "link": "https://www.visordown.com/reviews/royal-enfield-flying-flea-c6-2026-review-road-test",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T07:00:00+00:00",
+      "excerpt": "We ride the \u00a35,300 Flying Flea C6 to see if Royal Enfield has cracked the lightweight electric motorcycle formula.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/ja_flying_flea_paris-7406-large_0.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.97,
+        "new-models": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.09,
+        "review": 0.97,
+        "comparison-test": 0.07,
+        "first-look": 0.76,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.6,
+        "how-to": 0.05,
+        "explainer": 0.28,
+        "opinion": 0.41,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.02,
+        "press-release": 0.15,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.55,
+        "history": 0.03,
+        "rumor": 0.18,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "electric",
+        "new-models"
+      ],
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "FLYING FLEA C6 1790266384000 (2026-on)",
+          "link": "https://www.motorcyclenews.com/bike-reviews/flying-flea/c6/2026",
+          "published": "2026-09-23T15:50:16+00:00"
+        }
+      ]
     },
     {
       "id": "3b76404517da5eacc1d4bc355578b1db84482a31",

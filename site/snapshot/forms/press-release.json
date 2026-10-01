@@ -3323,35 +3323,42 @@
       ]
     },
     {
-      "id": "643a925edbbac19e54fe6df296772f1422854fae",
-      "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
-      "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T10:50:24+00:00",
-      "excerpt": "BSA has added two special edition flavours to its Gold Star 650, one of which celebrates the brand\u2019s racing heritage.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t115517.325.png?width=1200",
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "industry",
+          "label": "Industry & Business"
         },
         {
-          "slug": "classic",
-          "label": "Classic"
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "new-models",
-      "confident": false,
+      "primary": "industry",
+      "confident": true,
       "cat_scores": {
-        "new-models": 0.79,
-        "classic": 0.55
+        "industry": 0.92,
+        "racing": 0.82,
+        "motogp": 0.8
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -3363,35 +3370,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.12,
-        "comparison-test": 0.03,
-        "first-look": 0.17,
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.2,
-        "how-to": 0.02,
-        "explainer": 0.11,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
         "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.05,
-        "listing": 0.05,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.88,
-        "digest": 0.08,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.2,
+        "press-release": 0.81,
+        "digest": 0.14,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.03,
-        "build-feature": 0.05,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.13,
       "tags": [
-        "new-models",
-        "classic"
+        "industry",
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -3636,42 +3644,30 @@
       "also": []
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
+      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
+      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "published": "2026-09-26T08:30:00+00:00",
+      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "industry",
           "label": "Industry & Business"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
         }
       ],
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.92,
-        "racing": 0.82,
-        "motogp": 0.8
+        "industry": 0.98
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
@@ -3683,36 +3679,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
+        "news": 0.9,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
         "how-to": 0.01,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.19,
+        "tribute": 0.09,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.2,
-        "press-release": 0.81,
-        "digest": 0.14,
+        "event-report": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.76,
+        "digest": 0.1,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.07,
       "tags": [
-        "industry",
-        "racing",
-        "motogp"
+        "industry"
       ],
       "also": []
     },
@@ -3894,69 +3888,75 @@
       "also": []
     },
     {
-      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
-      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
-      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
+      "id": "2b955b2adb33606624883c92bf48b9694010a145",
+      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
+      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:30:00+00:00",
-      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
+      "published": "2026-09-25T09:55:34+00:00",
+      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
         }
       ],
-      "primary": "industry",
-      "confident": true,
+      "primary": "cruisers",
+      "confident": false,
       "cat_scores": {
-        "industry": 0.98
+        "cruisers": 0.71,
+        "electric": 0.51
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
+        "news": 0.91,
+        "review": 0.07,
         "comparison-test": 0.02,
-        "first-look": 0.02,
+        "first-look": 0.56,
         "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.19,
-        "tribute": 0.09,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.76,
-        "digest": 0.1,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.26,
+        "event-preview": 0.09,
+        "press-release": 0.93,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.22,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.01,
+        "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.04,
       "tags": [
-        "industry"
+        "cruisers",
+        "electric"
       ],
       "also": []
     },
@@ -4050,75 +4050,77 @@
       "also": []
     },
     {
-      "id": "2b955b2adb33606624883c92bf48b9694010a145",
-      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
-      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
+      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
+      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
+      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T09:55:34+00:00",
-      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
+      "published": "2026-09-22T07:04:58+00:00",
+      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "electric",
-          "label": "Electric"
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "cruisers",
-      "confident": false,
+      "primary": "adventure",
+      "confident": true,
       "cat_scores": {
-        "cruisers": 0.71,
-        "electric": 0.51
+        "adventure": 0.95,
+        "adventure-touring": 0.94
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
+          "slug": "adventure-touring",
+          "label": "Adventure Touring",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.07,
+        "news": 0.86,
+        "review": 0.11,
         "comparison-test": 0.02,
-        "first-look": 0.56,
+        "first-look": 0.19,
         "ranked-list": 0.02,
         "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.17,
+        "explainer": 0.09,
         "opinion": 0.05,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
+        "profile-interview": 0.09,
+        "tribute": 0.03,
         "listing": 0.03,
-        "event-report": 0.26,
-        "event-preview": 0.09,
-        "press-release": 0.93,
-        "digest": 0.08,
-        "photo-gallery": 0.14,
-        "ride-report": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.55,
+        "press-release": 0.8,
+        "digest": 0.06,
+        "photo-gallery": 0.2,
+        "ride-report": 0.03,
         "history": 0.04,
-        "rumor": 0.22,
+        "rumor": 0.12,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.37,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
-        "cruisers",
-        "electric"
+        "adventure",
+        "adventure-touring"
       ],
       "also": []
     },
@@ -4208,37 +4210,30 @@
       "also": []
     },
     {
-      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
-      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
-      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
+      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
+      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
+      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-22T07:04:58+00:00",
-      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
+      "published": "2026-09-22T06:04:14+00:00",
+      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
-      "primary": "adventure",
+      "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.95,
-        "adventure-touring": 0.94
+        "gear": 0.97
       },
-      "subcategories": [
-        {
-          "slug": "adventure-touring",
-          "label": "Adventure Touring",
-          "parent": "adventure"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
@@ -4250,35 +4245,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.86,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.19,
+        "news": 0.84,
+        "review": 0.69,
+        "comparison-test": 0.03,
+        "first-look": 0.36,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.09,
+        "buyers-guide": 0.31,
+        "how-to": 0.08,
+        "explainer": 0.52,
         "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.03,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.55,
-        "press-release": 0.8,
-        "digest": 0.06,
-        "photo-gallery": 0.2,
-        "ride-report": 0.03,
-        "history": 0.04,
-        "rumor": 0.12,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.06,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.84,
+        "digest": 0.09,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.11,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.37,
-        "q-and-a": 0.02
+        "build-feature": 0.02,
+        "q-and-a": 0.05
       },
       "multi_subject": 0.04,
       "tags": [
-        "adventure",
-        "adventure-touring"
+        "gear"
       ],
       "also": []
     },
@@ -4364,73 +4358,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
-      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
-      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T06:04:14+00:00",
-      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.69,
-        "comparison-test": 0.03,
-        "first-look": 0.36,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.31,
-        "how-to": 0.08,
-        "explainer": 0.52,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.84,
-        "digest": 0.09,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.11,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "gear"
       ],
       "also": []
     },

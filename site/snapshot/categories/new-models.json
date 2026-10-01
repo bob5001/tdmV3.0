@@ -557,6 +557,75 @@
       ]
     },
     {
+      "id": "fd085d03ebd7f6e1f93fe3b8419725800fcd69ff",
+      "title": "Here's The New Yamaha R2. But Is It The Droid You're Looking For?",
+      "link": "https://www.rideapart.com/news/810347/yamaha-yzf-r2-r2m-sportbike-launched",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T12:58:00+00:00",
+      "excerpt": "If you've been looking for a 200cc sportbike with an up-and-down quickshifter, the YZF-R2 may just fit the bill.",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ8R1/s3/yamaha-yzf-r2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.91,
+        "new-models": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        }
+      ],
+      "form_scores": {
+        "news": 0.45,
+        "review": 0.76,
+        "comparison-test": 0.09,
+        "first-look": 0.63,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.48,
+        "how-to": 0.06,
+        "explainer": 0.26,
+        "opinion": 0.53,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.37,
+        "digest": 0.07,
+        "photo-gallery": 0.14,
+        "ride-report": 0.07,
+        "history": 0.04,
+        "rumor": 0.25,
+        "safety-notice": 0.02,
+        "episode": 0.09,
+        "build-feature": 0.03,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "sport-bikes",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
       "id": "33de3670e82c43dda530e1cec17bb8189e275bb1",
       "title": "TRIUMPH ANNOUNCES 2027 RACE-PROVEN REFINEMENTS FOR WORLD CHAMPIONSHIP-WINNING TF 250-X",
       "link": "https://mxvice.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-ernee-copy",
@@ -1460,81 +1529,85 @@
       "also": []
     },
     {
-      "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
-      "title": "BMW Reveals Price of M 1000 RR Limited-Edition Isle of Man TT. It's Expensive",
-      "link": "https://www.rideapart.com/news/809942/bmw-reveals-price-of-m-1000-rr-limited-edition-isle-of-man-tt-and-how-to-buy-it-in-the-us",
+      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
+      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
+      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
       "lang": "en",
-      "source": "RideApart",
+      "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T14:02:00+00:00",
-      "excerpt": "BMW Motorrad just revealed that the M 1000 RR Limited-Edition Isle of Man TT will have a $50,000 MSRP, plus a destination fee. Here's how you can buy one.",
-      "image": "https://cdn.motor1.com/images/mgl/KbgOAG/s3/bmw-m-1000-rr-iom-tt.jpg",
+      "published": "2026-09-24T07:10:29+00:00",
+      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "adventure",
+          "label": "Adventure"
         },
         {
           "slug": "new-models",
           "label": "New Models"
         },
         {
-          "slug": "for-sale",
-          "label": "For Sale"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "sport-bikes",
+      "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "sport-bikes": 0.97,
-        "new-models": 0.8,
-        "for-sale": 0.58
+        "adventure": 0.97,
+        "new-models": 0.94,
+        "dirt-mx": 0.89,
+        "rally-lightweight-adv": 0.96
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.08,
-        "comparison-test": 0.02,
-        "first-look": 0.11,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.52,
-        "how-to": 0.2,
-        "explainer": 0.17,
-        "opinion": 0.09,
+        "news": 0.88,
+        "review": 0.19,
+        "comparison-test": 0.11,
+        "first-look": 0.24,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.32,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.1,
         "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.08,
-        "event-report": 0.05,
-        "event-preview": 0.07,
-        "press-release": 0.81,
-        "digest": 0.05,
-        "photo-gallery": 0.08,
+        "tribute": 0.01,
+        "listing": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.67,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.06,
+        "rumor": 0.17,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
-        "sport-bikes",
+        "adventure",
         "new-models",
-        "for-sale"
+        "dirt-mx",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
@@ -1785,303 +1858,6 @@
       ]
     },
     {
-      "id": "e004cf09c342750ada3a8c42ca8b18805abf82d3",
-      "title": "Voge Thinks The Future Of Motorcycles Is Something Cars Figured Out 15 Years Ago",
-      "link": "https://www.rideapart.com/news/809739/voge-cux-hybrid-motorcycle-concept-unveiled-at-cima",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-29T12:36:00+00:00",
-      "excerpt": "Kawasaki already gave us hybrid motorcycles. Voge wants to give us one you can actually plug into the wall.",
-      "image": "https://cdn.motor1.com/images/mgl/XBbYne/s3/voge-thinks-the-future-of-motorcycles-is-something-cars-figured-out-15-years-ago.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "electric",
-      "confident": false,
-      "cat_scores": {
-        "electric": 0.81,
-        "new-models": 0.63
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.42,
-        "review": 0.21,
-        "comparison-test": 0.08,
-        "first-look": 0.47,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.13,
-        "how-to": 0.04,
-        "explainer": 0.36,
-        "opinion": 0.69,
-        "profile-interview": 0.32,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.34,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.05,
-        "history": 0.04,
-        "rumor": 0.52,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "electric",
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
-      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
-      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T07:10:29+00:00",
-      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.97,
-        "new-models": 0.94,
-        "dirt-mx": 0.89,
-        "rally-lightweight-adv": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.19,
-        "comparison-test": 0.11,
-        "first-look": 0.24,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.32,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.1,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.05,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.67,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.17,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "new-models",
-        "dirt-mx",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
-      "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
-      "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-29T11:55:00+00:00",
-      "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
-      "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.93,
-        "new-models": 0.8,
-        "adventure-touring": 0.92
-      },
-      "subcategories": [
-        {
-          "slug": "adventure-touring",
-          "label": "Adventure Touring",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.21,
-        "review": 0.65,
-        "comparison-test": 0.03,
-        "first-look": 0.32,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.12,
-        "how-to": 0.03,
-        "explainer": 0.13,
-        "opinion": 0.92,
-        "profile-interview": 0.05,
-        "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.08,
-        "press-release": 0.16,
-        "digest": 0.06,
-        "photo-gallery": 0.18,
-        "ride-report": 0.06,
-        "history": 0.03,
-        "rumor": 0.32,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.08,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "new-models",
-        "adventure-touring"
-      ],
-      "also": []
-    },
-    {
-      "id": "643a925edbbac19e54fe6df296772f1422854fae",
-      "title": "BSA Gold Star 650 gets special edition Birmingham Blue and Brooklands Black colours",
-      "link": "https://www.visordown.com/news/bsa-gold-star-650-gets-special-edition-birmingham-blue-and-brooklands-black-colours",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-29T10:50:24+00:00",
-      "excerpt": "BSA has added two special edition flavours to its Gold Star 650, one of which celebrates the brand\u2019s racing heritage.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t115517.325.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "new-models",
-      "confident": false,
-      "cat_scores": {
-        "new-models": 0.79,
-        "classic": 0.55
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.12,
-        "comparison-test": 0.03,
-        "first-look": 0.17,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.2,
-        "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.05,
-        "listing": 0.05,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.88,
-        "digest": 0.08,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.05,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models",
-        "classic"
-      ],
-      "also": []
-    },
-    {
       "id": "161c8779662b0d48423e4805f19e415cc1723864",
       "title": "Honda CB500 price revealed in India: could the GB500S cost \u00a35,500 in the UK?",
       "link": "https://www.visordown.com/news/retro-honda-cb500-price-colours-revealed-india",
@@ -2136,6 +1912,222 @@
       "multi_subject": 0.05,
       "tags": [
         "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "bc2920ea79ad676577ee98f5f18a9599682512e9",
+      "title": "Ultraviolette Says It\u2019s Coming To America Next Year. Is This The Motorcycle It\u2019s Bringing?",
+      "link": "https://www.rideapart.com/news/810155/ultraviolette-100v-architecture-new-technology",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T12:12:00+00:00",
+      "excerpt": "The Shockwave just got a major electrical overhaul, and the timing lines up suspiciously well with Ultraviolette\u2019s US plans.",
+      "image": "https://cdn.motor1.com/images/mgl/2N4rPp/s3/ultraviolette-shockwave.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "electric",
+      "confident": true,
+      "cat_scores": {
+        "electric": 0.97,
+        "new-models": 0.6
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.26,
+        "review": 0.13,
+        "comparison-test": 0.04,
+        "first-look": 0.3,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.12,
+        "how-to": 0.04,
+        "explainer": 0.18,
+        "opinion": 0.41,
+        "profile-interview": 0.21,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.13,
+        "press-release": 0.3,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.71,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.1,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "electric",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
+      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
+      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T09:56:20+00:00",
+      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.85,
+        "new-models": 0.59
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.1,
+        "comparison-test": 0.03,
+        "first-look": 0.68,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.17,
+        "event-preview": 0.11,
+        "press-release": 0.44,
+        "digest": 0.07,
+        "photo-gallery": 0.27,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.76,
+        "safety-notice": 0.01,
+        "episode": 0.1,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "sport-bikes",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
+      "title": "BMW Reveals Price of M 1000 RR Limited-Edition Isle of Man TT. It's Expensive",
+      "link": "https://www.rideapart.com/news/809942/bmw-reveals-price-of-m-1000-rr-limited-edition-isle-of-man-tt-and-how-to-buy-it-in-the-us",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T14:02:00+00:00",
+      "excerpt": "BMW Motorrad just revealed that the M 1000 RR Limited-Edition Isle of Man TT will have a $50,000 MSRP, plus a destination fee. Here's how you can buy one.",
+      "image": "https://cdn.motor1.com/images/mgl/KbgOAG/s3/bmw-m-1000-rr-iom-tt.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.97,
+        "new-models": 0.8,
+        "for-sale": 0.58
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.52,
+        "how-to": 0.2,
+        "explainer": 0.17,
+        "opinion": 0.09,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.08,
+        "event-report": 0.05,
+        "event-preview": 0.07,
+        "press-release": 0.81,
+        "digest": 0.05,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "sport-bikes",
+        "new-models",
+        "for-sale"
       ],
       "also": []
     },
@@ -2295,62 +2287,57 @@
       ]
     },
     {
-      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
-      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
-      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
+      "id": "e004cf09c342750ada3a8c42ca8b18805abf82d3",
+      "title": "Voge Thinks The Future Of Motorcycles Is Something Cars Figured Out 15 Years Ago",
+      "link": "https://www.rideapart.com/news/809739/voge-cux-hybrid-motorcycle-concept-unveiled-at-cima",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T12:20:00+00:00",
-      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
-      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
+      "published": "2026-09-29T12:36:00+00:00",
+      "excerpt": "Kawasaki already gave us hybrid motorcycles. Voge wants to give us one you can actually plug into the wall.",
+      "image": "https://cdn.motor1.com/images/mgl/XBbYne/s3/voge-thinks-the-future-of-motorcycles-is-something-cars-figured-out-15-years-ago.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "electric",
+          "label": "Electric"
         },
         {
           "slug": "new-models",
           "label": "New Models"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
         }
       ],
-      "primary": "adventure",
+      "primary": "electric",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.82,
-        "new-models": 0.61,
-        "dirt-mx": 0.58
+        "electric": 0.81,
+        "new-models": 0.63
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.51,
-        "review": 0.08,
-        "comparison-test": 0.06,
-        "first-look": 0.38,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.11,
-        "how-to": 0.03,
-        "explainer": 0.15,
-        "opinion": 0.54,
-        "profile-interview": 0.09,
+        "news": 0.42,
+        "review": 0.21,
+        "comparison-test": 0.08,
+        "first-look": 0.47,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.13,
+        "how-to": 0.04,
+        "explainer": 0.36,
+        "opinion": 0.69,
+        "profile-interview": 0.32,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.35,
-        "digest": 0.07,
-        "photo-gallery": 0.1,
+        "event-preview": 0.02,
+        "press-release": 0.34,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.05,
-        "history": 0.03,
-        "rumor": 0.63,
+        "history": 0.04,
+        "rumor": 0.52,
         "safety-notice": 0.02,
         "episode": 0.06,
         "build-feature": 0.03,
@@ -2358,81 +2345,7 @@
       },
       "multi_subject": 0.07,
       "tags": [
-        "adventure",
-        "new-models",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
-      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
-      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T09:56:20+00:00",
-      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.85,
-        "new-models": 0.59
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.1,
-        "comparison-test": 0.03,
-        "first-look": 0.68,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.17,
-        "event-preview": 0.11,
-        "press-release": 0.44,
-        "digest": 0.07,
-        "photo-gallery": 0.27,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.76,
-        "safety-notice": 0.01,
-        "episode": 0.1,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "sport-bikes",
+        "electric",
         "new-models"
       ],
       "also": []
@@ -2517,40 +2430,42 @@
       "also": []
     },
     {
-      "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
-      "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
-      "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
+      "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
+      "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
+      "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-23T11:44:00+00:00",
-      "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
-      "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
+      "published": "2026-09-29T11:55:00+00:00",
+      "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
+      "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "adventure",
+          "label": "Adventure"
         },
         {
           "slug": "new-models",
           "label": "New Models"
         }
       ],
-      "primary": "electric",
+      "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "electric": 0.97,
-        "dirt-mx": 0.93,
-        "new-models": 0.76
+        "adventure": 0.93,
+        "new-models": 0.8,
+        "adventure-touring": 0.92
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "adventure-touring",
+          "label": "Adventure Touring",
+          "parent": "adventure"
+        }
+      ],
       "forms": [
         {
           "slug": "opinion",
@@ -2558,36 +2473,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.28,
-        "review": 0.14,
-        "comparison-test": 0.11,
-        "first-look": 0.59,
-        "ranked-list": 0.2,
-        "buyers-guide": 0.25,
-        "how-to": 0.05,
-        "explainer": 0.21,
-        "opinion": 0.86,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.05,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.49,
-        "digest": 0.08,
-        "photo-gallery": 0.16,
-        "ride-report": 0.11,
-        "history": 0.02,
-        "rumor": 0.28,
+        "news": 0.21,
+        "review": 0.65,
+        "comparison-test": 0.03,
+        "first-look": 0.32,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.12,
+        "how-to": 0.03,
+        "explainer": 0.13,
+        "opinion": 0.92,
+        "profile-interview": 0.05,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.08,
+        "press-release": 0.16,
+        "digest": 0.06,
+        "photo-gallery": 0.18,
+        "ride-report": 0.06,
+        "history": 0.03,
+        "rumor": 0.32,
         "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.05
+        "episode": 0.06,
+        "build-feature": 0.08,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.04,
       "tags": [
-        "electric",
-        "dirt-mx",
-        "new-models"
+        "adventure",
+        "new-models",
+        "adventure-touring"
       ],
       "also": []
     },
@@ -2747,6 +2662,76 @@
       "also": []
     },
     {
+      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
+      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
+      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-26T12:20:00+00:00",
+      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
+      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.82,
+        "new-models": 0.61,
+        "dirt-mx": 0.58
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.08,
+        "comparison-test": 0.06,
+        "first-look": 0.38,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.11,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.54,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.35,
+        "digest": 0.07,
+        "photo-gallery": 0.1,
+        "ride-report": 0.05,
+        "history": 0.03,
+        "rumor": 0.63,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "adventure",
+        "new-models",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
       "id": "fa24630f671addd70c8463434c425df3ccf3fa9e",
       "title": "HONDA CB1000F 1790338156000 (2026-on)",
       "link": "https://www.motorcyclenews.com/bike-reviews/honda/cb1000f/2026",
@@ -2811,72 +2796,76 @@
       "also": []
     },
     {
-      "id": "2760ba5f4016bcb67b0f408295b90dcf8f663986",
-      "title": "We tested three of the latest top-spec sub-litre sporty naked motorbikes to find out which is best",
-      "link": "https://www.motorcyclenews.com/advice/group-tests/super-middleweight-ktm-yamaha-triumph",
+      "id": "978498efbb29b41f97c29bc99cb5523c4ef787ea",
+      "title": "My Kids Are Going To Love These New Triumph Electric Dirt Bikes",
+      "link": "https://www.rideapart.com/news/809136/triumph-debuts-new-txp-all-electric-youth-dirt-bike-lineup-evs",
       "lang": "en",
-      "source": "Motorcycle News (MCN)",
+      "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-21T12:28:32+00:00",
-      "excerpt": "Imagine being given a big chocolate cake but getting told you can only eat it using a dolls\u2019 house fork. The frustration would soon build. Now imagine that instead you are presented with a plateful of...",
-      "image": "https://www.motorcyclenews.com/wp-images/427891/390x260/yamaha_mt_09_sp_vs_ktm_990_duke_r_vs_triumph_street_triple_765_rx.jpg",
+      "published": "2026-09-23T11:44:00+00:00",
+      "excerpt": "Designed to get kids hooked on motorcycles, these new dirt bikes from Triumph look like a huge win.",
+      "image": "https://cdn.motor1.com/images/mgl/bgOEYl/s3/2027-triumph-txp-16-ev-dirt-bikes.jpg",
       "audio": null,
       "categories": [
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
         {
           "slug": "new-models",
           "label": "New Models"
         }
       ],
-      "primary": "new-models",
+      "primary": "electric",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.89
+        "electric": 0.97,
+        "dirt-mx": 0.93,
+        "new-models": 0.76
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "comparison-test",
-          "label": "Comparison Test"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
-        {
-          "slug": "buyers-guide",
-          "label": "Buyer's Guide"
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.08,
-        "review": 0.04,
-        "comparison-test": 0.98,
-        "first-look": 0.26,
-        "ranked-list": 0.82,
-        "buyers-guide": 0.77,
+        "news": 0.28,
+        "review": 0.14,
+        "comparison-test": 0.11,
+        "first-look": 0.59,
+        "ranked-list": 0.2,
+        "buyers-guide": 0.25,
         "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.37,
-        "profile-interview": 0.03,
+        "explainer": 0.21,
+        "opinion": 0.86,
+        "profile-interview": 0.1,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.08,
+        "listing": 0.05,
+        "event-report": 0.04,
         "event-preview": 0.03,
-        "press-release": 0.06,
+        "press-release": 0.49,
         "digest": 0.08,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.16,
         "ride-report": 0.11,
-        "history": 0.03,
-        "rumor": 0.03,
+        "history": 0.02,
+        "rumor": 0.28,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
+        "electric",
+        "dirt-mx",
         "new-models"
       ],
       "also": []
@@ -2968,6 +2957,77 @@
         "events-rides",
         "adventure-touring",
         "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
+      "id": "2760ba5f4016bcb67b0f408295b90dcf8f663986",
+      "title": "We tested three of the latest top-spec sub-litre sporty naked motorbikes to find out which is best",
+      "link": "https://www.motorcyclenews.com/advice/group-tests/super-middleweight-ktm-yamaha-triumph",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T12:28:32+00:00",
+      "excerpt": "Imagine being given a big chocolate cake but getting told you can only eat it using a dolls\u2019 house fork. The frustration would soon build. Now imagine that instead you are presented with a plateful of...",
+      "image": "https://www.motorcyclenews.com/wp-images/427891/390x260/yamaha_mt_09_sp_vs_ktm_990_duke_r_vs_triumph_street_triple_765_rx.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.89
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "comparison-test",
+          "label": "Comparison Test"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.04,
+        "comparison-test": 0.98,
+        "first-look": 0.26,
+        "ranked-list": 0.82,
+        "buyers-guide": 0.77,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.37,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.11,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "new-models"
       ],
       "also": []
     },
