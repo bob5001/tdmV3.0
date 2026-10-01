@@ -1329,84 +1329,6 @@
       "also": []
     },
     {
-      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
-      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
-      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T11:00:23+00:00",
-      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "gear": 0.63,
-        "sport-bikes": 0.53,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.46,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.13,
-        "opinion": 0.69,
-        "profile-interview": 0.5,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.05,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "gear",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "ebddcd88dfb9ece667eef670c48655175c777881",
       "title": "How To Install Tusk Threaded Bar Insert Kit",
       "link": "https://dirtrider.net/how-to-install-tusk-threaded-bar-insert-kit",
@@ -1553,6 +1475,87 @@
       "tags": [
         "dirt-mx",
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
+      "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
+      "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T00:40:21+00:00",
+      "excerpt": "The stiffer Michelin rear tyre that Ducati struggled with in Austria returns as part of this weekend\u2019s expanded allocation for the Japanese MotoGP.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/marc-marquez-2025.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "gear": 0.81,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.77,
+        "review": 0.04,
+        "comparison-test": 0.07,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.26,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
       ],
       "also": []
     },
@@ -1716,6 +1719,84 @@
         "adventure",
         "gear",
         "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "dcd2c76cabb33fcb4cdda522edee99a685c82262",
+      "title": "Pirelli MotoGP testing should have been \u201cmandatory for all\u201d",
+      "link": "https://www.crash.net/motogp/news/1105359/1/pirelli-motogp-testing-should-have-been-mandatory-all",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:00:23+00:00",
+      "excerpt": "Enea Bastianini says MotoGP riders changing teams should still have been allowed to sample Pirelli tyres before Valencia.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345712_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "gear": 0.63,
+        "sport-bikes": 0.53,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.46,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.13,
+        "opinion": 0.69,
+        "profile-interview": 0.5,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.05,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },
