@@ -468,6 +468,85 @@
       "also": []
     },
     {
+      "id": "d330114c5f7db658590ae8d5fde64c8480fd0eb9",
+      "title": "Ride Italy and experience MotoGP at Mugello with Travelrite and MCNews",
+      "link": "https://www.mcnews.com.au/2027-motogp-italy-motorbike-tour",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-30T08:30:36+00:00",
+      "excerpt": "MCNews.com.au and Travelrite International have teamed up for a 16-night escorted motorcycle tour through Italy, combining MotoGP at Mugello with Ducati, Lake Garda, Tavullia, San Marino and the roads of Tuscany. The post Ride Italy and experience MotoGP at Mugello with Travelrit",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/07/Travelrite-Tour-Italy-2027.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.9,
+        "sport-bikes": 0.66,
+        "racing": 0.59
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.8,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.15,
+        "event-report": 0.06,
+        "event-preview": 0.71,
+        "press-release": 0.83,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.05,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "events-rides",
+        "sport-bikes",
+        "racing"
+      ],
+      "also": []
+    },
+    {
       "id": "e360d32c8354589e5a0f8ce88c7779cc9572a636",
       "title": "ZX Moto is entering Superbike in 2028 with a five-cylinder engine!",
       "link": "https://www.gpone.com/en/2026/09/26/wsbk/zx-moto-is-entering-superbike-in-2028-with-a-five-cylinder-engine.html",
@@ -717,17 +796,17 @@
       "also": []
     },
     {
-      "id": "423d399a8921218e2ce838e5e77dd220afc3bea1",
-      "title": "Aaron Plessinger To 5.11 Triumph for 2027",
-      "link": "https://racerxonline.com/2026/09/30/aaron-plessinger-to-511-triumph-for-2027",
+      "id": "71e385564af31d5bdb27de27e010fb08c09efb36",
+      "title": "Cooper Webb, Team Tedder and Husqvarna!",
+      "link": "https://racerxonline.com/2026/10/01/cooper-webb-team-tedder-and-husqvarna",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
       "author": "Jason Weigandt",
-      "published": "2026-09-30T14:15:00+00:00",
-      "excerpt": "Triumph says it will trade a top hat for the cowboy version as it welcomes a new 450 contender to the stable.",
-      "image": "https://rx.iscdn.net/2026/09/337351_ap-triumph-2027-9.jpg?w=1000",
+      "published": "2026-10-01T04:45:00+00:00",
+      "excerpt": "Rocky Mountain ATV/MC, Monster Energy , Team Tedder Husqvarna debuts at the Motocross of Nations this weekend.",
+      "image": "https://rx.iscdn.net/2026/10/337418_cooper-webb-team-tedder-husqvarna-2027-1.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -737,19 +816,14 @@
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
         }
       ],
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.83,
-        "industry": 0.64,
-        "motocross-supercross": 0.92
+        "racing": 0.93,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -760,125 +834,49 @@
       ],
       "forms": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.82,
+        "news": 0.89,
         "review": 0.04,
         "comparison-test": 0.03,
-        "first-look": 0.09,
+        "first-look": 0.2,
         "ranked-list": 0.03,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.07,
-        "profile-interview": 0.34,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.24,
         "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.05,
-        "event-preview": 0.15,
-        "press-release": 0.87,
-        "digest": 0.09,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.31,
+        "listing": 0.02,
+        "event-report": 0.11,
+        "event-preview": 0.96,
+        "press-release": 0.85,
+        "digest": 0.11,
+        "photo-gallery": 0.15,
+        "ride-report": 0.03,
+        "history": 0.08,
+        "rumor": 0.17,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
+        "episode": 0.05,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
-        "industry",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "d330114c5f7db658590ae8d5fde64c8480fd0eb9",
-      "title": "Ride Italy and experience MotoGP at Mugello with Travelrite and MCNews",
-      "link": "https://www.mcnews.com.au/2027-motogp-italy-motorbike-tour",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-30T08:30:36+00:00",
-      "excerpt": "MCNews.com.au and Travelrite International have teamed up for a 16-night escorted motorcycle tour through Italy, combining MotoGP at Mugello with Ducati, Lake Garda, Tavullia, San Marino and the roads of Tuscany. The post Ride Italy and experience MotoGP at Mugello with Travelrit",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/07/Travelrite-Tour-Italy-2027.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.9,
-        "sport-bikes": 0.66,
-        "racing": 0.59
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.8,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.05,
-        "profile-interview": 0.12,
-        "tribute": 0.02,
-        "listing": 0.15,
-        "event-report": 0.06,
-        "event-preview": 0.71,
-        "press-release": 0.83,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.05,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "events-rides",
-        "sport-bikes",
-        "racing"
       ],
       "also": []
     },
@@ -1306,6 +1304,73 @@
       "also": []
     },
     {
+      "id": "1f38e4a7407f8f54521343a433bdc270309ee37a",
+      "title": "MotorCycle Holdings expands Peter Stevens network into Frankston",
+      "link": "https://www.mcnews.com.au/peter-stevens-frankston-teammoto-motorcycle-holdings",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-30T00:16:02+00:00",
+      "excerpt": "TeamMoto Frankston will become Peter Stevens Motorcycles Frankston from October 1 as MotorCycle Holdings continues expanding the Peter Stevens dealership network. The post MotorCycle Holdings expands Peter Stevens network into Frankston appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/PS-Frankston-1920x1080-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.05,
+        "press-release": 0.88,
+        "digest": 0.09,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "industry"
+      ],
+      "also": []
+    },
+    {
       "id": "d5208cd9210ae2157ee0bcf5eb258b0c59143c36",
       "title": "Royal Enfield Celebrated Its 125-Year History By Helping to Support Endangered Snow Leopard Conservation",
       "link": "https://www.rideapart.com/news/809476/royal-enfield-one-ride-helps-support-snow-leopard-conservation-efforts",
@@ -1521,154 +1586,6 @@
       "also": []
     },
     {
-      "id": "1f38e4a7407f8f54521343a433bdc270309ee37a",
-      "title": "MotorCycle Holdings expands Peter Stevens network into Frankston",
-      "link": "https://www.mcnews.com.au/peter-stevens-frankston-teammoto-motorcycle-holdings",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-30T00:16:02+00:00",
-      "excerpt": "TeamMoto Frankston will become Peter Stevens Motorcycles Frankston from October 1 as MotorCycle Holdings continues expanding the Peter Stevens dealership network. The post MotorCycle Holdings expands Peter Stevens network into Frankston appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/PS-Frankston-1920x1080-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.98
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.04,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.05,
-        "press-release": 0.88,
-        "digest": 0.09,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
-      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
-      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-28T21:05:00+00:00",
-      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
-      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.21,
-        "press-release": 0.89,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "e7026d562067e379866a969f38adec55c8badbda",
       "title": "STATEMENT FROM SX GLOBAL ON THE FUTURE OF THE FIM WORLD SUPERCROSS CHAMPIONSHIP AND BRITISH GP",
       "link": "https://www.mxpmag.com/statement-from-sx-global-on-the-future-of-the-fim-world-supercross-championship-and-british-gp",
@@ -1747,6 +1664,93 @@
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "industry",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "423d399a8921218e2ce838e5e77dd220afc3bea1",
+      "title": "Aaron Plessinger To 5.11 Triumph for 2027",
+      "link": "https://racerxonline.com/2026/09/30/aaron-plessinger-to-511-triumph-for-2027",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Jason Weigandt",
+      "published": "2026-09-30T14:15:00+00:00",
+      "excerpt": "Triumph says it will trade a top hat for the cowboy version as it welcomes a new 450 contender to the stable.",
+      "image": "https://rx.iscdn.net/2026/09/337351_ap-triumph-2027-9.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.83,
+        "industry": 0.64,
+        "motocross-supercross": 0.92
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.07,
+        "profile-interview": 0.34,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.05,
+        "event-preview": 0.15,
+        "press-release": 0.87,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.31,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
       "tags": [
         "dirt-mx",
         "racing",
@@ -2200,91 +2204,6 @@
       ]
     },
     {
-      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
-      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
-      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T11:00:00+00:00",
-      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
-      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.95,
-        "motocross-supercross": 0.94
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.88,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "159e0d97f487b7f54fdd90fa061207fbf2af2e39",
       "title": "TRIUMPH CELEBRATES FIRST WORLD CHAMPIONSHIP TITLE",
       "link": "https://www.mxpmag.com/triumph-celebrates-first-world-championship-title",
@@ -2383,45 +2302,43 @@
       ]
     },
     {
-      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
-      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
-      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
+      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
+      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-21T03:33:34+00:00",
-      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "author": "Press Release",
+      "published": "2026-09-28T21:05:00+00:00",
+      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
+      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "adventure",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.91,
-        "events-rides": 0.81,
-        "dirt-mx": 0.74
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
@@ -2432,36 +2349,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.05,
-        "comparison-test": 0.07,
-        "first-look": 0.05,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.14,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.97,
-        "press-release": 0.85,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.21,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.03,
-        "episode": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
-        "adventure",
-        "events-rides",
-        "dirt-mx"
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -2892,6 +2809,91 @@
           "published": "2026-09-30T07:02:15+00:00"
         }
       ]
+    },
+    {
+      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
+      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
+      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-24T11:00:00+00:00",
+      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
+      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.95,
+        "motocross-supercross": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
     },
     {
       "id": "10ee47acc6ddbca0c2454f76463d9d96efa20971",
@@ -4613,6 +4615,89 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
+      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
+      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-21T03:33:34+00:00",
+      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.91,
+        "events-rides": 0.81,
+        "dirt-mx": 0.74
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.05,
+        "comparison-test": 0.07,
+        "first-look": 0.05,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.97,
+        "press-release": 0.85,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "events-rides",
+        "dirt-mx"
       ],
       "also": []
     },
