@@ -3,6 +3,81 @@
   "label": "Announcement",
   "items": [
     {
+      "id": "66d2a071c7f58e20fde01c82d6f077c69bf90702",
+      "title": "Tech3 announces American rider for 2027 Moto3 team",
+      "link": "https://www.crash.net/moto3/news/1105916/1/tech3-announces-american-rider-2027-moto3-team",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T03:29:03+00:00",
+      "excerpt": "American Kristian Daniel Jr steps onto the Moto3 grid with Tech3 in 2027, alongside the returning Adrian Fernandez.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/tech-riders_1600x900_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.14,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.37,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "9d5b7e3f623849b22cb9686ae7d3ecf2c8e4c48a",
       "title": "Roadskin launches new Ranger Multi-season AAA-Rated Jacket",
       "link": "https://www.classicmotorcycle.co.uk/roadskin-launches-new-ranger-multi-season-aaa-rated-jacket",

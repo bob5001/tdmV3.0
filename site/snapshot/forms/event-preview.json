@@ -531,6 +531,77 @@
       ]
     },
     {
+      "id": "c9d5564c0ac7bd0b16a0a0b84ed07da10d9f6b08",
+      "title": "Japanese MotoGP Preview | Three classes, three championship battles at Motegi",
+      "link": "https://www.mcnews.com.au/2026-motegi-motogp-moto2-moto3-preview",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-30T08:23:41+00:00",
+      "excerpt": "MotoGP heads to Motegi with Jorge Martin just 12 points clear of Marc Marquez, Jack Miller returning to one of his favourite circuits and Ai Ogura racing at home. We preview MotoGP, Moto2 and Moto3, including the title battles, weather outlook and the first chance for the Moto3 c",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/03/2026-MotoGP-Rnd2-Brazil-Day2-Marc-Marquez-Martin.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.16,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.05,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.12,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.99,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.11,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "28a1db539716746121e6b3a2c9386822750a9977",
       "title": "The Billy Joel Motorcycle Collection Announced for Gooding Christie\u2019s Inaugural Auction at R\u00e9tromobile New York in November",
       "link": "https://www.insidemotorcycles.com/the-billy-joel-motorcycle-collection-announced-for-gooding-christies-inaugural-auction-at-retromobile-new-york-in-november",
@@ -692,77 +763,6 @@
       "tags": [
         "events-rides",
         "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "c9d5564c0ac7bd0b16a0a0b84ed07da10d9f6b08",
-      "title": "Japanese MotoGP Preview | Three classes, three championship battles at Motegi",
-      "link": "https://www.mcnews.com.au/2026-motegi-motogp-moto2-moto3-preview",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-30T08:23:41+00:00",
-      "excerpt": "MotoGP heads to Motegi with Jorge Martin just 12 points clear of Marc Marquez, Jack Miller returning to one of his favourite circuits and Ai Ogura racing at home. We preview MotoGP, Moto2 and Moto3, including the title battles, weather outlook and the first chance for the Moto3 c",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/03/2026-MotoGP-Rnd2-Brazil-Day2-Marc-Marquez-Martin.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.16,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.05,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.12,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.99,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.11,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -1162,33 +1162,28 @@
       "also": []
     },
     {
-      "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
-      "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
-      "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
+      "id": "d1674035294df4e5cd7d11f5d7e1dad075d1fc4a",
+      "title": "Marc Marquez: \u201cLast year wasn\u2019t normal\u201d as tense title defence reaches Motegi",
+      "link": "https://www.crash.net/motogp/news/1105918/1/marc-marquez-last-year-wasnt-normal-tense-title-defence-reaches-motegi",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T00:40:21+00:00",
-      "excerpt": "The stiffer Michelin rear tyre that Ducati struggled with in Austria returns as part of this weekend\u2019s expanded allocation for the Japanese MotoGP.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/marc-marquez-2025.jpg?width=1200",
+      "published": "2026-10-01T04:30:03+00:00",
+      "excerpt": "Marc Marquez says this year\u2019s close MotoGP title battle is \u201cnormal\u201d after arriving at Motegi with a huge advantage last season.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/mm1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "gear": 0.81,
+        "racing": 0.97,
         "motogp": 0.98
       },
       "subcategories": [
@@ -1204,40 +1199,39 @@
           "label": "Event Preview"
         },
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.77,
-        "review": 0.04,
-        "comparison-test": 0.07,
-        "first-look": 0.08,
+        "news": 0.56,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.26,
-        "profile-interview": 0.07,
+        "explainer": 0.08,
+        "opinion": 0.2,
+        "profile-interview": 0.81,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.96,
-        "press-release": 0.11,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.04,
-        "episode": 0.03,
+        "event-report": 0.13,
+        "event-preview": 0.88,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.08,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.04
       },
       "multi_subject": 0.05,
       "tags": [
         "racing",
-        "gear",
         "motogp"
       ],
       "also": []
@@ -1493,6 +1487,91 @@
       "also": []
     },
     {
+      "id": "815745b654f5d9346f6ef3c83ffa9dcc8d3cd2db",
+      "title": "Moto Wrap Weekly | World titles, fine margins and the week ahead",
+      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-29-2026",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Motorcycle News",
+      "published": "2026-09-29T05:16:34+00:00",
+      "excerpt": "Prado and Kitchen claim SMX crowns, Sanders takes a narrow lead into Morocco and Gillman lands two Speedway GPs. Plus Australian podiums, MXoN team changes, Roof of Africa, Trials and this weekend's junior track titles. The post Moto Wrap Weekly | World titles, fine margins and t",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Toni-Bou-TeamSpain-2026-FIM-Trial-des-Nations-Spain.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.97,
+        "racing": 0.96,
+        "motocross-supercross": 0.93
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.74,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.08,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.95,
+        "event-preview": 0.9,
+        "press-release": 0.12,
+        "digest": 0.93,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.19,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.95,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "4f0746fd1904764ba33977caf9417a977d1e0ca2",
       "title": "Preview: Nelson International Raceway 50th Anniversary Celebration",
       "link": "https://www.insidemotorcycles.com/preview-nelson-international-raceway-50th-anniversary-celebration",
@@ -1631,91 +1710,6 @@
         "classic",
         "events-rides",
         "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "815745b654f5d9346f6ef3c83ffa9dcc8d3cd2db",
-      "title": "Moto Wrap Weekly | World titles, fine margins and the week ahead",
-      "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-29-2026",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Motorcycle News",
-      "published": "2026-09-29T05:16:34+00:00",
-      "excerpt": "Prado and Kitchen claim SMX crowns, Sanders takes a narrow lead into Morocco and Gillman lands two Speedway GPs. Plus Australian podiums, MXoN team changes, Roof of Africa, Trials and this weekend's junior track titles. The post Moto Wrap Weekly | World titles, fine margins and t",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Toni-Bou-TeamSpain-2026-FIM-Trial-des-Nations-Spain.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.97,
-        "racing": 0.96,
-        "motocross-supercross": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.74,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.08,
-        "opinion": 0.07,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.9,
-        "press-release": 0.12,
-        "digest": 0.93,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.19,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.95,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
       ],
       "also": []
     },
@@ -2141,28 +2135,33 @@
       "also": []
     },
     {
-      "id": "c334b3fdb67f907f2d2c71b4790003053bb009e3",
-      "title": "Marc Marquez returns to scene of his greatest MotoGP triumph facing make-or-break race",
-      "link": "https://www.crash.net/motogp/feature/1105910/1/marc-marquez-returns-scene-his-greatest-motogp-triumph-facing-make-or",
+      "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
+      "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
+      "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T14:45:01+00:00",
-      "excerpt": "Marc Marquez returns to Motegi almost exactly a year on from his seventh MotoGP title success, in the wake of the most difficult period of his career. Buoyed by the memory of that day, his Japanese Grand Prix in 2026 has an altogether different feeling about it, as his title hope",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1269349_hires.jpg?width=1200",
+      "published": "2026-10-01T00:40:21+00:00",
+      "excerpt": "The stiffer Michelin rear tyre that Ducati struggled with in Austria returns as part of this weekend\u2019s expanded allocation for the Japanese MotoGP.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/marc-marquez-2025.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
+        "racing": 0.98,
+        "gear": 0.81,
         "motogp": 0.98
       },
       "subcategories": [
@@ -2178,39 +2177,40 @@
           "label": "Event Preview"
         },
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.13,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
+        "news": 0.77,
+        "review": 0.04,
+        "comparison-test": 0.07,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.86,
-        "profile-interview": 0.39,
-        "tribute": 0.07,
+        "explainer": 0.14,
+        "opinion": 0.26,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.92,
-        "press-release": 0.04,
-        "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.03,
-        "history": 0.12,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.96,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
+        "gear",
         "motogp"
       ],
       "also": []
@@ -2557,89 +2557,6 @@
       "also": []
     },
     {
-      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
-      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
-      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-21T03:33:34+00:00",
-      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.91,
-        "events-rides": 0.81,
-        "dirt-mx": 0.74
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.05,
-        "comparison-test": 0.07,
-        "first-look": 0.05,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.07,
-        "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.08,
-        "event-preview": 0.97,
-        "press-release": 0.85,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "events-rides",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
       "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
       "title": "2027 MotoGP\u2122 Calendar Revealed",
       "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
@@ -2965,39 +2882,34 @@
       "also": []
     },
     {
-      "id": "609c4255f5160f7afc7798eef23294a0d00d0a88",
-      "title": "Bradley Ray sets sights on Scott Redding heading into Donington BSB",
-      "link": "https://www.crash.net/bsb/news/1105889/1/bradley-ray-sets-sights-scott-redding-heading-donington-bsb",
+      "id": "c334b3fdb67f907f2d2c71b4790003053bb009e3",
+      "title": "Marc Marquez returns to scene of his greatest MotoGP triumph facing make-or-break race",
+      "link": "https://www.crash.net/motogp/feature/1105910/1/marc-marquez-returns-scene-his-greatest-motogp-triumph-facing-make-or",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T10:20:05+00:00",
-      "excerpt": "Bradley Ray is targeting Scott Redding\u2019s 42-point advantage as the BSB title fight heads to its penultimate round at Donington.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/ray1_1600x900.jpg?width=1200",
+      "published": "2026-09-30T14:45:01+00:00",
+      "excerpt": "Marc Marquez returns to Motegi almost exactly a year on from his seventh MotoGP title success, in the wake of the most difficult period of his career. Buoyed by the memory of that day, his Japanese Grand Prix in 2026 has an altogether different feeling about it, as his title hope",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1269349_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.9,
-        "worldsbk-superbike": 0.95
+        "racing": 0.97,
+        "motogp": 0.98
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
@@ -3005,39 +2917,42 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.66,
-        "review": 0.01,
+        "news": 0.13,
+        "review": 0.02,
         "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.13,
-        "profile-interview": 0.24,
-        "tribute": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.86,
+        "profile-interview": 0.39,
+        "tribute": 0.07,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.93,
-        "press-release": 0.07,
-        "digest": 0.06,
+        "event-report": 0.11,
+        "event-preview": 0.92,
+        "press-release": 0.04,
+        "digest": 0.05,
         "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.01,
+        "ride-report": 0.03,
+        "history": 0.12,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -3589,17 +3504,17 @@
       "also": []
     },
     {
-      "id": "7b2c9d8e85388ae6021c2045b42c68129a9fa7ef",
-      "title": "Jorge Martin: \u201cExtremely important stage\u201d of MotoGP title fight begins",
-      "link": "https://www.crash.net/motogp/news/1105885/1/jorge-martin-extremely-important-stage-motogp-title-fight-begins",
+      "id": "609c4255f5160f7afc7798eef23294a0d00d0a88",
+      "title": "Bradley Ray sets sights on Scott Redding heading into Donington BSB",
+      "link": "https://www.crash.net/bsb/news/1105889/1/bradley-ray-sets-sights-scott-redding-heading-donington-bsb",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T08:45:05+00:00",
-      "excerpt": "Jorge Martin says an \u201cextremely important stage\u201d of the 2026 MotoGP title fight begins at Motegi.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345939_hires_1600x900_0.jpg?width=1200",
+      "published": "2026-09-29T10:20:05+00:00",
+      "excerpt": "Bradley Ray is targeting Scott Redding\u2019s 42-point advantage as the BSB title fight heads to its penultimate round at Donington.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/ray1_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3614,14 +3529,14 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.5,
-        "motogp": 0.98
+        "racing": 0.98,
+        "sport-bikes": 0.9,
+        "worldsbk-superbike": 0.95
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -3629,43 +3544,39 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.55,
-        "review": 0.02,
+        "news": 0.66,
+        "review": 0.01,
         "comparison-test": 0.03,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.27,
-        "profile-interview": 0.75,
+        "explainer": 0.06,
+        "opinion": 0.13,
+        "profile-interview": 0.24,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
-        "event-preview": 0.86,
-        "press-release": 0.06,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.03,
-        "history": 0.04,
+        "event-report": 0.08,
+        "event-preview": 0.93,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -4160,29 +4071,34 @@
       "also": []
     },
     {
-      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
-      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
-      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
+      "id": "7b2c9d8e85388ae6021c2045b42c68129a9fa7ef",
+      "title": "Jorge Martin: \u201cExtremely important stage\u201d of MotoGP title fight begins",
+      "link": "https://www.crash.net/motogp/news/1105885/1/jorge-martin-extremely-important-stage-motogp-title-fight-begins",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T06:40:57+00:00",
-      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-29T08:45:05+00:00",
+      "excerpt": "Jorge Martin says an \u201cextremely important stage\u201d of the 2026 MotoGP title fight begins at Motegi.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1345939_hires_1600x900_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.93,
-        "motogp": 0.96
+        "racing": 0.97,
+        "sport-bikes": 0.5,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -4195,37 +4111,42 @@
         {
           "slug": "event-preview",
           "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.54,
-        "review": 0.01,
-        "comparison-test": 0.02,
+        "news": 0.55,
+        "review": 0.02,
+        "comparison-test": 0.03,
         "first-look": 0.02,
-        "ranked-list": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.09,
-        "explainer": 0.31,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.27,
+        "profile-interview": 0.75,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.96,
-        "press-release": 0.11,
+        "event-report": 0.09,
+        "event-preview": 0.86,
+        "press-release": 0.06,
         "digest": 0.07,
         "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.02,
+        "ride-report": 0.03,
+        "history": 0.04,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.08
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
+        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -4474,87 +4395,73 @@
       "also": []
     },
     {
-      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
-      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
-      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
+      "id": "b7535211620af0872f448eaddbef8d8335239c3c",
+      "title": "2026 Japanese MotoGP at Motegi: Start times and how to watch",
+      "link": "https://www.crash.net/motogp/news/1105860/1/2026-japanese-motogp-motegi-start-times-and-how-watch",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T15:19:33+00:00",
-      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
+      "published": "2026-09-28T06:40:57+00:00",
+      "excerpt": "Information below on how to watch this weekend\u2019s 2026 Japanese MotoGP round at the Motegi, including timings and schedule.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1268251_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.97
+        "racing": 0.93,
+        "motogp": 0.96
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-preview",
           "label": "Event Preview"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.83,
+        "news": 0.54,
         "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.81,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.09,
+        "explainer": 0.31,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.82,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
+        "event-report": 0.07,
+        "event-preview": 0.96,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.04,
+        "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.08
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -4802,6 +4709,91 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "d555597bf882ec5d4e8995a7b313646161faa1e7",
+      "title": "Nicolo Bulega vows to maintain WorldSBK \u201capproach\u201d despite \u201cbig\u201d MotoGP test crash",
+      "link": "https://www.crash.net/wsbk/news/1105246/1/nicolo-bulega-vows-maintain-worldsbk-approach-despite-big-motogp-test-crash",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T15:19:33+00:00",
+      "excerpt": "Nicolo Bulega says he will not change his \u201capproach\u201d to the Italian WorldSBK weekend despite his title chance and a recent test crash.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341455_hires-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.81,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.1,
+        "event-preview": 0.82,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -6531,6 +6523,89 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "7be67b26eae8b061c0a348fdf2d95db06109ffa1",
+      "title": "Ten tests and 200 km: CFMOTO MT Challenge heads to Spain",
+      "link": "https://www.mcnews.com.au/cfmoto-mt-challenge-2026-spain-final",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-21T03:33:34+00:00",
+      "excerpt": "CFMOTO MT Challenge 2026 heads to Spain on September 26\u201328, with 1000MT-X riders facing 10 skills tests and an approximately 200 km adventure. The post Ten tests and 200 km: CFMOTO MT Challenge heads to Spain appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-CFMOTO-1000-MT-X-Challenge-3.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.91,
+        "events-rides": 0.81,
+        "dirt-mx": 0.74
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.05,
+        "comparison-test": 0.07,
+        "first-look": 0.05,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.07,
+        "how-to": 0.05,
+        "explainer": 0.14,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.08,
+        "event-preview": 0.97,
+        "press-release": 0.85,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "events-rides",
+        "dirt-mx"
       ],
       "also": []
     },
