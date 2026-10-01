@@ -9,7 +9,7 @@
     "slug": "adventure",
     "label": "Adventure",
     "parent": null,
-    "count": 79
+    "count": 81
   },
   {
     "slug": "racing",
@@ -21,7 +21,7 @@
     "slug": "dirt-mx",
     "label": "MX & Dirt",
     "parent": null,
-    "count": 208
+    "count": 206
   },
   {
     "slug": "sport-bikes",
@@ -39,19 +39,19 @@
     "slug": "custom",
     "label": "Custom",
     "parent": null,
-    "count": 77
+    "count": 76
   },
   {
     "slug": "classic",
     "label": "Classic",
     "parent": null,
-    "count": 120
+    "count": 121
   },
   {
     "slug": "gear",
     "label": "Gear",
     "parent": null,
-    "count": 51
+    "count": 53
   },
   {
     "slug": "new-models",
@@ -69,7 +69,7 @@
     "slug": "events-rides",
     "label": "Events & Rides",
     "parent": null,
-    "count": 46
+    "count": 45
   },
   {
     "slug": "law-safety",
@@ -81,13 +81,31 @@
     "slug": "for-sale",
     "label": "For Sale",
     "parent": null,
-    "count": 84
+    "count": 83
+  },
+  {
+    "slug": "adventure-touring",
+    "label": "Adventure Touring",
+    "parent": "adventure",
+    "count": 11
+  },
+  {
+    "slug": "rally-lightweight-adv",
+    "label": "Rally & Lightweight ADV",
+    "parent": "adventure",
+    "count": 18
+  },
+  {
+    "slug": "adv-events-competitions",
+    "label": "ADV Events & Competitions",
+    "parent": "adventure",
+    "count": 15
   },
   {
     "slug": "motogp",
     "label": "MotoGP",
     "parent": "racing",
-    "count": 177
+    "count": 178
   },
   {
     "slug": "worldsbk-superbike",
@@ -105,7 +123,7 @@
     "slug": "cafe-racers",
     "label": "Cafe Racers",
     "parent": "custom",
-    "count": 15
+    "count": 16
   },
   {
     "slug": "scramblers",

@@ -31,35 +31,35 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.94
+        "law-safety": 0.93
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.49,
-        "review": 0.46,
-        "comparison-test": 0.13,
-        "first-look": 0.15,
+        "news": 0.51,
+        "review": 0.44,
+        "comparison-test": 0.12,
+        "first-look": 0.17,
         "ranked-list": 0.04,
-        "buyers-guide": 0.23,
-        "how-to": 0.04,
-        "explainer": 0.69,
-        "opinion": 0.21,
+        "buyers-guide": 0.25,
+        "how-to": 0.05,
+        "explainer": 0.68,
+        "opinion": 0.19,
         "profile-interview": 0.12,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.07,
+        "listing": 0.03,
+        "event-report": 0.06,
         "event-preview": 0.02,
-        "press-release": 0.36,
+        "press-release": 0.39,
         "digest": 0.08,
         "photo-gallery": 0.08,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.19,
+        "rumor": 0.18,
         "safety-notice": 0.06,
-        "episode": 0.06,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.06
+        "q-and-a": 0.05
       },
       "multi_subject": 0.05,
       "tags": [
@@ -120,25 +120,25 @@
         "news": 0.83,
         "review": 0.01,
         "comparison-test": 0.01,
-        "first-look": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.2,
         "opinion": 0.07,
         "profile-interview": 0.16,
-        "tribute": 0.79,
+        "tribute": 0.81,
         "listing": 0.01,
-        "event-report": 0.24,
-        "event-preview": 0.77,
-        "press-release": 0.29,
+        "event-report": 0.25,
+        "event-preview": 0.76,
+        "press-release": 0.27,
         "digest": 0.08,
         "photo-gallery": 0.09,
         "ride-report": 0.05,
-        "history": 0.79,
+        "history": 0.8,
         "rumor": 0.01,
-        "safety-notice": 0.31,
-        "episode": 0.03,
+        "safety-notice": 0.28,
+        "episode": 0.04,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
@@ -150,51 +150,39 @@
       "also": []
     },
     {
-      "id": "7274953f6361ca0e50b5d79560ae1cd2f31bb79a",
-      "title": "Marini struck in chest by debris from Quartararo: \"It could've been worse\"",
-      "link": "https://www.gpone.com/en/2026/09/22/motogp/marini-struck-in-chest-by-debris-from-quartararo-it-couldve-been-worse.html",
+      "id": "77d37ea7401c3448097529244f7d7b826d18a203",
+      "title": "BRP Recalling Multiple Models For Failing Instrument Cluster",
+      "link": "https://www.advrider.com/brp-recalling-multiple-models-for-failing-instrument-cluster",
       "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-22T09:00:24+00:00",
-      "excerpt": "During the Austrian Grand Prix, the Honda rider was struck in the chest by a piece of Quartararo's Yamaha",
-      "image": null,
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-29T04:59:37+00:00",
+      "excerpt": "Bombardier Recreational Products makers of machines like the electric CAN-AM Pulse and Origin motorcycles, as well as the 3-wheeled CAN-AM Spyder RT and F3 are recalling certain machines because their instrument clusters may malfunction. BRP\u2019s Part 573 Safety Recall Report BRP\u2019s ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/ONRD-TNT-MY25-Pulse-73-E-Power-SterlingSilver-000J9SA00-Studio-34FR-NA-Copy-750x580.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "industry",
+          "label": "Industry & Business"
         },
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
-      "primary": "racing",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "law-safety": 0.93,
-        "sport-bikes": 0.85,
-        "motogp": 0.98
+        "industry": 0.97,
+        "law-safety": 0.85
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
         },
         {
           "slug": "news",
@@ -202,37 +190,35 @@
         }
       ],
       "form_scores": {
-        "news": 0.82,
-        "review": 0.01,
+        "news": 0.87,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.07,
-        "profile-interview": 0.48,
-        "tribute": 0.02,
+        "buyers-guide": 0.11,
+        "how-to": 0.03,
+        "explainer": 0.38,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.02,
-        "press-release": 0.06,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.03,
-        "history": 0.11,
-        "rumor": 0.01,
-        "safety-notice": 0.04,
-        "episode": 0.06,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.73,
+        "digest": 0.08,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.97,
+        "episode": 0.02,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
-        "racing",
-        "law-safety",
-        "sport-bikes",
-        "motogp"
+        "industry",
+        "law-safety"
       ],
       "also": []
     },
@@ -267,13 +253,13 @@
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.1,
+        "ranked-list": 0.09,
         "buyers-guide": 0.04,
         "how-to": 0.04,
-        "explainer": 0.34,
+        "explainer": 0.37,
         "opinion": 0.21,
         "profile-interview": 0.03,
-        "tribute": 0.03,
+        "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.01,
@@ -311,17 +297,12 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
         }
       ],
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.98,
-        "industry": 0.52
+        "law-safety": 0.98
       },
       "subcategories": [],
       "forms": [
@@ -335,35 +316,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.91,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.06,
-        "explainer": 0.65,
-        "opinion": 0.04,
+        "explainer": 0.63,
+        "opinion": 0.05,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.22,
+        "press-release": 0.2,
         "digest": 0.08,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.03,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.95,
         "episode": 0.03,
-        "build-feature": 0.02,
+        "build-feature": 0.01,
         "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
-        "law-safety",
-        "industry"
+        "law-safety"
       ],
       "also": []
     },
@@ -394,12 +374,12 @@
       "subcategories": [],
       "forms": [
         {
-          "slug": "explainer",
-          "label": "Explainer"
-        },
-        {
           "slug": "safety-notice",
           "label": "Safety & Rules"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
         }
       ],
       "form_scores": {
@@ -411,7 +391,7 @@
         "buyers-guide": 0.01,
         "how-to": 0.06,
         "explainer": 0.93,
-        "opinion": 0.16,
+        "opinion": 0.17,
         "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
@@ -421,12 +401,12 @@
         "digest": 0.04,
         "photo-gallery": 0.02,
         "ride-report": 0.02,
-        "history": 0.01,
+        "history": 0.02,
         "rumor": 0.01,
-        "safety-notice": 0.93,
+        "safety-notice": 0.94,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.08
+        "q-and-a": 0.09
       },
       "multi_subject": 0.04,
       "tags": [
@@ -440,6 +420,93 @@
           "published": "2026-09-29T11:00:00+00:00"
         }
       ]
+    },
+    {
+      "id": "7274953f6361ca0e50b5d79560ae1cd2f31bb79a",
+      "title": "Marini struck in chest by debris from Quartararo: \"It could've been worse\"",
+      "link": "https://www.gpone.com/en/2026/09/22/motogp/marini-struck-in-chest-by-debris-from-quartararo-it-couldve-been-worse.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-22T09:00:24+00:00",
+      "excerpt": "During the Austrian Grand Prix, the Honda rider was struck in the chest by a piece of Quartararo's Yamaha",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "law-safety": 0.91,
+        "sport-bikes": 0.8,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.51,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.85,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.11,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "law-safety",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "daa5dbc9658efa20eedb16e987d8f4b93d6a62c2",
@@ -468,16 +535,16 @@
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.12,
+        "news": 0.13,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.22,
-        "buyers-guide": 0.03,
+        "ranked-list": 0.23,
+        "buyers-guide": 0.04,
         "how-to": 0.04,
         "explainer": 0.49,
         "opinion": 0.09,
-        "profile-interview": 0.02,
+        "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.02,
@@ -493,7 +560,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.06
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.07,
       "tags": [
         "law-safety"
       ],
@@ -525,41 +592,36 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.88,
+        "industry": 0.89,
         "law-safety": 0.85
       },
       "subcategories": [],
-      "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.7,
+        "news": 0.71,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.1,
-        "opinion": 0.2,
+        "opinion": 0.19,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.01,
+        "event-report": 0.02,
         "event-preview": 0.01,
         "press-release": 0.06,
-        "digest": 0.07,
+        "digest": 0.06,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.03,
-        "safety-notice": 0.75,
+        "safety-notice": 0.72,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
@@ -599,9 +661,9 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "law-safety": 0.5,
-        "motocross-supercross": 0.85
+        "racing": 0.96,
+        "law-safety": 0.52,
+        "motocross-supercross": 0.86
       },
       "subcategories": [
         {
@@ -621,20 +683,20 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
+        "news": 0.94,
         "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.44,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.46,
         "buyers-guide": 0.04,
         "how-to": 0.05,
-        "explainer": 0.74,
+        "explainer": 0.73,
         "opinion": 0.04,
         "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
-        "event-preview": 0.15,
+        "event-preview": 0.16,
         "press-release": 0.92,
         "digest": 0.06,
         "photo-gallery": 0.02,
@@ -646,7 +708,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.08,
       "tags": [
         "dirt-mx",
         "racing",
@@ -682,7 +744,7 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.99,
-        "law-safety": 0.57
+        "law-safety": 0.55
       },
       "subcategories": [],
       "forms": [
@@ -696,16 +758,16 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.92,
         "review": 0.49,
         "comparison-test": 0.02,
-        "first-look": 0.16,
+        "first-look": 0.15,
         "ranked-list": 0.02,
-        "buyers-guide": 0.45,
+        "buyers-guide": 0.43,
         "how-to": 0.02,
-        "explainer": 0.5,
-        "opinion": 0.06,
-        "profile-interview": 0.13,
+        "explainer": 0.49,
+        "opinion": 0.05,
+        "profile-interview": 0.14,
         "tribute": 0.01,
         "listing": 0.06,
         "event-report": 0.01,
@@ -721,7 +783,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.02,
+      "multi_subject": 0.03,
       "tags": [
         "gear",
         "law-safety"
@@ -760,7 +822,7 @@
       "cat_scores": {
         "dirt-mx": 1.0,
         "racing": 0.97,
-        "law-safety": 0.66,
+        "law-safety": 0.64,
         "motocross-supercross": 0.98
       },
       "subcategories": [
@@ -789,7 +851,7 @@
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.53,
+        "event-report": 0.48,
         "event-preview": 0.18,
         "press-release": 0.17,
         "digest": 0.05,
@@ -800,9 +862,9 @@
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.02,
       "tags": [
         "dirt-mx",
         "racing",
@@ -857,26 +919,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.5,
+        "news": 0.46,
         "review": 0.02,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
         "buyers-guide": 0.19,
-        "how-to": 0.66,
-        "explainer": 0.36,
+        "how-to": 0.72,
+        "explainer": 0.37,
         "opinion": 0.04,
         "profile-interview": 0.02,
-        "tribute": 0.36,
-        "listing": 0.02,
-        "event-report": 0.02,
+        "tribute": 0.32,
+        "listing": 0.01,
+        "event-report": 0.01,
         "event-preview": 0.01,
         "press-release": 0.84,
         "digest": 0.06,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.65,
-        "rumor": 0.01,
+        "history": 0.59,
+        "rumor": 0.02,
         "safety-notice": 0.97,
         "episode": 0.02,
         "build-feature": 0.01,
@@ -885,83 +947,6 @@
       "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
-        "industry",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "77d37ea7401c3448097529244f7d7b826d18a203",
-      "title": "BRP Recalling Multiple Models For Failing Instrument Cluster",
-      "link": "https://www.advrider.com/brp-recalling-multiple-models-for-failing-instrument-cluster",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Mike Botan / @Ride2ADV",
-      "published": "2026-09-29T04:59:37+00:00",
-      "excerpt": "Bombardier Recreational Products makers of machines like the electric CAN-AM Pulse and Origin motorcycles, as well as the 3-wheeled CAN-AM Spyder RT and F3 are recalling certain machines because their instrument clusters may malfunction. BRP\u2019s Part 573 Safety Recall Report BRP\u2019s ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/ONRD-TNT-MY25-Pulse-73-E-Power-SterlingSilver-000J9SA00-Studio-34FR-NA-Copy-750x580.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.97,
-        "law-safety": 0.84
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.11,
-        "how-to": 0.03,
-        "explainer": 0.37,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.01,
-        "event-preview": 0.01,
-        "press-release": 0.75,
-        "digest": 0.08,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.97,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
         "industry",
         "law-safety"
       ],
@@ -994,7 +979,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "law-safety": 0.51,
+        "law-safety": 0.58,
         "motogp": 0.99
       },
       "subcategories": [
@@ -1011,30 +996,107 @@
         }
       ],
       "form_scores": {
-        "news": 0.82,
+        "news": 0.81,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.1,
+        "explainer": 0.09,
         "opinion": 0.2,
-        "profile-interview": 0.15,
+        "profile-interview": 0.14,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.09,
+        "event-report": 0.08,
         "event-preview": 0.18,
-        "press-release": 0.33,
-        "digest": 0.06,
+        "press-release": 0.31,
+        "digest": 0.05,
         "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.04,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "725850fb879bfecb4578421eeed71eaadcd9db80",
+      "title": "Collin Veijer undergoes surgery: recovery timeline still uncertain",
+      "link": "https://www.gpone.com/en/2026/09/23/moto2/collin-veijer-undergoes-surgery-recovery-timeline-still-uncertain.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-23T10:54:56+00:00",
+      "excerpt": "The Ajo team rider fractured his left collarbone at the Red Bull Ring; he is expected to be discharged from the hospital in the next few hours",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "law-safety": 0.52,
+        "motogp": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.22,
+        "event-preview": 0.03,
+        "press-release": 0.24,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
@@ -1065,18 +1127,13 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 0.96,
-        "law-safety": 0.87,
-        "sport-bikes": 0.5
+        "law-safety": 0.86
       },
       "subcategories": [],
       "forms": [
@@ -1086,36 +1143,35 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
+        "news": 0.83,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.04,
         "opinion": 0.04,
-        "profile-interview": 0.16,
-        "tribute": 0.03,
+        "profile-interview": 0.15,
+        "tribute": 0.04,
         "listing": 0.01,
         "event-report": 0.25,
         "event-preview": 0.02,
-        "press-release": 0.07,
-        "digest": 0.1,
+        "press-release": 0.06,
+        "digest": 0.09,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.05,
+        "history": 0.06,
         "rumor": 0.01,
         "safety-notice": 0.04,
-        "episode": 0.03,
+        "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "law-safety",
-        "sport-bikes"
+        "law-safety"
       ],
       "also": []
     },
@@ -1151,7 +1207,7 @@
       "cat_scores": {
         "racing": 0.97,
         "sport-bikes": 0.95,
-        "law-safety": 0.63,
+        "law-safety": 0.65,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -1168,20 +1224,20 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.89,
         "review": 0.02,
-        "comparison-test": 0.03,
+        "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.05,
         "opinion": 0.09,
-        "profile-interview": 0.39,
+        "profile-interview": 0.38,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.57,
-        "event-preview": 0.1,
+        "event-report": 0.53,
+        "event-preview": 0.09,
         "press-release": 0.06,
         "digest": 0.08,
         "photo-gallery": 0.09,
@@ -1189,7 +1245,7 @@
         "history": 0.06,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
@@ -1199,69 +1255,6 @@
         "sport-bikes",
         "law-safety",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "fd05debd1677a9c06b94a45526ee820740e7909f",
-      "title": "How Defensive Driving Helps Prevent Accidents",
-      "link": "https://youmotorcycle.com/how-defensive-driving-helps-prevent-accidents",
-      "lang": "en",
-      "source": "You Motorcycle",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Guest Blog Post",
-      "published": "2026-09-21T11:46:06+00:00",
-      "excerpt": "Not all crashes come from broken parts or ugly weather. The National Highway Traffic Safety Administration (NHTSA) conducted the National Motor Vehicle Crash Causation Survey. This study examined thousands of crashes in detail. The study found that driver-related factors were ide",
-      "image": "https://youmotorcycle.com/wp-content/uploads/image-4.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "law-safety",
-      "confident": false,
-      "cat_scores": {
-        "law-safety": 0.84
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.04,
-        "how-to": 0.43,
-        "explainer": 0.86,
-        "opinion": 0.31,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.07,
-        "digest": 0.09,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.06,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.09
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "law-safety"
       ],
       "also": []
     },
@@ -1296,8 +1289,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "law-safety": 0.81,
-        "sport-bikes": 0.51
+        "law-safety": 0.82,
+        "sport-bikes": 0.5
       },
       "subcategories": [],
       "forms": [
@@ -1307,28 +1300,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.79,
+        "news": 0.78,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.06,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
         "opinion": 0.06,
-        "profile-interview": 0.71,
+        "profile-interview": 0.72,
         "tribute": 0.06,
         "listing": 0.01,
-        "event-report": 0.32,
+        "event-report": 0.31,
         "event-preview": 0.03,
         "press-release": 0.07,
-        "digest": 0.07,
+        "digest": 0.06,
         "photo-gallery": 0.08,
         "ride-report": 0.07,
         "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.06,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
@@ -1383,9 +1376,9 @@
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.99,
-        "law-safety": 0.85,
-        "racing": 0.51
+        "gear": 0.98,
+        "law-safety": 0.86,
+        "racing": 0.52
       },
       "subcategories": [],
       "forms": [
@@ -1408,26 +1401,26 @@
       ],
       "form_scores": {
         "news": 0.87,
-        "review": 0.77,
+        "review": 0.8,
         "comparison-test": 0.05,
-        "first-look": 0.82,
+        "first-look": 0.84,
         "ranked-list": 0.03,
         "buyers-guide": 0.27,
         "how-to": 0.03,
         "explainer": 0.26,
-        "opinion": 0.15,
-        "profile-interview": 0.16,
+        "opinion": 0.17,
+        "profile-interview": 0.17,
         "tribute": 0.01,
         "listing": 0.03,
         "event-report": 0.1,
         "event-preview": 0.07,
-        "press-release": 0.89,
+        "press-release": 0.88,
         "digest": 0.07,
         "photo-gallery": 0.11,
         "ride-report": 0.02,
-        "history": 0.02,
+        "history": 0.03,
         "rumor": 0.07,
-        "safety-notice": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.03
@@ -1461,10 +1454,6 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
@@ -1472,7 +1461,6 @@
       "cat_scores": {
         "racing": 1.0,
         "law-safety": 0.8,
-        "sport-bikes": 0.55,
         "motogp": 0.98
       },
       "subcategories": [
@@ -1493,28 +1481,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.92,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.11,
-        "profile-interview": 0.11,
+        "explainer": 0.06,
+        "opinion": 0.12,
+        "profile-interview": 0.12,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.97,
+        "event-report": 0.98,
         "event-preview": 0.03,
         "press-release": 0.05,
         "digest": 0.07,
-        "photo-gallery": 0.04,
+        "photo-gallery": 0.03,
         "ride-report": 0.02,
         "history": 0.05,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
@@ -1522,7 +1510,6 @@
       "tags": [
         "racing",
         "law-safety",
-        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -1554,22 +1541,22 @@
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.07,
+        "news": 0.06,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.05,
         "buyers-guide": 0.03,
         "how-to": 0.04,
-        "explainer": 0.73,
-        "opinion": 0.43,
+        "explainer": 0.74,
+        "opinion": 0.42,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.01,
         "press-release": 0.07,
-        "digest": 0.09,
+        "digest": 0.08,
         "photo-gallery": 0.04,
         "ride-report": 0.03,
         "history": 0.02,
@@ -1607,7 +1594,7 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.94
+        "law-safety": 0.95
       },
       "subcategories": [],
       "forms": [
@@ -1617,32 +1604,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.87,
         "review": 0.05,
         "comparison-test": 0.02,
         "first-look": 0.04,
         "ranked-list": 0.02,
         "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.44,
+        "explainer": 0.43,
         "opinion": 0.09,
         "profile-interview": 0.07,
         "tribute": 0.01,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.02,
-        "press-release": 0.4,
-        "digest": 0.07,
+        "press-release": 0.42,
+        "digest": 0.08,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.02,
         "rumor": 0.05,
-        "safety-notice": 0.32,
+        "safety-notice": 0.35,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "law-safety"
       ],
@@ -1675,7 +1662,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "law-safety": 0.53,
+        "law-safety": 0.54,
         "motogp": 0.98
       },
       "subcategories": [
@@ -1703,19 +1690,19 @@
         "ranked-list": 0.01,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.05,
+        "explainer": 0.06,
         "opinion": 0.03,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.76,
-        "press-release": 0.25,
+        "event-report": 0.12,
+        "event-preview": 0.75,
+        "press-release": 0.26,
         "digest": 0.07,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.02,
+        "rumor": 0.01,
         "safety-notice": 0.04,
         "episode": 0.02,
         "build-feature": 0.01,
@@ -1756,35 +1743,35 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.89
+        "law-safety": 0.9
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
         "news": 0.12,
         "review": 0.03,
-        "comparison-test": 0.03,
+        "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.03,
         "buyers-guide": 0.25,
         "how-to": 0.04,
-        "explainer": 0.09,
+        "explainer": 0.1,
         "opinion": 0.12,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.01,
+        "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.11,
-        "digest": 0.08,
+        "digest": 0.09,
         "photo-gallery": 0.04,
-        "ride-report": 0.01,
+        "ride-report": 0.02,
         "history": 0.01,
-        "rumor": 0.01,
-        "safety-notice": 0.23,
+        "rumor": 0.02,
+        "safety-notice": 0.25,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.49
+        "q-and-a": 0.5
       },
       "multi_subject": 0.06,
       "tags": [
@@ -1820,7 +1807,7 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.88
+        "law-safety": 0.85
       },
       "subcategories": [],
       "forms": [
@@ -1837,23 +1824,23 @@
         "news": 0.89,
         "review": 0.39,
         "comparison-test": 0.04,
-        "first-look": 0.64,
+        "first-look": 0.65,
         "ranked-list": 0.02,
-        "buyers-guide": 0.22,
-        "how-to": 0.02,
-        "explainer": 0.52,
+        "buyers-guide": 0.24,
+        "how-to": 0.03,
+        "explainer": 0.5,
         "opinion": 0.07,
         "profile-interview": 0.14,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.07,
-        "event-preview": 0.41,
+        "event-report": 0.08,
+        "event-preview": 0.45,
         "press-release": 0.89,
         "digest": 0.07,
         "photo-gallery": 0.09,
-        "ride-report": 0.01,
+        "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.35,
+        "rumor": 0.37,
         "safety-notice": 0.04,
         "episode": 0.03,
         "build-feature": 0.02,
@@ -1898,46 +1885,46 @@
       "cat_scores": {
         "gear": 0.98,
         "law-safety": 0.95,
-        "industry": 0.76
+        "industry": 0.77
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "safety-notice",
           "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.8,
+        "news": 0.79,
         "review": 0.03,
         "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
         "buyers-guide": 0.25,
         "how-to": 0.04,
-        "explainer": 0.24,
-        "opinion": 0.07,
+        "explainer": 0.25,
+        "opinion": 0.08,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.22,
+        "press-release": 0.23,
         "digest": 0.08,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.02,
-        "safety-notice": 0.79,
+        "safety-notice": 0.8,
         "episode": 0.04,
-        "build-feature": 0.01,
+        "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety",
@@ -1977,7 +1964,7 @@
       "cat_scores": {
         "electric": 0.98,
         "dirt-mx": 0.86,
-        "law-safety": 0.54
+        "law-safety": 0.55
       },
       "subcategories": [],
       "forms": [
@@ -1987,27 +1974,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
+        "news": 0.08,
         "review": 0.05,
-        "comparison-test": 0.46,
+        "comparison-test": 0.45,
         "first-look": 0.12,
         "ranked-list": 0.03,
-        "buyers-guide": 0.21,
+        "buyers-guide": 0.22,
         "how-to": 0.06,
-        "explainer": 0.71,
+        "explainer": 0.72,
         "opinion": 0.55,
-        "profile-interview": 0.26,
+        "profile-interview": 0.3,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.06,
-        "event-preview": 0.02,
-        "press-release": 0.07,
+        "event-preview": 0.03,
+        "press-release": 0.08,
         "digest": 0.1,
         "photo-gallery": 0.06,
         "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.11,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.12,
         "episode": 0.97,
         "build-feature": 0.02,
         "q-and-a": 0.05
@@ -2056,26 +2043,26 @@
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.04,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.05,
         "how-to": 0.05,
-        "explainer": 0.52,
-        "opinion": 0.8,
-        "profile-interview": 0.04,
+        "explainer": 0.53,
+        "opinion": 0.81,
+        "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.03,
         "event-preview": 0.02,
         "press-release": 0.05,
         "digest": 0.11,
-        "photo-gallery": 0.06,
-        "ride-report": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.1,
         "history": 0.04,
         "rumor": 0.02,
-        "safety-notice": 0.52,
-        "episode": 0.08,
+        "safety-notice": 0.5,
+        "episode": 0.09,
         "build-feature": 0.02,
-        "q-and-a": 0.1
+        "q-and-a": 0.11
       },
       "multi_subject": 0.08,
       "tags": [
@@ -2105,7 +2092,7 @@
       "primary": "law-safety",
       "confident": false,
       "cat_scores": {
-        "law-safety": 0.71
+        "law-safety": 0.73
       },
       "subcategories": [],
       "forms": [
@@ -2116,31 +2103,31 @@
       ],
       "form_scores": {
         "news": 0.02,
-        "review": 0.02,
+        "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.03,
         "buyers-guide": 0.04,
-        "how-to": 0.36,
-        "explainer": 0.71,
-        "opinion": 0.89,
-        "profile-interview": 0.08,
-        "tribute": 0.02,
+        "how-to": 0.34,
+        "explainer": 0.7,
+        "opinion": 0.88,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.01,
         "event-preview": 0.02,
         "press-release": 0.03,
         "digest": 0.04,
-        "photo-gallery": 0.03,
+        "photo-gallery": 0.02,
         "ride-report": 0.07,
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.03,
-        "episode": 0.12,
+        "episode": 0.11,
         "build-feature": 0.01,
         "q-and-a": 0.13
       },
-      "multi_subject": 0.1,
+      "multi_subject": 0.11,
       "tags": [
         "law-safety"
       ],
@@ -2172,8 +2159,8 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.89,
-        "industry": 0.76
+        "law-safety": 0.9,
+        "industry": 0.75
       },
       "subcategories": [],
       "forms": [
@@ -2183,27 +2170,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.65,
+        "news": 0.69,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.07,
         "how-to": 0.03,
-        "explainer": 0.27,
+        "explainer": 0.26,
         "opinion": 0.11,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
-        "event-preview": 0.02,
+        "event-preview": 0.01,
         "press-release": 0.12,
-        "digest": 0.08,
+        "digest": 0.07,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.08,
-        "safety-notice": 0.91,
+        "rumor": 0.07,
+        "safety-notice": 0.9,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.06
@@ -2242,7 +2229,7 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.58
+        "law-safety": 0.59
       },
       "subcategories": [],
       "forms": [
@@ -2252,23 +2239,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.02,
+        "news": 0.03,
         "review": 0.06,
         "comparison-test": 0.06,
-        "first-look": 0.03,
+        "first-look": 0.04,
         "ranked-list": 0.12,
-        "buyers-guide": 0.71,
-        "how-to": 0.68,
+        "buyers-guide": 0.7,
+        "how-to": 0.69,
         "explainer": 0.81,
         "opinion": 0.14,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.02,
+        "event-report": 0.01,
         "event-preview": 0.01,
         "press-release": 0.06,
         "digest": 0.06,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.07,
         "ride-report": 0.03,
         "history": 0.02,
         "rumor": 0.01,
@@ -2277,7 +2264,7 @@
         "build-feature": 0.02,
         "q-and-a": 0.14
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.06,
       "tags": [
         "gear",
         "law-safety"
@@ -2321,17 +2308,17 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
+        "news": 0.92,
         "review": 0.03,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.11,
         "opinion": 0.04,
-        "profile-interview": 0.1,
-        "tribute": 0.03,
+        "profile-interview": 0.11,
+        "tribute": 0.04,
         "listing": 0.02,
         "event-report": 0.03,
         "event-preview": 0.02,
@@ -2342,11 +2329,11 @@
         "history": 0.09,
         "rumor": 0.01,
         "safety-notice": 0.04,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "law-safety",
         "events-rides"
@@ -2384,18 +2371,18 @@
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.11,
-        "buyers-guide": 0.02,
+        "ranked-list": 0.1,
+        "buyers-guide": 0.03,
         "how-to": 0.08,
-        "explainer": 0.67,
-        "opinion": 0.17,
+        "explainer": 0.68,
+        "opinion": 0.19,
         "profile-interview": 0.04,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.02,
         "event-preview": 0.02,
         "press-release": 0.05,
-        "digest": 0.09,
+        "digest": 0.1,
         "photo-gallery": 0.05,
         "ride-report": 0.02,
         "history": 0.02,
@@ -2403,7 +2390,7 @@
         "safety-notice": 0.05,
         "episode": 0.05,
         "build-feature": 0.03,
-        "q-and-a": 0.16
+        "q-and-a": 0.17
       },
       "multi_subject": 0.07,
       "tags": [
@@ -2444,17 +2431,17 @@
       ],
       "form_scores": {
         "news": 0.05,
-        "review": 0.02,
+        "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.03,
-        "how-to": 0.28,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.26,
         "explainer": 0.83,
-        "opinion": 0.36,
-        "profile-interview": 0.05,
+        "opinion": 0.38,
+        "profile-interview": 0.04,
         "tribute": 0.02,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.01,
         "press-release": 0.07,
@@ -2466,7 +2453,7 @@
         "safety-notice": 0.06,
         "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.2
+        "q-and-a": 0.18
       },
       "multi_subject": 0.06,
       "tags": [
@@ -2527,11 +2514,11 @@
         "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.05,
-        "episode": 0.03,
+        "episode": 0.04,
         "build-feature": 0.01,
         "q-and-a": 0.07
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "law-safety"
       ],
@@ -2564,37 +2551,37 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "law-safety": 0.94
+        "law-safety": 0.95
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
         "news": 0.04,
-        "review": 0.05,
+        "review": 0.03,
         "comparison-test": 0.03,
         "first-look": 0.01,
         "ranked-list": 0.04,
-        "buyers-guide": 0.29,
-        "how-to": 0.43,
-        "explainer": 0.6,
+        "buyers-guide": 0.32,
+        "how-to": 0.41,
+        "explainer": 0.61,
         "opinion": 0.37,
-        "profile-interview": 0.07,
+        "profile-interview": 0.06,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.02,
         "event-preview": 0.01,
         "press-release": 0.06,
-        "digest": 0.11,
+        "digest": 0.1,
         "photo-gallery": 0.05,
-        "ride-report": 0.41,
-        "history": 0.04,
+        "ride-report": 0.38,
+        "history": 0.03,
         "rumor": 0.01,
-        "safety-notice": 0.05,
+        "safety-notice": 0.06,
         "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.25
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.07,
       "tags": [
         "adventure",
         "law-safety"
@@ -2623,7 +2610,7 @@
       "primary": "law-safety",
       "confident": false,
       "cat_scores": {
-        "law-safety": 0.62
+        "law-safety": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -2637,28 +2624,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.03,
+        "news": 0.04,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.87,
+        "ranked-list": 0.85,
         "buyers-guide": 0.03,
-        "how-to": 0.7,
+        "how-to": 0.72,
         "explainer": 0.84,
-        "opinion": 0.72,
+        "opinion": 0.71,
         "profile-interview": 0.04,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
-        "event-preview": 0.02,
+        "event-preview": 0.01,
         "press-release": 0.06,
         "digest": 0.09,
         "photo-gallery": 0.06,
         "ride-report": 0.03,
         "history": 0.02,
         "rumor": 0.01,
-        "safety-notice": 0.1,
-        "episode": 0.05,
+        "safety-notice": 0.13,
+        "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.11
       },
@@ -2699,8 +2686,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 1.0,
-        "dirt-mx": 0.75,
-        "law-safety": 0.63
+        "dirt-mx": 0.76,
+        "law-safety": 0.6
       },
       "subcategories": [],
       "forms": [
@@ -2718,11 +2705,11 @@
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.01,
-        "ranked-list": 0.06,
+        "ranked-list": 0.07,
         "buyers-guide": 0.01,
         "how-to": 0.04,
         "explainer": 0.08,
-        "opinion": 0.79,
+        "opinion": 0.78,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
@@ -2731,7 +2718,7 @@
         "press-release": 0.01,
         "digest": 0.1,
         "photo-gallery": 0.1,
-        "ride-report": 0.81,
+        "ride-report": 0.83,
         "history": 0.04,
         "rumor": 0.01,
         "safety-notice": 0.04,
@@ -2739,7 +2726,7 @@
         "build-feature": 0.02,
         "q-and-a": 0.07
       },
-      "multi_subject": 0.2,
+      "multi_subject": 0.24,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -2774,7 +2761,7 @@
       "confident": true,
       "cat_scores": {
         "gear": 0.97,
-        "law-safety": 0.63
+        "law-safety": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -2788,11 +2775,11 @@
         "review": 0.04,
         "comparison-test": 0.03,
         "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.59,
-        "how-to": 0.1,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.57,
+        "how-to": 0.09,
         "explainer": 0.9,
-        "opinion": 0.19,
+        "opinion": 0.18,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.02,
@@ -2805,11 +2792,11 @@
         "history": 0.01,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.08
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.09,
       "tags": [
         "gear",
         "law-safety"
