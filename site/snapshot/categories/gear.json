@@ -435,16 +435,100 @@
       "also": []
     },
     {
-      "id": "c98062b15e3ddaca125b46ff53a993a97e1bbe8d",
-      "title": "Michelin: \"At Motegi, the main challenge will be the new asphalt\"",
-      "link": "https://www.gpone.com/en/2026/09/30/motogp/michelin-at-motegi-the-main-challenge-will-be-the-new-asphalt.html",
+      "id": "6a3cfc28b8994eec9c56c3e97b8ba9cab5f7d979",
+      "title": "Multiple MotoGP riders dismiss Michelin\u2019s Motegi addition",
+      "link": "https://www.crash.net/motogp/news/1105933/1/multiple-motogp-riders-dismiss-michelins-motegi-addition",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T08:52:06+00:00",
+      "excerpt": "MotoGP riders have dismissed the viability Michelin\u2019s harder-construction rear tyre at the Japanese Grand Prix.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348467_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "gear": 0.92,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.05,
+        "comparison-test": 0.1,
+        "first-look": 0.43,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.12,
+        "opinion": 0.21,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.17,
+        "event-preview": 0.4,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.07,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "GPone",
+          "title": "Michelin: \"At Motegi, the main challenge will be the new asphalt\"",
+          "link": "https://www.gpone.com/en/2026/09/30/motogp/michelin-at-motegi-the-main-challenge-will-be-the-new-asphalt.html",
+          "published": "2026-09-30T12:34:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2e5e2b03967ff98cea78ea59a0e04d74e55fdbdb",
+      "title": "Pirelli takes on Motegi and new track surface: \"It's the main variable\"",
+      "link": "https://www.gpone.com/en/2026/09/28/moto2/pirelli-takes-on-motegi-and-new-track-surface-its-the-main-variable.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-09-30T12:34:43+00:00",
-      "excerpt": "The track surface at the Japanese circuit has been resurfaced, and the French tyre manufacturer has no data. It will bring three options; the hard rear will have a reinforced casing.",
+      "published": "2026-09-28T17:27:46+00:00",
+      "excerpt": "They confirmed the 2025 tires for the Moto2 and Moto3, but the grip on the new surface will be assessed on site",
       "image": null,
       "audio": null,
       "categories": [
@@ -461,8 +545,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "gear": 0.87,
-        "motogp": 0.54
+        "gear": 0.94,
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -482,32 +566,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.86,
-        "review": 0.03,
-        "comparison-test": 0.04,
-        "first-look": 0.07,
+        "news": 0.82,
+        "review": 0.05,
+        "comparison-test": 0.05,
+        "first-look": 0.16,
         "ranked-list": 0.02,
         "buyers-guide": 0.05,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.18,
-        "opinion": 0.07,
-        "profile-interview": 0.39,
+        "opinion": 0.11,
+        "profile-interview": 0.72,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.89,
-        "press-release": 0.71,
+        "event-report": 0.07,
+        "event-preview": 0.83,
+        "press-release": 0.72,
         "digest": 0.08,
-        "photo-gallery": 0.05,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.08,
+        "rumor": 0.09,
         "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "racing",
         "gear",
@@ -516,28 +600,33 @@
       "also": []
     },
     {
-      "id": "e317323f7029708bc80d282660274cb44c361a4e",
-      "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
-      "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
+      "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
+      "title": "Furygan launches first women-specific motorcycle airbag",
+      "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T14:27:14+00:00",
-      "excerpt": "AGV has revealed the all-new K5 sport-touring helmet which balances premium specs with affordable pricing.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t150927.357.png?width=1200",
+      "published": "2026-10-01T09:31:05+00:00",
+      "excerpt": "Furygan has launched its first airbag designed for women, with five modes and a \u00a3369.99 price tag.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-01-at-10.30.33.png?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "gear",
           "label": "Gear"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
       "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "gear": 0.99
+        "gear": 0.97,
+        "law-safety": 0.84
       },
       "subcategories": [],
       "forms": [
@@ -551,34 +640,35 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
-        "review": 0.2,
+        "news": 0.91,
+        "review": 0.32,
         "comparison-test": 0.03,
-        "first-look": 0.34,
+        "first-look": 0.17,
         "ranked-list": 0.03,
-        "buyers-guide": 0.27,
-        "how-to": 0.02,
-        "explainer": 0.11,
+        "buyers-guide": 0.3,
+        "how-to": 0.03,
+        "explainer": 0.25,
         "opinion": 0.05,
-        "profile-interview": 0.08,
+        "profile-interview": 0.13,
         "tribute": 0.01,
-        "listing": 0.03,
+        "listing": 0.09,
         "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.95,
-        "digest": 0.07,
-        "photo-gallery": 0.12,
+        "press-release": 0.93,
+        "digest": 0.09,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.07,
-        "safety-notice": 0.02,
-        "episode": 0.03,
+        "history": 0.03,
+        "rumor": 0.05,
+        "safety-notice": 0.04,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "gear"
+        "gear",
+        "law-safety"
       ],
       "also": []
     },
@@ -710,221 +800,6 @@
       "also": []
     },
     {
-      "id": "2e5e2b03967ff98cea78ea59a0e04d74e55fdbdb",
-      "title": "Pirelli takes on Motegi and new track surface: \"It's the main variable\"",
-      "link": "https://www.gpone.com/en/2026/09/28/moto2/pirelli-takes-on-motegi-and-new-track-surface-its-the-main-variable.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-28T17:27:46+00:00",
-      "excerpt": "They confirmed the 2025 tires for the Moto2 and Moto3, but the grip on the new surface will be assessed on site",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "gear": 0.94,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.82,
-        "review": 0.05,
-        "comparison-test": 0.05,
-        "first-look": 0.16,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.18,
-        "opinion": 0.11,
-        "profile-interview": 0.72,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.83,
-        "press-release": 0.72,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.03,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "0c807dbf421877ba115f5cf6238db683a5b130e4",
-      "title": "The AGV K7 lots points for one part going MIA",
-      "link": "https://www.motorcyclenews.com/bike-kit/helmets/agv-k7-review",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T16:27:30+00:00",
-      "excerpt": "Having had an AGV K5 S helmet years ago, which I found to be a great fit for me and firm favourite, I was keen to try their latest sports-touring offering, the K7. I like to keep a good sports touring...",
-      "image": "https://www.motorcyclenews.com/wp-images/439550/390x260/agv_helmet_2026_004_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.98
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        }
-      ],
-      "form_scores": {
-        "news": 0.15,
-        "review": 0.89,
-        "comparison-test": 0.12,
-        "first-look": 0.78,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.63,
-        "how-to": 0.06,
-        "explainer": 0.19,
-        "opinion": 0.7,
-        "profile-interview": 0.06,
-        "tribute": 0.03,
-        "listing": 0.03,
-        "event-report": 0.04,
-        "event-preview": 0.02,
-        "press-release": 0.12,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.22,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.08,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.11
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
-      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
-      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T06:04:14+00:00",
-      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.69,
-        "comparison-test": 0.03,
-        "first-look": 0.36,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.31,
-        "how-to": 0.08,
-        "explainer": 0.52,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.84,
-        "digest": 0.09,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.11,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
       "id": "f8fb0b085419653e72cd675506e26fae3311346e",
       "title": "Pirelli prepares for the 2027 MotoGP season: different tyres to change the races, too",
       "link": "https://www.gpone.com/en/2026/09/22/motogp/pirelli-prepares-for-the-2027-motogp-season-different-tyres-to-change-the-races-too.html",
@@ -997,17 +872,84 @@
       "also": []
     },
     {
-      "id": "4c0b7c8d8c337985e2d468a777573f5c9147824b",
-      "title": "Ruroc \u201cLeave Your Mark\u201d custom helmet design competition voting opens",
-      "link": "https://www.visordown.com/news/ruroc-leave-your-mark-custom-helmet-design-competition-voting-opens",
+      "id": "e317323f7029708bc80d282660274cb44c361a4e",
+      "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
+      "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-21T10:03:25+00:00",
-      "excerpt": "Rider-designed Ruroc helmets are in the spotlight as voting opens for the \u201cLeave Your Mark\u201d design competition.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/ruroc-helmet-comp_2.jpeg?width=1200",
+      "published": "2026-09-29T14:27:14+00:00",
+      "excerpt": "AGV has revealed the all-new K5 sport-touring helmet which balances premium specs with affordable pricing.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t150927.357.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.99
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.2,
+        "comparison-test": 0.03,
+        "first-look": 0.34,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.27,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.95,
+        "digest": 0.07,
+        "photo-gallery": 0.12,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "0c807dbf421877ba115f5cf6238db683a5b130e4",
+      "title": "The AGV K7 lots points for one part going MIA",
+      "link": "https://www.motorcyclenews.com/bike-kit/helmets/agv-k7-review",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T16:27:30+00:00",
+      "excerpt": "Having had an AGV K5 S helmet years ago, which I found to be a great fit for me and firm favourite, I was keen to try their latest sports-touring offering, the K7. I like to keep a good sports touring...",
+      "image": "https://www.motorcyclenews.com/wp-images/439550/390x260/agv_helmet_2026_004_preview.jpg",
       "audio": null,
       "categories": [
         {
@@ -1023,6 +965,157 @@
       "subcategories": [],
       "forms": [
         {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.89,
+        "comparison-test": 0.12,
+        "first-look": 0.78,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.63,
+        "how-to": 0.06,
+        "explainer": 0.19,
+        "opinion": 0.7,
+        "profile-interview": 0.06,
+        "tribute": 0.03,
+        "listing": 0.03,
+        "event-report": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.12,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.22,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.08,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.11
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "8405cfc5f3c977ec25871469c01daae0adb0a558",
+      "title": "Michelin puts Jack Miller in a bind: last and slowest among Harley Baggers!",
+      "link": "https://www.gpone.com/en/2026/09/21/motogp/michelin-puts-jack-miller-in-a-bind-last-and-slowest-among-harley-baggers.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-21T14:52:51+00:00",
+      "excerpt": "The special tire also caused problems for Ducati, but the tire wear became extreme on Jack\u2019s Yamaha: \u201cIt was embarrassing. I couldn\u2019t open the throttle anymore.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.88,
+        "motogp": 0.7,
+        "worldsbk-superbike": 0.76
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.45,
+        "review": 0.23,
+        "comparison-test": 0.61,
+        "first-look": 0.1,
+        "ranked-list": 0.12,
+        "buyers-guide": 0.08,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.56,
+        "profile-interview": 0.19,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.79,
+        "event-preview": 0.08,
+        "press-release": 0.13,
+        "digest": 0.15,
+        "photo-gallery": 0.1,
+        "ride-report": 0.04,
+        "history": 0.19,
+        "rumor": 0.07,
+        "safety-notice": 0.04,
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
+      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
+      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T06:04:14+00:00",
+      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
           "slug": "news",
           "label": "News"
         },
@@ -1032,32 +1125,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.04,
+        "news": 0.84,
+        "review": 0.69,
         "comparison-test": 0.03,
-        "first-look": 0.06,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.09,
-        "how-to": 0.04,
-        "explainer": 0.17,
+        "first-look": 0.36,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.31,
+        "how-to": 0.08,
+        "explainer": 0.52,
         "opinion": 0.05,
-        "profile-interview": 0.09,
+        "profile-interview": 0.08,
         "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.29,
-        "press-release": 0.82,
+        "listing": 0.06,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.84,
         "digest": 0.09,
-        "photo-gallery": 0.15,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.11,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "build-feature": 0.02,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "gear"
       ],
@@ -1348,6 +1441,140 @@
       "also": []
     },
     {
+      "id": "f964924957b999fa1ef09f403a50783d9afafd3e",
+      "title": "Treading carefully | Finding the right rubber for the Triumph Speed Triple 1200 RS on track and road",
+      "link": "https://www.motorcyclenews.com/mcn-fleet/triumph-speed-triple-1200-rs/treading-carefully",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T16:55:30+00:00",
+      "excerpt": "Choosing the right tyres is hugely important, and so far I\u2019ve sampled two options from Metzeler\u2019s current catalogue aboard the Speed Triple. I was keen to see how their latest...",
+      "image": "https://www.motorcyclenews.com/wp-images/438236/390x260/triumph_speed_triple_donington_40.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.79,
+        "comparison-test": 0.58,
+        "first-look": 0.35,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.79,
+        "how-to": 0.18,
+        "explainer": 0.33,
+        "opinion": 0.5,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.04,
+        "press-release": 0.1,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.47,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.1
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "4c0b7c8d8c337985e2d468a777573f5c9147824b",
+      "title": "Ruroc \u201cLeave Your Mark\u201d custom helmet design competition voting opens",
+      "link": "https://www.visordown.com/news/ruroc-leave-your-mark-custom-helmet-design-competition-voting-opens",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-21T10:03:25+00:00",
+      "excerpt": "Rider-designed Ruroc helmets are in the spotlight as voting opens for the \u201cLeave Your Mark\u201d design competition.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/ruroc-helmet-comp_2.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.09,
+        "how-to": 0.04,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.29,
+        "press-release": 0.82,
+        "digest": 0.09,
+        "photo-gallery": 0.15,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear"
+      ],
+      "also": []
+    },
+    {
       "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
       "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
       "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
@@ -1425,157 +1652,6 @@
         "racing",
         "gear",
         "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "f964924957b999fa1ef09f403a50783d9afafd3e",
-      "title": "Treading carefully | Finding the right rubber for the Triumph Speed Triple 1200 RS on track and road",
-      "link": "https://www.motorcyclenews.com/mcn-fleet/triumph-speed-triple-1200-rs/treading-carefully",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T16:55:30+00:00",
-      "excerpt": "Choosing the right tyres is hugely important, and so far I\u2019ve sampled two options from Metzeler\u2019s current catalogue aboard the Speed Triple. I was keen to see how their latest...",
-      "image": "https://www.motorcyclenews.com/wp-images/438236/390x260/triumph_speed_triple_donington_40.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.96
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "review",
-          "label": "Review"
-        },
-        {
-          "slug": "buyers-guide",
-          "label": "Buyer's Guide"
-        }
-      ],
-      "form_scores": {
-        "news": 0.08,
-        "review": 0.79,
-        "comparison-test": 0.58,
-        "first-look": 0.35,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.79,
-        "how-to": 0.18,
-        "explainer": 0.33,
-        "opinion": 0.5,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.07,
-        "event-preview": 0.04,
-        "press-release": 0.1,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.47,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.1
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "8405cfc5f3c977ec25871469c01daae0adb0a558",
-      "title": "Michelin puts Jack Miller in a bind: last and slowest among Harley Baggers!",
-      "link": "https://www.gpone.com/en/2026/09/21/motogp/michelin-puts-jack-miller-in-a-bind-last-and-slowest-among-harley-baggers.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-21T14:52:51+00:00",
-      "excerpt": "The special tire also caused problems for Ducati, but the tire wear became extreme on Jack\u2019s Yamaha: \u201cIt was embarrassing. I couldn\u2019t open the throttle anymore.\u201d",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "gear": 0.88,
-        "motogp": 0.7,
-        "worldsbk-superbike": 0.76
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.45,
-        "review": 0.23,
-        "comparison-test": 0.61,
-        "first-look": 0.1,
-        "ranked-list": 0.12,
-        "buyers-guide": 0.08,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.56,
-        "profile-interview": 0.19,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.79,
-        "event-preview": 0.08,
-        "press-release": 0.13,
-        "digest": 0.15,
-        "photo-gallery": 0.1,
-        "ride-report": 0.04,
-        "history": 0.19,
-        "rumor": 0.07,
-        "safety-notice": 0.04,
-        "episode": 0.07,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp",
-        "worldsbk-superbike"
       ],
       "also": []
     },
