@@ -3,6 +3,83 @@
   "label": "Explainer",
   "items": [
     {
+      "id": "0a2ef2a747bbecdaad06cab0a5739fc262e385a3",
+      "title": "The behind-the-scenes tech that helped Nicolo Bulega to WorldSBK dominance",
+      "link": "https://www.crash.net/wsbk/news/1105947/1/behind-scenes-tech-helped-nicolo-bulega-worldsbk-dominance",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T13:34:42+00:00",
+      "excerpt": "Lenovo has been a key part in Ducati and Nicolo Bulega\u2019s WorldSBK dominance this season. Here\u2019s how\u2026",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1347707_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.79,
+        "opinion": 0.18,
+        "profile-interview": 0.35,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.19,
+        "event-preview": 0.04,
+        "press-release": 0.51,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "5371511971272534a9f7b48ddc426466fd5eb515",
       "title": "How to Prepare for a Motorcycle License Test Without the Last-Minute Panic",
       "link": "https://youmotorcycle.com/how-to-prepare-for-a-motorcycle-license-test-without-the-last-minute-panic",
