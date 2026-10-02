@@ -362,87 +362,6 @@
       "also": []
     },
     {
-      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
-      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
-      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T18:01:51+00:00",
-      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
-      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.95,
-        "law-safety": 0.91
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "tribute",
-          "label": "Tribute"
-        },
-        {
-          "slug": "history",
-          "label": "History"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.19,
-        "opinion": 0.07,
-        "profile-interview": 0.15,
-        "tribute": 0.8,
-        "listing": 0.01,
-        "event-report": 0.26,
-        "event-preview": 0.76,
-        "press-release": 0.28,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.8,
-        "rumor": 0.01,
-        "safety-notice": 0.37,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "events-rides",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
       "id": "10ae65646fc01bbcfce11492deff9042990b1d78",
       "title": "9 Best Caf\u00e9 Racers to Look Out for at the 2026 Autumn Stafford Sale",
       "link": "https://www.returnofthecaferacers.com/cafe-racers/9-best-cafe-racers-to-look-out-for-at-the-2026-autumn-stafford-sale",
@@ -624,6 +543,87 @@
           "published": "2026-09-21T13:22:28+00:00"
         }
       ]
+    },
+    {
+      "id": "13c5e1895918bb8e655efb712c1d38c7274110ee",
+      "title": "BSB Donington Park: Kyle Ryde tops pre-qualifying session ahead of Scott Redding",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/october/kyle-ryde-tops-pre-qualifying-donington-park",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T16:42:47+00:00",
+      "excerpt": "Championship leader Kyle Ryde is the man to beat once more heading into the British Superbike Championship weekend at Donington Park after topping the pre-qualifying session. The reigning two-time...",
+      "image": "https://www.motorcyclenews.com/wp-images/440847/390x260/kyle-ryde-donington-friday.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.04,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.07,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.72,
+        "event-preview": 0.96,
+        "press-release": 0.09,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
     },
     {
       "id": "eb1ef28a62ca259767ec0b50d8d7458826267922",
@@ -951,6 +951,73 @@
       "also": []
     },
     {
+      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
+      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
+      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T07:30:00+00:00",
+      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.69
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.12,
+        "opinion": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.04,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.85,
+        "press-release": 0.65,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.19,
+        "rumor": 0.09,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing"
+      ],
+      "also": []
+    },
+    {
       "id": "29a17a8838dca666a5a101d9d8c20a2deb59ac94",
       "title": "250 RACE RESULTS // 2026 RIDGEDALE SMX",
       "link": "https://motocrossactionmag.com/250-race-results-2026-ridgedale-smx",
@@ -1028,73 +1095,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
-      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
-      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T07:30:00+00:00",
-      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.69
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.12,
-        "opinion": 0.04,
-        "profile-interview": 0.17,
-        "tribute": 0.04,
-        "listing": 0.02,
-        "event-report": 0.06,
-        "event-preview": 0.85,
-        "press-release": 0.65,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.19,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing"
       ],
       "also": []
     },
@@ -1685,6 +1685,87 @@
       "also": []
     },
     {
+      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
+      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
+      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T18:01:51+00:00",
+      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
+      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.95,
+        "law-safety": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.19,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
+        "tribute": 0.8,
+        "listing": 0.01,
+        "event-report": 0.26,
+        "event-preview": 0.76,
+        "press-release": 0.28,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.8,
+        "rumor": 0.01,
+        "safety-notice": 0.37,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides",
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
       "id": "815745b654f5d9346f6ef3c83ffa9dcc8d3cd2db",
       "title": "Moto Wrap Weekly | World titles, fine margins and the week ahead",
       "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-29-2026",
@@ -1950,6 +2031,77 @@
       ]
     },
     {
+      "id": "ea6b9f8e0322e1f207875c42efe48213a73e72f2",
+      "title": "More attractions and deals than ever promised for MCL26",
+      "link": "https://www.visordown.com/news/more-attractions-and-deals-ever-promised-mcl26",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T07:17:22+00:00",
+      "excerpt": "Motorcycle Live 2026 returns to Birmingham\u2019s NEC from November 21-29, with hundreds of bikes, free test rides, live shows, riding experiences and advance tickets from \u00a325.",
+      "image": "https://www.visordown.com/sites/default/files/2026-01/mcl.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.8
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.77,
+        "digest": 0.1,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "events-rides"
+      ],
+      "also": []
+    },
+    {
       "id": "6b830f5b846db1faeb4aa37ad1cd5e4d8a93c688",
       "title": "450 QUALIFYING RESULTS // 2026 RIDGEDALE SMX \u2013 PRESENTED BY FXR",
       "link": "https://motocrossactionmag.com/450-qualifying-results-2026-ridgedale-smx-presented-by-fxr",
@@ -2023,77 +2175,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "ea6b9f8e0322e1f207875c42efe48213a73e72f2",
-      "title": "More attractions and deals than ever promised for MCL26",
-      "link": "https://www.visordown.com/news/more-attractions-and-deals-ever-promised-mcl26",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T07:17:22+00:00",
-      "excerpt": "Motorcycle Live 2026 returns to Birmingham\u2019s NEC from November 21-29, with hundreds of bikes, free test rides, live shows, riding experiences and advance tickets from \u00a325.",
-      "image": "https://www.visordown.com/sites/default/files/2026-01/mcl.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
-        "events-rides": 0.8
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.86,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.04,
-        "event-report": 0.05,
-        "event-preview": 0.97,
-        "press-release": 0.77,
-        "digest": 0.1,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "events-rides"
       ],
       "also": []
     },
@@ -2929,6 +3010,77 @@
       "also": []
     },
     {
+      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
+      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
+      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T10:48:46+00:00",
+      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.72,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.1,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.13,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.95,
+        "press-release": 0.55,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.63,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "41f05f22378d7f5d625812902b0c6afe3d8d7630",
       "title": "Weege Show: The EXCLUSIVE Eli Tomac Exit Interview, Plus Beaumer, Minear, Davies",
       "link": "https://dirtrider.net/weege-show-the-exclusive-eli-tomac-exit-interview-plus-beaumer-minear-davies",
@@ -3019,77 +3171,6 @@
           "published": "2026-09-26T12:35:00+00:00"
         }
       ]
-    },
-    {
-      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
-      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
-      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T10:48:46+00:00",
-      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.72,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.1,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.95,
-        "press-release": 0.55,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.63,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
     },
     {
       "id": "2f92fb8b60783e9b3a7ea1ab992dee6c2fd7038e",
@@ -3656,73 +3737,6 @@
       "also": []
     },
     {
-      "id": "0192db56a50e27aa33415b0a3988ec7f861632f0",
-      "title": "LET THE BOYS BE BOYS. SMX PRESS DAY!",
-      "link": "https://dirtrider.net/let-the-boys-be-boys-smx-press-day",
-      "lang": "en",
-      "source": "DirtRider",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "DangerBoy",
-      "published": "2026-09-26T01:08:03+00:00",
-      "excerpt": "Download the FREE Upside App at https://upside.app.link/thedeegans to get an extra 25 cents back for every gallon on your first tank of gas. NEW MERCH!!! https://shopdeegan38.com https://www.facebook.com/Brian38Deegan",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.25,
-        "review": 0.04,
-        "comparison-test": 0.04,
-        "first-look": 0.09,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.05,
-        "opinion": 0.31,
-        "profile-interview": 0.2,
-        "tribute": 0.02,
-        "listing": 0.07,
-        "event-report": 0.2,
-        "event-preview": 0.78,
-        "press-release": 0.78,
-        "digest": 0.48,
-        "photo-gallery": 0.32,
-        "ride-report": 0.06,
-        "history": 0.05,
-        "rumor": 0.05,
-        "safety-notice": 0.01,
-        "episode": 0.13,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.72,
-      "tags": [
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
       "id": "47145c211431b59e55033d006206ee09ba7d28c8",
       "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
       "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
@@ -3790,6 +3804,73 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "0192db56a50e27aa33415b0a3988ec7f861632f0",
+      "title": "LET THE BOYS BE BOYS. SMX PRESS DAY!",
+      "link": "https://dirtrider.net/let-the-boys-be-boys-smx-press-day",
+      "lang": "en",
+      "source": "DirtRider",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "DangerBoy",
+      "published": "2026-09-26T01:08:03+00:00",
+      "excerpt": "Download the FREE Upside App at https://upside.app.link/thedeegans to get an extra 25 cents back for every gallon on your first tank of gas. NEW MERCH!!! https://shopdeegan38.com https://www.facebook.com/Brian38Deegan",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.09,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.05,
+        "opinion": 0.31,
+        "profile-interview": 0.2,
+        "tribute": 0.02,
+        "listing": 0.07,
+        "event-report": 0.2,
+        "event-preview": 0.78,
+        "press-release": 0.78,
+        "digest": 0.48,
+        "photo-gallery": 0.32,
+        "ride-report": 0.06,
+        "history": 0.05,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.13,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.72,
+      "tags": [
+        "dirt-mx"
       ],
       "also": []
     },
@@ -4333,6 +4414,81 @@
       "also": []
     },
     {
+      "id": "da93dd9609e33871a6e675a52a1dd540c012a853",
+      "title": "OliMoto partners with Honda for 19,000-mile round-the-world record attempt",
+      "link": "https://www.visordown.com/news/olimoto-partners-honda-19000-mile-round-world-record-attempt",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T09:28:56+00:00",
+      "excerpt": "Father-and-son team OliMoto has partnered with Honda for a planned 19,000-mile world record attempt in 2027, with Oli aged just 17 when they set off.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/img_0794.JPG?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.72,
+        "adv-events-competitions": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.04,
+        "profile-interview": 0.3,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.77,
+        "press-release": 0.72,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
       "id": "e3301f61b221988b99483b521b9a6f4c4a033040",
       "title": "Will Branson Deliver Ultimate SMX Finale as Promised? | The Blair Matthes Project 067",
       "link": "https://dirtrider.net/will-branson-deliver-ultimate-smx-finale-as-promised-the-blair-matthes-project-067",
@@ -4410,81 +4566,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "da93dd9609e33871a6e675a52a1dd540c012a853",
-      "title": "OliMoto partners with Honda for 19,000-mile round-the-world record attempt",
-      "link": "https://www.visordown.com/news/olimoto-partners-honda-19000-mile-round-world-record-attempt",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T09:28:56+00:00",
-      "excerpt": "Father-and-son team OliMoto has partnered with Honda for a planned 19,000-mile world record attempt in 2027, with Oli aged just 17 when they set off.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/img_0794.JPG?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "adventure",
-      "confident": false,
-      "cat_scores": {
-        "adventure": 0.72,
-        "adv-events-competitions": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.04,
-        "profile-interview": 0.3,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.77,
-        "press-release": 0.72,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "adv-events-competitions"
       ],
       "also": []
     },
@@ -4996,71 +5077,6 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "7a1a8fa4343a4dc363a6884a44681f9ac2b64546",
-      "title": "The Visordown Awards 2026 are coming: Have your say and vote for Bike of the Year",
-      "link": "https://www.visordown.com/news/visordown-awards-2026-are-coming-soon-and-we-want-your-say",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T15:44:00+00:00",
-      "excerpt": "The Visordown Awards are back and we're giving readers the chance to have a say in this year's Bike of the Year award",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/visordown-awards-flat.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
-        }
-      ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.78,
-        "review": 0.03,
-        "comparison-test": 0.08,
-        "first-look": 0.05,
-        "ranked-list": 0.14,
-        "buyers-guide": 0.12,
-        "how-to": 0.05,
-        "explainer": 0.18,
-        "opinion": 0.1,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.88,
-        "press-release": 0.68,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "odd-ball"
       ],
       "also": []
     },
@@ -8860,6 +8876,71 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "7a1a8fa4343a4dc363a6884a44681f9ac2b64546",
+      "title": "The Visordown Awards 2026 are coming: Have your say and vote for Bike of the Year",
+      "link": "https://www.visordown.com/news/visordown-awards-2026-are-coming-soon-and-we-want-your-say",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T15:44:00+00:00",
+      "excerpt": "The Visordown Awards are back and we're giving readers the chance to have a say in this year's Bike of the Year award",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/visordown-awards-flat.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.78,
+        "review": 0.03,
+        "comparison-test": 0.08,
+        "first-look": 0.05,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.12,
+        "how-to": 0.05,
+        "explainer": 0.18,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.88,
+        "press-release": 0.68,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "odd-ball"
       ],
       "also": []
     },

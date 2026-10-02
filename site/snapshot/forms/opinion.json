@@ -682,65 +682,90 @@
       "also": []
     },
     {
-      "id": "7ac2d5cc75fcee5996c3b929ab3dc0faf93f310b",
-      "title": "Honda V3 E-Compressor: from the Africa Twin to a new CBR\u2014what if this is only the beginning?",
-      "link": "https://www.gpone.com/en/2026/09/30/moto-news/honda-v3-e-compressor-from-the-africa-twin-to-a-new-cbr-what-if-this-is-only-the-beginning.html",
+      "id": "67029a37270b78599caea00c73282e162759ded3",
+      "title": "Taramasso: \u201cDucati is suffering with the stiffer casing? That\u2019s bullshit.\u201d",
+      "link": "https://www.gpone.com/en/2026/10/02/motogp/taramasso-ducati-is-suffering-with-the-stiffer-casing-thats-bullshit.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Marco Caregnato",
-      "published": "2026-09-30T14:23:40+00:00",
-      "excerpt": "The supercharged 900cc V3 could become far more than the heart of a naked bike. Adventure, sport-tourer and even a new supersport model: Honda may have created the engine around which to build a new generation",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-10-02T15:20:06+00:00",
+      "excerpt": "\u201cThat\u2019s absolutely not true; we\u2019ve brought the same casing to Austria for four years, and Ducati won. Maybe there were other issues, but not the casing.\u201d",
       "image": null,
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0
+        "racing": 1.0,
+        "sport-bikes": 0.73,
+        "motogp": 0.89,
+        "worldsbk-superbike": 0.68
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "opinion",
           "label": "Opinion"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.13,
-        "review": 0.08,
-        "comparison-test": 0.04,
-        "first-look": 0.25,
+        "news": 0.16,
+        "review": 0.07,
+        "comparison-test": 0.09,
+        "first-look": 0.05,
         "ranked-list": 0.02,
-        "buyers-guide": 0.09,
-        "how-to": 0.03,
-        "explainer": 0.3,
-        "opinion": 0.76,
-        "profile-interview": 0.1,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.87,
+        "profile-interview": 0.76,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.16,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
+        "listing": 0.01,
+        "event-report": 0.41,
+        "event-preview": 0.11,
+        "press-release": 0.08,
+        "digest": 0.12,
+        "photo-gallery": 0.07,
         "ride-report": 0.03,
-        "history": 0.05,
-        "rumor": 0.74,
+        "history": 0.14,
+        "rumor": 0.08,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.03,
-        "q-and-a": 0.04
+        "episode": 0.14,
+        "build-feature": 0.07,
+        "q-and-a": 0.1
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
-        "racing"
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1281,16 +1306,16 @@
       "also": []
     },
     {
-      "id": "124779d53847d3475442bf5dac705f33fcd58de3",
-      "title": "Dixon: \u201cI\u2019m not going through hell for nothing\u2014this MotoGP burns young riders out\u201d",
-      "link": "https://www.gpone.com/en/2026/09/25/wsbk/dixon-im-not-going-through-hell-for-nothing-this-motogp-burns-young-riders-out.html",
+      "id": "7ac2d5cc75fcee5996c3b929ab3dc0faf93f310b",
+      "title": "Honda V3 E-Compressor: from the Africa Twin to a new CBR\u2014what if this is only the beginning?",
+      "link": "https://www.gpone.com/en/2026/09/30/moto-news/honda-v3-e-compressor-from-the-africa-twin-to-a-new-cbr-what-if-this-is-only-the-beginning.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Daniela Piazza",
-      "published": "2026-09-25T10:31:41+00:00",
-      "excerpt": "\u201cRiders start so early that by the time they\u2019re 30, they\u2019re already burned out. My wife\u2019s illness has given me motivation and makes me believe that one day we\u2019ll be champions. Redding? You have to build your own path.\u201d",
+      "author": "Marco Caregnato",
+      "published": "2026-09-30T14:23:40+00:00",
+      "excerpt": "The supercharged 900cc V3 could become far more than the heart of a naked bike. Adventure, sport-tourer and even a new supersport model: Honda may have created the engine around which to build a new generation",
       "image": null,
       "audio": null,
       "categories": [
@@ -1302,56 +1327,44 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.9
+        "racing": 1.0
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
         {
           "slug": "opinion",
           "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.18,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
+        "news": 0.13,
+        "review": 0.08,
+        "comparison-test": 0.04,
+        "first-look": 0.25,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
+        "buyers-guide": 0.09,
         "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.77,
-        "profile-interview": 0.91,
-        "tribute": 0.04,
-        "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.05,
-        "press-release": 0.05,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.05,
+        "explainer": 0.3,
+        "opinion": 0.76,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.16,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
         "history": 0.05,
-        "rumor": 0.02,
+        "rumor": 0.74,
         "safety-notice": 0.02,
-        "episode": 0.09,
-        "build-feature": 0.02,
-        "q-and-a": 0.11
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.19,
+      "multi_subject": 0.05,
       "tags": [
-        "racing",
-        "motogp"
+        "racing"
       ],
       "also": []
     },
@@ -1563,17 +1576,17 @@
       "also": []
     },
     {
-      "id": "679d9c87eb3c054ab992fce7641dff65990b9b80",
-      "title": "Pirro: \u201cBulega the favorite in the MotoGP? It\u2019s just pre-race tactics. Testing isn\u2019t the same as racing.\u201d",
-      "link": "https://www.gpone.com/en/2026/09/24/motogp/pirro-bulega-the-favorite-in-the-motogp-its-just-pre-race-tactics-testing-isnt-the-same-as-racing.html",
+      "id": "124779d53847d3475442bf5dac705f33fcd58de3",
+      "title": "Dixon: \u201cI\u2019m not going through hell for nothing\u2014this MotoGP burns young riders out\u201d",
+      "link": "https://www.gpone.com/en/2026/09/25/wsbk/dixon-im-not-going-through-hell-for-nothing-this-motogp-burns-young-riders-out.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "Daniela Piazza",
-      "published": "2026-09-24T15:38:11+00:00",
-      "excerpt": "\u201cIt\u2019s too early to judge. We\u2019ll see how things stand once we have some solid data. Ducati was expected to struggle at Misano but dominated. At Spielberg, it was expected to win easily but struggled. There\u2019s no logic to it. We\u2019re taking it one day at a time.\u201d",
-      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/pirro-misano-2.jpg?itok=t9ADzZeE",
+      "published": "2026-09-25T10:31:41+00:00",
+      "excerpt": "\u201cRiders start so early that by the time they\u2019re 30, they\u2019re already burned out. My wife\u2019s illness has given me motivation and makes me believe that one day we\u2019ll be champions. Redding? You have to build your own path.\u201d",
+      "image": null,
       "audio": null,
       "categories": [
         {
@@ -1585,7 +1598,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "motogp": 0.97
+        "motogp": 0.9
       },
       "subcategories": [
         {
@@ -1605,32 +1618,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.23,
+        "news": 0.18,
         "review": 0.02,
-        "comparison-test": 0.07,
-        "first-look": 0.08,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.1,
-        "opinion": 0.81,
-        "profile-interview": 0.87,
-        "tribute": 0.01,
+        "opinion": 0.77,
+        "profile-interview": 0.91,
+        "tribute": 0.04,
         "listing": 0.01,
-        "event-report": 0.34,
-        "event-preview": 0.12,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.05,
+        "press-release": 0.05,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.05,
+        "history": 0.05,
         "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
+        "safety-notice": 0.02,
+        "episode": 0.09,
+        "build-feature": 0.02,
+        "q-and-a": 0.11
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.19,
       "tags": [
         "racing",
         "motogp"
@@ -1780,6 +1793,81 @@
         "electric",
         "dirt-mx",
         "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "679d9c87eb3c054ab992fce7641dff65990b9b80",
+      "title": "Pirro: \u201cBulega the favorite in the MotoGP? It\u2019s just pre-race tactics. Testing isn\u2019t the same as racing.\u201d",
+      "link": "https://www.gpone.com/en/2026/09/24/motogp/pirro-bulega-the-favorite-in-the-motogp-its-just-pre-race-tactics-testing-isnt-the-same-as-racing.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-09-24T15:38:11+00:00",
+      "excerpt": "\u201cIt\u2019s too early to judge. We\u2019ll see how things stand once we have some solid data. Ducati was expected to struggle at Misano but dominated. At Spielberg, it was expected to win easily but struggled. There\u2019s no logic to it. We\u2019re taking it one day at a time.\u201d",
+      "image": "https://www.gpone.com/sites/default/files/styles/thumb_el/public/images/2026/article/foto/09/MotoGP/generic/pirro-misano-2.jpg?itok=t9ADzZeE",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.23,
+        "review": 0.02,
+        "comparison-test": 0.07,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.81,
+        "profile-interview": 0.87,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.34,
+        "event-preview": 0.12,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },

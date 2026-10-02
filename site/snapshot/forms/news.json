@@ -510,73 +510,6 @@
       "also": []
     },
     {
-      "id": "7a8f4142cfabbad47d9af6cbe3510d478869a850",
-      "title": "BMW F450R revealed: new A2 naked bike with 46.9bhp and clutchless riding tech",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/october/bmw-f450r",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T16:00:00+00:00",
-      "excerpt": "BMW have revealed their new F450R, an entry-level naked bike for the A2 licence class that replaces the already discontinued G310R in their range. The new bike offers 46.9bhp, S1000R-inspired styling,...",
-      "image": "https://www.motorcyclenews.com/wp-images/440322/390x260/bmw-f450-r_026.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.2,
-        "comparison-test": 0.03,
-        "first-look": 0.41,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.23,
-        "how-to": 0.03,
-        "explainer": 0.23,
-        "opinion": 0.06,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.88,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
       "id": "ad61e8f9438e80e87e611dd4826520958ef0cf54",
       "title": "Ducati Multistrada V4 S Grand Tour",
       "link": "https://www.insidemotorcycles.com/ducati-multistrada-v4-s-grand-tour",
@@ -669,6 +602,87 @@
           "published": "2026-10-02T10:00:00+00:00"
         }
       ]
+    },
+    {
+      "id": "13c5e1895918bb8e655efb712c1d38c7274110ee",
+      "title": "BSB Donington Park: Kyle Ryde tops pre-qualifying session ahead of Scott Redding",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/october/kyle-ryde-tops-pre-qualifying-donington-park",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T16:42:47+00:00",
+      "excerpt": "Championship leader Kyle Ryde is the man to beat once more heading into the British Superbike Championship weekend at Donington Park after topping the pre-qualifying session. The reigning two-time...",
+      "image": "https://www.motorcyclenews.com/wp-images/440847/390x260/kyle-ryde-donington-friday.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.04,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.07,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.72,
+        "event-preview": 0.96,
+        "press-release": 0.09,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
     },
     {
       "id": "1f4541aa94ae1253b4f777c5a38c4ab301264b9e",
@@ -1619,89 +1633,6 @@
       "also": []
     },
     {
-      "id": "33c3f032d937b0ca9c40a394ddc5aaa626287e48",
-      "title": "Honda SP-1s ridden by Joey Dunlop and John McGuinness go up for auction",
-      "link": "https://www.motorcyclenews.com/news/2026/september/honda-sp-1s",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T17:24:24+00:00",
-      "excerpt": "A pair of Honda SP-1 superbikes ridden to huge success by teammates Joey Dunlop and John McGuinness are heading to auction this coming November. Although no longer fitted with Aaron Slight\u2019s World...",
-      "image": "https://www.motorcyclenews.com/wp-images/440409/390x260/vimto_bikes-42_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.96,
-        "racing": 0.87,
-        "for-sale": 0.58,
-        "worldsbk-superbike": 0.71
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.1,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.21,
-        "listing": 0.55,
-        "event-report": 0.07,
-        "event-preview": 0.6,
-        "press-release": 0.17,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.32,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "sport-bikes",
-        "racing",
-        "for-sale",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "a19f4505c9d8d3fbfab625b0dc47553ecae3a199",
       "title": "2026 MotoMINI FIM Canadian Nationals: Final Round at Shannonville Motorsport Park, Ontario",
       "link": "https://www.insidemotorcycles.com/2026-motomini-fim-canadian-nationals-final-round-at-shannonville-motorsport-park-ontario",
@@ -1765,6 +1696,73 @@
       "multi_subject": 0.07,
       "tags": [
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "7a8f4142cfabbad47d9af6cbe3510d478869a850",
+      "title": "BMW F450R revealed: new A2 naked bike with 46.9bhp and clutchless riding tech",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/october/bmw-f450r",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T16:00:00+00:00",
+      "excerpt": "BMW have revealed their new F450R, an entry-level naked bike for the A2 licence class that replaces the already discontinued G310R in their range. The new bike offers 46.9bhp, S1000R-inspired styling,...",
+      "image": "https://www.motorcyclenews.com/wp-images/440322/390x260/bmw-f450-r_026.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.2,
+        "comparison-test": 0.03,
+        "first-look": 0.41,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.23,
+        "how-to": 0.03,
+        "explainer": 0.23,
+        "opinion": 0.06,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.88,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.09,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "new-models"
       ],
       "also": []
     },
@@ -2538,83 +2536,6 @@
       "also": []
     },
     {
-      "id": "0dd3aaf10dc89647cec0b9bd7f71d8f23c92a6eb",
-      "title": "BSB: Max Cook and Joe Talbot to remain with AJN Steelstock bimota next season",
-      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/max-cook-joe-talbot-bimota-2027",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T09:25:03+00:00",
-      "excerpt": "Max Cook and Joe Talbot will both continue to represent the AJN Steelstock bimota team in the British Superbike Championship next year. After switching from Kawasaki to bimota for the 2025 season,...",
-      "image": "https://www.motorcyclenews.com/wp-images/440263/390x260/max-cook-joe-talbot-bimota-2027.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.11,
-        "press-release": 0.53,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "659b1ac5b0fc9737911ed5f796f0146db1511de3",
       "title": "KTM THANKS AARON PLESSINGER FOR FIVE SUCCESSFUL SEASONS",
       "link": "https://www.insidemotorcycles.com/ktm-thanks-aaron-plessinger-for-five-successful-seasons",
@@ -2707,6 +2628,89 @@
           "published": "2026-10-01T15:10:20+00:00"
         }
       ]
+    },
+    {
+      "id": "33c3f032d937b0ca9c40a394ddc5aaa626287e48",
+      "title": "Honda SP-1s ridden by Joey Dunlop and John McGuinness go up for auction",
+      "link": "https://www.motorcyclenews.com/news/2026/september/honda-sp-1s",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T17:24:24+00:00",
+      "excerpt": "A pair of Honda SP-1 superbikes ridden to huge success by teammates Joey Dunlop and John McGuinness are heading to auction this coming November. Although no longer fitted with Aaron Slight\u2019s World...",
+      "image": "https://www.motorcyclenews.com/wp-images/440409/390x260/vimto_bikes-42_preview.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.96,
+        "racing": 0.87,
+        "for-sale": 0.58,
+        "worldsbk-superbike": 0.71
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.1,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.21,
+        "listing": 0.55,
+        "event-report": 0.07,
+        "event-preview": 0.6,
+        "press-release": 0.17,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.32,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "sport-bikes",
+        "racing",
+        "for-sale",
+        "worldsbk-superbike"
+      ],
+      "also": []
     },
     {
       "id": "75a12adcd44772d7e049d61cdcbd129a57eb1210",
@@ -3526,69 +3530,6 @@
       "also": []
     },
     {
-      "id": "a7b233c7b5cbbd3fa139765608ba11681064c571",
-      "title": "West Yorkshire Police say decision on axing off-road bike team not yet made",
-      "link": "https://www.motorcyclenews.com/news/2026/september/petition-calls-for-west-yorkshire-police-off-road-bike-team-to-be-saved",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T18:18:03+00:00",
-      "excerpt": "A petition calling on West Yorkshire Police to save the Leeds Off-Road Bike Team (ORBT) has passed 800 signatures and been widely shared on social media, but the force say no final decision on the...",
-      "image": "https://www.motorcyclenews.com/wp-images/440040/390x260/off-road-motorcycle-team-wakefield-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.85
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.79,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.07,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.11,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.05,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
       "id": "28a1db539716746121e6b3a2c9386822750a9977",
       "title": "The Billy Joel Motorcycle Collection Announced for Gooding Christie\u2019s Inaugural Auction at R\u00e9tromobile New York in November",
       "link": "https://www.insidemotorcycles.com/the-billy-joel-motorcycle-collection-announced-for-gooding-christies-inaugural-auction-at-retromobile-new-york-in-november",
@@ -3671,6 +3612,83 @@
           "published": "2026-09-30T12:19:58+00:00"
         }
       ]
+    },
+    {
+      "id": "0dd3aaf10dc89647cec0b9bd7f71d8f23c92a6eb",
+      "title": "BSB: Max Cook and Joe Talbot to remain with AJN Steelstock bimota next season",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/max-cook-joe-talbot-bimota-2027",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T09:25:03+00:00",
+      "excerpt": "Max Cook and Joe Talbot will both continue to represent the AJN Steelstock bimota team in the British Superbike Championship next year. After switching from Kawasaki to bimota for the 2025 season,...",
+      "image": "https://www.motorcyclenews.com/wp-images/440263/390x260/max-cook-joe-talbot-bimota-2027.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.11,
+        "press-release": 0.53,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
     },
     {
       "id": "53c7ce25074b844c6120a9892cc9bc1cf7ceac99",
@@ -4418,87 +4436,6 @@
       "also": []
     },
     {
-      "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
-      "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
-      "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T16:20:47+00:00",
-      "excerpt": "Between September 11 and 13 the French Alps held host to the first 100 Colls France challenge. The Colls 100 is a unique event in which participants have 48 hours to navigate their own route with the...",
-      "image": "https://www.motorcyclenews.com/wp-images/439982/390x260/100collsfr__182.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
-        "events-rides": 0.79,
-        "adventure": 0.61,
-        "adv-events-competitions": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.04,
-        "comparison-test": 0.11,
-        "first-look": 0.05,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.06,
-        "how-to": 0.05,
-        "explainer": 0.49,
-        "opinion": 0.07,
-        "profile-interview": 0.1,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.94,
-        "event-preview": 0.1,
-        "press-release": 0.25,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.08,
-        "history": 0.14,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "events-rides",
-        "adventure",
-        "adv-events-competitions"
-      ],
-      "also": []
-    },
-    {
       "id": "83e754dab96e7889f15666139b3bc6565f49314f",
       "title": "ONE RIDE 2026",
       "link": "https://www.insidemotorcycles.com/one-ride-2026",
@@ -4575,6 +4512,69 @@
           "published": "2026-09-22T23:23:22+00:00"
         }
       ]
+    },
+    {
+      "id": "a7b233c7b5cbbd3fa139765608ba11681064c571",
+      "title": "West Yorkshire Police say decision on axing off-road bike team not yet made",
+      "link": "https://www.motorcyclenews.com/news/2026/september/petition-calls-for-west-yorkshire-police-off-road-bike-team-to-be-saved",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T18:18:03+00:00",
+      "excerpt": "A petition calling on West Yorkshire Police to save the Leeds Off-Road Bike Team (ORBT) has passed 800 signatures and been widely shared on social media, but the force say no final decision on the...",
+      "image": "https://www.motorcyclenews.com/wp-images/440040/390x260/off-road-motorcycle-team-wakefield-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.85
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.07,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.05,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx"
+      ],
+      "also": []
     },
     {
       "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
@@ -5200,85 +5200,6 @@
       "also": []
     },
     {
-      "id": "b5ccd23c80b011e0112a137a033b3f268171d1b9",
-      "title": "Racing stars and stunning weather draw big crowd to Cadwell Moto celebration weekend at Cadwell Park",
-      "link": "https://www.motorcyclenews.com/news/2026/september/cadwell-moto-cadwell-park-classic-bike-trackdays",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T09:34:04+00:00",
-      "excerpt": "Riders from across the country descended on Lincolnshire\u2019s Cadwell Park for the final weekend of September to mark a number of key motorcycling milestones and celebrate the best in retro performance...",
-      "image": "https://www.motorcyclenews.com/wp-images/439817/390x260/cadwell-park-moto-trackday-14.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
-        "events-rides": 0.7,
-        "classic": 0.62,
-        "racing": 0.54
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.08,
-        "tribute": 0.18,
-        "listing": 0.01,
-        "event-report": 0.76,
-        "event-preview": 0.21,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.11,
-        "ride-report": 0.04,
-        "history": 0.23,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.06,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.14,
-      "tags": [
-        "events-rides",
-        "classic",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "a45fe81399169249cebeb90ab1cea17c8c78bd66",
       "title": "Multistrada V4 Pikes Peak 2027",
       "link": "https://www.insidemotorcycles.com/multistrada-v4-pikes-peak-2027",
@@ -5377,6 +5298,87 @@
           "published": "2026-09-24T16:32:54+00:00"
         }
       ]
+    },
+    {
+      "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
+      "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
+      "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T16:20:47+00:00",
+      "excerpt": "Between September 11 and 13 the French Alps held host to the first 100 Colls France challenge. The Colls 100 is a unique event in which participants have 48 hours to navigate their own route with the...",
+      "image": "https://www.motorcyclenews.com/wp-images/439982/390x260/100collsfr__182.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.79,
+        "adventure": 0.61,
+        "adv-events-competitions": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.04,
+        "comparison-test": 0.11,
+        "first-look": 0.05,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.06,
+        "how-to": 0.05,
+        "explainer": 0.49,
+        "opinion": 0.07,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.94,
+        "event-preview": 0.1,
+        "press-release": 0.25,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.08,
+        "history": 0.14,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "events-rides",
+        "adventure",
+        "adv-events-competitions"
+      ],
+      "also": []
     },
     {
       "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
@@ -6004,87 +6006,6 @@
       "also": []
     },
     {
-      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
-      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
-      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T18:01:51+00:00",
-      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
-      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.95,
-        "law-safety": 0.91
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "tribute",
-          "label": "Tribute"
-        },
-        {
-          "slug": "history",
-          "label": "History"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.19,
-        "opinion": 0.07,
-        "profile-interview": 0.15,
-        "tribute": 0.8,
-        "listing": 0.01,
-        "event-report": 0.26,
-        "event-preview": 0.76,
-        "press-release": 0.28,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.8,
-        "rumor": 0.01,
-        "safety-notice": 0.37,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "events-rides",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
       "id": "b79d0e04b2b6fe291035eb914524f71861351908",
       "title": "SUZUKI INTRODUCES THE ALL-NEW 2027 SV-7GX",
       "link": "https://www.insidemotorcycles.com/suzuki-introduces-the-all-new-2027-sv-7gx",
@@ -6148,6 +6069,85 @@
       "multi_subject": 0.04,
       "tags": [
         "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "b5ccd23c80b011e0112a137a033b3f268171d1b9",
+      "title": "Racing stars and stunning weather draw big crowd to Cadwell Moto celebration weekend at Cadwell Park",
+      "link": "https://www.motorcyclenews.com/news/2026/september/cadwell-moto-cadwell-park-classic-bike-trackdays",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T09:34:04+00:00",
+      "excerpt": "Riders from across the country descended on Lincolnshire\u2019s Cadwell Park for the final weekend of September to mark a number of key motorcycling milestones and celebrate the best in retro performance...",
+      "image": "https://www.motorcyclenews.com/wp-images/439817/390x260/cadwell-park-moto-trackday-14.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.7,
+        "classic": 0.62,
+        "racing": 0.54
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.08,
+        "tribute": 0.18,
+        "listing": 0.01,
+        "event-report": 0.76,
+        "event-preview": 0.21,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.11,
+        "ride-report": 0.04,
+        "history": 0.23,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.06,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.14,
+      "tags": [
+        "events-rides",
+        "classic",
+        "racing"
       ],
       "also": []
     },
@@ -6781,75 +6781,6 @@
       "also": []
     },
     {
-      "id": "c93552ac43fceaa55fd8e77024530ea84ba4a500",
-      "title": "Superbike Factory administrators reveal \u00a324m debt as some bikes are delivered to rightful owners",
-      "link": "https://www.motorcyclenews.com/news/2026/september/superbike-factory-notice-of-administrators-proposal",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T11:46:00+00:00",
-      "excerpt": "The administrators handling the collapse of used bike giant Superbike Factory have published their formal proposals, revealing the fate of dozens of bikes customers paid for but never received \u2013 along...",
-      "image": "https://www.motorcyclenews.com/wp-images/438965/390x260/superbike-factory-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.93,
-        "sport-bikes": 0.64
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.06,
-        "profile-interview": 0.16,
-        "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.18,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.07,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "industry",
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
       "id": "796a59018c8d3132b3f15062d6fc75c514678680",
       "title": "Kawasaki Rider Ricky Russell Wins the Corduroy Enduro",
       "link": "https://www.insidemotorcycles.com/kawasaki-rider-ricky-russell-wins-the-corduroy-enduro",
@@ -6919,6 +6850,87 @@
       "tags": [
         "dirt-mx",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
+      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
+      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T18:01:51+00:00",
+      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
+      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.95,
+        "law-safety": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.19,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
+        "tribute": 0.8,
+        "listing": 0.01,
+        "event-report": 0.26,
+        "event-preview": 0.76,
+        "press-release": 0.28,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.8,
+        "rumor": 0.01,
+        "safety-notice": 0.37,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides",
+        "law-safety"
       ],
       "also": []
     },
@@ -7582,6 +7594,75 @@
         "racing",
         "law-safety",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "c93552ac43fceaa55fd8e77024530ea84ba4a500",
+      "title": "Superbike Factory administrators reveal \u00a324m debt as some bikes are delivered to rightful owners",
+      "link": "https://www.motorcyclenews.com/news/2026/september/superbike-factory-notice-of-administrators-proposal",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T11:46:00+00:00",
+      "excerpt": "The administrators handling the collapse of used bike giant Superbike Factory have published their formal proposals, revealing the fate of dozens of bikes customers paid for but never received \u2013 along...",
+      "image": "https://www.motorcyclenews.com/wp-images/438965/390x260/superbike-factory-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.93,
+        "sport-bikes": 0.64
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.06,
+        "profile-interview": 0.16,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.18,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.07,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "industry",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -16472,71 +16553,6 @@
       "also": []
     },
     {
-      "id": "7a1a8fa4343a4dc363a6884a44681f9ac2b64546",
-      "title": "The Visordown Awards 2026 are coming: Have your say and vote for Bike of the Year",
-      "link": "https://www.visordown.com/news/visordown-awards-2026-are-coming-soon-and-we-want-your-say",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T15:44:00+00:00",
-      "excerpt": "The Visordown Awards are back and we're giving readers the chance to have a say in this year's Bike of the Year award",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/visordown-awards-flat.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
-        }
-      ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.78,
-        "review": 0.03,
-        "comparison-test": 0.08,
-        "first-look": 0.05,
-        "ranked-list": 0.14,
-        "buyers-guide": 0.12,
-        "how-to": 0.05,
-        "explainer": 0.18,
-        "opinion": 0.1,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.88,
-        "press-release": 0.68,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "odd-ball"
-      ],
-      "also": []
-    },
-    {
       "id": "56c84ade8216b4af1f82565e8f89e1bb3671d720",
       "title": "2026 Ridgedale SMX \u2013 Latest News, Press Conference, & More",
       "link": "https://mxvice.com/2026/09/26/2026-ridgedale-smx-latest-news-press-conference-more",
@@ -18829,6 +18845,71 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "7a1a8fa4343a4dc363a6884a44681f9ac2b64546",
+      "title": "The Visordown Awards 2026 are coming: Have your say and vote for Bike of the Year",
+      "link": "https://www.visordown.com/news/visordown-awards-2026-are-coming-soon-and-we-want-your-say",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T15:44:00+00:00",
+      "excerpt": "The Visordown Awards are back and we're giving readers the chance to have a say in this year's Bike of the Year award",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/visordown-awards-flat.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.78,
+        "review": 0.03,
+        "comparison-test": 0.08,
+        "first-look": 0.05,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.12,
+        "how-to": 0.05,
+        "explainer": 0.18,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.88,
+        "press-release": 0.68,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "odd-ball"
       ],
       "also": []
     },
