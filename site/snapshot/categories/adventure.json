@@ -11,7 +11,7 @@
     {
       "slug": "rally-lightweight-adv",
       "label": "Rally & Lightweight ADV",
-      "count": 19
+      "count": 20
     },
     {
       "slug": "adv-events-competitions",
@@ -171,6 +171,84 @@
       "also": []
     },
     {
+      "id": "6986735d55625356dc3d8eea9a1e20ede87dac68",
+      "title": "Royal Enfield Can Do No Wrong, As The Company Is Unable to Keep Up With Himalayan 440 Orders",
+      "link": "https://www.rideapart.com/news/810376/royal-enfield-himalayan-440-high-demand-orders-suspended",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T11:00:00+00:00",
+      "excerpt": "Royal Enfield's newest ADV is apparently so popular, it had to stop taking orders for the damn thing.",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6Wo6/s3/royal-enfield-himalayan-440.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.95,
+        "industry": 0.73,
+        "new-models": 0.62,
+        "rally-lightweight-adv": 0.69
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.65,
+        "review": 0.12,
+        "comparison-test": 0.03,
+        "first-look": 0.22,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.11,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.59,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.01,
+        "press-release": 0.18,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "industry",
+        "new-models",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
       "id": "47235a6484220969d5a8445fdc160544ece5394c",
       "title": "2027 KTM 690 Rally Review | The bike 690 owners were already building",
       "link": "https://www.mcnews.com.au/2027-ktm-690-rally-review-the-bike-690-owners-were-already-building",
@@ -260,106 +338,6 @@
         "rally-lightweight-adv"
       ],
       "also": []
-    },
-    {
-      "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
-      "title": "Sam Sunderland\u2019s Triumph Motorcycle Suffers a Mechanical Problem During World Record Ride and Ended the Attempt",
-      "link": "https://www.rideapart.com/news/810027/sam-sunderlands-triumph-tiger-suffers-a-mechanical-problem-during-heartbreaking-world-record-attempt",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T12:53:00+00:00",
-      "excerpt": "Sam Sunderland's circumnavigation world record attempt is over after his Triumph Tiger 1200 breaks down in the Australian outback.",
-      "image": "https://cdn.motor1.com/images/mgl/RqbqnA/s3/sam-sunderland-sets-off-on-world-record-circumnavigation-attempt-aboard-all-new-triumph.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.96,
-        "dirt-mx": 0.75,
-        "adv-events-competitions": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.04,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.86,
-        "event-preview": 0.02,
-        "press-release": 0.12,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.06,
-        "history": 0.15,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "adv-events-competitions"
-      ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Sam Sunderland sees world record attempt cut short by technical issue",
-          "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
-          "published": "2026-09-28T13:06:00+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
-          "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
-          "published": "2026-09-28T13:29:53+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
-          "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
-          "published": "2026-09-28T14:39:14+00:00"
-        }
-      ]
     },
     {
       "id": "4c1ed4f1d6e1cadcec5d6673fe2581f381f9804e",
@@ -530,17 +508,17 @@
       "also": []
     },
     {
-      "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
-      "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
-      "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
+      "id": "77053f5ab363acd9374b6091f79b2f528f7d85f3",
+      "title": "Sam Sunderland\u2019s Triumph Motorcycle Suffers a Mechanical Problem During World Record Ride and Ended the Attempt",
+      "link": "https://www.rideapart.com/news/810027/sam-sunderlands-triumph-tiger-suffers-a-mechanical-problem-during-heartbreaking-world-record-attempt",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T11:55:00+00:00",
-      "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
-      "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
+      "published": "2026-09-30T12:53:00+00:00",
+      "excerpt": "Sam Sunderland's circumnavigation world record attempt is over after his Triumph Tiger 1200 breaks down in the Australian outback.",
+      "image": "https://cdn.motor1.com/images/mgl/RqbqnA/s3/sam-sunderland-sets-off-on-world-record-circumnavigation-attempt-aboard-all-new-triumph.jpg",
       "audio": null,
       "categories": [
         {
@@ -548,68 +526,84 @@
           "label": "Adventure"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.94,
-        "new-models": 0.79,
-        "adventure-touring": 0.9
+        "adventure": 0.96,
+        "dirt-mx": 0.75,
+        "adv-events-competitions": 0.95
       },
       "subcategories": [
         {
-          "slug": "adventure-touring",
-          "label": "Adventure Touring",
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
           "parent": "adventure"
         }
       ],
       "forms": [
         {
-          "slug": "opinion",
-          "label": "Opinion"
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.17,
-        "review": 0.66,
-        "comparison-test": 0.03,
-        "first-look": 0.34,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.12,
+        "news": 0.88,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
         "how-to": 0.03,
-        "explainer": 0.12,
-        "opinion": 0.93,
-        "profile-interview": 0.05,
-        "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.08,
-        "press-release": 0.15,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.86,
+        "event-preview": 0.02,
+        "press-release": 0.12,
         "digest": 0.06,
-        "photo-gallery": 0.18,
+        "photo-gallery": 0.09,
         "ride-report": 0.06,
-        "history": 0.04,
-        "rumor": 0.34,
+        "history": 0.15,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.07,
-        "q-and-a": 0.05
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
-        "new-models",
-        "adventure-touring"
+        "dirt-mx",
+        "adv-events-competitions"
       ],
       "also": [
         {
-          "source": "MCNews Australia",
-          "title": "2027 Ducati Multistrada V4 Pikes Peak | The ultimate tarmac terror?",
-          "link": "https://www.mcnews.com.au/2027-ducati-multistrada-v4-pikes-peak",
-          "published": "2026-10-01T22:46:31+00:00"
+          "source": "Visordown",
+          "title": "Sam Sunderland sees world record attempt cut short by technical issue",
+          "link": "https://www.visordown.com/news/sam-sunderland-sees-world-record-attempt-cut-short-by-technical-issue",
+          "published": "2026-09-28T13:06:00+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Sam Sunderland ends round-the-world record attempt after Australian Outback bike damage",
+          "link": "https://www.motorcyclenews.com/news/2026/september/sam-sunderland-rtw-record-attempt-failure",
+          "published": "2026-09-28T13:29:53+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Two-time Dakar Rally winner suffers heartbreaking end to world record attempt",
+          "link": "https://www.crash.net/other/news/1105876/1/two-time-dakar-rally-winner-suffers-heartbreaking-end-world-record-attempt",
+          "published": "2026-09-28T14:39:14+00:00"
         }
       ]
     },
@@ -850,6 +844,12 @@
           "title": "2027 Ducati Multistrada V4 S Grand Tour loads up for the long haul",
           "link": "https://www.mcnews.com.au/2027-ducati-multistrada-v4-grand-tour",
           "published": "2026-10-01T23:30:03+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "Ducati Multistrada V4 S Grand Tour gets factory-fitted touring kit",
+          "link": "https://www.visordown.com/news/ducati-multistrada-v4-s-grand-tour-gets-factory-fitted-touring-kit",
+          "published": "2026-10-02T10:00:00+00:00"
         }
       ]
     },
@@ -925,89 +925,6 @@
         "dirt-mx",
         "custom",
         "adventure"
-      ],
-      "also": []
-    },
-    {
-      "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
-      "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
-      "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T11:01:00+00:00",
-      "excerpt": "Good folks doing good work for every public land user.",
-      "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.89,
-        "events-rides": 0.86,
-        "adventure": 0.75,
-        "adv-events-competitions": 0.79
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.65,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.04,
-        "how-to": 0.07,
-        "explainer": 0.32,
-        "opinion": 0.42,
-        "profile-interview": 0.3,
-        "tribute": 0.06,
-        "listing": 0.01,
-        "event-report": 0.78,
-        "event-preview": 0.21,
-        "press-release": 0.3,
-        "digest": 0.08,
-        "photo-gallery": 0.14,
-        "ride-report": 0.08,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.03,
-        "episode": 0.08,
-        "build-feature": 0.05,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx",
-        "events-rides",
-        "adventure",
-        "adv-events-competitions"
       ],
       "also": []
     },
@@ -1095,6 +1012,169 @@
         "adventure",
         "dirt-mx",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
+      "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
+      "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-29T11:55:00+00:00",
+      "excerpt": "Because a 170-horsepower adventure bike on superbike wheels doesn\u2019t need fixing. It just needs a new outfit.",
+      "image": "https://cdn.motor1.com/images/mgl/lE42vM/s3/2027-ducati-multiistrada-v4-pikes-peak.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.94,
+        "new-models": 0.79,
+        "adventure-touring": 0.9
+      },
+      "subcategories": [
+        {
+          "slug": "adventure-touring",
+          "label": "Adventure Touring",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.17,
+        "review": 0.66,
+        "comparison-test": 0.03,
+        "first-look": 0.34,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.12,
+        "how-to": 0.03,
+        "explainer": 0.12,
+        "opinion": 0.93,
+        "profile-interview": 0.05,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.08,
+        "press-release": 0.15,
+        "digest": 0.06,
+        "photo-gallery": 0.18,
+        "ride-report": 0.06,
+        "history": 0.04,
+        "rumor": 0.34,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.07,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
+        "adventure-touring"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "2027 Ducati Multistrada V4 Pikes Peak | The ultimate tarmac terror?",
+          "link": "https://www.mcnews.com.au/2027-ducati-multistrada-v4-pikes-peak",
+          "published": "2026-10-01T22:46:31+00:00"
+        }
+      ]
+    },
+    {
+      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
+      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
+      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T06:00:00+00:00",
+      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "gear",
+      "confident": false,
+      "cat_scores": {
+        "gear": 0.73,
+        "adventure": 0.56,
+        "sport-bikes": 0.5
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.43,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.08,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.84,
+        "digest": 0.11,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "gear",
+        "adventure",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -1249,85 +1329,6 @@
         "adventure",
         "new-models",
         "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
-      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
-      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T06:00:00+00:00",
-      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "gear",
-      "confident": false,
-      "cat_scores": {
-        "gear": 0.73,
-        "adventure": 0.56,
-        "sport-bikes": 0.5
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.43,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.08,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.84,
-        "digest": 0.11,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "gear",
-        "adventure",
-        "sport-bikes"
       ],
       "also": []
     },
@@ -1734,102 +1735,6 @@
       "also": []
     },
     {
-      "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
-      "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
-      "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T11:22:00+00:00",
-      "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
-      "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.9,
-        "dirt-mx": 0.85,
-        "racing": 0.78,
-        "events-rides": 0.65,
-        "adv-events-competitions": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.45,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.62,
-        "profile-interview": 0.19,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.77,
-        "press-release": 0.14,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.02,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.07,
-        "build-feature": 0.02,
-        "q-and-a": 0.13
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "racing",
-        "events-rides",
-        "adv-events-competitions"
-      ],
-      "also": [
-        {
-          "source": "Visordown",
-          "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
-          "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
-          "published": "2026-09-21T13:22:28+00:00"
-        }
-      ]
-    },
-    {
       "id": "f5b940c6d432546056799c9e9d1791ec500afa46",
       "title": "2026 Yamaha T\u00e9n\u00e9r\u00e9 700 World Raid Review | 3000 km in four days",
       "link": "https://www.mcnews.com.au/2026-yamaha-tenere-700-world-raid-review",
@@ -1913,75 +1818,85 @@
       "also": []
     },
     {
-      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
-      "title": "SW-Motech PRO City WP Tankbag",
-      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
+      "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
+      "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
+      "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-28T07:46:24+00:00",
-      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T11:01:00+00:00",
+      "excerpt": "Good folks doing good work for every public land user.",
+      "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
         },
         {
           "slug": "adventure",
           "label": "Adventure"
         }
       ],
-      "primary": "gear",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "gear": 0.98,
-        "adventure": 0.94
+        "dirt-mx": 0.89,
+        "events-rides": 0.86,
+        "adventure": 0.75,
+        "adv-events-competitions": 0.79
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
       "forms": [
         {
-          "slug": "review",
-          "label": "Review"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.04,
-        "review": 0.96,
-        "comparison-test": 0.04,
-        "first-look": 0.71,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.51,
-        "how-to": 0.1,
-        "explainer": 0.76,
-        "opinion": 0.32,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.01,
-        "event-preview": 0.01,
-        "press-release": 0.1,
-        "digest": 0.04,
-        "photo-gallery": 0.04,
-        "ride-report": 0.37,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "news": 0.65,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.04,
+        "how-to": 0.07,
+        "explainer": 0.32,
+        "opinion": 0.42,
+        "profile-interview": 0.3,
+        "tribute": 0.06,
+        "listing": 0.01,
+        "event-report": 0.78,
+        "event-preview": 0.21,
+        "press-release": 0.3,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.08,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.05,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
-        "gear",
-        "adventure"
+        "dirt-mx",
+        "events-rides",
+        "adventure",
+        "adv-events-competitions"
       ],
       "also": []
     },
@@ -2071,6 +1986,79 @@
         "dirt-mx",
         "adventure",
         "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
+      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
+      "title": "SW-Motech PRO City WP Tankbag",
+      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-28T07:46:24+00:00",
+      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.98,
+        "adventure": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "review",
+          "label": "Review"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.96,
+        "comparison-test": 0.04,
+        "first-look": 0.71,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.51,
+        "how-to": 0.1,
+        "explainer": 0.76,
+        "opinion": 0.32,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.1,
+        "digest": 0.04,
+        "photo-gallery": 0.04,
+        "ride-report": 0.37,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "gear",
+        "adventure"
       ],
       "also": []
     },
@@ -2263,6 +2251,102 @@
         "motocross-supercross"
       ],
       "also": []
+    },
+    {
+      "id": "65e39481a5e084ed3fff1226a76040682c67dcfd",
+      "title": "Despite The Iran War, Dakar Organizers Say the 2027 Event Will Take Place. Should It?",
+      "link": "https://www.rideapart.com/news/809022/dakar-organizers-say-the-2027-event-will-take-place-but-should-it-amid-safety-concerns",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T11:22:00+00:00",
+      "excerpt": "Recent rocket strikes in Saudi Arabia sparked rumors that the 2027 Dakar would be canceled, but the event organizers shut down the speculation.",
+      "image": "https://cdn.motor1.com/images/mgl/lQWZl/s3/toby-price---red-bull-ktm-factory-racing---2021-dakar-rally.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.9,
+        "dirt-mx": 0.85,
+        "racing": 0.78,
+        "events-rides": 0.65,
+        "adv-events-competitions": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.45,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.62,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.77,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "racing",
+        "events-rides",
+        "adv-events-competitions"
+      ],
+      "also": [
+        {
+          "source": "Visordown",
+          "title": "Is Dakar 2027 cancelled? Not as it stands, but Saudi situation is worsening",
+          "link": "https://www.visordown.com/news/dakar-2027-cancelled-not-it-stands-saudi-situation-worsening",
+          "published": "2026-09-21T13:22:28+00:00"
+        }
+      ]
     },
     {
       "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
@@ -2476,81 +2560,6 @@
         "adventure",
         "dirt-mx",
         "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
-      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
-      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T07:04:58+00:00",
-      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.94,
-        "adventure-touring": 0.94
-      },
-      "subcategories": [
-        {
-          "slug": "adventure-touring",
-          "label": "Adventure Touring",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.1,
-        "comparison-test": 0.02,
-        "first-look": 0.21,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.06,
-        "event-preview": 0.57,
-        "press-release": 0.82,
-        "digest": 0.08,
-        "photo-gallery": 0.19,
-        "ride-report": 0.03,
-        "history": 0.04,
-        "rumor": 0.11,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.36,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "adventure-touring"
       ],
       "also": []
     },
@@ -3268,6 +3277,81 @@
       "tags": [
         "adventure",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "5fc6c990a6857ba1ba66d6be05e9447c2a070b0b",
+      "title": "BMW R1300 GS Adventure gets colourful Oktoberfest makeover",
+      "link": "https://www.visordown.com/news/bmw-r1300-gs-adventure-gets-colourful-oktoberfest-makeover",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T07:04:58+00:00",
+      "excerpt": "BMW Motorrad has given an R 1300 GS Adventure a colourful Oktoberfest makeover, creating a one-off Wiesn-GS for Munich\u2019s 2026 celebrations.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/screenshot-2026-09-22-at-07.55.20.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.94,
+        "adventure-touring": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "adventure-touring",
+          "label": "Adventure Touring",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.1,
+        "comparison-test": 0.02,
+        "first-look": 0.21,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.06,
+        "event-preview": 0.57,
+        "press-release": 0.82,
+        "digest": 0.08,
+        "photo-gallery": 0.19,
+        "ride-report": 0.03,
+        "history": 0.04,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.36,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "adventure-touring"
       ],
       "also": []
     },

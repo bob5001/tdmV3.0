@@ -136,6 +136,89 @@
       "also": []
     },
     {
+      "id": "e39c3b102c9a5d41dca1c15e4bd837ce4eb0e529",
+      "title": "Jack Miller \u201cpunched myself in the face\u201d during Pecco Bagnaia near miss",
+      "link": "https://www.crash.net/motogp/news/1106104/1/jack-miller-punched-myself-face-during-pecco-bagnaia-near-miss",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T09:45:16+00:00",
+      "excerpt": "Jack Miller\u2019s attempt to avoid Pecco Bagnaia ended with the Yamaha suddenly regaining grip and sending his own hand into his face!",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1349421_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "law-safety": 0.85,
+        "sport-bikes": 0.81,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.15,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.81,
+        "event-preview": 0.03,
+        "press-release": 0.04,
+        "digest": 0.07,
+        "photo-gallery": 0.13,
+        "ride-report": 0.04,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "law-safety",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "aa78a5d8be80c7898443265813ac8f3bc606d15b",
       "title": "Arizona: Lane Splitting Is Now Reckless Driving",
       "link": "https://www.advrider.com/arizona-lane-splitting-is-now-reckless-driving",
@@ -349,51 +432,34 @@
       "also": []
     },
     {
-      "id": "7274953f6361ca0e50b5d79560ae1cd2f31bb79a",
-      "title": "Marini struck in chest by debris from Quartararo: \"It could've been worse\"",
-      "link": "https://www.gpone.com/en/2026/09/22/motogp/marini-struck-in-chest-by-debris-from-quartararo-it-couldve-been-worse.html",
+      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
+      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
+      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
       "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
+      "source": "Visordown",
+      "ownership": "commercial",
       "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-22T09:00:24+00:00",
-      "excerpt": "During the Austrian Grand Prix, the Honda rider was struck in the chest by a piece of Quartararo's Yamaha",
-      "image": null,
+      "author": null,
+      "published": "2026-09-30T12:19:12+00:00",
+      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
+      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
-      "primary": "racing",
+      "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "law-safety": 0.92,
-        "sport-bikes": 0.81,
-        "motogp": 0.98
+        "law-safety": 0.98
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
         },
         {
           "slug": "news",
@@ -401,37 +467,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.81,
+        "news": 0.9,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.07,
-        "profile-interview": 0.49,
-        "tribute": 0.02,
+        "how-to": 0.05,
+        "explainer": 0.63,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.86,
-        "event-preview": 0.02,
-        "press-release": 0.06,
-        "digest": 0.1,
-        "photo-gallery": 0.07,
-        "ride-report": 0.04,
-        "history": 0.1,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.23,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
         "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.06,
+        "safety-notice": 0.95,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "racing",
-        "law-safety",
-        "sport-bikes",
-        "motogp"
+        "law-safety"
       ],
       "also": []
     },
@@ -509,73 +572,6 @@
         "racing",
         "law-safety",
         "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
-      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
-      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T12:19:12+00:00",
-      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
-      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "law-safety",
-      "confident": true,
-      "cat_scores": {
-        "law-safety": 0.98
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.05,
-        "explainer": 0.63,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.23,
-        "digest": 0.09,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.95,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "law-safety"
       ],
       "also": []
     },
@@ -1020,6 +1016,83 @@
       ]
     },
     {
+      "id": "725850fb879bfecb4578421eeed71eaadcd9db80",
+      "title": "Collin Veijer undergoes surgery: recovery timeline still uncertain",
+      "link": "https://www.gpone.com/en/2026/09/23/moto2/collin-veijer-undergoes-surgery-recovery-timeline-still-uncertain.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-23T10:54:56+00:00",
+      "excerpt": "The Ajo team rider fractured his left collarbone at the Red Bull Ring; he is expected to be discharged from the hospital in the next few hours",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "law-safety": 0.52,
+        "motogp": 0.93
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.23,
+        "event-preview": 0.03,
+        "press-release": 0.25,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "fbd8d4ca763aadac67213ce7b6a1e085ef3da87b",
       "title": "Up to 50% off helmets in this week\u2019s Bargain Hunter",
       "link": "https://www.motorcyclenews.com/bike-kit/bargain-hunter/29th-sep-2026",
@@ -1158,166 +1231,6 @@
       "tags": [
         "industry",
         "law-safety"
-      ],
-      "also": []
-    },
-    {
-      "id": "725850fb879bfecb4578421eeed71eaadcd9db80",
-      "title": "Collin Veijer undergoes surgery: recovery timeline still uncertain",
-      "link": "https://www.gpone.com/en/2026/09/23/moto2/collin-veijer-undergoes-surgery-recovery-timeline-still-uncertain.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-23T10:54:56+00:00",
-      "excerpt": "The Ajo team rider fractured his left collarbone at the Red Bull Ring; he is expected to be discharged from the hospital in the next few hours",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "law-safety": 0.52,
-        "motogp": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.23,
-        "event-preview": 0.03,
-        "press-release": 0.25,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "law-safety",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "bb85c323d847a85791624565a137d9e271ccb736",
-      "title": "Ducati claims Marc Marquez\u2019s Austria brakes issue \u201cwon\u2019t happen again\u201d",
-      "link": "https://www.crash.net/motogp/news/1106067/1/ducati-claims-marc-marquezs-austria-brakes-issue-wont-happen-again",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T07:57:56+00:00",
-      "excerpt": "Ducati says the brake issue that Marc Marquez had in Austria has been fixed",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348611_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "sport-bikes": 0.87,
-        "law-safety": 0.65,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.04,
-        "explainer": 0.1,
-        "opinion": 0.08,
-        "profile-interview": 0.19,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.05,
-        "press-release": 0.73,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.03,
-        "safety-notice": 0.07,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "law-safety",
-        "motogp"
       ],
       "also": []
     },
@@ -1471,6 +1384,89 @@
       "also": []
     },
     {
+      "id": "bb85c323d847a85791624565a137d9e271ccb736",
+      "title": "Ducati claims Marc Marquez\u2019s Austria brakes issue \u201cwon\u2019t happen again\u201d",
+      "link": "https://www.crash.net/motogp/news/1106067/1/ducati-claims-marc-marquezs-austria-brakes-issue-wont-happen-again",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T07:57:56+00:00",
+      "excerpt": "Ducati says the brake issue that Marc Marquez had in Austria has been fixed",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348611_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "sport-bikes": 0.87,
+        "law-safety": 0.65,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.08,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.05,
+        "press-release": 0.73,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.07,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "39cc177f786842c7f4c2986744a43618066ab782",
       "title": "Isle of Man TT rider remains hospitalised one month after Classic TT incident",
       "link": "https://www.visordown.com/news/isle-man-tt-rider-remains-hospitalised-one-month-after-classic-tt-incident",
@@ -1542,83 +1538,6 @@
         "racing",
         "law-safety",
         "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
-      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
-      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-27T08:00:00+00:00",
-      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "law-safety": 0.56,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.2,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.17,
-        "press-release": 0.32,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "law-safety",
-        "motogp"
       ],
       "also": []
     },
@@ -1705,6 +1624,83 @@
       ]
     },
     {
+      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
+      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
+      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-27T08:00:00+00:00",
+      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "law-safety": 0.56,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.2,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.17,
+        "press-release": 0.32,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "db2126be7974d4d5ac4a97952fb261993417df4a",
       "title": "Nicolo Bulega left \u201cangry\u201d by dual Italian WorldSBK practice crashes",
       "link": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
@@ -1784,6 +1780,93 @@
         "sport-bikes",
         "law-safety",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "7274953f6361ca0e50b5d79560ae1cd2f31bb79a",
+      "title": "Marini struck in chest by debris from Quartararo: \"It could've been worse\"",
+      "link": "https://www.gpone.com/en/2026/09/22/motogp/marini-struck-in-chest-by-debris-from-quartararo-it-couldve-been-worse.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-22T09:00:24+00:00",
+      "excerpt": "During the Austrian Grand Prix, the Honda rider was struck in the chest by a piece of Quartararo's Yamaha",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "law-safety": 0.92,
+        "sport-bikes": 0.81,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.07,
+        "profile-interview": 0.49,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.86,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.07,
+        "ride-report": 0.04,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "law-safety",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },

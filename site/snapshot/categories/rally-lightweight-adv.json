@@ -5,6 +5,87 @@
   "children": [],
   "items": [
     {
+      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
+      "title": "Here\u2019s The Kove 350 Rally!",
+      "link": "https://www.advrider.com/heres-the-kove-350-rally",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-29T09:35:05+00:00",
+      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "new-models": 0.96,
+        "rally-lightweight-adv": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.25,
+        "comparison-test": 0.05,
+        "first-look": 0.78,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.17,
+        "how-to": 0.02,
+        "explainer": 0.26,
+        "opinion": 0.24,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.37,
+        "event-preview": 0.03,
+        "press-release": 0.57,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.4,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "new-models",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
       "id": "47235a6484220969d5a8445fdc160544ece5394c",
       "title": "2027 KTM 690 Rally Review | The bike 690 owners were already building",
       "link": "https://www.mcnews.com.au/2027-ktm-690-rally-review-the-bike-690-owners-were-already-building",
@@ -91,87 +172,6 @@
         "adventure",
         "new-models",
         "dirt-mx",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
-      "title": "Here\u2019s The Kove 350 Rally!",
-      "link": "https://www.advrider.com/heres-the-kove-350-rally",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-29T09:35:05+00:00",
-      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.98,
-        "new-models": 0.96,
-        "rally-lightweight-adv": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.25,
-        "comparison-test": 0.05,
-        "first-look": 0.78,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.17,
-        "how-to": 0.02,
-        "explainer": 0.26,
-        "opinion": 0.24,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.37,
-        "event-preview": 0.03,
-        "press-release": 0.57,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.4,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "new-models",
         "rally-lightweight-adv"
       ],
       "also": []
@@ -343,17 +343,17 @@
       "also": []
     },
     {
-      "id": "7730525985976e2d3375e70a21ca05aca4caaf3f",
-      "title": "KTM 690 Rally Pricing Announced For US, Canada",
-      "link": "https://www.advrider.com/ktm-690-rally-pricing-announced-for-us-canada",
+      "id": "6986735d55625356dc3d8eea9a1e20ede87dac68",
+      "title": "Royal Enfield Can Do No Wrong, As The Company Is Unable to Keep Up With Himalayan 440 Orders",
+      "link": "https://www.rideapart.com/news/810376/royal-enfield-himalayan-440-high-demand-orders-suspended",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-21T06:59:17+00:00",
-      "excerpt": "A few days after confirming the KTM 690 Rally\u2019s existence , and that it\u2019s coming to North America, we have pricing for the model. KTM\u2019s marketeers say the machine will cost $14,199 in the US market, and $15,599 in Canada. That\u2019s a deal for Canucks, considering how poorly the $CAD",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/763047_MY27-KTM-690-RALLY_ACTION_CAT-A-1-750x500.jpg",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T11:00:00+00:00",
+      "excerpt": "Royal Enfield's newest ADV is apparently so popular, it had to stop taking orders for the damn thing.",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6Wo6/s3/royal-enfield-himalayan-440.jpg",
       "audio": null,
       "categories": [
         {
@@ -361,21 +361,21 @@
           "label": "Adventure"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "industry",
+          "label": "Industry & Business"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.99,
-        "new-models": 0.94,
-        "dirt-mx": 0.85,
-        "rally-lightweight-adv": 0.98
+        "adventure": 0.95,
+        "industry": 0.73,
+        "new-models": 0.62,
+        "rally-lightweight-adv": 0.69
       },
       "subcategories": [
         {
@@ -384,43 +384,38 @@
           "parent": "adventure"
         }
       ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.11,
-        "comparison-test": 0.15,
-        "first-look": 0.21,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.48,
+        "news": 0.65,
+        "review": 0.12,
+        "comparison-test": 0.03,
+        "first-look": 0.22,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.11,
         "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.39,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.03,
+        "explainer": 0.08,
+        "opinion": 0.59,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
+        "listing": 0.02,
         "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.57,
-        "digest": 0.05,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.05,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "event-preview": 0.01,
+        "press-release": 0.18,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
+        "industry",
         "new-models",
-        "dirt-mx",
         "rally-lightweight-adv"
       ],
       "also": []
@@ -909,6 +904,89 @@
         "new-models",
         "events-rides",
         "adventure-touring",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
+      "id": "7730525985976e2d3375e70a21ca05aca4caaf3f",
+      "title": "KTM 690 Rally Pricing Announced For US, Canada",
+      "link": "https://www.advrider.com/ktm-690-rally-pricing-announced-for-us-canada",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-21T06:59:17+00:00",
+      "excerpt": "A few days after confirming the KTM 690 Rally\u2019s existence , and that it\u2019s coming to North America, we have pricing for the model. KTM\u2019s marketeers say the machine will cost $14,199 in the US market, and $15,599 in Canada. That\u2019s a deal for Canucks, considering how poorly the $CAD",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/763047_MY27-KTM-690-RALLY_ACTION_CAT-A-1-750x500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.99,
+        "new-models": 0.94,
+        "dirt-mx": 0.85,
+        "rally-lightweight-adv": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.11,
+        "comparison-test": 0.15,
+        "first-look": 0.21,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.48,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.39,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.57,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
+        "dirt-mx",
         "rally-lightweight-adv"
       ],
       "also": []
