@@ -38,13 +38,13 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.91,
+        "racing": 0.92,
         "dirt-mx": 0.83,
-        "sport-bikes": 0.63,
-        "adventure": 0.56,
+        "sport-bikes": 0.62,
+        "adventure": 0.52,
         "adv-events-competitions": 0.94,
-        "motogp": 0.54,
-        "motocross-supercross": 0.76
+        "motogp": 0.51,
+        "motocross-supercross": 0.79
       },
       "subcategories": [
         {
@@ -74,20 +74,20 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
+        "news": 0.92,
         "review": 0.02,
-        "comparison-test": 0.31,
+        "comparison-test": 0.3,
         "first-look": 0.02,
-        "ranked-list": 0.12,
+        "ranked-list": 0.11,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.04,
         "opinion": 0.04,
-        "profile-interview": 0.04,
+        "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.97,
-        "event-preview": 0.06,
+        "event-preview": 0.05,
         "press-release": 0.12,
         "digest": 0.2,
         "photo-gallery": 0.05,
@@ -95,11 +95,11 @@
         "history": 0.06,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.14,
       "tags": [
         "racing",
         "dirt-mx",
@@ -138,7 +138,7 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.96,
-        "dirt-mx": 0.81,
+        "dirt-mx": 0.82,
         "adv-events-competitions": 0.97
       },
       "subcategories": [
@@ -160,7 +160,7 @@
       ],
       "form_scores": {
         "news": 0.91,
-        "review": 0.03,
+        "review": 0.04,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
@@ -168,26 +168,107 @@
         "how-to": 0.02,
         "explainer": 0.06,
         "opinion": 0.03,
-        "profile-interview": 0.12,
+        "profile-interview": 0.13,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.92,
+        "event-report": 0.93,
         "event-preview": 0.04,
-        "press-release": 0.27,
+        "press-release": 0.29,
         "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.05,
-        "history": 0.11,
+        "photo-gallery": 0.08,
+        "ride-report": 0.06,
+        "history": 0.1,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "adventure",
         "dirt-mx",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
+      "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
+      "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T16:20:47+00:00",
+      "excerpt": "Between September 11 and 13 the French Alps held host to the first 100 Colls France challenge. The Colls 100 is a unique event in which participants have 48 hours to navigate their own route with the...",
+      "image": "https://www.motorcyclenews.com/wp-images/439982/390x260/100collsfr__182.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": false,
+      "cat_scores": {
+        "events-rides": 0.79,
+        "adventure": 0.61,
+        "adv-events-competitions": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.04,
+        "comparison-test": 0.11,
+        "first-look": 0.05,
+        "ranked-list": 0.08,
+        "buyers-guide": 0.06,
+        "how-to": 0.05,
+        "explainer": 0.49,
+        "opinion": 0.07,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.94,
+        "event-preview": 0.1,
+        "press-release": 0.25,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.08,
+        "history": 0.14,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "events-rides",
+        "adventure",
         "adv-events-competitions"
       ],
       "also": []
@@ -213,6 +294,10 @@
         {
           "slug": "adventure",
           "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
       "primary": "events-rides",
@@ -220,7 +305,8 @@
       "cat_scores": {
         "events-rides": 0.98,
         "adventure": 0.97,
-        "adv-events-competitions": 0.97
+        "dirt-mx": 0.52,
+        "adv-events-competitions": 0.98
       },
       "subcategories": [
         {
@@ -248,22 +334,22 @@
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
         "how-to": 0.03,
-        "explainer": 0.2,
+        "explainer": 0.22,
         "opinion": 0.07,
         "profile-interview": 0.15,
         "tribute": 0.03,
         "listing": 0.04,
         "event-report": 0.04,
-        "event-preview": 0.98,
+        "event-preview": 0.97,
         "press-release": 0.88,
         "digest": 0.05,
         "photo-gallery": 0.02,
         "ride-report": 0.03,
         "history": 0.03,
-        "rumor": 0.01,
+        "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
@@ -273,93 +359,7 @@
       "tags": [
         "events-rides",
         "adventure",
-        "adv-events-competitions"
-      ],
-      "also": []
-    },
-    {
-      "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
-      "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
-      "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T16:20:47+00:00",
-      "excerpt": "Between September 11 and 13 the French Alps held host to the first 100 Colls France challenge. The Colls 100 is a unique event in which participants have 48 hours to navigate their own route with the...",
-      "image": "https://www.motorcyclenews.com/wp-images/439982/390x260/100collsfr__182.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": false,
-      "cat_scores": {
-        "events-rides": 0.76,
-        "adventure": 0.62,
-        "racing": 0.5,
-        "adv-events-competitions": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.04,
-        "comparison-test": 0.11,
-        "first-look": 0.05,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.05,
-        "how-to": 0.05,
-        "explainer": 0.46,
-        "opinion": 0.07,
-        "profile-interview": 0.11,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.1,
-        "press-release": 0.27,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
-        "ride-report": 0.08,
-        "history": 0.12,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "events-rides",
-        "adventure",
-        "racing",
+        "dirt-mx",
         "adv-events-competitions"
       ],
       "also": []
@@ -386,7 +386,7 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.75,
+        "adventure": 0.72,
         "adv-events-competitions": 0.96
       },
       "subcategories": [
@@ -407,25 +407,25 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.87,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.08,
+        "explainer": 0.09,
         "opinion": 0.04,
         "profile-interview": 0.3,
         "tribute": 0.02,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.05,
-        "event-preview": 0.76,
-        "press-release": 0.7,
+        "event-preview": 0.77,
+        "press-release": 0.72,
         "digest": 0.09,
-        "photo-gallery": 0.09,
+        "photo-gallery": 0.08,
         "ride-report": 0.04,
-        "history": 0.03,
+        "history": 0.04,
         "rumor": 0.05,
         "safety-notice": 0.02,
         "episode": 0.05,
@@ -472,7 +472,7 @@
         "events-rides": 0.97,
         "adventure": 0.95,
         "dirt-mx": 0.94,
-        "adv-events-competitions": 0.97
+        "adv-events-competitions": 0.96
       },
       "subcategories": [
         {
@@ -496,24 +496,24 @@
         "review": 0.04,
         "comparison-test": 0.04,
         "first-look": 0.05,
-        "ranked-list": 0.02,
+        "ranked-list": 0.03,
         "buyers-guide": 0.05,
-        "how-to": 0.02,
+        "how-to": 0.03,
         "explainer": 0.09,
         "opinion": 0.07,
         "profile-interview": 0.1,
-        "tribute": 0.02,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.92,
+        "event-report": 0.91,
         "event-preview": 0.1,
-        "press-release": 0.66,
-        "digest": 0.08,
+        "press-release": 0.68,
+        "digest": 0.09,
         "photo-gallery": 0.11,
         "ride-report": 0.12,
-        "history": 0.16,
+        "history": 0.19,
         "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
@@ -552,8 +552,8 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.97,
-        "dirt-mx": 0.76,
+        "adventure": 0.96,
+        "dirt-mx": 0.75,
         "adv-events-competitions": 0.95
       },
       "subcategories": [
@@ -574,9 +574,9 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.88,
         "review": 0.04,
-        "comparison-test": 0.01,
+        "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.02,
         "buyers-guide": 0.04,
@@ -586,20 +586,20 @@
         "profile-interview": 0.1,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.87,
+        "event-report": 0.86,
         "event-preview": 0.02,
-        "press-release": 0.13,
+        "press-release": 0.12,
         "digest": 0.06,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.06,
-        "history": 0.17,
+        "history": 0.15,
         "rumor": 0.02,
-        "safety-notice": 0.03,
+        "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -625,77 +625,6 @@
           "published": "2026-09-28T14:39:14+00:00"
         }
       ]
-    },
-    {
-      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
-      "title": "One RTW Record Attempt Ends, Another Begins!",
-      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-29T10:17:21+00:00",
-      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.98,
-        "adv-events-competitions": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.51,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.17,
-        "profile-interview": 0.09,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.8,
-        "event-preview": 0.1,
-        "press-release": 0.13,
-        "digest": 0.11,
-        "photo-gallery": 0.04,
-        "ride-report": 0.03,
-        "history": 0.18,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.15,
-      "tags": [
-        "adventure",
-        "adv-events-competitions"
-      ],
-      "also": []
     },
     {
       "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
@@ -731,10 +660,10 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.92,
-        "events-rides": 0.84,
-        "adventure": 0.76,
-        "racing": 0.72,
+        "dirt-mx": 0.93,
+        "events-rides": 0.85,
+        "adventure": 0.75,
+        "racing": 0.68,
         "adv-events-competitions": 0.91
       },
       "subcategories": [
@@ -755,29 +684,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.1,
-        "review": 0.08,
-        "comparison-test": 0.06,
+        "news": 0.11,
+        "review": 0.09,
+        "comparison-test": 0.07,
         "first-look": 0.09,
-        "ranked-list": 0.03,
+        "ranked-list": 0.04,
         "buyers-guide": 0.07,
         "how-to": 0.1,
-        "explainer": 0.2,
-        "opinion": 0.47,
+        "explainer": 0.21,
+        "opinion": 0.51,
         "profile-interview": 0.15,
         "tribute": 0.18,
         "listing": 0.01,
-        "event-report": 0.78,
+        "event-report": 0.8,
         "event-preview": 0.07,
         "press-release": 0.04,
-        "digest": 0.06,
+        "digest": 0.07,
         "photo-gallery": 0.06,
         "ride-report": 0.96,
         "history": 0.19,
         "rumor": 0.02,
         "safety-notice": 0.03,
         "episode": 0.04,
-        "build-feature": 0.13,
+        "build-feature": 0.12,
         "q-and-a": 0.07
       },
       "multi_subject": 0.06,
@@ -786,6 +715,77 @@
         "events-rides",
         "adventure",
         "racing",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
+      "title": "One RTW Record Attempt Ends, Another Begins!",
+      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-29T10:17:21+00:00",
+      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "adv-events-competitions": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.53,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.16,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.78,
+        "event-preview": 0.11,
+        "press-release": 0.14,
+        "digest": 0.1,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.15,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.16,
+      "tags": [
+        "adventure",
         "adv-events-competitions"
       ],
       "also": []
@@ -824,11 +824,11 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.91,
-        "dirt-mx": 0.84,
-        "racing": 0.76,
-        "events-rides": 0.62,
-        "adv-events-competitions": 0.98
+        "adventure": 0.9,
+        "dirt-mx": 0.85,
+        "racing": 0.78,
+        "events-rides": 0.65,
+        "adv-events-competitions": 0.97
       },
       "subcategories": [
         {
@@ -844,7 +844,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.43,
+        "news": 0.45,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
@@ -853,21 +853,21 @@
         "how-to": 0.02,
         "explainer": 0.1,
         "opinion": 0.62,
-        "profile-interview": 0.17,
+        "profile-interview": 0.19,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.05,
         "event-preview": 0.77,
         "press-release": 0.14,
-        "digest": 0.06,
+        "digest": 0.07,
         "photo-gallery": 0.07,
         "ride-report": 0.03,
-        "history": 0.03,
+        "history": 0.02,
         "rumor": 0.03,
         "safety-notice": 0.03,
-        "episode": 0.06,
+        "episode": 0.07,
         "build-feature": 0.02,
-        "q-and-a": 0.14
+        "q-and-a": 0.13
       },
       "multi_subject": 0.05,
       "tags": [
@@ -908,7 +908,7 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.74,
+        "adventure": 0.76,
         "adv-events-competitions": 0.96
       },
       "subcategories": [
@@ -925,23 +925,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.72,
+        "news": 0.74,
         "review": 0.03,
         "comparison-test": 0.02,
         "first-look": 0.04,
-        "ranked-list": 0.02,
+        "ranked-list": 0.03,
         "buyers-guide": 0.05,
         "how-to": 0.03,
         "explainer": 0.11,
-        "opinion": 0.07,
+        "opinion": 0.08,
         "profile-interview": 0.75,
         "tribute": 0.03,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.07,
-        "event-preview": 0.6,
-        "press-release": 0.28,
+        "event-preview": 0.57,
+        "press-release": 0.23,
         "digest": 0.08,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.07,
         "history": 0.07,
         "rumor": 0.03,
@@ -952,6 +952,89 @@
       },
       "multi_subject": 0.05,
       "tags": [
+        "adventure",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
+      "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
+      "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T11:01:00+00:00",
+      "excerpt": "Good folks doing good work for every public land user.",
+      "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.89,
+        "events-rides": 0.86,
+        "adventure": 0.75,
+        "adv-events-competitions": 0.79
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.65,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.04,
+        "how-to": 0.07,
+        "explainer": 0.32,
+        "opinion": 0.42,
+        "profile-interview": 0.3,
+        "tribute": 0.06,
+        "listing": 0.01,
+        "event-report": 0.78,
+        "event-preview": 0.21,
+        "press-release": 0.3,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.08,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.08,
+        "build-feature": 0.05,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "events-rides",
         "adventure",
         "adv-events-competitions"
       ],
@@ -992,9 +1075,9 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "dirt-mx": 0.7,
-        "racing": 0.64,
-        "events-rides": 0.52,
+        "dirt-mx": 0.71,
+        "racing": 0.62,
+        "events-rides": 0.53,
         "adv-events-competitions": 0.98
       },
       "subcategories": [
@@ -1019,17 +1102,17 @@
         "review": 0.05,
         "comparison-test": 0.06,
         "first-look": 0.03,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
         "how-to": 0.02,
-        "explainer": 0.09,
+        "explainer": 0.1,
         "opinion": 0.06,
-        "profile-interview": 0.13,
+        "profile-interview": 0.12,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.98,
         "event-preview": 0.03,
-        "press-release": 0.52,
+        "press-release": 0.54,
         "digest": 0.04,
         "photo-gallery": 0.03,
         "ride-report": 0.02,
@@ -1040,7 +1123,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
         "dirt-mx",
@@ -1058,39 +1141,39 @@
       ]
     },
     {
-      "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
-      "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
-      "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
+      "id": "bff6bf41eaf3b8789b1963cd9306dee6ed981ab7",
+      "title": "ZXMoto Signs Skyler Howes For The Dakar",
+      "link": "https://www.advrider.com/zxmoto-signs-skyler-howes-for-the-dakar",
       "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T11:01:00+00:00",
-      "excerpt": "Good folks doing good work for every public land user.",
-      "image": "https://cdn.motor1.com/images/mgl/VzbgrM/s3/gambler-500.jpg",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-24T05:44:33+00:00",
+      "excerpt": "ZXMoto, founded in 2024, will enter the 2027 Dakar Rally. Even better, ZXMoto has signed nine-time Dakar veteran and stage winner Skyler Howes to race its new Dakar-designed machine. View this post on Instagram Is entering world-level racing something that a relatively newly mint",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/497477295_122097710132875537_6045741710703362298_n.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
+          "slug": "racing",
+          "label": "Racing"
         },
         {
           "slug": "adventure",
           "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "dirt-mx",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.9,
-        "events-rides": 0.87,
-        "adventure": 0.74,
-        "adv-events-competitions": 0.78
+        "racing": 0.94,
+        "adventure": 0.72,
+        "dirt-mx": 0.72,
+        "adv-events-competitions": 0.81
       },
       "subcategories": [
         {
@@ -1101,41 +1184,41 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "opinion",
+          "label": "Opinion"
         }
       ],
       "form_scores": {
-        "news": 0.65,
+        "news": 0.41,
         "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.06,
+        "ranked-list": 0.02,
         "buyers-guide": 0.04,
-        "how-to": 0.08,
-        "explainer": 0.33,
-        "opinion": 0.41,
-        "profile-interview": 0.29,
-        "tribute": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.8,
+        "profile-interview": 0.3,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.8,
-        "event-preview": 0.21,
-        "press-release": 0.31,
-        "digest": 0.07,
-        "photo-gallery": 0.14,
-        "ride-report": 0.07,
-        "history": 0.08,
-        "rumor": 0.02,
-        "safety-notice": 0.03,
-        "episode": 0.08,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
+        "event-report": 0.17,
+        "event-preview": 0.69,
+        "press-release": 0.63,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.33,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
       },
       "multi_subject": 0.06,
       "tags": [
-        "dirt-mx",
-        "events-rides",
+        "racing",
         "adventure",
+        "dirt-mx",
         "adv-events-competitions"
       ],
       "also": []
@@ -1171,9 +1254,9 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.92,
-        "events-rides": 0.78,
-        "dirt-mx": 0.73,
-        "adv-events-competitions": 0.96
+        "events-rides": 0.77,
+        "dirt-mx": 0.74,
+        "adv-events-competitions": 0.97
       },
       "subcategories": [
         {
@@ -1197,27 +1280,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
+        "news": 0.89,
         "review": 0.05,
-        "comparison-test": 0.08,
+        "comparison-test": 0.07,
         "first-look": 0.05,
         "ranked-list": 0.03,
         "buyers-guide": 0.07,
-        "how-to": 0.05,
+        "how-to": 0.06,
         "explainer": 0.14,
         "opinion": 0.05,
         "profile-interview": 0.08,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.07,
+        "event-report": 0.08,
         "event-preview": 0.97,
-        "press-release": 0.84,
+        "press-release": 0.85,
         "digest": 0.11,
         "photo-gallery": 0.08,
         "ride-report": 0.04,
         "history": 0.04,
         "rumor": 0.06,
-        "safety-notice": 0.02,
+        "safety-notice": 0.03,
         "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.03
@@ -1265,11 +1348,11 @@
       "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.92,
+        "dirt-mx": 0.9,
         "custom": 0.88,
-        "adventure": 0.73,
-        "events-rides": 0.53,
-        "adv-events-competitions": 0.5
+        "adventure": 0.72,
+        "events-rides": 0.52,
+        "adv-events-competitions": 0.52
       },
       "subcategories": [
         {
@@ -1282,19 +1365,19 @@
       "form_scores": {
         "news": 0.73,
         "review": 0.03,
-        "comparison-test": 0.27,
+        "comparison-test": 0.29,
         "first-look": 0.1,
-        "ranked-list": 0.22,
-        "buyers-guide": 0.11,
+        "ranked-list": 0.26,
+        "buyers-guide": 0.12,
         "how-to": 0.04,
         "explainer": 0.11,
         "opinion": 0.08,
-        "profile-interview": 0.1,
+        "profile-interview": 0.11,
         "tribute": 0.05,
         "listing": 0.05,
         "event-report": 0.11,
-        "event-preview": 0.55,
-        "press-release": 0.55,
+        "event-preview": 0.56,
+        "press-release": 0.53,
         "digest": 0.16,
         "photo-gallery": 0.26,
         "ride-report": 0.03,
@@ -1305,7 +1388,7 @@
         "build-feature": 0.04,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.61,
+      "multi_subject": 0.56,
       "tags": [
         "dirt-mx",
         "custom",
@@ -1345,10 +1428,10 @@
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.9,
-        "adventure": 0.64,
-        "classic": 0.63,
-        "adv-events-competitions": 0.88
+        "events-rides": 0.91,
+        "adventure": 0.67,
+        "classic": 0.66,
+        "adv-events-competitions": 0.87
       },
       "subcategories": [
         {
@@ -1364,29 +1447,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.15,
+        "news": 0.16,
         "review": 0.18,
-        "comparison-test": 0.15,
+        "comparison-test": 0.17,
         "first-look": 0.13,
         "ranked-list": 0.07,
-        "buyers-guide": 0.08,
-        "how-to": 0.09,
-        "explainer": 0.29,
+        "buyers-guide": 0.09,
+        "how-to": 0.1,
+        "explainer": 0.3,
         "opinion": 0.56,
-        "profile-interview": 0.16,
-        "tribute": 0.3,
-        "listing": 0.04,
-        "event-report": 0.67,
+        "profile-interview": 0.17,
+        "tribute": 0.29,
+        "listing": 0.03,
+        "event-report": 0.7,
         "event-preview": 0.2,
         "press-release": 0.1,
-        "digest": 0.13,
+        "digest": 0.12,
         "photo-gallery": 0.25,
-        "ride-report": 0.75,
-        "history": 0.53,
-        "rumor": 0.04,
+        "ride-report": 0.76,
+        "history": 0.51,
+        "rumor": 0.05,
         "safety-notice": 0.03,
         "episode": 0.08,
-        "build-feature": 0.18,
+        "build-feature": 0.17,
         "q-and-a": 0.07
       },
       "multi_subject": 0.12,
@@ -1421,21 +1504,21 @@
           "label": "Adventure"
         },
         {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "events-rides",
       "confident": true,
       "cat_scores": {
         "events-rides": 0.9,
-        "adventure": 0.74,
-        "classic": 0.72,
+        "adventure": 0.72,
         "dirt-mx": 0.71,
+        "classic": 0.71,
         "adv-events-competitions": 0.87
       },
       "subcategories": [
@@ -1452,37 +1535,37 @@
         }
       ],
       "form_scores": {
-        "news": 0.51,
-        "review": 0.05,
-        "comparison-test": 0.06,
-        "first-look": 0.05,
+        "news": 0.53,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.06,
         "ranked-list": 0.04,
         "buyers-guide": 0.05,
-        "how-to": 0.04,
+        "how-to": 0.05,
         "explainer": 0.23,
-        "opinion": 0.22,
+        "opinion": 0.21,
         "profile-interview": 0.09,
-        "tribute": 0.18,
+        "tribute": 0.17,
         "listing": 0.02,
-        "event-report": 0.83,
-        "event-preview": 0.12,
+        "event-report": 0.84,
+        "event-preview": 0.13,
         "press-release": 0.11,
-        "digest": 0.11,
-        "photo-gallery": 0.23,
-        "ride-report": 0.17,
+        "digest": 0.12,
+        "photo-gallery": 0.22,
+        "ride-report": 0.18,
         "history": 0.67,
         "rumor": 0.02,
         "safety-notice": 0.03,
-        "episode": 0.06,
+        "episode": 0.05,
         "build-feature": 0.08,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
         "events-rides",
         "adventure",
-        "classic",
         "dirt-mx",
+        "classic",
         "adv-events-competitions"
       ],
       "also": []

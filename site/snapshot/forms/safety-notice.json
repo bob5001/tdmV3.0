@@ -3,73 +3,6 @@
   "label": "Safety & Rules",
   "items": [
     {
-      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
-      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
-      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T12:19:12+00:00",
-      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
-      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "law-safety",
-      "confident": true,
-      "cat_scores": {
-        "law-safety": 0.98
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.06,
-        "explainer": 0.63,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.2,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.95,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
       "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
       "title": "MotoGP: Grand Prix Commission Updates Regulations for 2027",
       "link": "https://www.roadracingworld.com/news/motogp-grand-prix-commission-updates-regulations-for-2027",
@@ -96,7 +29,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "industry": 0.6,
+        "industry": 0.52,
         "motogp": 0.98
       },
       "subcategories": [
@@ -114,10 +47,14 @@
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.92,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
@@ -131,18 +68,18 @@
         "listing": 0.01,
         "event-report": 0.06,
         "event-preview": 0.12,
-        "press-release": 0.73,
-        "digest": 0.18,
+        "press-release": 0.76,
+        "digest": 0.19,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.03,
+        "rumor": 0.04,
         "safety-notice": 0.94,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.37,
+      "multi_subject": 0.35,
       "tags": [
         "racing",
         "industry",
@@ -193,22 +130,22 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.88,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.01,
         "ranked-list": 0.03,
         "buyers-guide": 0.02,
         "how-to": 0.04,
-        "explainer": 0.15,
+        "explainer": 0.13,
         "opinion": 0.06,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.06,
         "event-preview": 0.1,
-        "press-release": 0.49,
-        "digest": 0.5,
+        "press-release": 0.46,
+        "digest": 0.48,
         "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.03,
@@ -216,9 +153,9 @@
         "safety-notice": 0.89,
         "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.73,
+      "multi_subject": 0.72,
       "tags": [
         "racing",
         "motogp"
@@ -256,7 +193,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "industry": 0.97,
+        "industry": 0.93,
         "law-safety": 0.76
       },
       "subcategories": [],
@@ -271,35 +208,102 @@
         }
       ],
       "form_scores": {
-        "news": 0.46,
+        "news": 0.44,
         "review": 0.02,
         "comparison-test": 0.01,
         "first-look": 0.01,
         "ranked-list": 0.03,
-        "buyers-guide": 0.19,
-        "how-to": 0.72,
-        "explainer": 0.37,
+        "buyers-guide": 0.21,
+        "how-to": 0.69,
+        "explainer": 0.36,
         "opinion": 0.04,
         "profile-interview": 0.02,
-        "tribute": 0.32,
-        "listing": 0.01,
+        "tribute": 0.35,
+        "listing": 0.02,
         "event-report": 0.01,
         "event-preview": 0.01,
-        "press-release": 0.84,
+        "press-release": 0.83,
         "digest": 0.06,
         "photo-gallery": 0.02,
         "ride-report": 0.01,
-        "history": 0.59,
-        "rumor": 0.02,
+        "history": 0.66,
+        "rumor": 0.01,
         "safety-notice": 0.97,
         "episode": 0.02,
         "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "industry",
+        "law-safety"
+      ],
+      "also": []
+    },
+    {
+      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
+      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
+      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T12:19:12+00:00",
+      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
+      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "law-safety",
+      "confident": true,
+      "cat_scores": {
+        "law-safety": 0.98
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.05,
+        "explainer": 0.63,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.23,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.95,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
         "law-safety"
       ],
       "also": []
@@ -330,8 +334,8 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.97,
-        "law-safety": 0.85
+        "industry": 0.91,
+        "law-safety": 0.83
       },
       "subcategories": [],
       "forms": [
@@ -345,23 +349,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
+        "news": 0.86,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.02,
+        "ranked-list": 0.01,
         "buyers-guide": 0.11,
         "how-to": 0.03,
-        "explainer": 0.38,
+        "explainer": 0.39,
         "opinion": 0.03,
-        "profile-interview": 0.04,
+        "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.01,
         "event-preview": 0.01,
-        "press-release": 0.73,
-        "digest": 0.08,
-        "photo-gallery": 0.02,
+        "press-release": 0.72,
+        "digest": 0.07,
+        "photo-gallery": 0.03,
         "ride-report": 0.01,
         "history": 0.03,
         "rumor": 0.02,
@@ -370,7 +374,7 @@
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "industry",
         "law-safety"
@@ -413,7 +417,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.43,
+        "news": 0.45,
         "review": 0.01,
         "comparison-test": 0.01,
         "first-look": 0.01,
@@ -421,7 +425,7 @@
         "buyers-guide": 0.01,
         "how-to": 0.06,
         "explainer": 0.93,
-        "opinion": 0.17,
+        "opinion": 0.16,
         "profile-interview": 0.02,
         "tribute": 0.01,
         "listing": 0.01,
@@ -452,6 +456,75 @@
       ]
     },
     {
+      "id": "99f99919d27025e62ceb9401a24253338b2dab21",
+      "title": "DfT wants new motorcycle emissions laws, but admits it has no evidence to justify them",
+      "link": "https://www.visordown.com/news/dft-wants-new-motorcycle-emissions-law-admits-it-has-no-evidence-justify-it",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T14:17:20+00:00",
+      "excerpt": "The Government wants to extend an existing emissions law to motorcycles, despite the DfT admitting it has no evidence showing that bikes need to be brought under the rules.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/street-triple-r-detail-20my-az4i0465-ab-1_0.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "law-safety",
+      "confident": true,
+      "cat_scores": {
+        "law-safety": 0.87,
+        "industry": 0.82
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        }
+      ],
+      "form_scores": {
+        "news": 0.7,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.1,
+        "opinion": 0.19,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.77,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "law-safety",
+        "industry"
+      ],
+      "also": []
+    },
+    {
       "id": "2198b2b6d64da2ec1a9d9dcb343931a551e00574",
       "title": "DVSA crackdown targets illegal, non-compliant helmets sold to UK riders",
       "link": "https://www.motorcyclenews.com/news/2026/august/dvsa-trl-helmet-testing-partnership",
@@ -472,18 +545,13 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
         }
       ],
       "primary": "gear",
       "confident": true,
       "cat_scores": {
         "gear": 0.98,
-        "law-safety": 0.95,
-        "industry": 0.77
+        "law-safety": 0.95
       },
       "subcategories": [],
       "forms": [
@@ -501,32 +569,31 @@
         "review": 0.03,
         "comparison-test": 0.03,
         "first-look": 0.01,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.25,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.27,
         "how-to": 0.04,
-        "explainer": 0.25,
-        "opinion": 0.08,
+        "explainer": 0.23,
+        "opinion": 0.07,
         "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.03,
         "event-preview": 0.02,
-        "press-release": 0.23,
+        "press-release": 0.24,
         "digest": 0.08,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.02,
         "safety-notice": 0.8,
-        "episode": 0.04,
+        "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.05,
       "tags": [
         "gear",
-        "law-safety",
-        "industry"
+        "law-safety"
       ],
       "also": []
     },
@@ -556,8 +623,8 @@
       "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.9,
-        "industry": 0.75
+        "law-safety": 0.89,
+        "industry": 0.81
       },
       "subcategories": [],
       "forms": [
@@ -567,28 +634,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.69,
+        "news": 0.66,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.07,
         "how-to": 0.03,
-        "explainer": 0.26,
+        "explainer": 0.27,
         "opinion": 0.11,
         "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.02,
-        "event-preview": 0.01,
+        "event-preview": 0.02,
         "press-release": 0.12,
-        "digest": 0.07,
+        "digest": 0.08,
         "photo-gallery": 0.04,
         "ride-report": 0.01,
         "history": 0.02,
         "rumor": 0.07,
         "safety-notice": 0.9,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.06
       },

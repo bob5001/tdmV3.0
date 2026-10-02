@@ -3,6 +3,97 @@
   "label": "Digest",
   "items": [
     {
+      "id": "b5437ac159de64703014b5d37532f0762e51198a",
+      "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
+      "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-183",
+      "lang": "en",
+      "source": "MXP Magazine",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Pomeroy",
+      "published": "2026-09-28T18:59:39+00:00",
+      "excerpt": "Greetings! Welcome to this late September edition of the Monday Gate Drop Column, which is once again brought to you by the incredible people at Yamaha Motor Canada. And speaking of Yamaha Motor Canada, this past weekend the Blu Cru held their annual Appreciation Ride Day at SDL.",
+      "image": "https://www.mxpmag.com/wp-content/uploads/2026/04/yz-banner-ad-may-26a.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.87,
+        "events-rides": 0.65,
+        "motocross-supercross": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.64,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.89,
+        "event-preview": 0.96,
+        "press-release": 0.73,
+        "digest": 0.91,
+        "photo-gallery": 0.02,
+        "ride-report": 0.05,
+        "history": 0.05,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.92,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "events-rides",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "67b6f13f656e43e3f2a71f12ab1b0c23dd1b349e",
       "title": "October 2026",
       "link": "https://ridermagazine.com/october-2026",
@@ -38,27 +129,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.62,
-        "review": 0.09,
-        "comparison-test": 0.07,
-        "first-look": 0.9,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.13,
+        "news": 0.64,
+        "review": 0.1,
+        "comparison-test": 0.06,
+        "first-look": 0.91,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.15,
         "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.07,
-        "profile-interview": 0.12,
-        "tribute": 0.05,
+        "explainer": 0.12,
+        "opinion": 0.06,
+        "profile-interview": 0.14,
+        "tribute": 0.04,
         "listing": 0.03,
         "event-report": 0.04,
         "event-preview": 0.06,
-        "press-release": 0.51,
+        "press-release": 0.5,
         "digest": 0.77,
-        "photo-gallery": 0.12,
+        "photo-gallery": 0.14,
         "ride-report": 0.06,
-        "history": 0.29,
+        "history": 0.31,
         "rumor": 0.07,
-        "safety-notice": 0.02,
+        "safety-notice": 0.01,
         "episode": 0.03,
         "build-feature": 0.04,
         "q-and-a": 0.02
@@ -90,55 +181,57 @@
         {
           "slug": "racing",
           "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
       "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.86,
-        "racing": 0.73
+        "new-models": 0.85,
+        "racing": 0.76,
+        "industry": 0.6
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "digest",
           "label": "Digest"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.41,
-        "review": 0.07,
+        "news": 0.42,
+        "review": 0.06,
         "comparison-test": 0.03,
-        "first-look": 0.56,
+        "first-look": 0.57,
         "ranked-list": 0.05,
         "buyers-guide": 0.08,
         "how-to": 0.02,
-        "explainer": 0.16,
-        "opinion": 0.16,
-        "profile-interview": 0.11,
+        "explainer": 0.17,
+        "opinion": 0.15,
+        "profile-interview": 0.1,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.26,
-        "event-preview": 0.78,
-        "press-release": 0.39,
-        "digest": 0.87,
+        "listing": 0.02,
+        "event-report": 0.29,
+        "event-preview": 0.73,
+        "press-release": 0.41,
+        "digest": 0.88,
         "photo-gallery": 0.06,
         "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.73,
-        "safety-notice": 0.02,
+        "history": 0.03,
+        "rumor": 0.74,
+        "safety-notice": 0.01,
         "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.95,
+      "multi_subject": 0.94,
       "tags": [
         "new-models",
-        "racing"
+        "racing",
+        "industry"
       ],
       "also": []
     },
@@ -157,20 +250,20 @@
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
           "slug": "dirt-mx",
           "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "racing",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
         "dirt-mx": 0.97,
-        "motocross-supercross": 0.94
+        "racing": 0.96,
+        "motocross-supercross": 0.92
       },
       "subcategories": [
         {
@@ -198,10 +291,10 @@
         }
       ],
       "form_scores": {
-        "news": 0.75,
+        "news": 0.76,
         "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
         "ranked-list": 0.08,
         "buyers-guide": 0.03,
         "how-to": 0.03,
@@ -211,117 +304,22 @@
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.95,
-        "event-preview": 0.91,
-        "press-release": 0.13,
+        "event-preview": 0.9,
+        "press-release": 0.12,
         "digest": 0.93,
         "photo-gallery": 0.08,
-        "ride-report": 0.03,
+        "ride-report": 0.02,
         "history": 0.05,
-        "rumor": 0.01,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.17,
+        "episode": 0.16,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.96,
       "tags": [
-        "racing",
-        "dirt-mx",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "b5437ac159de64703014b5d37532f0762e51198a",
-      "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
-      "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-183",
-      "lang": "en",
-      "source": "MXP Magazine",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Chris Pomeroy",
-      "published": "2026-09-28T18:59:39+00:00",
-      "excerpt": "Greetings! Welcome to this late September edition of the Monday Gate Drop Column, which is once again brought to you by the incredible people at Yamaha Motor Canada. And speaking of Yamaha Motor Canada, this past weekend the Blu Cru held their annual Appreciation Ride Day at SDL.",
-      "image": "https://www.mxpmag.com/wp-content/uploads/2026/04/yz-banner-ad-may-26a.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.88,
-        "events-rides": 0.64,
-        "motocross-supercross": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.64,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.1,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.08,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.07,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.89,
-        "event-preview": 0.96,
-        "press-release": 0.76,
-        "digest": 0.91,
-        "photo-gallery": 0.03,
-        "ride-report": 0.05,
-        "history": 0.05,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.92,
-      "tags": [
         "dirt-mx",
         "racing",
-        "events-rides",
         "motocross-supercross"
       ],
       "also": []
@@ -371,14 +369,18 @@
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.81,
+        "news": 0.79,
         "review": 0.02,
         "comparison-test": 0.03,
         "first-look": 0.05,
-        "ranked-list": 0.14,
+        "ranked-list": 0.13,
         "buyers-guide": 0.02,
         "how-to": 0.03,
         "explainer": 0.09,
@@ -386,18 +388,18 @@
         "profile-interview": 0.07,
         "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.69,
-        "event-preview": 0.72,
-        "press-release": 0.15,
-        "digest": 0.9,
-        "photo-gallery": 0.15,
+        "event-report": 0.67,
+        "event-preview": 0.76,
+        "press-release": 0.16,
+        "digest": 0.89,
+        "photo-gallery": 0.14,
         "ride-report": 0.04,
         "history": 0.04,
         "rumor": 0.03,
         "safety-notice": 0.03,
-        "episode": 0.13,
+        "episode": 0.12,
         "build-feature": 0.03,
-        "q-and-a": 0.14
+        "q-and-a": 0.16
       },
       "multi_subject": 0.92,
       "tags": [
@@ -438,8 +440,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "new-models": 0.75,
-        "racing": 0.74,
+        "new-models": 0.77,
+        "racing": 0.75,
         "motocross-supercross": 0.97
       },
       "subcategories": [
@@ -460,11 +462,11 @@
         }
       ],
       "form_scores": {
-        "news": 0.19,
+        "news": 0.18,
         "review": 0.04,
         "comparison-test": 0.05,
         "first-look": 0.92,
-        "ranked-list": 0.16,
+        "ranked-list": 0.17,
         "buyers-guide": 0.04,
         "how-to": 0.02,
         "explainer": 0.05,
@@ -472,20 +474,20 @@
         "profile-interview": 0.04,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.23,
+        "event-report": 0.22,
         "event-preview": 0.08,
-        "press-release": 0.1,
+        "press-release": 0.09,
         "digest": 0.91,
-        "photo-gallery": 0.72,
+        "photo-gallery": 0.74,
         "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.07,
+        "rumor": 0.06,
         "safety-notice": 0.01,
-        "episode": 0.23,
+        "episode": 0.25,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.97,
+      "multi_subject": 0.96,
       "tags": [
         "dirt-mx",
         "new-models",
@@ -527,7 +529,7 @@
         "racing": 0.91,
         "custom": 0.87,
         "sport-bikes": 0.58,
-        "motogp": 0.88
+        "motogp": 0.87
       },
       "subcategories": [
         {
@@ -551,28 +553,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.44,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.12,
+        "news": 0.46,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.15,
         "ranked-list": 0.05,
         "buyers-guide": 0.08,
-        "how-to": 0.03,
+        "how-to": 0.02,
         "explainer": 0.65,
-        "opinion": 0.44,
+        "opinion": 0.42,
         "profile-interview": 0.1,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.03,
-        "event-report": 0.94,
-        "event-preview": 0.84,
-        "press-release": 0.43,
-        "digest": 0.96,
-        "photo-gallery": 0.08,
+        "event-report": 0.93,
+        "event-preview": 0.83,
+        "press-release": 0.44,
+        "digest": 0.95,
+        "photo-gallery": 0.07,
         "ride-report": 0.04,
         "history": 0.04,
         "rumor": 0.05,
         "safety-notice": 0.01,
-        "episode": 0.16,
+        "episode": 0.18,
         "build-feature": 0.06,
         "q-and-a": 0.03
       },
@@ -612,7 +614,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.94,
+        "racing": 0.95,
         "motocross-supercross": 0.97
       },
       "subcategories": [
@@ -624,37 +626,37 @@
       ],
       "forms": [
         {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
           "slug": "digest",
           "label": "Digest"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.31,
+        "news": 0.29,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.06,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
         "how-to": 0.03,
-        "explainer": 0.45,
-        "opinion": 0.33,
-        "profile-interview": 0.25,
-        "tribute": 0.11,
+        "explainer": 0.46,
+        "opinion": 0.35,
+        "profile-interview": 0.22,
+        "tribute": 0.12,
         "listing": 0.01,
-        "event-report": 0.28,
-        "event-preview": 0.29,
+        "event-report": 0.27,
+        "event-preview": 0.27,
         "press-release": 0.07,
-        "digest": 0.79,
+        "digest": 0.81,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
         "history": 0.05,
         "rumor": 0.02,
         "safety-notice": 0.05,
-        "episode": 0.81,
+        "episode": 0.79,
         "build-feature": 0.02,
         "q-and-a": 0.13
       },
@@ -714,7 +716,7 @@
         }
       ],
       "form_scores": {
-        "news": 0.46,
+        "news": 0.49,
         "review": 0.02,
         "comparison-test": 0.05,
         "first-look": 0.05,
@@ -727,108 +729,19 @@
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.93,
-        "event-preview": 0.23,
-        "press-release": 0.11,
-        "digest": 0.94,
+        "event-preview": 0.21,
+        "press-release": 0.12,
+        "digest": 0.95,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.08,
-        "rumor": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.02,
         "episode": 0.15,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
       "multi_subject": 0.96,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "45132de06ea4bf641df9a88791cc37401e3e16ab",
-      "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
-      "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-182",
-      "lang": "en",
-      "source": "MXP Magazine",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Chris Pomeroy",
-      "published": "2026-09-21T20:22:09+00:00",
-      "excerpt": "Greetings! Welcome to this Fall edition of the Monday Gate Drop Column, which as always is brought to you by the fine people at Yamaha Motor Canada. This is a big week for Blu Cru riders as this weekend is the Yamaha Rider Appreciation Day at Sand Del Lee. On Saturday, Blu Cru ri",
-      "image": "https://www.mxpmag.com/wp-content/uploads/2026/04/yz-banner-ad-may-26a.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.92,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.3,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.11,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.84,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.96,
-        "press-release": 0.29,
-        "digest": 0.75,
-        "photo-gallery": 0.03,
-        "ride-report": 0.05,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.77,
       "tags": [
         "dirt-mx",
         "racing",
@@ -884,26 +797,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.68,
+        "news": 0.69,
         "review": 0.03,
         "comparison-test": 0.08,
         "first-look": 0.61,
         "ranked-list": 0.03,
         "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.1,
+        "how-to": 0.04,
+        "explainer": 0.11,
         "opinion": 0.07,
         "profile-interview": 0.24,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.95,
-        "event-preview": 0.22,
-        "press-release": 0.13,
-        "digest": 0.86,
-        "photo-gallery": 0.21,
+        "event-preview": 0.21,
+        "press-release": 0.14,
+        "digest": 0.87,
+        "photo-gallery": 0.2,
         "ride-report": 0.11,
         "history": 0.03,
-        "rumor": 0.44,
+        "rumor": 0.43,
         "safety-notice": 0.01,
         "episode": 0.62,
         "build-feature": 0.02,
@@ -961,11 +874,11 @@
         }
       ],
       "form_scores": {
-        "news": 0.3,
-        "review": 0.01,
+        "news": 0.28,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.05,
+        "ranked-list": 0.07,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.09,
@@ -979,14 +892,14 @@
         "digest": 0.89,
         "photo-gallery": 0.03,
         "ride-report": 0.01,
-        "history": 0.32,
+        "history": 0.34,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.83,
+      "multi_subject": 0.85,
       "tags": [
         "dirt-mx",
         "racing",
@@ -1021,7 +934,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
+        "racing": 0.91,
         "motocross-supercross": 0.94
       },
       "subcategories": [
@@ -1046,21 +959,21 @@
         "review": 0.01,
         "comparison-test": 0.03,
         "first-look": 0.02,
-        "ranked-list": 0.11,
+        "ranked-list": 0.09,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.09,
-        "opinion": 0.19,
+        "opinion": 0.21,
         "profile-interview": 0.09,
-        "tribute": 0.44,
-        "listing": 0.04,
+        "tribute": 0.38,
+        "listing": 0.03,
         "event-report": 0.11,
         "event-preview": 0.06,
         "press-release": 0.03,
-        "digest": 0.92,
-        "photo-gallery": 0.55,
+        "digest": 0.93,
+        "photo-gallery": 0.56,
         "ride-report": 0.02,
-        "history": 0.78,
+        "history": 0.77,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.04,
@@ -1101,8 +1014,8 @@
       "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "industry": 0.93,
-        "racing": 0.88
+        "industry": 0.9,
+        "racing": 0.86
       },
       "subcategories": [],
       "forms": [
@@ -1112,32 +1025,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.61,
+        "news": 0.6,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.03,
         "ranked-list": 0.12,
-        "buyers-guide": 0.05,
+        "buyers-guide": 0.06,
         "how-to": 0.03,
-        "explainer": 0.57,
-        "opinion": 0.22,
+        "explainer": 0.54,
+        "opinion": 0.21,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.01,
         "event-report": 0.12,
-        "event-preview": 0.33,
-        "press-release": 0.19,
+        "event-preview": 0.32,
+        "press-release": 0.2,
         "digest": 0.95,
         "photo-gallery": 0.03,
         "ride-report": 0.02,
         "history": 0.03,
         "rumor": 0.04,
-        "safety-notice": 0.4,
-        "episode": 0.05,
+        "safety-notice": 0.39,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.97,
+      "multi_subject": 0.96,
       "tags": [
         "industry",
         "racing"
@@ -1168,10 +1081,10 @@
         }
       ],
       "primary": "industry",
-      "confident": false,
+      "confident": true,
       "cat_scores": {
-        "industry": 0.81,
-        "new-models": 0.75
+        "industry": 0.86,
+        "new-models": 0.73
       },
       "subcategories": [],
       "forms": [
@@ -1181,26 +1094,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.59,
+        "news": 0.6,
         "review": 0.02,
         "comparison-test": 0.04,
-        "first-look": 0.34,
+        "first-look": 0.4,
         "ranked-list": 0.04,
         "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.23,
-        "opinion": 0.41,
-        "profile-interview": 0.18,
+        "explainer": 0.22,
+        "opinion": 0.43,
+        "profile-interview": 0.16,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.03,
-        "event-preview": 0.26,
+        "event-preview": 0.28,
         "press-release": 0.54,
         "digest": 0.91,
         "photo-gallery": 0.02,
-        "ride-report": 0.01,
+        "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.51,
+        "rumor": 0.49,
         "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.01,
@@ -1247,10 +1160,10 @@
       "primary": "cruisers",
       "confident": true,
       "cat_scores": {
-        "cruisers": 0.87,
-        "racing": 0.78,
-        "events-rides": 0.71,
-        "new-models": 0.65
+        "cruisers": 0.86,
+        "racing": 0.8,
+        "events-rides": 0.72,
+        "new-models": 0.63
       },
       "subcategories": [],
       "forms": [
@@ -1268,32 +1181,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.09,
-        "review": 0.27,
+        "news": 0.1,
+        "review": 0.28,
         "comparison-test": 0.04,
-        "first-look": 0.47,
+        "first-look": 0.48,
         "ranked-list": 0.02,
-        "buyers-guide": 0.15,
-        "how-to": 0.07,
+        "buyers-guide": 0.16,
+        "how-to": 0.06,
         "explainer": 0.4,
-        "opinion": 0.21,
-        "profile-interview": 0.72,
+        "opinion": 0.22,
+        "profile-interview": 0.73,
         "tribute": 0.03,
         "listing": 0.02,
-        "event-report": 0.08,
+        "event-report": 0.07,
         "event-preview": 0.97,
-        "press-release": 0.18,
-        "digest": 0.77,
+        "press-release": 0.19,
+        "digest": 0.8,
         "photo-gallery": 0.02,
-        "ride-report": 0.15,
+        "ride-report": 0.13,
         "history": 0.05,
         "rumor": 0.03,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.97,
         "build-feature": 0.06,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.87,
+      "multi_subject": 0.88,
       "tags": [
         "cruisers",
         "racing",
@@ -1324,7 +1237,7 @@
       "primary": "sport-bikes",
       "confident": false,
       "cat_scores": {
-        "sport-bikes": 0.68
+        "sport-bikes": 0.66
       },
       "subcategories": [],
       "forms": [
@@ -1334,23 +1247,23 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
+        "news": 0.06,
         "review": 0.06,
         "comparison-test": 0.07,
-        "first-look": 0.29,
+        "first-look": 0.3,
         "ranked-list": 0.08,
-        "buyers-guide": 0.62,
-        "how-to": 0.07,
-        "explainer": 0.16,
+        "buyers-guide": 0.64,
+        "how-to": 0.06,
+        "explainer": 0.17,
         "opinion": 0.12,
         "profile-interview": 0.16,
-        "tribute": 0.03,
-        "listing": 0.03,
-        "event-report": 0.03,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.04,
         "event-preview": 0.04,
-        "press-release": 0.18,
+        "press-release": 0.16,
         "digest": 0.86,
-        "photo-gallery": 0.04,
+        "photo-gallery": 0.03,
         "ride-report": 0.03,
         "history": 0.12,
         "rumor": 0.04,
@@ -1359,7 +1272,7 @@
         "build-feature": 0.04,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.95,
+      "multi_subject": 0.96,
       "tags": [
         "sport-bikes"
       ],
@@ -1395,9 +1308,9 @@
       "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "sport-bikes": 0.96,
-        "new-models": 0.91,
-        "events-rides": 0.78
+        "sport-bikes": 0.95,
+        "new-models": 0.9,
+        "events-rides": 0.73
       },
       "subcategories": [],
       "forms": [
@@ -1420,31 +1333,31 @@
       ],
       "form_scores": {
         "news": 0.16,
-        "review": 0.57,
-        "comparison-test": 0.06,
+        "review": 0.55,
+        "comparison-test": 0.05,
         "first-look": 0.88,
         "ranked-list": 0.02,
         "buyers-guide": 0.1,
         "how-to": 0.1,
-        "explainer": 0.46,
+        "explainer": 0.45,
         "opinion": 0.17,
-        "profile-interview": 0.36,
+        "profile-interview": 0.37,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.1,
+        "event-report": 0.12,
         "event-preview": 0.97,
-        "press-release": 0.4,
-        "digest": 0.79,
+        "press-release": 0.42,
+        "digest": 0.8,
         "photo-gallery": 0.02,
-        "ride-report": 0.25,
-        "history": 0.04,
+        "ride-report": 0.24,
+        "history": 0.05,
         "rumor": 0.03,
-        "safety-notice": 0.02,
+        "safety-notice": 0.01,
         "episode": 0.96,
         "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.81,
+      "multi_subject": 0.83,
       "tags": [
         "sport-bikes",
         "new-models",
@@ -1488,27 +1401,27 @@
         }
       ],
       "form_scores": {
-        "news": 0.66,
-        "review": 0.07,
+        "news": 0.67,
+        "review": 0.08,
         "comparison-test": 0.06,
         "first-look": 0.9,
         "ranked-list": 0.08,
         "buyers-guide": 0.21,
-        "how-to": 0.03,
+        "how-to": 0.04,
         "explainer": 0.08,
         "opinion": 0.07,
-        "profile-interview": 0.06,
+        "profile-interview": 0.07,
         "tribute": 0.15,
         "listing": 0.03,
         "event-report": 0.04,
         "event-preview": 0.07,
-        "press-release": 0.4,
-        "digest": 0.86,
-        "photo-gallery": 0.09,
-        "ride-report": 0.16,
-        "history": 0.09,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
+        "press-release": 0.39,
+        "digest": 0.85,
+        "photo-gallery": 0.08,
+        "ride-report": 0.17,
+        "history": 0.08,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.03,
         "q-and-a": 0.03
@@ -1546,7 +1459,7 @@
       "confident": true,
       "cat_scores": {
         "sport-bikes": 0.86,
-        "new-models": 0.83
+        "new-models": 0.81
       },
       "subcategories": [],
       "forms": [
@@ -1557,125 +1470,42 @@
         {
           "slug": "digest",
           "label": "Digest"
+        },
+        {
+          "slug": "comparison-test",
+          "label": "Comparison Test"
         }
       ],
       "form_scores": {
         "news": 0.07,
         "review": 0.04,
-        "comparison-test": 0.74,
+        "comparison-test": 0.75,
         "first-look": 0.49,
         "ranked-list": 0.09,
         "buyers-guide": 0.91,
         "how-to": 0.07,
-        "explainer": 0.4,
+        "explainer": 0.41,
         "opinion": 0.09,
         "profile-interview": 0.04,
         "tribute": 0.06,
         "listing": 0.02,
         "event-report": 0.12,
         "event-preview": 0.07,
-        "press-release": 0.18,
-        "digest": 0.81,
+        "press-release": 0.16,
+        "digest": 0.82,
         "photo-gallery": 0.03,
         "ride-report": 0.02,
-        "history": 0.37,
+        "history": 0.42,
         "rumor": 0.06,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.95,
+      "multi_subject": 0.94,
       "tags": [
         "sport-bikes",
         "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "aecc811fc7a3866217171fca9364351caf7aad98",
-      "title": "Harley-Davidson Deadwood + Biketoberfest + Superbike School with Teejay Adams",
-      "link": "https://motosandfriends.podbean.com/e/harley-davidson-deadwood-biketoberfest-superbike-school-with-teejay-adams",
-      "lang": "en",
-      "source": "Motos and Friends",
-      "ownership": "commercial",
-      "media": "podcast",
-      "author": "Motos and Friends by Ultimate Motorcycle",
-      "published": "2026-08-05T20:01:00+00:00",
-      "excerpt": "This episode is brought to you by the 34th Annual Biketoberfest October 15 to 18 * * * * * The 2026 Harley-Davidson Deadwood is the newest cruiser in the Softail lineup, and it arrives with a familiar recipe. The Motor Company took the Heritage Classic, lowered the rear end, chop",
-      "image": "https://d2bwo9zemjwxh5.cloudfront.net/ep-logo/pbblog10714790/2026-harley-davidson-deadwood-review-softail-cruiser-11-1536x1024_myegis_1200x628.jpg?s=8b1630f85c413fc5df9e94de3c8f5dcb&e=jpeg",
-      "audio": "https://mcdn.podbean.com/mf/web/zpfnkydatbz3jg8x/S6_H-D_Deadwood_Biketoberfest_Superbike_School_w_TJ_Adams9gw14.m4a",
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.94,
-        "events-rides": 0.85,
-        "cruisers": 0.77
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        },
-        {
-          "slug": "digest",
-          "label": "Digest"
-        }
-      ],
-      "form_scores": {
-        "news": 0.19,
-        "review": 0.42,
-        "comparison-test": 0.03,
-        "first-look": 0.87,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.17,
-        "how-to": 0.07,
-        "explainer": 0.66,
-        "opinion": 0.14,
-        "profile-interview": 0.33,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.08,
-        "event-preview": 0.96,
-        "press-release": 0.63,
-        "digest": 0.77,
-        "photo-gallery": 0.03,
-        "ride-report": 0.27,
-        "history": 0.04,
-        "rumor": 0.07,
-        "safety-notice": 0.02,
-        "episode": 0.96,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.82,
-      "tags": [
-        "new-models",
-        "events-rides",
-        "cruisers"
       ],
       "also": []
     },
@@ -1711,7 +1541,7 @@
       "cat_scores": {
         "new-models": 0.94,
         "racing": 0.76,
-        "cruisers": 0.72
+        "cruisers": 0.73
       },
       "subcategories": [],
       "forms": [
@@ -1733,26 +1563,26 @@
         }
       ],
       "form_scores": {
-        "news": 0.21,
-        "review": 0.28,
-        "comparison-test": 0.04,
-        "first-look": 0.85,
+        "news": 0.2,
+        "review": 0.29,
+        "comparison-test": 0.03,
+        "first-look": 0.86,
         "ranked-list": 0.02,
         "buyers-guide": 0.14,
         "how-to": 0.04,
-        "explainer": 0.48,
-        "opinion": 0.13,
+        "explainer": 0.47,
+        "opinion": 0.14,
         "profile-interview": 0.87,
         "tribute": 0.04,
-        "listing": 0.02,
+        "listing": 0.03,
         "event-report": 0.09,
-        "event-preview": 0.14,
-        "press-release": 0.43,
-        "digest": 0.84,
+        "event-preview": 0.13,
+        "press-release": 0.4,
+        "digest": 0.8,
         "photo-gallery": 0.03,
         "ride-report": 0.08,
         "history": 0.12,
-        "rumor": 0.16,
+        "rumor": 0.13,
         "safety-notice": 0.02,
         "episode": 0.97,
         "build-feature": 0.08,
@@ -1785,12 +1615,12 @@
           "label": "Racing"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
           "slug": "custom",
           "label": "Custom"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         },
         {
           "slug": "sport-bikes",
@@ -1800,10 +1630,10 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.86,
-        "new-models": 0.84,
-        "custom": 0.83,
-        "sport-bikes": 0.7
+        "racing": 0.85,
+        "custom": 0.82,
+        "new-models": 0.82,
+        "sport-bikes": 0.72
       },
       "subcategories": [],
       "forms": [
@@ -1816,45 +1646,45 @@
           "label": "Digest"
         },
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.1,
+        "news": 0.11,
         "review": 0.26,
-        "comparison-test": 0.04,
+        "comparison-test": 0.05,
         "first-look": 0.4,
         "ranked-list": 0.04,
         "buyers-guide": 0.34,
         "how-to": 0.04,
-        "explainer": 0.37,
+        "explainer": 0.38,
         "opinion": 0.63,
-        "profile-interview": 0.83,
+        "profile-interview": 0.82,
         "tribute": 0.03,
         "listing": 0.02,
-        "event-report": 0.83,
+        "event-report": 0.84,
         "event-preview": 0.17,
-        "press-release": 0.2,
-        "digest": 0.88,
+        "press-release": 0.21,
+        "digest": 0.89,
         "photo-gallery": 0.03,
         "ride-report": 0.05,
         "history": 0.09,
-        "rumor": 0.04,
+        "rumor": 0.05,
         "safety-notice": 0.01,
         "episode": 0.97,
-        "build-feature": 0.06,
+        "build-feature": 0.07,
         "q-and-a": 0.03
       },
       "multi_subject": 0.93,
       "tags": [
         "racing",
-        "new-models",
         "custom",
+        "new-models",
         "sport-bikes"
       ],
       "also": []

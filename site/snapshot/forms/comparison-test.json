@@ -29,7 +29,7 @@
       "confident": true,
       "cat_scores": {
         "cruisers": 0.92,
-        "racing": 0.57
+        "racing": 0.61
       },
       "subcategories": [],
       "forms": [
@@ -43,32 +43,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.62,
-        "review": 0.16,
+        "news": 0.64,
+        "review": 0.17,
         "comparison-test": 0.79,
         "first-look": 0.07,
-        "ranked-list": 0.15,
-        "buyers-guide": 0.15,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.16,
         "how-to": 0.03,
         "explainer": 0.1,
-        "opinion": 0.7,
-        "profile-interview": 0.11,
+        "opinion": 0.69,
+        "profile-interview": 0.1,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.86,
+        "event-report": 0.85,
         "event-preview": 0.07,
-        "press-release": 0.18,
+        "press-release": 0.19,
         "digest": 0.08,
-        "photo-gallery": 0.16,
+        "photo-gallery": 0.15,
         "ride-report": 0.05,
-        "history": 0.09,
-        "rumor": 0.05,
+        "history": 0.1,
+        "rumor": 0.04,
         "safety-notice": 0.02,
         "episode": 0.08,
         "build-feature": 0.1,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "cruisers",
         "racing"
@@ -117,12 +117,12 @@
       "form_scores": {
         "news": 0.01,
         "review": 0.04,
-        "comparison-test": 0.9,
+        "comparison-test": 0.93,
         "first-look": 0.02,
         "ranked-list": 0.08,
-        "buyers-guide": 0.78,
+        "buyers-guide": 0.8,
         "how-to": 0.03,
-        "explainer": 0.2,
+        "explainer": 0.19,
         "opinion": 0.94,
         "profile-interview": 0.04,
         "tribute": 0.01,
@@ -131,9 +131,9 @@
         "event-preview": 0.01,
         "press-release": 0.02,
         "digest": 0.01,
-        "photo-gallery": 0.01,
-        "ride-report": 0.07,
-        "history": 0.01,
+        "photo-gallery": 0.02,
+        "ride-report": 0.08,
+        "history": 0.02,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
@@ -173,8 +173,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.71,
-        "motogp": 0.91
+        "sport-bikes": 0.67,
+        "motogp": 0.88
       },
       "subcategories": [
         {
@@ -200,26 +200,26 @@
       "form_scores": {
         "news": 0.8,
         "review": 0.04,
-        "comparison-test": 0.79,
-        "first-look": 0.12,
-        "ranked-list": 0.17,
+        "comparison-test": 0.77,
+        "first-look": 0.11,
+        "ranked-list": 0.16,
         "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.08,
+        "explainer": 0.07,
+        "opinion": 0.07,
         "profile-interview": 0.06,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.86,
-        "event-preview": 0.1,
-        "press-release": 0.16,
+        "event-report": 0.87,
+        "event-preview": 0.09,
+        "press-release": 0.15,
         "digest": 0.1,
         "photo-gallery": 0.08,
         "ride-report": 0.02,
         "history": 0.09,
-        "rumor": 0.11,
+        "rumor": 0.12,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
@@ -228,69 +228,6 @@
         "racing",
         "sport-bikes",
         "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "a5390091d3048128649d12ccd4ccec1c9482fdce",
-      "title": "How the new BMW F450R compares to the best A2 nakeds on the market",
-      "link": "https://www.motorcyclenews.com/news/2026/october/bmw-f450r-vs-ktm-duke-390-vs-yamaha-mt-03-vs-triumph-speed-400",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T16:00:00+00:00",
-      "excerpt": "BMW just revealed their new F450R, a naked bike for the A2 licence class offering 46.9bhp (35kW), S1000R-inspired styling, and the option to fit Easy Ride Clutch, BMW\u2019s clutchless riding system.",
-      "image": "https://www.motorcyclenews.com/wp-images/440517/390x260/a2-compound-image.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.95
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "comparison-test",
-          "label": "Comparison Test"
-        }
-      ],
-      "form_scores": {
-        "news": 0.51,
-        "review": 0.34,
-        "comparison-test": 0.75,
-        "first-look": 0.58,
-        "ranked-list": 0.39,
-        "buyers-guide": 0.65,
-        "how-to": 0.05,
-        "explainer": 0.37,
-        "opinion": 0.26,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.48,
-        "digest": 0.07,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.02,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "new-models"
       ],
       "also": []
     },
@@ -316,7 +253,7 @@
       "primary": "adventure",
       "confident": false,
       "cat_scores": {
-        "adventure": 0.5
+        "adventure": 0.51
       },
       "subcategories": [],
       "forms": [
@@ -331,25 +268,25 @@
       ],
       "form_scores": {
         "news": 0.14,
-        "review": 0.09,
-        "comparison-test": 0.95,
-        "first-look": 0.29,
-        "ranked-list": 0.55,
+        "review": 0.1,
+        "comparison-test": 0.94,
+        "first-look": 0.32,
+        "ranked-list": 0.56,
         "buyers-guide": 0.53,
-        "how-to": 0.15,
-        "explainer": 0.62,
-        "opinion": 0.36,
+        "how-to": 0.17,
+        "explainer": 0.64,
+        "opinion": 0.37,
         "profile-interview": 0.05,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.27,
-        "event-preview": 0.04,
+        "event-report": 0.31,
+        "event-preview": 0.03,
         "press-release": 0.08,
         "digest": 0.06,
         "photo-gallery": 0.08,
-        "ride-report": 0.83,
+        "ride-report": 0.82,
         "history": 0.06,
-        "rumor": 0.05,
+        "rumor": 0.04,
         "safety-notice": 0.03,
         "episode": 0.06,
         "build-feature": 0.04,
@@ -401,19 +338,19 @@
         }
       ],
       "form_scores": {
-        "news": 0.08,
-        "review": 0.04,
-        "comparison-test": 0.98,
-        "first-look": 0.26,
+        "news": 0.09,
+        "review": 0.05,
+        "comparison-test": 0.97,
+        "first-look": 0.29,
         "ranked-list": 0.82,
-        "buyers-guide": 0.77,
+        "buyers-guide": 0.79,
         "how-to": 0.05,
-        "explainer": 0.14,
-        "opinion": 0.37,
+        "explainer": 0.15,
+        "opinion": 0.36,
         "profile-interview": 0.03,
         "tribute": 0.02,
         "listing": 0.02,
-        "event-report": 0.08,
+        "event-report": 0.09,
         "event-preview": 0.03,
         "press-release": 0.06,
         "digest": 0.08,
@@ -468,12 +405,12 @@
         }
       ],
       "form_scores": {
-        "news": 0.08,
+        "news": 0.09,
         "review": 0.06,
-        "comparison-test": 0.91,
-        "first-look": 0.19,
-        "ranked-list": 0.52,
-        "buyers-guide": 0.69,
+        "comparison-test": 0.92,
+        "first-look": 0.18,
+        "ranked-list": 0.51,
+        "buyers-guide": 0.68,
         "how-to": 0.03,
         "explainer": 0.26,
         "opinion": 0.76,
@@ -484,14 +421,14 @@
         "event-preview": 0.02,
         "press-release": 0.08,
         "digest": 0.07,
-        "photo-gallery": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.14,
-        "history": 0.06,
+        "history": 0.07,
         "rumor": 0.03,
-        "safety-notice": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.03,
-        "q-and-a": 0.08
+        "q-and-a": 0.07
       },
       "multi_subject": 0.07,
       "tags": [
@@ -535,9 +472,9 @@
       "form_scores": {
         "news": 0.1,
         "review": 0.03,
-        "comparison-test": 0.75,
-        "first-look": 0.2,
-        "ranked-list": 0.92,
+        "comparison-test": 0.76,
+        "first-look": 0.19,
+        "ranked-list": 0.93,
         "buyers-guide": 0.68,
         "how-to": 0.05,
         "explainer": 0.28,
@@ -558,7 +495,7 @@
         "build-feature": 0.02,
         "q-and-a": 0.06
       },
-      "multi_subject": 0.12,
+      "multi_subject": 0.13,
       "tags": [
         "odd-ball"
       ],
@@ -591,8 +528,8 @@
       "confident": true,
       "cat_scores": {
         "adventure": 0.93,
-        "new-models": 0.8,
-        "adventure-touring": 0.61
+        "new-models": 0.81,
+        "adventure-touring": 0.64
       },
       "subcategories": [
         {
@@ -608,28 +545,28 @@
         }
       ],
       "form_scores": {
-        "news": 0.1,
+        "news": 0.09,
         "review": 0.11,
         "comparison-test": 0.87,
-        "first-look": 0.45,
-        "ranked-list": 0.23,
-        "buyers-guide": 0.61,
+        "first-look": 0.42,
+        "ranked-list": 0.24,
+        "buyers-guide": 0.63,
         "how-to": 0.05,
-        "explainer": 0.18,
-        "opinion": 0.7,
+        "explainer": 0.17,
+        "opinion": 0.71,
         "profile-interview": 0.06,
-        "tribute": 0.02,
+        "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.07,
+        "event-report": 0.06,
         "event-preview": 0.04,
         "press-release": 0.09,
-        "digest": 0.1,
+        "digest": 0.09,
         "photo-gallery": 0.08,
-        "ride-report": 0.18,
+        "ride-report": 0.16,
         "history": 0.04,
         "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.06,
+        "episode": 0.05,
         "build-feature": 0.03,
         "q-and-a": 0.08
       },
@@ -642,71 +579,79 @@
       "also": []
     },
     {
-      "id": "6086d871b6b68d9b8f6fd10dcc7e389076502571",
-      "title": "DJI Osmo Action 5 Vs 6 for photos",
-      "link": "https://motorcycleparadise.net/2026/08/dji-osmo-action-5-vs-6-for-photos.html",
+      "id": "d39895f2dda8731aa8d59563989e0eaf0f490377",
+      "title": "September 2026",
+      "link": "https://www.fastbikesmag.com/2026/08/07/september-2026",
       "lang": "en",
-      "source": "Motorcycle Paradise",
-      "ownership": "independent",
+      "source": "Fast Bikes",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Warren",
-      "published": "2026-08-10T10:42:25+00:00",
-      "excerpt": "I had no plans to buy a DJI Osmo Action 6 but as I mentioned in my Canada ride report I misplaced my Osmo Action 5 in route to Vancouver and that being once in a lifetime ride I decided to buy a new cam then I recovered my Action [\u2026] The post DJI Osmo Action 5 Vs 6 for photos fir",
-      "image": "https://motorcycleparadise.net/wp-content/uploads/2019/11/cropped-mountain-road3sm3.png",
+      "author": "Alex Bestwick",
+      "published": "2026-08-07T11:15:04+00:00",
+      "excerpt": "As always, our September edition of Fast Bikes magazine is packed with product guides, columns, and fantastic features. If you\u2019d like to read Fast Bikes, then you can order yourself a print copy, download the digital version, or better yet bag a saving and subscribe ! Here\u2019s what",
+      "image": "https://www.fastbikesmag.com/wp-content/uploads/sites/28/2026/08/fb-sept-2026.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         },
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "adventure",
+      "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "adventure": 1.0,
-        "gear": 0.86
+        "sport-bikes": 0.86,
+        "new-models": 0.81
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        },
+        {
+          "slug": "digest",
+          "label": "Digest"
+        },
         {
           "slug": "comparison-test",
           "label": "Comparison Test"
         }
       ],
       "form_scores": {
-        "news": 0.11,
-        "review": 0.21,
+        "news": 0.07,
+        "review": 0.04,
         "comparison-test": 0.75,
-        "first-look": 0.38,
-        "ranked-list": 0.08,
-        "buyers-guide": 0.6,
-        "how-to": 0.09,
-        "explainer": 0.27,
-        "opinion": 0.52,
+        "first-look": 0.49,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.91,
+        "how-to": 0.07,
+        "explainer": 0.41,
+        "opinion": 0.09,
         "profile-interview": 0.04,
-        "tribute": 0.03,
-        "listing": 0.04,
-        "event-report": 0.13,
-        "event-preview": 0.02,
-        "press-release": 0.07,
-        "digest": 0.1,
-        "photo-gallery": 0.17,
-        "ride-report": 0.61,
-        "history": 0.06,
-        "rumor": 0.1,
-        "safety-notice": 0.02,
-        "episode": 0.08,
+        "tribute": 0.06,
+        "listing": 0.02,
+        "event-report": 0.12,
+        "event-preview": 0.07,
+        "press-release": 0.16,
+        "digest": 0.82,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.42,
+        "rumor": 0.06,
+        "safety-notice": 0.01,
+        "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.12
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.12,
+      "multi_subject": 0.94,
       "tags": [
-        "adventure",
-        "gear"
+        "sport-bikes",
+        "new-models"
       ],
       "also": []
     },
@@ -737,42 +682,46 @@
       "confident": true,
       "cat_scores": {
         "sport-bikes": 0.95,
-        "new-models": 0.77
+        "new-models": 0.74
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "comparison-test",
           "label": "Comparison Test"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
         }
       ],
       "form_scores": {
         "news": 0.06,
-        "review": 0.08,
-        "comparison-test": 0.88,
-        "first-look": 0.39,
-        "ranked-list": 0.3,
-        "buyers-guide": 0.74,
+        "review": 0.07,
+        "comparison-test": 0.89,
+        "first-look": 0.33,
+        "ranked-list": 0.32,
+        "buyers-guide": 0.75,
         "how-to": 0.06,
-        "explainer": 0.35,
+        "explainer": 0.36,
         "opinion": 0.14,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.02,
         "event-report": 0.17,
-        "event-preview": 0.27,
+        "event-preview": 0.22,
         "press-release": 0.16,
-        "digest": 0.68,
-        "photo-gallery": 0.04,
+        "digest": 0.66,
+        "photo-gallery": 0.03,
         "ride-report": 0.04,
-        "history": 0.02,
+        "history": 0.03,
         "rumor": 0.04,
         "safety-notice": 0.01,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.87,
+      "multi_subject": 0.86,
       "tags": [
         "sport-bikes",
         "new-models"

@@ -30,9 +30,9 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.96,
-        "cruisers": 0.66,
-        "bobbers-choppers": 0.57
+        "custom": 0.95,
+        "cruisers": 0.64,
+        "bobbers-choppers": 0.56
       },
       "subcategories": [
         {
@@ -48,29 +48,29 @@
         }
       ],
       "form_scores": {
-        "news": 0.52,
+        "news": 0.5,
         "review": 0.31,
         "comparison-test": 0.02,
         "first-look": 0.14,
         "ranked-list": 0.04,
         "buyers-guide": 0.06,
         "how-to": 0.03,
-        "explainer": 0.17,
+        "explainer": 0.18,
         "opinion": 0.09,
-        "profile-interview": 0.41,
+        "profile-interview": 0.37,
         "tribute": 0.06,
         "listing": 0.04,
         "event-report": 0.43,
         "event-preview": 0.04,
-        "press-release": 0.23,
+        "press-release": 0.22,
         "digest": 0.08,
-        "photo-gallery": 0.19,
+        "photo-gallery": 0.2,
         "ride-report": 0.04,
         "history": 0.12,
         "rumor": 0.04,
         "safety-notice": 0.01,
         "episode": 0.06,
-        "build-feature": 0.9,
+        "build-feature": 0.91,
         "q-and-a": 0.02
       },
       "multi_subject": 0.05,
@@ -134,21 +134,21 @@
         "comparison-test": 0.04,
         "first-look": 0.13,
         "ranked-list": 0.05,
-        "buyers-guide": 0.1,
+        "buyers-guide": 0.09,
         "how-to": 0.06,
         "explainer": 0.16,
-        "opinion": 0.16,
-        "profile-interview": 0.76,
+        "opinion": 0.15,
+        "profile-interview": 0.75,
         "tribute": 0.04,
-        "listing": 0.09,
+        "listing": 0.08,
         "event-report": 0.04,
-        "event-preview": 0.02,
+        "event-preview": 0.03,
         "press-release": 0.08,
-        "digest": 0.08,
+        "digest": 0.07,
         "photo-gallery": 0.26,
         "ride-report": 0.05,
         "history": 0.11,
-        "rumor": 0.05,
+        "rumor": 0.06,
         "safety-notice": 0.01,
         "episode": 0.05,
         "build-feature": 0.9,
@@ -183,13 +183,18 @@
         {
           "slug": "custom",
           "label": "Custom"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
         }
       ],
       "primary": "for-sale",
       "confident": true,
       "cat_scores": {
         "for-sale": 0.98,
-        "custom": 0.95,
+        "custom": 0.94,
+        "cruisers": 0.51,
         "bobbers-choppers": 0.54
       },
       "subcategories": [
@@ -210,12 +215,12 @@
         }
       ],
       "form_scores": {
-        "news": 0.07,
-        "review": 0.12,
+        "news": 0.06,
+        "review": 0.1,
         "comparison-test": 0.01,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.41,
+        "buyers-guide": 0.4,
         "how-to": 0.02,
         "explainer": 0.06,
         "opinion": 0.03,
@@ -232,13 +237,14 @@
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.79,
+        "build-feature": 0.78,
         "q-and-a": 0.02
       },
       "multi_subject": 0.03,
       "tags": [
         "for-sale",
         "custom",
+        "cruisers",
         "bobbers-choppers"
       ],
       "also": []
