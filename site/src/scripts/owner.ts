@@ -83,7 +83,14 @@ export async function startOwnerMode() {
   style.textContent = css;
   document.head.append(style);
 
-  document.querySelectorAll<HTMLElement>('p.meta[data-v]').forEach((meta) => {
+  attach(document);
+  // Sections a reader adds to their home page arrive later (src/scripts/views.ts).
+  document.addEventListener('tdm:content', (e) => attach(e.target as HTMLElement));
+}
+
+function attach(root: ParentNode) {
+  root.querySelectorAll<HTMLElement>('p.meta[data-v]').forEach((meta) => {
+    if (meta.querySelector('.v-btn')) return;
     const btn = document.createElement('button');
     btn.type = 'button';
     btn.className = 'v-btn';

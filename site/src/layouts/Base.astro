@@ -24,6 +24,7 @@ const updated = meta.updated;
     <style is:global>
       :root { --brand: #b83c67; --sky: #7fbde2; --ink: #3c3c3c; --mute: #777; --line: #e2e2e2; --link: #b83c67; --bg: #fff; --alert: #d23f37; }
       * { box-sizing: border-box; }
+      [hidden] { display: none !important; }   /* reader views hide panels that set their own display */
       body { font: 16px/1.5 Helvetica, Arial, sans-serif; color: var(--ink); background: var(--bg); margin: 0; }
       .wrap { max-width: 46rem; margin: 0 auto; padding: 0 1rem; }
       .wrap.wide { max-width: 72rem; }
@@ -150,6 +151,9 @@ const updated = meta.updated;
         if (since) stamp.textContent = `${day}${suffix} ${d.toLocaleString('en-GB', { month: 'long' })} ${d.getFullYear()} · updated ${since}`;
       }
       relativeTimes();
+
+      // Reader views: the home page can be reshaped per reader (hide, expand, reorder, add sections).
+      if (document.querySelector('.sections')) import('../scripts/views').then((m) => m.startViews());
 
       // Owner mode (set by the private garage link): load the tag-verdict menus. Readers never download this.
       if (/(?:^|;\s*)tdm_o=1/.test(document.cookie)) import('../scripts/owner').then((m) => m.startOwnerMode());
