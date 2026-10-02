@@ -87,17 +87,17 @@
       "also": []
     },
     {
-      "id": "07bbebe9218f0778000e39b28e70c199dcd78d24",
-      "title": "SMX World Championship Final Photos",
-      "link": "https://racerxonline.com/2026/10/01/smx-world-championship-final-photos",
+      "id": "2d022933515a13e75b3568032d24e5859f68740e",
+      "title": "Watch: Friday at MXoN First Thoughts Interviews with Team USA, Prado, Beaton, Coenens, and More",
+      "link": "https://racerxonline.com/2026/10/02/watch-friday-at-mxon-first-thoughts-interviews-with-team-usa-prado-beaton-coenens-and-more",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Align Media",
-      "published": "2026-10-01T23:45:00+00:00",
-      "excerpt": "Our best from the SMX World Championship Final in Missouri.",
-      "image": "https://rx.iscdn.net/2026/10/337616_startsalignmediasmx26ridgedale038.jpg?w=1000",
+      "author": "Tom Journet",
+      "published": "2026-10-02T16:55:00+00:00",
+      "excerpt": "Check out a handful of raw interview clips from Tom Journet here from Friday in France.",
+      "image": "https://rx.iscdn.net/2026/10/337721_screenshot-2026-10-02-at-40430pm.png?w=1000",
       "audio": null,
       "categories": [
         {
@@ -113,7 +113,7 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.92,
+        "racing": 0.94,
         "motocross-supercross": 0.96
       },
       "subcategories": [
@@ -127,39 +127,35 @@
         {
           "slug": "photo-gallery",
           "label": "Photo Gallery"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.41,
+        "news": 0.56,
         "review": 0.02,
         "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.81,
+        "first-look": 0.13,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
+        "opinion": 0.05,
+        "profile-interview": 0.28,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.73,
-        "event-preview": 0.03,
+        "event-report": 0.19,
+        "event-preview": 0.24,
         "press-release": 0.08,
-        "digest": 0.07,
-        "photo-gallery": 0.87,
+        "digest": 0.12,
+        "photo-gallery": 0.83,
         "ride-report": 0.04,
-        "history": 0.09,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.03,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.45,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.36,
       "tags": [
         "dirt-mx",
         "racing",
@@ -248,6 +244,87 @@
         "classic",
         "scramblers",
         "trackers"
+      ],
+      "also": []
+    },
+    {
+      "id": "07bbebe9218f0778000e39b28e70c199dcd78d24",
+      "title": "SMX World Championship Final Photos",
+      "link": "https://racerxonline.com/2026/10/01/smx-world-championship-final-photos",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Align Media",
+      "published": "2026-10-01T23:45:00+00:00",
+      "excerpt": "Our best from the SMX World Championship Final in Missouri.",
+      "image": "https://rx.iscdn.net/2026/10/337616_startsalignmediasmx26ridgedale038.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.92,
+        "motocross-supercross": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.41,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.81,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.73,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.07,
+        "photo-gallery": 0.87,
+        "ride-report": 0.04,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
