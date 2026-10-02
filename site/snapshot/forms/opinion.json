@@ -3,6 +3,95 @@
   "label": "Opinion",
   "items": [
     {
+      "id": "fe1de568c4d94b246f52100e3c2014745910eecc",
+      "title": "The 3 Q\u2019s With Ryan Lockhart Presented By Atlas Brace Canada",
+      "link": "https://www.mxpmag.com/the-3-qs-with-ryan-lockhart-presented-by-atlas-brace-canada-50",
+      "lang": "en",
+      "source": "MXP Magazine",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Pomeroy",
+      "published": "2026-10-02T14:41:37+00:00",
+      "excerpt": "That racing the final SMX main event was the best of the three playoffs races. MXP: Hey Newf! Let\u2019s first go back to the final 450 main event from last weekend. Regardless of whether you were cheering for Haiden Deegan or Jorge Prado, how cool was it to watch those two race at th",
+      "image": "https://www.mxpmag.com/wp-content/uploads/2026/09/atlas-banner2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.13,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.78,
+        "profile-interview": 0.96,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.95,
+        "press-release": 0.12,
+        "digest": 0.09,
+        "photo-gallery": 0.02,
+        "ride-report": 0.05,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.13,
+        "build-feature": 0.01,
+        "q-and-a": 0.48
+      },
+      "multi_subject": 0.29,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "d0877508802facabf185527dbc7101f5c45a9f10",
       "title": "My honest comparison of the ducati panigale v4s VS Bmw m1000rr (both 2024) after a year of ownership",
       "link": "https://www.reddit.com/r/motorcycles/comments/1wto6uu/my_honest_comparison_of_the_ducati_panigale_v4s",
@@ -70,170 +159,6 @@
       "multi_subject": 0.03,
       "tags": [
         "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "45132de06ea4bf641df9a88791cc37401e3e16ab",
-      "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
-      "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-182",
-      "lang": "en",
-      "source": "MXP Magazine",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Chris Pomeroy",
-      "published": "2026-09-21T20:22:09+00:00",
-      "excerpt": "Greetings! Welcome to this Fall edition of the Monday Gate Drop Column, which as always is brought to you by the fine people at Yamaha Motor Canada. This is a big week for Blu Cru riders as this weekend is the Yamaha Rider Appreciation Day at Sand Del Lee. On Saturday, Blu Cru ri",
-      "image": "https://www.mxpmag.com/wp-content/uploads/2026/04/yz-banner-ad-may-26a.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.92,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.31,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.11,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.85,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.96,
-        "press-release": 0.3,
-        "digest": 0.73,
-        "photo-gallery": 0.02,
-        "ride-report": 0.05,
-        "history": 0.04,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.77,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
-      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
-      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-21T16:30:16+00:00",
-      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.22,
-        "review": 0.05,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.45,
-        "opinion": 0.94,
-        "profile-interview": 0.11,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.95,
-        "event-preview": 0.08,
-        "press-release": 0.04,
-        "digest": 0.05,
-        "photo-gallery": 0.02,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.77,
-        "build-feature": 0.03,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.08,
-      "tags": [
-        "racing",
-        "motogp"
       ],
       "also": []
     },
@@ -2108,6 +2033,170 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "45132de06ea4bf641df9a88791cc37401e3e16ab",
+      "title": "The Monday Gate Drop Presented By Yamaha Motor Canada",
+      "link": "https://www.mxpmag.com/the-monday-gate-drop-presented-by-yamaha-motor-canada-182",
+      "lang": "en",
+      "source": "MXP Magazine",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Pomeroy",
+      "published": "2026-09-21T20:22:09+00:00",
+      "excerpt": "Greetings! Welcome to this Fall edition of the Monday Gate Drop Column, which as always is brought to you by the fine people at Yamaha Motor Canada. This is a big week for Blu Cru riders as this weekend is the Yamaha Rider Appreciation Day at Sand Del Lee. On Saturday, Blu Cru ri",
+      "image": "https://www.mxpmag.com/wp-content/uploads/2026/04/yz-banner-ad-may-26a.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.92,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.31,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.11,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.85,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.96,
+        "press-release": 0.3,
+        "digest": 0.73,
+        "photo-gallery": 0.02,
+        "ride-report": 0.05,
+        "history": 0.04,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.77,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "4cb75066c114c710e32434cb85d9931e3d36a8c0",
+      "title": "Oxley Bom MotoGP Podcast: Red Bull Ring 2026",
+      "link": "https://www.roadracingworld.com/news/oxley-bom-motogp-podcast-red-bull-ring-2026",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-21T16:30:16+00:00",
+      "excerpt": "By Mat Oxley: When most people picture the landlocked mountains of Austria, the last thing they think of is shark attacks. So imagine our surprise when we saw the Shark gobble up the competition this week at Red Bull Ring, even devouring Jorge Martin whole. The Shark in question ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-128_1790008147-e1790008268832.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.22,
+        "review": 0.05,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.45,
+        "opinion": 0.94,
+        "profile-interview": 0.11,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.95,
+        "event-preview": 0.08,
+        "press-release": 0.04,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.77,
+        "build-feature": 0.03,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
