@@ -11,7 +11,7 @@
     {
       "slug": "rally-lightweight-adv",
       "label": "Rally & Lightweight ADV",
-      "count": 21
+      "count": 22
     },
     {
       "slug": "adv-events-competitions",
@@ -167,6 +167,87 @@
         "dirt-mx",
         "racing",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "7c6dfa8ac9e8f5d8f43a3a7d624b96d626563a3b",
+      "title": "BMW F 450 GS Pricing",
+      "link": "https://www.advrider.com/bmw-f-450-gs-pricing",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-10-02T15:03:33+00:00",
+      "excerpt": "Although it was never really in doubt, BMW Motorrad has confirmed it\u2019s bringing the F 450 GS to the US market as a 2027 model, and given us the pricing. It also says \u201cthere are no current plans\u201d to bring the F 450 R naked bike to the States, but doesn\u2019t rule it out for a future i",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/06/2026-BMW-F450-GS-104-1068x600-1-750x421.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.97,
+        "new-models": 0.8,
+        "rally-lightweight-adv": 0.89
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.12,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.24,
+        "how-to": 0.02,
+        "explainer": 0.24,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "adventure",
+        "new-models",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
@@ -340,6 +421,83 @@
       "also": []
     },
     {
+      "id": "bb8001eff335ddbe34b75580e34b4c06c11c30df",
+      "title": "This looks like it could be a new Triumph adventure model set to replace the Tiger 900 Rally",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/triumph-tiger-900",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T15:15:02+00:00",
+      "excerpt": "Fresh images have emerged of what looks to be a new Triumph adventure model, ready to replace the Tiger 900 Rally. We\u2019ve been anticipating a significant update to the mid-size off-road adventurer...",
+      "image": "https://www.motorcyclenews.com/wp-images/440364/390x260/triumph_tiger_rally_spy_shots_2_preview.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "new-models": 0.77,
+        "rally-lightweight-adv": 0.57
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.43,
+        "review": 0.07,
+        "comparison-test": 0.03,
+        "first-look": 0.66,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.11,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.16,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.14,
+        "digest": 0.07,
+        "photo-gallery": 0.2,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.94,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "new-models",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
       "id": "4c1ed4f1d6e1cadcec5d6673fe2581f381f9804e",
       "title": "Trick Or Treat At Pikes Peak! Exit Tours\u2019 Final Trip For 2026 Takes You To The Clouds",
       "link": "https://www.advrider.com/trick-or-treat-at-pikes-peak-exit-tours-final-trip-for-2026-takes-you-to-the-clouds",
@@ -426,154 +584,6 @@
         "events-rides",
         "adventure",
         "dirt-mx",
-        "adv-events-competitions"
-      ],
-      "also": []
-    },
-    {
-      "id": "bb8001eff335ddbe34b75580e34b4c06c11c30df",
-      "title": "This looks like it could be a new Triumph adventure model set to replace the Tiger 900 Rally",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/triumph-tiger-900",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T15:15:02+00:00",
-      "excerpt": "Fresh images have emerged of what looks to be a new Triumph adventure model, ready to replace the Tiger 900 Rally. We\u2019ve been anticipating a significant update to the mid-size off-road adventurer...",
-      "image": "https://www.motorcyclenews.com/wp-images/440364/390x260/triumph_tiger_rally_spy_shots_2_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.98,
-        "new-models": 0.77,
-        "rally-lightweight-adv": 0.57
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.43,
-        "review": 0.07,
-        "comparison-test": 0.03,
-        "first-look": 0.66,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.11,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.16,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.14,
-        "digest": 0.07,
-        "photo-gallery": 0.2,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.94,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "new-models",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
-      "title": "One RTW Record Attempt Ends, Another Begins!",
-      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-29T10:17:21+00:00",
-      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.98,
-        "adv-events-competitions": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.53,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.16,
-        "profile-interview": 0.1,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.78,
-        "event-preview": 0.11,
-        "press-release": 0.14,
-        "digest": 0.1,
-        "photo-gallery": 0.04,
-        "ride-report": 0.03,
-        "history": 0.15,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.16,
-      "tags": [
-        "adventure",
         "adv-events-competitions"
       ],
       "also": []
@@ -916,84 +926,6 @@
       "also": []
     },
     {
-      "id": "193ec3e5791c0292e6cf44c5f0180fcb1472875b",
-      "title": "BMW's New Entry-Level Off-Road Motorcycle Is Affordable As Hell",
-      "link": "https://www.rideapart.com/news/810482/2027-bmw-f450gs-motorcycle-price-specs-horsepower",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T12:49:00+00:00",
-      "excerpt": "Motorrad knows motorcycles are expensive these days, so it made an afforadble one.",
-      "image": "https://cdn.motor1.com/images/mgl/KbZ8p0/s3/2027-bmw-f-450-gs.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 0.86,
-        "new-models": 0.84,
-        "adventure": 0.83,
-        "rally-lightweight-adv": 0.62
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.58,
-        "review": 0.57,
-        "comparison-test": 0.08,
-        "first-look": 0.58,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.26,
-        "how-to": 0.04,
-        "explainer": 0.19,
-        "opinion": 0.45,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
-        "listing": 0.04,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.52,
-        "digest": 0.08,
-        "photo-gallery": 0.14,
-        "ride-report": 0.07,
-        "history": 0.05,
-        "rumor": 0.23,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx",
-        "new-models",
-        "adventure",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
       "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
       "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
       "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
@@ -1073,39 +1005,46 @@
       "also": []
     },
     {
-      "id": "eb1ef28a62ca259767ec0b50d8d7458826267922",
-      "title": "Toronto Motorcycle Film Festival Celebrates 10 Years This Weekend",
-      "link": "https://www.advrider.com/toronto-motorcycle-film-festival-celebrates-10-years-this-weekend",
+      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
+      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
+      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
       "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-10-01T04:28:48+00:00",
-      "excerpt": "The Toronto Motorcycle Film Festival, one of the longest-running motorcycle film festivals in the world, is celebrating its10-year-anniversary this weekend. Running (as the name implies) in the city of Toronto, the TMFF (as the Festival calls itself) was founded by Caius Tenche a",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/tmff-2026.jpg",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:49:00+00:00",
+      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
           "slug": "adventure",
           "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "events-rides",
+      "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "events-rides": 0.97,
-        "adventure": 0.51
+        "adventure": 0.96,
+        "dirt-mx": 0.82,
+        "adv-events-competitions": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
           "slug": "news",
@@ -1113,35 +1052,114 @@
         }
       ],
       "form_scores": {
-        "news": 0.77,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
+        "news": 0.91,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.19,
-        "opinion": 0.04,
-        "profile-interview": 0.08,
-        "tribute": 0.05,
-        "listing": 0.03,
-        "event-report": 0.1,
-        "event-preview": 0.95,
-        "press-release": 0.53,
-        "digest": 0.06,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.11,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.29,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.06,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.01,
+        "build-feature": 0.03,
         "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "193ec3e5791c0292e6cf44c5f0180fcb1472875b",
+      "title": "BMW's New Entry-Level Off-Road Motorcycle Is Affordable As Hell",
+      "link": "https://www.rideapart.com/news/810482/2027-bmw-f450gs-motorcycle-price-specs-horsepower",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T12:49:00+00:00",
+      "excerpt": "Motorrad knows motorcycles are expensive these days, so it made an afforadble one.",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ8p0/s3/2027-bmw-f-450-gs.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.86,
+        "new-models": 0.84,
+        "adventure": 0.83,
+        "rally-lightweight-adv": 0.62
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.58,
+        "review": 0.57,
+        "comparison-test": 0.08,
+        "first-look": 0.58,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.26,
+        "how-to": 0.04,
+        "explainer": 0.19,
+        "opinion": 0.45,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.52,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.07,
+        "history": 0.05,
+        "rumor": 0.23,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
       },
       "multi_subject": 0.06,
       "tags": [
-        "events-rides",
-        "adventure"
+        "dirt-mx",
+        "new-models",
+        "adventure",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
@@ -1246,115 +1264,29 @@
       ]
     },
     {
-      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
-      "title": "Here\u2019s The Kove 350 Rally!",
-      "link": "https://www.advrider.com/heres-the-kove-350-rally",
+      "id": "d2fbe5b50ad7a3af9eff5dfb2fb08fbb25564b0e",
+      "title": "One RTW Record Attempt Ends, Another Begins!",
+      "link": "https://www.advrider.com/one-rtw-record-attempt-ends-another-begins",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-29T09:35:05+00:00",
-      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
+      "published": "2026-09-29T10:17:21+00:00",
+      "excerpt": "Sam Sunderland\u2019s round-the-world record bid has ended, thanks to mechanical problems. But just as his long-planned global circumnavigation plans have fallen through, Honda UK is backing another rider on a RTW record attempt, from a different angle. Back in July of 2025, Sunderlan",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/08/sam-sunderland.jpg",
       "audio": null,
       "categories": [
         {
           "slug": "adventure",
           "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
         "adventure": 0.98,
-        "new-models": 0.96,
-        "rally-lightweight-adv": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "first-look",
-          "label": "First Look"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.25,
-        "comparison-test": 0.05,
-        "first-look": 0.78,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.17,
-        "how-to": 0.02,
-        "explainer": 0.26,
-        "opinion": 0.24,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.37,
-        "event-preview": 0.03,
-        "press-release": 0.57,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.4,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "adventure",
-        "new-models",
-        "rally-lightweight-adv"
-      ],
-      "also": []
-    },
-    {
-      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
-      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
-      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T11:49:00+00:00",
-      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "adventure",
-      "confident": true,
-      "cat_scores": {
-        "adventure": 0.96,
-        "dirt-mx": 0.82,
-        "adv-events-competitions": 0.97
+        "adv-events-competitions": 0.96
       },
       "subcategories": [
         {
@@ -1367,42 +1299,37 @@
         {
           "slug": "event-report",
           "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.04,
+        "news": 0.53,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.04,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
+        "explainer": 0.1,
+        "opinion": 0.16,
+        "profile-interview": 0.1,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.29,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.06,
-        "history": 0.1,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
+        "event-report": 0.78,
+        "event-preview": 0.11,
+        "press-release": 0.14,
+        "digest": 0.1,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.15,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.16,
       "tags": [
         "adventure",
-        "dirt-mx",
         "adv-events-competitions"
       ],
       "also": []
@@ -1901,6 +1828,89 @@
       "also": []
     },
     {
+      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
+      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
+      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T07:10:29+00:00",
+      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.97,
+        "new-models": 0.94,
+        "dirt-mx": 0.9,
+        "rally-lightweight-adv": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.18,
+        "comparison-test": 0.11,
+        "first-look": 0.25,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.34,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.08,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.68,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
+        "dirt-mx",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
       "id": "4a9dc90dbfcc4c73d9b4bfca64ac0e82430d7aad",
       "title": "The 2027 Ducati Multistrada V4 Pikes Peak Gets Nothing But New Paint, And That\u2019s Fine",
       "link": "https://www.rideapart.com/news/809738/2027-ducati-multistrada-pikes-peak-new-livery",
@@ -1985,90 +1995,90 @@
       ]
     },
     {
-      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
-      "title": "SW-Motech PRO City WP Tankbag",
-      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
+      "id": "eb1ef28a62ca259767ec0b50d8d7458826267922",
+      "title": "Toronto Motorcycle Film Festival Celebrates 10 Years This Weekend",
+      "link": "https://www.advrider.com/toronto-motorcycle-film-festival-celebrates-10-years-this-weekend",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-28T07:46:24+00:00",
-      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
+      "published": "2026-10-01T04:28:48+00:00",
+      "excerpt": "The Toronto Motorcycle Film Festival, one of the longest-running motorcycle film festivals in the world, is celebrating its10-year-anniversary this weekend. Running (as the name implies) in the city of Toronto, the TMFF (as the Festival calls itself) was founded by Caius Tenche a",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/tmff-2026.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "events-rides",
+          "label": "Events & Rides"
         },
         {
           "slug": "adventure",
           "label": "Adventure"
         }
       ],
-      "primary": "gear",
+      "primary": "events-rides",
       "confident": true,
       "cat_scores": {
-        "gear": 0.98,
-        "adventure": 0.94
+        "events-rides": 0.97,
+        "adventure": 0.51
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "review",
-          "label": "Review"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
-          "slug": "explainer",
-          "label": "Explainer"
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.04,
-        "review": 0.96,
-        "comparison-test": 0.04,
-        "first-look": 0.71,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.51,
-        "how-to": 0.1,
-        "explainer": 0.76,
-        "opinion": 0.32,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.01,
-        "event-preview": 0.01,
-        "press-release": 0.1,
-        "digest": 0.04,
-        "photo-gallery": 0.04,
-        "ride-report": 0.37,
-        "history": 0.03,
-        "rumor": 0.03,
+        "news": 0.77,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.19,
+        "opinion": 0.04,
+        "profile-interview": 0.08,
+        "tribute": 0.05,
+        "listing": 0.03,
+        "event-report": 0.1,
+        "event-preview": 0.95,
+        "press-release": 0.53,
+        "digest": 0.06,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.11,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.06,
       "tags": [
-        "gear",
+        "events-rides",
         "adventure"
       ],
       "also": []
     },
     {
-      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
-      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
-      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
+      "title": "Here\u2019s The Kove 350 Rally!",
+      "link": "https://www.advrider.com/heres-the-kove-350-rally",
       "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T07:10:29+00:00",
-      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-29T09:35:05+00:00",
+      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
       "audio": null,
       "categories": [
         {
@@ -2078,19 +2088,14 @@
         {
           "slug": "new-models",
           "label": "New Models"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
         }
       ],
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.97,
-        "new-models": 0.94,
-        "dirt-mx": 0.9,
-        "rally-lightweight-adv": 0.97
+        "adventure": 0.98,
+        "new-models": 0.96,
+        "rally-lightweight-adv": 0.96
       },
       "subcategories": [
         {
@@ -2103,39 +2108,42 @@
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.18,
-        "comparison-test": 0.11,
-        "first-look": 0.25,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.34,
+        "news": 0.81,
+        "review": 0.25,
+        "comparison-test": 0.05,
+        "first-look": 0.78,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.17,
         "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.08,
-        "profile-interview": 0.05,
+        "explainer": 0.26,
+        "opinion": 0.24,
+        "profile-interview": 0.07,
         "tribute": 0.01,
-        "listing": 0.05,
-        "event-report": 0.04,
+        "listing": 0.02,
+        "event-report": 0.37,
         "event-preview": 0.03,
-        "press-release": 0.68,
-        "digest": 0.09,
+        "press-release": 0.57,
+        "digest": 0.04,
         "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.15,
-        "safety-notice": 0.02,
-        "episode": 0.03,
+        "history": 0.04,
+        "rumor": 0.4,
+        "safety-notice": 0.01,
+        "episode": 0.02,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "adventure",
         "new-models",
-        "dirt-mx",
         "rally-lightweight-adv"
       ],
       "also": []
@@ -2248,6 +2256,79 @@
       "also": []
     },
     {
+      "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
+      "title": "KTM teases major off-road plans for EICMA 2026 in November",
+      "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-29T09:32:16+00:00",
+      "excerpt": "KTM\u2019s off-road sector looks set to be bolstered in a big way this November, after the Austrian manufacturer provided details about its upcoming EICMA 2026 plans.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/738632_my26-ktm-1390-super-adventure-r-action_europe-global.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.94,
+        "adventure": 0.58
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.65,
+        "press-release": 0.75,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.54,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "adventure"
+      ],
+      "also": []
+    },
+    {
       "id": "5616f3c3ca8b8356174015ed110ff022fda6bfe2",
       "title": "The Gambler 500 Is Showing How to Be Better Off-Road Stewards By Removing 400,000 Pounds of Trash In One Event",
       "link": "https://www.rideapart.com/news/810088/gambler-500-and-sons-of-smokey-pulled-out-nearly-400000-pounds-of-trash",
@@ -2331,74 +2412,74 @@
       "also": []
     },
     {
-      "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
-      "title": "KTM teases major off-road plans for EICMA 2026 in November",
-      "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
+      "id": "7bc9399ec4dbd6078ac4eceda88a36d7d1f420cb",
+      "title": "SW-Motech PRO City WP Tankbag",
+      "link": "https://www.advrider.com/sw-motech-pro-city-wp-tankbag",
       "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-29T09:32:16+00:00",
-      "excerpt": "KTM\u2019s off-road sector looks set to be bolstered in a big way this November, after the Austrian manufacturer provided details about its upcoming EICMA 2026 plans.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/738632_my26-ktm-1390-super-adventure-r-action_europe-global.jpg?width=1200",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-28T07:46:24+00:00",
+      "excerpt": "In 2025, SW-Motech asked me if I\u2019d like to test their PRO City WP tankbag. I said sure, but the Super Tenere ended up off the road for the summer for repairs, and I ended up off the road for the fall due to repairs too. I\u2019d rebuilt enough strength to put the Super Ten back on the",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/TANKBAG-SIDES-450x389.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "gear",
+          "label": "Gear"
         },
         {
           "slug": "adventure",
           "label": "Adventure"
         }
       ],
-      "primary": "dirt-mx",
+      "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.94,
-        "adventure": 0.58
+        "gear": 0.98,
+        "adventure": 0.94
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "review",
+          "label": "Review"
         },
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "explainer",
+          "label": "Explainer"
         }
       ],
       "form_scores": {
-        "news": 0.81,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.12,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.19,
+        "news": 0.04,
+        "review": 0.96,
+        "comparison-test": 0.04,
+        "first-look": 0.71,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.51,
+        "how-to": 0.1,
+        "explainer": 0.76,
+        "opinion": 0.32,
+        "profile-interview": 0.05,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.65,
-        "press-release": 0.75,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.54,
-        "safety-notice": 0.03,
-        "episode": 0.04,
+        "event-report": 0.01,
+        "event-preview": 0.01,
+        "press-release": 0.1,
+        "digest": 0.04,
+        "photo-gallery": 0.04,
+        "ride-report": 0.37,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
-        "dirt-mx",
+        "gear",
         "adventure"
       ],
       "also": []
@@ -2743,153 +2824,6 @@
       "also": []
     },
     {
-      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
-      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
-      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-26T12:20:00+00:00",
-      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
-      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "adventure",
-      "confident": false,
-      "cat_scores": {
-        "adventure": 0.8,
-        "dirt-mx": 0.58,
-        "new-models": 0.56
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.48,
-        "review": 0.08,
-        "comparison-test": 0.06,
-        "first-look": 0.35,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.12,
-        "how-to": 0.03,
-        "explainer": 0.15,
-        "opinion": 0.54,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.05,
-        "press-release": 0.35,
-        "digest": 0.07,
-        "photo-gallery": 0.11,
-        "ride-report": 0.05,
-        "history": 0.03,
-        "rumor": 0.62,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "adventure",
-        "dirt-mx",
-        "new-models"
-      ],
-      "also": []
-    },
-    {
-      "id": "174021fec651999c58af4f03e1a19d3a61ce31cb",
-      "title": "GS Gets Naked: BMW Teases F 450 R Naked Bike",
-      "link": "https://www.advrider.com/gs-gets-naked-bmw-teases-f-450-r-naked-bike",
-      "lang": "en",
-      "source": "ADVrider",
-      "ownership": "community",
-      "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-25T06:18:27+00:00",
-      "excerpt": "Achtung! BMW wants you to know they have a new naked bike coming soon, and it\u2019s based off a platform we know about already. The BMW F 450 GS is shedding its ADV outfit and also getting new wheels, and will be repackaged soon as the F 450 R naked bike. See below! View this post on",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-F450-ENGINE.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "new-models",
-      "confident": false,
-      "cat_scores": {
-        "new-models": 0.84,
-        "adventure": 0.56
-      },
-      "subcategories": [],
-      "forms": [],
-      "form_scores": {
-        "news": 0.44,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.22,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.16,
-        "how-to": 0.02,
-        "explainer": 0.36,
-        "opinion": 0.18,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.19,
-        "press-release": 0.45,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.73,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "new-models",
-        "adventure"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
-          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
-          "published": "2026-09-24T16:31:02+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "BMW F450 R parallel twin-cylinder naked teased",
-          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
-          "published": "2026-09-25T08:57:18+00:00"
-        }
-      ]
-    },
-    {
       "id": "da93dd9609e33871a6e675a52a1dd540c012a853",
       "title": "OliMoto partners with Honda for 19,000-mile round-the-world record attempt",
       "link": "https://www.visordown.com/news/olimoto-partners-honda-19000-mile-round-world-record-attempt",
@@ -2961,6 +2895,76 @@
       "tags": [
         "adventure",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "52e657ee591dd783511fb0029179f0e726f45f6c",
+      "title": "BMW Is Already Expanding Its New 450 Platform, And We\u2019re Here For It",
+      "link": "https://www.rideapart.com/news/809518/bmw-f450r-coming-soon-teaser",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-26T12:20:00+00:00",
+      "excerpt": "The F 450 GS has barely settled in and BMW already appears ready to turn its new twin into an entire family.",
+      "image": "https://cdn.motor1.com/images/mgl/P3V0BX/s3/bmw-is-already-milking-its-new-450-platform-and-we-re-here-for-it.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.8,
+        "dirt-mx": 0.58,
+        "new-models": 0.56
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.48,
+        "review": 0.08,
+        "comparison-test": 0.06,
+        "first-look": 0.35,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.12,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.54,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.05,
+        "press-release": 0.35,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.05,
+        "history": 0.03,
+        "rumor": 0.62,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "new-models"
       ],
       "also": []
     },
@@ -3048,151 +3052,81 @@
       "also": []
     },
     {
-      "id": "bff6bf41eaf3b8789b1963cd9306dee6ed981ab7",
-      "title": "ZXMoto Signs Skyler Howes For The Dakar",
-      "link": "https://www.advrider.com/zxmoto-signs-skyler-howes-for-the-dakar",
+      "id": "174021fec651999c58af4f03e1a19d3a61ce31cb",
+      "title": "GS Gets Naked: BMW Teases F 450 R Naked Bike",
+      "link": "https://www.advrider.com/gs-gets-naked-bmw-teases-f-450-r-naked-bike",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
-      "author": "Mike Botan / @Ride2ADV",
-      "published": "2026-09-24T05:44:33+00:00",
-      "excerpt": "ZXMoto, founded in 2024, will enter the 2027 Dakar Rally. Even better, ZXMoto has signed nine-time Dakar veteran and stage winner Skyler Howes to race its new Dakar-designed machine. View this post on Instagram Is entering world-level racing something that a relatively newly mint",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/497477295_122097710132875537_6045741710703362298_n.jpg",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-25T06:18:27+00:00",
+      "excerpt": "Achtung! BMW wants you to know they have a new naked bike coming soon, and it\u2019s based off a platform we know about already. The BMW F 450 GS is shedding its ADV outfit and also getting new wheels, and will be repackaged soon as the F 450 R naked bike. See below! View this post on",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/BMW-F450-ENGINE.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.94,
-        "adventure": 0.72,
-        "dirt-mx": 0.72,
-        "adv-events-competitions": 0.81
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.41,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.06,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.8,
-        "profile-interview": 0.3,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.17,
-        "event-preview": 0.69,
-        "press-release": 0.63,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.33,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "adventure",
-        "dirt-mx",
-        "adv-events-competitions"
-      ],
-      "also": []
-    },
-    {
-      "id": "433c992aa7f88bfe3173d3d63473d56b27e732bc",
-      "title": "SR75 Suzuki Off-Road Experience review",
-      "link": "https://www.visordown.com/reviews/sr75-suzuki-road-experience-review",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-22T12:51:42+00:00",
-      "excerpt": "Suzuki\u2019s off-road school in Wales is headed up by the legend that is Geoff Walker, and it\u2019s the perfect way to dip a toe into the mud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/suzuki-offroad-2109_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "new-models",
+          "label": "New Models"
         },
         {
           "slug": "adventure",
           "label": "Adventure"
         }
       ],
-      "primary": "dirt-mx",
-      "confident": true,
+      "primary": "new-models",
+      "confident": false,
       "cat_scores": {
-        "dirt-mx": 0.96,
-        "adventure": 0.65
+        "new-models": 0.84,
+        "adventure": 0.56
       },
       "subcategories": [],
       "forms": [],
       "form_scores": {
-        "news": 0.08,
-        "review": 0.45,
-        "comparison-test": 0.06,
-        "first-look": 0.24,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.17,
-        "how-to": 0.17,
+        "news": 0.44,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.22,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.16,
+        "how-to": 0.02,
         "explainer": 0.36,
-        "opinion": 0.54,
-        "profile-interview": 0.22,
-        "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.11,
-        "event-preview": 0.06,
-        "press-release": 0.13,
-        "digest": 0.1,
-        "photo-gallery": 0.14,
-        "ride-report": 0.47,
-        "history": 0.07,
-        "rumor": 0.03,
+        "opinion": 0.18,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.19,
+        "press-release": 0.45,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.73,
         "safety-notice": 0.02,
-        "episode": 0.09,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.05,
       "tags": [
-        "dirt-mx",
+        "new-models",
         "adventure"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "BMW set to release new model on October 1 with all signs pointing to an F450R parallel-twin naked",
+          "link": "https://www.motorcyclenews.com/news/2026/september/bmw-f450r-naked-teaser",
+          "published": "2026-09-24T16:31:02+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "BMW F450 R parallel twin-cylinder naked teased",
+          "link": "https://www.visordown.com/news/bmw-f450-r-parallel-twin-cylinder-naked-teased",
+          "published": "2026-09-25T08:57:18+00:00"
+        }
+      ]
     },
     {
       "id": "808375852a8479fe9c6e40fa80bd0bfe702ef1fe",
@@ -3288,6 +3222,89 @@
       "also": []
     },
     {
+      "id": "bff6bf41eaf3b8789b1963cd9306dee6ed981ab7",
+      "title": "ZXMoto Signs Skyler Howes For The Dakar",
+      "link": "https://www.advrider.com/zxmoto-signs-skyler-howes-for-the-dakar",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Mike Botan / @Ride2ADV",
+      "published": "2026-09-24T05:44:33+00:00",
+      "excerpt": "ZXMoto, founded in 2024, will enter the 2027 Dakar Rally. Even better, ZXMoto has signed nine-time Dakar veteran and stage winner Skyler Howes to race its new Dakar-designed machine. View this post on Instagram Is entering world-level racing something that a relatively newly mint",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/497477295_122097710132875537_6045741710703362298_n.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.94,
+        "adventure": 0.72,
+        "dirt-mx": 0.72,
+        "adv-events-competitions": 0.81
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.41,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.06,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.8,
+        "profile-interview": 0.3,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.17,
+        "event-preview": 0.69,
+        "press-release": 0.63,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.33,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "adventure",
+        "dirt-mx",
+        "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
       "id": "6fb65f7817d78ca3724ba863cc288a55162699ae",
       "title": "Honda UK back 17-year-old's bid to become the youngest-ever round the world rider",
       "link": "https://www.motorcyclenews.com/news/2026/september/olimoto-youngest-round-the-world-rider-honda",
@@ -3355,6 +3372,70 @@
       "tags": [
         "adventure",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "433c992aa7f88bfe3173d3d63473d56b27e732bc",
+      "title": "SR75 Suzuki Off-Road Experience review",
+      "link": "https://www.visordown.com/reviews/sr75-suzuki-road-experience-review",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T12:51:42+00:00",
+      "excerpt": "Suzuki\u2019s off-road school in Wales is headed up by the legend that is Geoff Walker, and it\u2019s the perfect way to dip a toe into the mud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/suzuki-offroad-2109_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 0.96,
+        "adventure": 0.65
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.08,
+        "review": 0.45,
+        "comparison-test": 0.06,
+        "first-look": 0.24,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.17,
+        "how-to": 0.17,
+        "explainer": 0.36,
+        "opinion": 0.54,
+        "profile-interview": 0.22,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.11,
+        "event-preview": 0.06,
+        "press-release": 0.13,
+        "digest": 0.1,
+        "photo-gallery": 0.14,
+        "ride-report": 0.47,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.09,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "dirt-mx",
+        "adventure"
       ],
       "also": []
     },

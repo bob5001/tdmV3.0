@@ -5,17 +5,17 @@
   "children": [],
   "items": [
     {
-      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
-      "title": "Here\u2019s The Kove 350 Rally!",
-      "link": "https://www.advrider.com/heres-the-kove-350-rally",
+      "id": "7c6dfa8ac9e8f5d8f43a3a7d624b96d626563a3b",
+      "title": "BMW F 450 GS Pricing",
+      "link": "https://www.advrider.com/bmw-f-450-gs-pricing",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
       "author": "Zac / @kawazacky",
-      "published": "2026-09-29T09:35:05+00:00",
-      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
+      "published": "2026-10-02T15:03:33+00:00",
+      "excerpt": "Although it was never really in doubt, BMW Motorrad has confirmed it\u2019s bringing the F 450 GS to the US market as a 2027 model, and given us the pricing. It also says \u201cthere are no current plans\u201d to bring the F 450 R naked bike to the States, but doesn\u2019t rule it out for a future i",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/06/2026-BMW-F450-GS-104-1068x600-1-750x421.jpg",
       "audio": null,
       "categories": [
         {
@@ -30,9 +30,9 @@
       "primary": "adventure",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.98,
-        "new-models": 0.96,
-        "rally-lightweight-adv": 0.96
+        "adventure": 0.97,
+        "new-models": 0.8,
+        "rally-lightweight-adv": 0.89
       },
       "subcategories": [
         {
@@ -47,37 +47,37 @@
           "label": "News"
         },
         {
-          "slug": "first-look",
-          "label": "First Look"
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.81,
-        "review": 0.25,
-        "comparison-test": 0.05,
-        "first-look": 0.78,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.17,
+        "news": 0.87,
+        "review": 0.12,
+        "comparison-test": 0.02,
+        "first-look": 0.11,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.24,
         "how-to": 0.02,
-        "explainer": 0.26,
-        "opinion": 0.24,
-        "profile-interview": 0.07,
+        "explainer": 0.24,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.37,
+        "listing": 0.03,
+        "event-report": 0.03,
         "event-preview": 0.03,
-        "press-release": 0.57,
-        "digest": 0.04,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.4,
-        "safety-notice": 0.01,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
         "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
         "adventure",
         "new-models",
@@ -172,6 +172,87 @@
         "adventure",
         "new-models",
         "dirt-mx",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
+      "id": "f48eaad49d76bf67f8bb9efbf72faeb1e40c9f30",
+      "title": "Here\u2019s The Kove 350 Rally!",
+      "link": "https://www.advrider.com/heres-the-kove-350-rally",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-29T09:35:05+00:00",
+      "excerpt": "Over the past 10 years, especially over the past five years, Kove has been reinventing the industry\u2019s approach to adventure bikes. Their latest release, the Kove 350 Rally, broke cover at the CIMAMotor show last week, and it doubles down on their formula of offering a rally bike ",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/kove-350-rally-5-393x450.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.98,
+        "new-models": 0.96,
+        "rally-lightweight-adv": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "first-look",
+          "label": "First Look"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.25,
+        "comparison-test": 0.05,
+        "first-look": 0.78,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.17,
+        "how-to": 0.02,
+        "explainer": 0.26,
+        "opinion": 0.24,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.37,
+        "event-preview": 0.03,
+        "press-release": 0.57,
+        "digest": 0.04,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.4,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "new-models",
         "rally-lightweight-adv"
       ],
       "also": []
