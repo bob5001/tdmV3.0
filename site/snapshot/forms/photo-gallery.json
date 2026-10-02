@@ -87,17 +87,17 @@
       "also": []
     },
     {
-      "id": "d333fc0d6a594b3f1386491b15298caec8e71b59",
-      "title": "Video: Best Saves From SMX World Championship Final: Prado Avoids Deegan and More",
-      "link": "https://racerxonline.com/2026/10/01/video-best-saves-from-smx-world-championship-final-prado-avoids-deegan-and-more",
+      "id": "07bbebe9218f0778000e39b28e70c199dcd78d24",
+      "title": "SMX World Championship Final Photos",
+      "link": "https://racerxonline.com/2026/10/01/smx-world-championship-final-photos",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-10-01T12:00:00+00:00",
-      "excerpt": "Prado avoids Deegan's block pass attempt, plus Charli Cannon stays up after a block pass from Mayla Herrick in the WMX race!",
-      "image": "https://rx.iscdn.net/2026/10/337486_pradoalignmediasmx26ridgedale080.jpg?w=1000",
+      "author": "Align Media",
+      "published": "2026-10-01T23:45:00+00:00",
+      "excerpt": "Our best from the SMX World Championship Final in Missouri.",
+      "image": "https://rx.iscdn.net/2026/10/337616_startsalignmediasmx26ridgedale038.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -113,8 +113,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.98
+        "racing": 0.92,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -125,45 +125,41 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
         },
         {
           "slug": "ranked-list",
           "label": "Ten Best"
-        },
-        {
-          "slug": "photo-gallery",
-          "label": "Photo Gallery"
         }
       ],
       "form_scores": {
-        "news": 0.57,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.85,
+        "news": 0.41,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.81,
         "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.06,
-        "opinion": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
         "profile-interview": 0.03,
-        "tribute": 0.02,
+        "tribute": 0.04,
         "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.05,
-        "digest": 0.11,
-        "photo-gallery": 0.83,
-        "ride-report": 0.02,
-        "history": 0.08,
+        "event-report": 0.72,
+        "event-preview": 0.03,
+        "press-release": 0.09,
+        "digest": 0.06,
+        "photo-gallery": 0.86,
+        "ride-report": 0.04,
+        "history": 0.1,
         "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.59,
-        "build-feature": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.28,
+      "multi_subject": 0.07,
       "tags": [
         "dirt-mx",
         "racing",
@@ -252,6 +248,91 @@
         "classic",
         "scramblers",
         "trackers"
+      ],
+      "also": []
+    },
+    {
+      "id": "d333fc0d6a594b3f1386491b15298caec8e71b59",
+      "title": "Video: Best Saves From SMX World Championship Final: Prado Avoids Deegan and More",
+      "link": "https://racerxonline.com/2026/10/01/video-best-saves-from-smx-world-championship-final-prado-avoids-deegan-and-more",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Jason Weigandt",
+      "published": "2026-10-01T12:00:00+00:00",
+      "excerpt": "Prado avoids Deegan's block pass attempt, plus Charli Cannon stays up after a block pass from Mayla Herrick in the WMX race!",
+      "image": "https://rx.iscdn.net/2026/10/337486_pradoalignmediasmx26ridgedale080.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "photo-gallery",
+          "label": "Photo Gallery"
+        }
+      ],
+      "form_scores": {
+        "news": 0.57,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.85,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.03,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.05,
+        "digest": 0.11,
+        "photo-gallery": 0.83,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.59,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.28,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },

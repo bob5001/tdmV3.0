@@ -191,6 +191,83 @@
       "also": []
     },
     {
+      "id": "ab2cb44e7f9548235ed89f0702137c9521d5e7ce",
+      "title": "Slow Burn: 7,000 hours of heavy metal inspired by Hetfield\u2019s Auburn",
+      "link": "https://www.mcnews.com.au/game-over-cycles-slow-burn-custom-motorcycle",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-23T23:29:11+00:00",
+      "excerpt": "Game Over Cycles\u2019 Slow Burn brings James Hetfield\u2019s Auburn styling to two wheels. The 3.3-metre custom took 7,000 hours to build and has collected three more awards at European Bike Week. We take a closer look at the details. The post Slow Burn: 7,000 hours of heavy metal inspire",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Game-Over-Cycles-Poland-Custom-15.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.96,
+        "cruisers": 0.66,
+        "bobbers-choppers": 0.57
+      },
+      "subcategories": [
+        {
+          "slug": "bobbers-choppers",
+          "label": "Bobbers & Choppers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "build-feature",
+          "label": "Build Feature"
+        }
+      ],
+      "form_scores": {
+        "news": 0.52,
+        "review": 0.31,
+        "comparison-test": 0.02,
+        "first-look": 0.14,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.17,
+        "opinion": 0.09,
+        "profile-interview": 0.41,
+        "tribute": 0.06,
+        "listing": 0.04,
+        "event-report": 0.43,
+        "event-preview": 0.04,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.19,
+        "ride-report": 0.04,
+        "history": 0.12,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.9,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "custom",
+        "cruisers",
+        "bobbers-choppers"
+      ],
+      "also": []
+    },
+    {
       "id": "187f852507cfcf8c1dae70e19a9120d2fd91ed6a",
       "title": "Honda\u2019s Custom Contest Winner: Mugen",
       "link": "https://www.advrider.com/hondas-custom-contest-winner-mugen",
@@ -359,17 +436,17 @@
       "also": []
     },
     {
-      "id": "ab2cb44e7f9548235ed89f0702137c9521d5e7ce",
-      "title": "Slow Burn: 7,000 hours of heavy metal inspired by Hetfield\u2019s Auburn",
-      "link": "https://www.mcnews.com.au/game-over-cycles-slow-burn-custom-motorcycle",
+      "id": "3e9471bba53dbff40675a080f445fdf3b71bd1da",
+      "title": "2000 Bourget 1750cc \u2018Dark Rider \u2013 Year of Shadow\u2019: A Custom American V-Twin Built for a Charitable Cause",
+      "link": "https://www.returnofthecaferacers.com/custom-motorcycles/2000-bourget-1750cc-dark-rider-year-of-shadow-a-custom-american-v-twin-built-for-a-charitable-cause",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "Return of the Cafe Racers",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-23T23:29:11+00:00",
-      "excerpt": "Game Over Cycles\u2019 Slow Burn brings James Hetfield\u2019s Auburn styling to two wheels. The 3.3-metre custom took 7,000 hours to build and has collected three more awards at European Bike Week. We take a closer look at the details. The post Slow Burn: 7,000 hours of heavy metal inspire",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/Game-Over-Cycles-Poland-Custom-15.jpg",
+      "author": "Mark Capayas",
+      "published": "2026-10-02T00:39:57+00:00",
+      "excerpt": "The 2000 Bourget 1750cc Dark Rider \u2013 Year of Shadow represents the distinctive custom-motorcycle culture that developed around large-displacement American V-twins at the turn of the millennium. Offered through Bonhams as part of a sale benefiting the Luca Guintoli Foundation, thi",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/10/Dark-Rider-Year-of-Shadow-scaled.jpg",
       "audio": null,
       "categories": [
         {
@@ -377,61 +454,65 @@
           "label": "Custom"
         },
         {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
           "slug": "cruisers",
           "label": "Cruisers"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.96,
-        "cruisers": 0.66,
-        "bobbers-choppers": 0.57
+        "custom": 0.91,
+        "for-sale": 0.84,
+        "cruisers": 0.64,
+        "classic": 0.51
       },
-      "subcategories": [
-        {
-          "slug": "bobbers-choppers",
-          "label": "Bobbers & Choppers",
-          "parent": "custom"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
-          "slug": "build-feature",
-          "label": "Build Feature"
+          "slug": "listing",
+          "label": "Listing"
         }
       ],
       "form_scores": {
-        "news": 0.52,
-        "review": 0.31,
+        "news": 0.25,
+        "review": 0.15,
         "comparison-test": 0.02,
-        "first-look": 0.14,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.17,
-        "opinion": 0.09,
-        "profile-interview": 0.41,
-        "tribute": 0.06,
-        "listing": 0.04,
-        "event-report": 0.43,
-        "event-preview": 0.04,
-        "press-release": 0.23,
-        "digest": 0.08,
-        "photo-gallery": 0.19,
-        "ride-report": 0.04,
-        "history": 0.12,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.9,
-        "q-and-a": 0.02
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.14,
+        "how-to": 0.02,
+        "explainer": 0.22,
+        "opinion": 0.12,
+        "profile-interview": 0.06,
+        "tribute": 0.1,
+        "listing": 0.86,
+        "event-report": 0.04,
+        "event-preview": 0.06,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.5,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.69,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.07,
       "tags": [
         "custom",
+        "for-sale",
         "cruisers",
-        "bobbers-choppers"
+        "classic"
       ],
       "also": []
     },
@@ -597,17 +678,17 @@
       "also": []
     },
     {
-      "id": "d90698149adcdcaa98a18b66f94f13081092be84",
-      "title": "Streetfighters, retro racers and rally builds: Honda Customs winners",
-      "link": "https://www.mcnews.com.au/honda-customs-2026-winners-mugen-hornet-saharja",
+      "id": "886d67d873b233368de29e386c171aed893078c8",
+      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
+      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
       "lang": "en",
-      "source": "MCNews Australia",
+      "source": "BIKE EXIF",
       "ownership": "independent",
       "media": "article",
-      "author": "Trev",
-      "published": "2026-09-22T00:19:54+00:00",
-      "excerpt": "A six-week build delivered a second Honda Customs crown for Portugal\u2019s Mototrofa. Take a closer look at the winning Mugen Hornet, Saharja Transalp and the other podium customs. The post Streetfighters, retro racers and rally builds: Honda Customs winners appeared first on MCNews ",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/06/Honda-CB750-Custom-Portugal-Mototrofa-1.jpg",
+      "author": "Tom Gosselin",
+      "published": "2026-09-28T18:00:00+00:00",
+      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
+      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
       "audio": null,
       "categories": [
         {
@@ -618,50 +699,42 @@
       "primary": "custom",
       "confident": true,
       "cat_scores": {
-        "custom": 0.94
+        "custom": 0.92
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
         {
           "slug": "ranked-list",
           "label": "Ten Best"
         }
       ],
       "form_scores": {
-        "news": 0.82,
-        "review": 0.04,
-        "comparison-test": 0.16,
-        "first-look": 0.05,
-        "ranked-list": 0.8,
-        "buyers-guide": 0.09,
+        "news": 0.1,
+        "review": 0.03,
+        "comparison-test": 0.48,
+        "first-look": 0.07,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.16,
         "how-to": 0.04,
-        "explainer": 0.13,
-        "opinion": 0.08,
-        "profile-interview": 0.21,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.93,
-        "event-preview": 0.05,
-        "press-release": 0.4,
-        "digest": 0.11,
-        "photo-gallery": 0.26,
-        "ride-report": 0.03,
-        "history": 0.17,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.07,
-        "build-feature": 0.08,
-        "q-and-a": 0.02
+        "explainer": 0.15,
+        "opinion": 0.56,
+        "profile-interview": 0.08,
+        "tribute": 0.06,
+        "listing": 0.03,
+        "event-report": 0.08,
+        "event-preview": 0.03,
+        "press-release": 0.09,
+        "digest": 0.13,
+        "photo-gallery": 0.27,
+        "ride-report": 0.04,
+        "history": 0.22,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.23,
+      "multi_subject": 0.44,
       "tags": [
         "custom"
       ],
@@ -751,159 +824,6 @@
         "for-sale",
         "classic",
         "cafe-racers"
-      ],
-      "also": []
-    },
-    {
-      "id": "886d67d873b233368de29e386c171aed893078c8",
-      "title": "From Desert Sleds to Street Sleepers: The 9 Best Custom Triumphs of 2020",
-      "link": "https://www.bikeexif.com/9-best-custom-triumphs-2020",
-      "lang": "en",
-      "source": "BIKE EXIF",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Tom Gosselin",
-      "published": "2026-09-28T18:00:00+00:00",
-      "excerpt": "When we looked back at the custom motorcycle landscape in 2020, Triumph stood as...",
-      "image": "https://images.bikeexif.com/2020/10/_1200x675_crop_center-center_82_line/triumph-bonneville-t100-scrambler-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.92
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.03,
-        "comparison-test": 0.48,
-        "first-look": 0.07,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.16,
-        "how-to": 0.04,
-        "explainer": 0.15,
-        "opinion": 0.56,
-        "profile-interview": 0.08,
-        "tribute": 0.06,
-        "listing": 0.03,
-        "event-report": 0.08,
-        "event-preview": 0.03,
-        "press-release": 0.09,
-        "digest": 0.13,
-        "photo-gallery": 0.27,
-        "ride-report": 0.04,
-        "history": 0.22,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.44,
-      "tags": [
-        "custom"
-      ],
-      "also": []
-    },
-    {
-      "id": "99effd71492b997a61fb272cea1b77049204f83f",
-      "title": "FOR SALE: 1981 Honda CX500 Custom Cafe Racer",
-      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1981-honda-cx500-custom-cafe-racer",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-28T10:55:24+00:00",
-      "excerpt": "A 1981 Honda CX500 Custom listed on Bring a Trailer with no reserve transforms Honda\u2019s unconventional middleweight V-twin into a purpose-built cafe racer. Retained by its original owner until 2018, the motorcycle was subsequently rebuilt with extensively reworked chassis, braking",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1981-Honda-CX500-Custom-Cafe-Racer-7.webp",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "custom",
-          "label": "Custom"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "custom",
-      "confident": true,
-      "cat_scores": {
-        "custom": 0.98,
-        "for-sale": 0.97,
-        "classic": 0.96,
-        "cafe-racers": 0.9,
-        "restomods": 0.57
-      },
-      "subcategories": [
-        {
-          "slug": "cafe-racers",
-          "label": "Cafe Racers",
-          "parent": "custom"
-        },
-        {
-          "slug": "restomods",
-          "label": "Restomods",
-          "parent": "custom"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.2,
-        "review": 0.09,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.43,
-        "how-to": 0.03,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.03,
-        "tribute": 0.02,
-        "listing": 0.97,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.06,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.7,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "custom",
-        "for-sale",
-        "classic",
-        "cafe-racers",
-        "restomods"
       ],
       "also": []
     },
@@ -1102,96 +1022,19 @@
       "also": []
     },
     {
-      "id": "c10553c9ac97569b9110ddb5a3c6a3be152d8b95",
-      "title": "Checking a Lot Before Bidding: Shipping Data and VIN History for Your Next Cafe Racer",
-      "link": "https://www.returnofthecaferacers.com/exclude/checking-a-lot-before-bidding-shipping-data-and-vin-history-for-your-next-cafe-racer",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GintoJom",
-      "published": "2026-09-29T22:42:49+00:00",
-      "excerpt": "Building a cafe racer starts long before the first bolt comes off. It starts with the auction lot itself. Two habits separate riders who land a solid donor bike from those who get blindsided later: checking real shipping numbers for the pickup state, and running the VIN before th",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2003-Buell-M2-Cyclone-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "custom",
-          "label": "Custom"
-        }
-      ],
-      "primary": "classic",
-      "confident": false,
-      "cat_scores": {
-        "classic": 0.78,
-        "custom": 0.53
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "buyers-guide",
-          "label": "Buyer's Guide"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.04,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.95,
-        "how-to": 0.62,
-        "explainer": 0.87,
-        "opinion": 0.37,
-        "profile-interview": 0.04,
-        "tribute": 0.02,
-        "listing": 0.04,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.04,
-        "digest": 0.07,
-        "photo-gallery": 0.04,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.14
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "classic",
-        "custom"
-      ],
-      "also": []
-    },
-    {
-      "id": "10ae65646fc01bbcfce11492deff9042990b1d78",
-      "title": "9 Best Caf\u00e9 Racers to Look Out for at the 2026 Autumn Stafford Sale",
-      "link": "https://www.returnofthecaferacers.com/cafe-racers/9-best-cafe-racers-to-look-out-for-at-the-2026-autumn-stafford-sale",
+      "id": "99effd71492b997a61fb272cea1b77049204f83f",
+      "title": "FOR SALE: 1981 Honda CX500 Custom Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/for-sale/for-sale-1981-honda-cx500-custom-cafe-racer",
       "lang": "en",
       "source": "Return of the Cafe Racers",
       "ownership": "independent",
       "media": "article",
       "author": "Mark Capayas",
-      "published": "2026-09-25T11:04:04+00:00",
-      "excerpt": "The Autumn Stafford Sale, held as part of the Classic Motorcycle Mechanics Show on 11 October 2026, brings together an unusually strong selection of motorcycles suited to the caf\u00e9-racer collector. Among the 200-plus motorcycles catalogued by Bonhams are several machines that eith",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/Stafford_2320_x_700.webp",
+      "published": "2026-09-28T10:55:24+00:00",
+      "excerpt": "A 1981 Honda CX500 Custom listed on Bring a Trailer with no reserve transforms Honda\u2019s unconventional middleweight V-twin into a purpose-built cafe racer. Retained by its original owner until 2018, the motorcycle was subsequently rebuilt with extensively reworked chassis, braking",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/1981-Honda-CX500-Custom-Cafe-Racer-7.webp",
       "audio": null,
       "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
         {
           "slug": "custom",
           "label": "Custom"
@@ -1199,65 +1042,72 @@
         {
           "slug": "for-sale",
           "label": "For Sale"
+        },
+        {
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
-      "primary": "classic",
+      "primary": "custom",
       "confident": true,
       "cat_scores": {
+        "custom": 0.98,
+        "for-sale": 0.97,
         "classic": 0.96,
-        "custom": 0.86,
-        "for-sale": 0.65,
-        "cafe-racers": 0.52
+        "cafe-racers": 0.9,
+        "restomods": 0.57
       },
       "subcategories": [
         {
           "slug": "cafe-racers",
           "label": "Cafe Racers",
           "parent": "custom"
+        },
+        {
+          "slug": "restomods",
+          "label": "Restomods",
+          "parent": "custom"
         }
       ],
       "forms": [
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "listing",
+          "label": "Listing"
         }
       ],
       "form_scores": {
-        "news": 0.22,
-        "review": 0.02,
-        "comparison-test": 0.17,
-        "first-look": 0.04,
-        "ranked-list": 0.96,
-        "buyers-guide": 0.65,
+        "news": 0.2,
+        "review": 0.09,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.43,
         "how-to": 0.03,
-        "explainer": 0.15,
-        "opinion": 0.43,
+        "explainer": 0.09,
+        "opinion": 0.07,
         "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.21,
-        "event-report": 0.09,
-        "event-preview": 0.84,
-        "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.07,
+        "tribute": 0.02,
+        "listing": 0.97,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.09,
         "rumor": 0.02,
         "safety-notice": 0.01,
         "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
+        "build-feature": 0.7,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.12,
+      "multi_subject": 0.04,
       "tags": [
-        "classic",
         "custom",
         "for-sale",
-        "cafe-racers"
+        "classic",
+        "cafe-racers",
+        "restomods"
       ],
       "also": []
     },
@@ -1423,6 +1273,166 @@
           "published": "2026-09-23T10:03:17+00:00"
         }
       ]
+    },
+    {
+      "id": "c10553c9ac97569b9110ddb5a3c6a3be152d8b95",
+      "title": "Checking a Lot Before Bidding: Shipping Data and VIN History for Your Next Cafe Racer",
+      "link": "https://www.returnofthecaferacers.com/exclude/checking-a-lot-before-bidding-shipping-data-and-vin-history-for-your-next-cafe-racer",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GintoJom",
+      "published": "2026-09-29T22:42:49+00:00",
+      "excerpt": "Building a cafe racer starts long before the first bolt comes off. It starts with the auction lot itself. Two habits separate riders who land a solid donor bike from those who get blindsided later: checking real shipping numbers for the pickup state, and running the VIN before th",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2003-Buell-M2-Cyclone-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "classic",
+      "confident": false,
+      "cat_scores": {
+        "classic": 0.78,
+        "custom": 0.53
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.95,
+        "how-to": 0.62,
+        "explainer": 0.87,
+        "opinion": 0.37,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.04,
+        "digest": 0.07,
+        "photo-gallery": 0.04,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.14
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "classic",
+        "custom"
+      ],
+      "also": []
+    },
+    {
+      "id": "10ae65646fc01bbcfce11492deff9042990b1d78",
+      "title": "9 Best Caf\u00e9 Racers to Look Out for at the 2026 Autumn Stafford Sale",
+      "link": "https://www.returnofthecaferacers.com/cafe-racers/9-best-cafe-racers-to-look-out-for-at-the-2026-autumn-stafford-sale",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-25T11:04:04+00:00",
+      "excerpt": "The Autumn Stafford Sale, held as part of the Classic Motorcycle Mechanics Show on 11 October 2026, brings together an unusually strong selection of motorcycles suited to the caf\u00e9-racer collector. Among the 200-plus motorcycles catalogued by Bonhams are several machines that eith",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/Stafford_2320_x_700.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        },
+        {
+          "slug": "custom",
+          "label": "Custom"
+        },
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.96,
+        "custom": 0.86,
+        "for-sale": 0.65,
+        "cafe-racers": 0.52
+      },
+      "subcategories": [
+        {
+          "slug": "cafe-racers",
+          "label": "Cafe Racers",
+          "parent": "custom"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.22,
+        "review": 0.02,
+        "comparison-test": 0.17,
+        "first-look": 0.04,
+        "ranked-list": 0.96,
+        "buyers-guide": 0.65,
+        "how-to": 0.03,
+        "explainer": 0.15,
+        "opinion": 0.43,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.21,
+        "event-report": 0.09,
+        "event-preview": 0.84,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.12,
+      "tags": [
+        "classic",
+        "custom",
+        "for-sale",
+        "cafe-racers"
+      ],
+      "also": []
     },
     {
       "id": "9a19f8dbfe9485923ae7521eaa16c2becde9044b",
@@ -1787,6 +1797,77 @@
         "dirt-mx",
         "custom",
         "classic"
+      ],
+      "also": []
+    },
+    {
+      "id": "d90698149adcdcaa98a18b66f94f13081092be84",
+      "title": "Streetfighters, retro racers and rally builds: Honda Customs winners",
+      "link": "https://www.mcnews.com.au/honda-customs-2026-winners-mugen-hornet-saharja",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-22T00:19:54+00:00",
+      "excerpt": "A six-week build delivered a second Honda Customs crown for Portugal\u2019s Mototrofa. Take a closer look at the winning Mugen Hornet, Saharja Transalp and the other podium customs. The post Streetfighters, retro racers and rally builds: Honda Customs winners appeared first on MCNews ",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/06/Honda-CB750-Custom-Portugal-Mototrofa-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": true,
+      "cat_scores": {
+        "custom": 0.94
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.04,
+        "comparison-test": 0.16,
+        "first-look": 0.05,
+        "ranked-list": 0.8,
+        "buyers-guide": 0.09,
+        "how-to": 0.04,
+        "explainer": 0.13,
+        "opinion": 0.08,
+        "profile-interview": 0.21,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.93,
+        "event-preview": 0.05,
+        "press-release": 0.4,
+        "digest": 0.11,
+        "photo-gallery": 0.26,
+        "ride-report": 0.03,
+        "history": 0.17,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.08,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.23,
+      "tags": [
+        "custom"
       ],
       "also": []
     },
