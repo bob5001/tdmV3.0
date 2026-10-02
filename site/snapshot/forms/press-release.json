@@ -1051,108 +1051,6 @@
       ]
     },
     {
-      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
-      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
-      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T03:24:54+00:00",
-      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.65,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.02,
-        "comparison-test": 0.12,
-        "first-look": 0.07,
-        "ranked-list": 0.48,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.85,
-        "press-release": 0.82,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
-          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
-          "published": "2026-10-02T02:59:13+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
-          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
-          "published": "2026-10-02T03:00:03+00:00"
-        }
-      ]
-    },
-    {
       "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
       "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
       "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
@@ -1230,6 +1128,102 @@
         "sport-bikes"
       ],
       "also": []
+    },
+    {
+      "id": "cba444885ca3e2eec54af057649778acfe0daee9",
+      "title": "Moto2: Alonso Breaks Record In Japan",
+      "link": "https://www.roadracingworld.com/news/moto2-alonso-breaks-record-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T07:00:57+00:00",
+      "excerpt": "David Alonso led Moto2 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Riding his CFMOTO Power Electronics Aspar Team Kalex on Pirelli control tires, the Colombian rider lapped the 2.98-mile (4.8 km) road course in 1:47.508, topping the field of ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/08/image-230_1787943915.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.64,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.12,
+        "first-look": 0.04,
+        "ranked-list": 0.37,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.87,
+        "event-preview": 0.93,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "2026 Japanese Moto2 - Practice Results",
+          "link": "https://www.crash.net/moto2/results/1106040/1/2026-japanese-moto2-practice-results",
+          "published": "2026-10-02T06:37:03+00:00"
+        }
+      ]
     },
     {
       "id": "cc1b366e4259a5d482f7fe8c4ace0cae805b9c27",
@@ -2040,92 +2034,6 @@
       ]
     },
     {
-      "id": "2f92fb8b60783e9b3a7ea1ab992dee6c2fd7038e",
-      "title": "MotoGP: Teams Are Ready For Motegi",
-      "link": "https://www.roadracingworld.com/news/motogp-teams-are-ready-for-motegi",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-01T14:28:57+00:00",
-      "excerpt": "MotoGP, Moto2 and Moto3 teams are heading to Mobility Resort Motegi this weekend for Round 16 of the 2026 FIM MotoGP World Championship. Following the Austrian round, the paddock returns to action from October 2-4, with all three classes set to take on the fast and technical 2.98",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/apriliaracing-austriangp15-2026-sunday-03_1789982514.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.75,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.28,
-        "event-preview": 0.99,
-        "press-release": 0.89,
-        "digest": 0.15,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Japanese MotoGP Preview | Three classes, three championship battles at Motegi",
-          "link": "https://www.mcnews.com.au/2026-motegi-motogp-moto2-moto3-preview",
-          "published": "2026-09-30T08:23:41+00:00"
-        }
-      ]
-    },
-    {
       "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
       "title": "Furygan launches first women-specific motorcycle airbag",
       "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
@@ -2204,6 +2112,85 @@
           "published": "2026-10-01T17:25:18+00:00"
         }
       ]
+    },
+    {
+      "id": "f33a2407763464d90c4a936f8ad94eb2c9e4360e",
+      "title": "Moto3: Morelli Is Best Friday Afternoon At Motegi",
+      "link": "https://www.roadracingworld.com/news/moto3-morelli-is-best-friday-afternoon-at-motegi",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T06:51:18+00:00",
+      "excerpt": "Marco Morelli led Moto3 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Morelli used his Pirelli-shod CFMOTO Gaviota Aspar Team KTM to lap the 2.98-mile (4.8 km) track in 1:55.280 to lead the field of 26 riders. Home hero Ryusei Yamanaka was seco",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-18_1788967602.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.04,
+        "ranked-list": 0.55,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.91,
+        "event-preview": 0.22,
+        "press-release": 0.77,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "a4b353f9fd73bb0d61af7714bf2af764608f43c6",
@@ -2855,118 +2842,6 @@
       ]
     },
     {
-      "id": "7c46751210feed7d865b40c087f9e4dbc5dc8ca2",
-      "title": "MotoGP: Honda HRC and Red Bull Reunite for Multi-Year Deal",
-      "link": "https://www.roadracingworld.com/news/motogp-honda-hrc-and-red-bull-reunite-for-multi-year-deal",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-01T10:05:34+00:00",
-      "excerpt": "Red Bull to again collaborate with Honda HRC\u2019s factory MotoGP team, the pairing already outlining ambitious plans to add to their 45 wins and over 90 podiums together in a multi-year deal. Honda Racing Corporation (HRC) and Red Bull are pleased to announce a new partnership that ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/image-1_1790848871.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.26,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.08,
-        "press-release": 0.97,
-        "digest": 0.03,
-        "photo-gallery": 0.01,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.02,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "Quartararo forced to leave Monster as Red Bull returns to Honda",
-          "link": "https://www.autosport.com/motogp/news/fabio-quartararo-forced-to-leave-monster-as-red-bull-returns-to-honda/10859730",
-          "published": "2026-09-28T09:03:53+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Fabio Quartararo forced into major sponsor change for Honda move",
-          "link": "https://www.crash.net/motogp/news/1105864/1/fabio-quartararo-forced-major-sponsor-change-honda-move",
-          "published": "2026-09-28T09:34:47+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Honda announces Red Bull return for 2027 MotoGP season",
-          "link": "https://www.crash.net/motogp/news/1105929/1/honda-announces-red-bull-return-2027-motogp-season",
-          "published": "2026-10-01T08:11:33+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "Honda Racing Corporation and Red Bull re-unite to add to past success",
-          "link": "https://www.gpone.com/en/2026/10/01/motogp/honda-racing-corporation-and-red-bull-re-unite-to-add-to-past-success.html",
-          "published": "2026-10-01T08:13:01+00:00"
-        },
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "Red Bull to return as Honda's MotoGP sponsor",
-          "link": "https://www.autosport.com/motogp/news/red-bull-return-as-honda-sponsor/10860481",
-          "published": "2026-10-01T08:26:58+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "OFFICIAL - Honda (re)gains its wings: multi-year agreement with Red Bull starting in 2027",
-          "link": "https://www.gpone.com/en/2026/10/01/motogp/official-honda-regains-its-wings-multi-year-agreement-with-red-bull-starting-in-2027.html",
-          "published": "2026-10-01T09:58:02+00:00"
-        }
-      ]
-    },
-    {
       "id": "ea6b9f8e0322e1f207875c42efe48213a73e72f2",
       "title": "More attractions and deals than ever promised for MCL26",
       "link": "https://www.visordown.com/news/more-attractions-and-deals-ever-promised-mcl26",
@@ -3036,6 +2911,108 @@
         "events-rides"
       ],
       "also": []
+    },
+    {
+      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
+      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
+      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T03:24:54+00:00",
+      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.65,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.02,
+        "comparison-test": 0.12,
+        "first-look": 0.07,
+        "ranked-list": 0.48,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.85,
+        "press-release": 0.82,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
+          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
+          "published": "2026-10-02T02:59:13+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
+          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
+          "published": "2026-10-02T03:00:03+00:00"
+        }
+      ]
     },
     {
       "id": "8814ab64f7a93884950af3a4017b953ee70ea36e",
@@ -3440,116 +3417,6 @@
       ]
     },
     {
-      "id": "56622c6dee61348e79b93cac3e92af2a16964c68",
-      "title": "MotoGP: Vi\u00f1ales Returns To Action For Japanese GP",
-      "link": "https://www.roadracingworld.com/news/motogp-vinales-returns-to-action-for-japanese-gp",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-29T21:16:31+00:00",
-      "excerpt": "Red Bull KTM Tech3 is pleased to confirm that Maverick Vi\u00f1ales will return to MotoGP action at this weekend\u2019s Japanese Grand Prix, marking his return to the grid following an extended period of recovery from corrective shoulder surgery. The Spaniard has been absent since the Germ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-145_1790612346.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.19,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.97,
-        "press-release": 0.94,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.02,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
-          "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
-          "published": "2026-09-28T15:41:58+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "They sometimes return: Vi\u00f1ales with KTM at Motegi",
-          "link": "https://www.gpone.com/en/2026/09/28/motogp/they-sometimes-return-vinales-with-ktm-at-motegi.html",
-          "published": "2026-09-28T15:55:20+00:00"
-        },
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
-          "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
-          "published": "2026-09-28T16:16:13+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "Maverick Vinales set to make MotoGP return in Japan",
-          "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
-          "published": "2026-09-29T08:08:01+00:00"
-        },
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "Vinales: \u201cI don't understand what KTM wants from me\u201d",
-          "link": "https://www.autosport.com/motogp/news/vinales-i-dont-understand-what-ktm-wants-from-me/10860418",
-          "published": "2026-10-01T06:18:12+00:00"
-        }
-      ]
-    },
-    {
       "id": "fe90d86ae41fda22420dfa53c70f233d0abde4bc",
       "title": "Stark Varg SM Sk\u00f6ll sold out in under 48 hours with no second production run planned",
       "link": "https://www.visordown.com/news/stark-varg-sm-skoll-sold-out-under-48-hours-no-second-production-run-planned",
@@ -3633,6 +3500,92 @@
         "dirt-mx"
       ],
       "also": []
+    },
+    {
+      "id": "2f92fb8b60783e9b3a7ea1ab992dee6c2fd7038e",
+      "title": "MotoGP: Teams Are Ready For Motegi",
+      "link": "https://www.roadracingworld.com/news/motogp-teams-are-ready-for-motegi",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-01T14:28:57+00:00",
+      "excerpt": "MotoGP, Moto2 and Moto3 teams are heading to Mobility Resort Motegi this weekend for Round 16 of the 2026 FIM MotoGP World Championship. Following the Austrian round, the paddock returns to action from October 2-4, with all three classes set to take on the fast and technical 2.98",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/apriliaracing-austriangp15-2026-sunday-03_1789982514.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.75,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.28,
+        "event-preview": 0.99,
+        "press-release": 0.89,
+        "digest": 0.15,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Japanese MotoGP Preview | Three classes, three championship battles at Motegi",
+          "link": "https://www.mcnews.com.au/2026-motegi-motogp-moto2-moto3-preview",
+          "published": "2026-09-30T08:23:41+00:00"
+        }
+      ]
     },
     {
       "id": "59926be71906188ff62571169a2972a94ce455ce",
@@ -4012,116 +3965,6 @@
       ]
     },
     {
-      "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
-      "title": "2027 MotoGP\u2122 Calendar Revealed",
-      "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-25T10:26:43+00:00",
-      "excerpt": "22 Grands Prix. Five continents. Two new venues. Welcome to 2027 as a new era begins! The 2027 MotoGP calendar has landed. For a new era of new bikes, 22 Grands Prix will see the most exciting sport on Earth race across the globe from March to November for another record-setting ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-108_1790331806.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.96,
-        "press-release": 0.86,
-        "digest": 0.05,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.01,
-        "rumor": 0.05,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "MotoGP reveals 2027 calendar, confirms Adelaide and Argentina dates",
-          "link": "https://www.crash.net/motogp/news/1105265/1/motogp-reveals-2027-calendar-confirms-adelaide-and-argentina-dates",
-          "published": "2026-09-25T10:00:47+00:00"
-        },
-        {
-          "source": "Autosport (MotoGP)",
-          "title": "MotoGP 2027 calendar revealed with Buenos Aires and Adelaide joining the schedule",
-          "link": "https://www.autosport.com/motogp/news/motogp-2027-calendar-revealed-with-buenos-aires-and-adelaide-joining-the-schedule/10858794",
-          "published": "2026-09-25T10:02:02+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "Here is the 2027 schedule: the season kicks off at Buriram on March 7 and wraps at Valencia on November 28",
-          "link": "https://www.gpone.com/en/2026/09/25/motogp/here-is-the-2027-schedule-the-season-kicks-off-at-buriram-on-march-7-and-wraps-at-valencia-on.html",
-          "published": "2026-09-25T10:29:10+00:00"
-        },
-        {
-          "source": "Visordown",
-          "title": "MotoGP reveals 2027 calendar with 22 rounds and two new venues",
-          "link": "https://www.visordown.com/news/motogp-reveals-2027-calendar-22-rounds-and-two-new-venues",
-          "published": "2026-09-25T10:56:39+00:00"
-        },
-        {
-          "source": "MCNews Australia",
-          "title": "2027 MotoGP calendar | Adelaide set for November 12\u201314",
-          "link": "https://www.mcnews.com.au/2027-motogp-calendar",
-          "published": "2026-09-26T01:05:03+00:00"
-        }
-      ]
-    },
-    {
       "id": "e317323f7029708bc80d282660274cb44c361a4e",
       "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
       "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
@@ -4187,6 +4030,118 @@
         "gear"
       ],
       "also": []
+    },
+    {
+      "id": "7c46751210feed7d865b40c087f9e4dbc5dc8ca2",
+      "title": "MotoGP: Honda HRC and Red Bull Reunite for Multi-Year Deal",
+      "link": "https://www.roadracingworld.com/news/motogp-honda-hrc-and-red-bull-reunite-for-multi-year-deal",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-01T10:05:34+00:00",
+      "excerpt": "Red Bull to again collaborate with Honda HRC\u2019s factory MotoGP team, the pairing already outlining ambitious plans to add to their 45 wins and over 90 podiums together in a multi-year deal. Honda Racing Corporation (HRC) and Red Bull are pleased to announce a new partnership that ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/image-1_1790848871.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.26,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.08,
+        "press-release": 0.97,
+        "digest": 0.03,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "Quartararo forced to leave Monster as Red Bull returns to Honda",
+          "link": "https://www.autosport.com/motogp/news/fabio-quartararo-forced-to-leave-monster-as-red-bull-returns-to-honda/10859730",
+          "published": "2026-09-28T09:03:53+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Fabio Quartararo forced into major sponsor change for Honda move",
+          "link": "https://www.crash.net/motogp/news/1105864/1/fabio-quartararo-forced-major-sponsor-change-honda-move",
+          "published": "2026-09-28T09:34:47+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Honda announces Red Bull return for 2027 MotoGP season",
+          "link": "https://www.crash.net/motogp/news/1105929/1/honda-announces-red-bull-return-2027-motogp-season",
+          "published": "2026-10-01T08:11:33+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "Honda Racing Corporation and Red Bull re-unite to add to past success",
+          "link": "https://www.gpone.com/en/2026/10/01/motogp/honda-racing-corporation-and-red-bull-re-unite-to-add-to-past-success.html",
+          "published": "2026-10-01T08:13:01+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "Red Bull to return as Honda's MotoGP sponsor",
+          "link": "https://www.autosport.com/motogp/news/red-bull-return-as-honda-sponsor/10860481",
+          "published": "2026-10-01T08:26:58+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "OFFICIAL - Honda (re)gains its wings: multi-year agreement with Red Bull starting in 2027",
+          "link": "https://www.gpone.com/en/2026/10/01/motogp/official-honda-regains-its-wings-multi-year-agreement-with-red-bull-starting-in-2027.html",
+          "published": "2026-10-01T09:58:02+00:00"
+        }
+      ]
     },
     {
       "id": "6114f03c0a6aaf85a9039d21139906e4d7181497",
@@ -4343,91 +4298,6 @@
       "also": []
     },
     {
-      "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
-      "title": "MotoGP: Grand Prix Commission Updates Regulations for 2027",
-      "link": "https://www.roadracingworld.com/news/motogp-grand-prix-commission-updates-regulations-for-2027",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-24T21:18:04+00:00",
-      "excerpt": "The Grand Prix Commission, composed of Messrs. Paul Duparc (FIM), Mike Webb (IRTA), Biense Bierma (MSMA) and Carmelo Ezpeleta (MotoGP SEG, Chairman) in the presence of Jorge Viegas (FIM President), Carlos Ezpeleta (MotoGP SEG), Corrado Cecchinelli (Director of Technology), Paul K",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-136_1790169781.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "industry": 0.52,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.03,
-        "explainer": 0.3,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.06,
-        "event-preview": 0.12,
-        "press-release": 0.76,
-        "digest": 0.19,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.04,
-        "safety-notice": 0.94,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.35,
-      "tags": [
-        "racing",
-        "industry",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
       "title": "KTM teases major off-road plans for EICMA 2026 in November",
       "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
@@ -4499,6 +4369,116 @@
         "adventure"
       ],
       "also": []
+    },
+    {
+      "id": "56622c6dee61348e79b93cac3e92af2a16964c68",
+      "title": "MotoGP: Vi\u00f1ales Returns To Action For Japanese GP",
+      "link": "https://www.roadracingworld.com/news/motogp-vinales-returns-to-action-for-japanese-gp",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-29T21:16:31+00:00",
+      "excerpt": "Red Bull KTM Tech3 is pleased to confirm that Maverick Vi\u00f1ales will return to MotoGP action at this weekend\u2019s Japanese Grand Prix, marking his return to the grid following an extended period of recovery from corrective shoulder surgery. The Spaniard has been absent since the Germ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-145_1790612346.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.94,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "KTM announces Maverick Vinales returns for MotoGP Japan",
+          "link": "https://www.crash.net/motogp/news/1105880/1/ktm-announces-maverick-vinales-returns-motogp-japan",
+          "published": "2026-09-28T15:41:58+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "They sometimes return: Vi\u00f1ales with KTM at Motegi",
+          "link": "https://www.gpone.com/en/2026/09/28/motogp/they-sometimes-return-vinales-with-ktm-at-motegi.html",
+          "published": "2026-09-28T15:55:20+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "Vinales set for Tech3 KTM comeback at Japanese GP",
+          "link": "https://www.autosport.com/motogp/news/vinales-set-for-tech3-ktm-comeback-at-japanese-gp/10859870",
+          "published": "2026-09-28T16:16:13+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "Maverick Vinales set to make MotoGP return in Japan",
+          "link": "https://www.visordown.com/news/maverick-vinales-set-make-motogp-return-japan",
+          "published": "2026-09-29T08:08:01+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "Vinales: \u201cI don't understand what KTM wants from me\u201d",
+          "link": "https://www.autosport.com/motogp/news/vinales-i-dont-understand-what-ktm-wants-from-me/10860418",
+          "published": "2026-10-01T06:18:12+00:00"
+        }
+      ]
     },
     {
       "id": "afdf51fafd1f7e120b7211c15367acace0220b58",
@@ -4599,6 +4579,612 @@
           "published": "2026-09-30T07:02:15+00:00"
         }
       ]
+    },
+    {
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.86,
+        "industry": 0.81,
+        "motogp": 0.84
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.19,
+        "press-release": 0.81,
+        "digest": 0.12,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "7f5cb94c0032cd4041a64c12478d26607bba674a",
+      "title": "2027 MotoGP\u2122 Calendar Revealed",
+      "link": "https://www.roadracingworld.com/news/2027-motogp-calendar-revealed",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-25T10:26:43+00:00",
+      "excerpt": "22 Grands Prix. Five continents. Two new venues. Welcome to 2027 as a new era begins! The 2027 MotoGP calendar has landed. For a new era of new bikes, 22 Grands Prix will see the most exciting sport on Earth race across the globe from March to November for another record-setting ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-108_1790331806.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.96,
+        "press-release": 0.86,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.01,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "MotoGP reveals 2027 calendar, confirms Adelaide and Argentina dates",
+          "link": "https://www.crash.net/motogp/news/1105265/1/motogp-reveals-2027-calendar-confirms-adelaide-and-argentina-dates",
+          "published": "2026-09-25T10:00:47+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "MotoGP 2027 calendar revealed with Buenos Aires and Adelaide joining the schedule",
+          "link": "https://www.autosport.com/motogp/news/motogp-2027-calendar-revealed-with-buenos-aires-and-adelaide-joining-the-schedule/10858794",
+          "published": "2026-09-25T10:02:02+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "Here is the 2027 schedule: the season kicks off at Buriram on March 7 and wraps at Valencia on November 28",
+          "link": "https://www.gpone.com/en/2026/09/25/motogp/here-is-the-2027-schedule-the-season-kicks-off-at-buriram-on-march-7-and-wraps-at-valencia-on.html",
+          "published": "2026-09-25T10:29:10+00:00"
+        },
+        {
+          "source": "Visordown",
+          "title": "MotoGP reveals 2027 calendar with 22 rounds and two new venues",
+          "link": "https://www.visordown.com/news/motogp-reveals-2027-calendar-22-rounds-and-two-new-venues",
+          "published": "2026-09-25T10:56:39+00:00"
+        },
+        {
+          "source": "MCNews Australia",
+          "title": "2027 MotoGP calendar | Adelaide set for November 12\u201314",
+          "link": "https://www.mcnews.com.au/2027-motogp-calendar",
+          "published": "2026-09-26T01:05:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "0a1777f9288c4901b29488989e9961352cd5bb53",
+      "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at Ern\u00e9e",
+      "link": "https://mxvice.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-ernee",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-29T18:37:34+00:00",
+      "excerpt": "The 2026 YZ BLU CRU FIM Europe Cup SuperFinale will take place from October 2-4 alongside one of the biggest events on the motocross calendar \u2013 the prestigious 2026 Monster Energy FIM Motocross of Nations (MXoN) at Ern\u00e9e, France. 120 of the most talented young riders from across ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/2025_YZ125_BLUCRU_SF_SWEDEN_GF_9993.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.81,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.63,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.99,
+        "press-release": 0.94,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at MXoN in Ern\u00e9e, France",
+          "link": "https://racerxonline.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-mxon-in-ernee-france",
+          "published": "2026-09-29T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
+      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
+      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-26T08:30:00+00:00",
+      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.19,
+        "tribute": 0.1,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.04,
+        "press-release": 0.76,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "7483644d67a8b98b2aa8f1aff930000e96689268",
+      "title": "MotoGP: Grand Prix Commission Updates Regulations for 2027",
+      "link": "https://www.roadracingworld.com/news/motogp-grand-prix-commission-updates-regulations-for-2027",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-24T21:18:04+00:00",
+      "excerpt": "The Grand Prix Commission, composed of Messrs. Paul Duparc (FIM), Mike Webb (IRTA), Biense Bierma (MSMA) and Carmelo Ezpeleta (MotoGP SEG, Chairman) in the presence of Jorge Viegas (FIM President), Carlos Ezpeleta (MotoGP SEG), Corrado Cecchinelli (Director of Technology), Paul K",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-136_1790169781.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "industry": 0.52,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.03,
+        "explainer": 0.3,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.06,
+        "event-preview": 0.12,
+        "press-release": 0.76,
+        "digest": 0.19,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.94,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.35,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "0a032eee0e0c6aa29ff0b70719e1578b970e11be",
+      "title": "HONDA AND YAMAHA TO STAGE EV MOTOCROSS DEMO RUNS AT THE MONSTER ENERGY FIM MOTOCROSS OF NATIONS IN ERN\u00c9E",
+      "link": "https://mxvice.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-runs-at-the-monster-energy-fim-motocross-of-nations-in-ernee",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-29T18:29:04+00:00",
+      "excerpt": "Electric motocross is coming to the biggest event of the year. Honda and Yamaha will take to the track together for an EV Motocross Demo at the Monster Energy FIM Motocross of Nations in Ern\u00e9e, France . The two brands will run side by side on Saturday and again on Sunday, both da",
+      "image": "https://www.mxgp.com/sites/default/files/images/c240202_001H(1).jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "electric": 0.98,
+        "racing": 0.8,
+        "motocross-supercross": 0.88
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.02,
+        "comparison-test": 0.2,
+        "first-look": 0.25,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.18,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.94,
+        "press-release": 0.94,
+        "digest": 0.04,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.13,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "dirt-mx",
+        "electric",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": [
+        {
+          "source": "Racer X Online",
+          "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
+          "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
+          "published": "2026-09-29T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": "2b955b2adb33606624883c92bf48b9694010a145",
+      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
+      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T09:55:34+00:00",
+      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
+        }
+      ],
+      "primary": "cruisers",
+      "confident": false,
+      "cat_scores": {
+        "cruisers": 0.69,
+        "electric": 0.56
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.07,
+        "comparison-test": 0.03,
+        "first-look": 0.54,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.05,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.28,
+        "event-preview": 0.07,
+        "press-release": 0.92,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.24,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "cruisers",
+        "electric"
+      ],
+      "also": []
     },
     {
       "id": "d136e2b3d8779fc941194fc5dd5eb3caa8a5c9d1",
@@ -4723,577 +5309,6 @@
           "published": "2026-09-25T08:31:55+00:00"
         }
       ]
-    },
-    {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.86,
-        "industry": 0.81,
-        "motogp": 0.84
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.13,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.19,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.13,
-      "tags": [
-        "racing",
-        "industry",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "0a1777f9288c4901b29488989e9961352cd5bb53",
-      "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at Ern\u00e9e",
-      "link": "https://mxvice.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-ernee",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-29T18:37:34+00:00",
-      "excerpt": "The 2026 YZ BLU CRU FIM Europe Cup SuperFinale will take place from October 2-4 alongside one of the biggest events on the motocross calendar \u2013 the prestigious 2026 Monster Energy FIM Motocross of Nations (MXoN) at Ern\u00e9e, France. 120 of the most talented young riders from across ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/2025_YZ125_BLUCRU_SF_SWEDEN_GF_9993.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.63,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.99,
-        "press-release": 0.94,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": [
-        {
-          "source": "Racer X Online",
-          "title": "120 Riders Set to Take on 2026 FIM YZ BLU CRU FIM Europe Cup SuperFinale at MXoN in Ern\u00e9e, France",
-          "link": "https://racerxonline.com/2026/09/29/120-riders-set-to-take-on-2026-fim-yz-blu-cru-fim-europe-cup-superfinale-at-mxon-in-ernee-france",
-          "published": "2026-09-29T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
-      "title": "MotoGP: Pirelli Advances 2027 Tire Development",
-      "link": "https://www.roadracingworld.com/news/motogp-pirelli-advances-2027-tyre-development",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-22T22:14:28+00:00",
-      "excerpt": "18 racing and test riders, including several rookies, took part in the test, evaluating soft, medium and hard compound slick tires. Testing was carried out using both prototype 850cc machines and suitably adapted current-generation 1000cc bikes. Today, at the Red Bull Ring in Aus",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-130_1790065172.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "gear": 0.91,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.03,
-        "comparison-test": 0.49,
-        "first-look": 0.13,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.04,
-        "profile-interview": 0.18,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.49,
-        "event-preview": 0.12,
-        "press-release": 0.84,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.12,
-        "safety-notice": 0.03,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
-      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
-      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-26T08:30:00+00:00",
-      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": true,
-      "cat_scores": {
-        "industry": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.19,
-        "tribute": 0.1,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.76,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "0a032eee0e0c6aa29ff0b70719e1578b970e11be",
-      "title": "HONDA AND YAMAHA TO STAGE EV MOTOCROSS DEMO RUNS AT THE MONSTER ENERGY FIM MOTOCROSS OF NATIONS IN ERN\u00c9E",
-      "link": "https://mxvice.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-runs-at-the-monster-energy-fim-motocross-of-nations-in-ernee",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-29T18:29:04+00:00",
-      "excerpt": "Electric motocross is coming to the biggest event of the year. Honda and Yamaha will take to the track together for an EV Motocross Demo at the Monster Energy FIM Motocross of Nations in Ern\u00e9e, France . The two brands will run side by side on Saturday and again on Sunday, both da",
-      "image": "https://www.mxgp.com/sites/default/files/images/c240202_001H(1).jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "electric": 0.98,
-        "racing": 0.8,
-        "motocross-supercross": 0.88
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.02,
-        "comparison-test": 0.2,
-        "first-look": 0.25,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.18,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.11,
-        "event-preview": 0.94,
-        "press-release": 0.94,
-        "digest": 0.04,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.13,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "electric",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": [
-        {
-          "source": "Racer X Online",
-          "title": "Honda and Yamaha to Stage EV Motocross Demos at MXoN in France",
-          "link": "https://racerxonline.com/2026/09/29/honda-and-yamaha-to-stage-ev-motocross-demo-at-mxon-in-france",
-          "published": "2026-09-29T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": "2c1260532fdf30c0c5ceb7ce907026c95c12774b",
-      "title": "MotoGP Confirms Valencia GP as 2027 Season Finale",
-      "link": "https://www.roadracingworld.com/news/motogp-confirms-valencia-gp-as-2027-season-finale",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-22T17:43:07+00:00",
-      "excerpt": "Circuit Ricardo Tormo to host the final round of the 2027 MotoGP World Championship on 26-28 November. Ahead of the release of the full 2027 MotoGP calendar on Friday 25 September, MotoGP can confirm that the Valencia Grand Prix at Circuit Ricardo Tormo will be the season-ending ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-92_1790098803-e1790098842751.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.13,
-        "opinion": 0.04,
-        "profile-interview": 0.02,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.98,
-        "press-release": 0.91,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "2b955b2adb33606624883c92bf48b9694010a145",
-      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
-      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T09:55:34+00:00",
-      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "electric",
-          "label": "Electric"
-        }
-      ],
-      "primary": "cruisers",
-      "confident": false,
-      "cat_scores": {
-        "cruisers": 0.69,
-        "electric": 0.56
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.07,
-        "comparison-test": 0.03,
-        "first-look": 0.54,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.05,
-        "profile-interview": 0.14,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.28,
-        "event-preview": 0.07,
-        "press-release": 0.92,
-        "digest": 0.08,
-        "photo-gallery": 0.14,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.24,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "cruisers",
-        "electric"
-      ],
-      "also": []
     },
     {
       "id": "b5eeecf89b3e767a5047699321d9f5cdb8f22ab1",
@@ -5460,6 +5475,87 @@
       "also": []
     },
     {
+      "id": "488e29542a92d84e96a07c326c1d3af0d6e1254f",
+      "title": "MotoGP: Pirelli Advances 2027 Tire Development",
+      "link": "https://www.roadracingworld.com/news/motogp-pirelli-advances-2027-tyre-development",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-22T22:14:28+00:00",
+      "excerpt": "18 racing and test riders, including several rookies, took part in the test, evaluating soft, medium and hard compound slick tires. Testing was carried out using both prototype 850cc machines and suitably adapted current-generation 1000cc bikes. Today, at the Red Bull Ring in Aus",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-130_1790065172.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.91,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.03,
+        "comparison-test": 0.49,
+        "first-look": 0.13,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.04,
+        "profile-interview": 0.18,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.49,
+        "event-preview": 0.12,
+        "press-release": 0.84,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.12,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "95edc10a6db5e16855ffa3afb67f751c23abcea5",
       "title": "Alberto Forato replaces Andrea Bonacorsi in Team Italy",
       "link": "https://mxvice.com/2026/09/28/alberto-forato-replaces-andrea-bonacorsi-in-team-italyd-of-knuiman-copy",
@@ -5545,31 +5641,42 @@
       "also": []
     },
     {
-      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
-      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
-      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
+      "id": "2c1260532fdf30c0c5ceb7ce907026c95c12774b",
+      "title": "MotoGP Confirms Valencia GP as 2027 Season Finale",
+      "link": "https://www.roadracingworld.com/news/motogp-confirms-valencia-gp-as-2027-season-finale",
       "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
+      "source": "Roadracing World",
+      "ownership": "independent",
       "media": "article",
-      "author": null,
-      "published": "2026-09-22T06:04:14+00:00",
-      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-22T17:43:07+00:00",
+      "excerpt": "Circuit Ricardo Tormo to host the final round of the 2027 MotoGP World Championship on 26-28 November. Ahead of the release of the full 2027 MotoGP calendar on Friday 25 September, MotoGP can confirm that the Valencia Grand Prix at Circuit Ricardo Tormo will be the season-ending ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-92_1790098803-e1790098842751.png",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "gear",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "gear": 0.97
+        "racing": 1.0,
+        "motogp": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
         {
           "slug": "news",
           "label": "News"
@@ -5580,34 +5687,35 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.7,
-        "comparison-test": 0.03,
-        "first-look": 0.32,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.31,
-        "how-to": 0.07,
-        "explainer": 0.48,
-        "opinion": 0.06,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.84,
-        "digest": 0.09,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.01,
-        "rumor": 0.11,
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.13,
+        "opinion": 0.04,
+        "profile-interview": 0.02,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.98,
+        "press-release": 0.91,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
-        "gear"
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -6028,6 +6136,73 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "ac4b94c1540ab7bdcc5dcc6f8779e5df72a64684",
+      "title": "Quad Lock Handlebar Mount Pro gets adjustable head for those hard-to-reach handlebars",
+      "link": "https://www.visordown.com/news/quad-lock-handlebar-mount-pro-gets-adjustable-head-those-hard-reach-handlebars",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-22T06:04:14+00:00",
+      "excerpt": "Quad Lock\u2019s new Handlebar Mount Pro Adjustable lets riders change the phone\u2019s tilt and rotation to suit high bars and raked-out forks.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/quadlock-hb-mount-pro-01.jpeg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.7,
+        "comparison-test": 0.03,
+        "first-look": 0.32,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.31,
+        "how-to": 0.07,
+        "explainer": 0.48,
+        "opinion": 0.06,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.06,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.84,
+        "digest": 0.09,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.01,
+        "rumor": 0.11,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "gear"
       ],
       "also": []
     },
