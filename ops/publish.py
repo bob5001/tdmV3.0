@@ -102,7 +102,8 @@ def check_last_deploy(st: dict) -> None:
 def config_fingerprint() -> str:
     cfg = yaml.safe_load((DM / "config.yaml").read_text())
     keys = ("categories", "forms", "multi_subject_instructions", "on_topic_instructions", "quality_instructions")
-    return hashlib.sha1(json.dumps({k: cfg.get(k) for k in keys}, sort_keys=True).encode()).hexdigest()[:12]
+    facets = yaml.safe_load((DM / cfg["facets_file"]).read_text()) if cfg.get("facets_file") else None
+    return hashlib.sha1(json.dumps({**{k: cfg.get(k) for k in keys}, "facets": facets}, sort_keys=True).encode()).hexdigest()[:12]
 
 
 def backup(st: dict) -> None:

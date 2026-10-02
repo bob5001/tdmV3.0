@@ -1,0 +1,118 @@
+# Brand and event facets: asked of Jev alongside the categories, stored in each item's scores.
+#   brand-<slug>  exists only when an alias matched the title/summary (a MENTION); its score is Jev's answer to
+#                 "is the article substantially about this brand?" (the SUBJECT). Racing vs road coverage comes
+#                 from the item's own Racing category.
+#   event-<slug>  asked for every English item: what happened (launch, recall, deal...).
+# Editing this file changes the taxonomy fingerprint: the publisher re-scores all English items once.
+# Owner decisions 2026-10-02: all four tiers; factory racing counts as brand coverage (labelled via Racing).
+# `hits` = rough keyword hits in 1,088 published items (2026-06-29..10-01), for orientation only.
+# `group` is for roll-ups: verify ownership before trusting it in a client report.
+
+brands:
+  oem:                      # motorcycle makers: the core of share-of-voice
+    - {name: Ducati,          aliases: [Ducati],                          group: Audi/VW,  hits: 115}
+    - {name: Honda,           aliases: [Honda, HRC],                      hits: 107}
+    - {name: KTM,             aliases: [KTM],                             group: KTM AG,   hits: 76}
+    - {name: Yamaha,          aliases: [Yamaha],                          hits: 74}
+    - {name: Triumph,         aliases: [Triumph],                         hits: 52}
+    - {name: BMW Motorrad,    aliases: [BMW, BMW Motorrad],               hits: 49}
+    - {name: Harley-Davidson, aliases: [Harley-Davidson, Harley, H-D],    group: Harley-Davidson, hits: 44}
+    - {name: Aprilia,         aliases: [Aprilia],                         group: Piaggio,  hits: 42}
+    - {name: Kawasaki,        aliases: [Kawasaki, Kawi],                  hits: 38}
+    - {name: Suzuki,          aliases: [Suzuki],                          hits: 32}
+    - {name: Royal Enfield,   aliases: [Royal Enfield],                   hits: 16}
+    - {name: CFMOTO,          aliases: [CFMOTO, CF Moto],                 hits: 14}
+    - {name: Husqvarna,       aliases: [Husqvarna],                       group: KTM AG,   hits: 10}
+    - {name: Norton,          aliases: [Norton],                          hits: 9}
+    - {name: Stark Future,    aliases: [Stark Varg, Stark Future],        hits: 8}
+    - {name: Moto Guzzi,      aliases: [Moto Guzzi, Guzzi],               group: Piaggio,  hits: 6}
+    - {name: BSA,             aliases: [BSA],                             hits: 6}
+    - {name: MV Agusta,       aliases: [MV Agusta],                       hits: 5}
+    - {name: TVS,             aliases: [TVS],                             hits: 5}
+    - {name: Indian,          aliases: [Indian Motorcycle, Indian Scout, Indian Chief, Indian FTR, Indian Challenger], hits: 4}
+    - {name: Bimota,          aliases: [Bimota],                          hits: 4}
+    - {name: Voge,            aliases: [Voge],                            hits: 4}
+    - {name: Benelli,         aliases: [Benelli],                         hits: 3}
+    - {name: Fantic,          aliases: [Fantic],                          hits: 3}
+    - {name: Zero,            aliases: [Zero Motorcycles, Zero SR, Zero FX, Zero DS, Zero XE], hits: 2}
+    - {name: Kove,            aliases: [Kove],                            hits: 2}
+    - {name: GasGas,          aliases: [GasGas, Gas Gas],                 group: KTM AG,   hits: 2}
+    - {name: Can-Am,          aliases: [Can-Am],                          hits: 2}
+    - {name: Sur-Ron,         aliases: [Sur-Ron, Surron],                 hits: 2}
+    - {name: LiveWire,        aliases: [LiveWire],                        group: Harley-Davidson, hits: 1}
+    # below 2 hits, kept so they're caught when they appear: say "drop" if you'd rather not
+    - {name: QJMotor,         aliases: [QJMotor, QJ Motor],               hits: 1}
+    - {name: Vespa/Piaggio,   aliases: [Vespa, Piaggio],                  group: Piaggio,  hits: 1}
+    - {name: Sherco,          aliases: [Sherco],                          hits: 1}
+    - {name: Beta,            aliases: [Beta RR, Beta Xtrainer, Beta Motorcycles], hits: 0}
+    - {name: Moto Morini,     aliases: [Moto Morini],                     hits: 0}
+    - {name: Hero MotoCorp,   aliases: [Hero MotoCorp, Hero XPulse],      hits: 0}
+    - {name: Bajaj,           aliases: [Bajaj],                           hits: 0}
+    - {name: Ural,            aliases: [Ural],                            hits: 0}
+    - {name: Energica,        aliases: [Energica],                        hits: 0}
+    - {name: Brixton,         aliases: [Brixton],                         hits: 0}
+
+  supplier:                 # components: real B2B buyers, mostly visible through racing today
+    - {name: Pirelli,     aliases: [Pirelli],                  hits: 22}
+    - {name: Dunlop,      aliases: [Dunlop],                   hits: 21}
+    - {name: Michelin,    aliases: [Michelin],                 hits: 21}
+    - {name: Brembo,      aliases: [Brembo],                   hits: 10}
+    - {name: Bridgestone, aliases: [Bridgestone],              hits: 7}
+    - {name: Öhlins,      aliases: [Öhlins, Ohlins],           hits: 4}
+    - {name: Akrapovič,   aliases: [Akrapovič, Akrapovic],     hits: 1}
+
+  gear:                     # riding gear: barely in the feeds yet (news-heavy sources)
+    - {name: Alpinestars, aliases: [Alpinestars], hits: 1}
+    - {name: Shoei,       aliases: [Shoei],       hits: 0}
+    - {name: Dainese,     aliases: [Dainese],     hits: 0}
+    - {name: Arai,        aliases: [Arai],        hits: 0}
+
+  sponsor:                  # non-endemic money in the sport: see decision C
+    - {name: Red Bull,       aliases: [Red Bull],       hits: 44}
+    - {name: Monster Energy, aliases: [Monster Energy, Monster Yamaha], hits: 25}
+
+
+# Event types: what HAPPENED, as opposed to categories (subject) and forms (kind of piece).
+# Wording tested with Jev on 400 live items (2026-10-02); counts in comments are rough keyword hits.
+events:
+  - slug: launch
+    label: Launch / reveal                       # ~128
+    instructions: The article reports a new motorcycle model or model year being revealed, launched, or officially
+      announced by its maker. Not a review, test or comparison of a model that was already revealed, and not
+      racing rider or team news.
+  - slug: pricing
+    label: Pricing & availability                # ~57
+    instructions: The main news in the article is the price, release date, or market availability of a motorcycle or
+      product. A review or test that mentions the price, or a classified ad for a single used motorcycle, does not count.
+  - slug: recall
+    label: Recall / safety action                # ~8
+    instructions: The article reports a recall, safety notice, or official defect investigation affecting motorcycles
+      or motorcycle products.
+  - slug: personnel
+    label: Executive move                        # ~11
+    instructions: The article reports an executive or senior management appointment, departure, or role change at a
+      motorcycle company (not a racing rider or team staff change).
+  - slug: results
+    label: Sales & financial results             # ~16
+    instructions: The article reports sales figures, registrations, market share, revenue, profit, or other financial
+      results for a motorcycle company or market.
+  - slug: corporate
+    label: Deal / investment / partnership       # ~74
+    instructions: The article reports an acquisition, merger, investment, stake, joint venture, or business partnership
+      involving a motorcycle company. Not racing team sponsorship or rider contracts.
+  - slug: operations
+    label: Production, plants & jobs             # ~101 (keyword is noisy)
+    instructions: The article reports a factory opening or closure, a production change, layoffs, insolvency, or
+      restructuring at a motorcycle company.
+  - slug: legal
+    label: Legal & regulatory                    # ~12
+    instructions: The article reports a lawsuit, court ruling, tariff, emissions or noise rule, or other law or
+      regulation affecting motorcycles or the motorcycle industry.
+  - slug: racing-deal
+    label: Rider / team / sponsor deal           # ~139
+    instructions: The article reports a racing rider's contract or team move, a team line-up change, or a racing team's
+      sponsorship or title-sponsor deal.
+  - slug: dealer
+    label: Dealer & retail                       # ~46
+    instructions: The article reports a motorcycle dealership or retailer opening, closing, changing hands, or changing
+      what it sells.

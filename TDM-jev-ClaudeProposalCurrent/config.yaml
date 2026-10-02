@@ -78,6 +78,9 @@ on_topic_instructions: >
 # several categories. Tuned in backtest/ against v1 hand tags (see backtest/report.py).
 # Fit tiers (thresholds above): score >= auto is a confident fit, >= review is a fuzzy fit (both are
 # published in that category), and an on-topic post with nothing >= review goes to the 'odd-ball' page.
+# Brands and event types (the intelligence facets) live in their own file.
+facets_file: facets.yaml
+
 categories:
 - slug: electric
   label: Electric
@@ -191,8 +194,11 @@ categories:
     model, including first looks, first rides, and road tests.
 - slug: industry
   label: Industry & Business
-  instructions: The article is about motorcycle industry business, such as sales figures, company finances,
-    acquisitions, recalls, regulation, tariffs, sponsorships, dealer news, or executive changes.
+  instructions: 'The article is about the motorcycle business: sales figures, company finances, acquisitions
+    and investment, recalls, regulation (including emissions and noise rules), tariffs, dealers and retail, or executive
+    changes at motorcycle companies. This includes the business of racing: series ownership and investment, series
+    management, cost rules, and a manufacturer entering or leaving a series. Rider contracts, team line-ups and racing
+    team sponsorship deals are not industry news.'
 - slug: events-rides
   label: Events & Rides
   instructions: The article is about a rider-community motorcycle event, rally, charity or themed ride,

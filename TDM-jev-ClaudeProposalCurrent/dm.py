@@ -30,6 +30,7 @@ import re
 import sqlite3
 import sys
 import time
+import unicodedata
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -68,7 +69,41 @@ def load_config(path: Path, feeds_override: str | None = None) -> dict:
     raw = yaml.safe_load(feeds_path.read_text())["sources"]
     cfg["_feeds_dir"] = feeds_path.parent
     cfg["sources"] = [resolve_source(s, cfg) for s in raw]
+    cfg["_brands"], cfg["_events"] = load_facets(cfg["_root"] / cfg["facets_file"]) if cfg.get("facets_file") else ([], [])
     return cfg
+
+
+# Brand and event facets (facets.yaml). Brands: an alias match is a MENTION, and only mentioned brands are put to
+# Jev as "is the article substantially about X?" (the SUBJECT). Events: asked for every English item.
+BRAND_Q = ("The article is substantially about {name}: its motorcycles or products, the company itself, or its "
+           "factory racing team or riders. A passing mention, or {name} appearing only as one name in a list, does not count.")
+SPONSOR_Q = ("The article is substantially about {name}'s involvement in motorcycling, such as its sponsorship of a team, "
+             "rider or event. A passing mention, or the name appearing only inside a team name, does not count.")
+
+
+def load_facets(path: Path) -> tuple[list, list]:
+    d = yaml.safe_load(path.read_text())
+    brands = []
+    for tier, items in d["brands"].items():
+        for b in items:
+            pats = [re.escape(a).replace(r"\ ", r"[\s-]?") for a in b["aliases"]]
+            brands.append({**b, "tier": tier, "slug": re.sub(r"[^a-z0-9]+", "-", unicodedata.normalize("NFKD", b["name"]).encode("ascii", "ignore").decode().lower()).strip("-"),
+                           "rx": re.compile(r"(?<![\w-])(?:" + "|".join(pats) + r")(?![\w-])", re.I)})
+    return brands, d["events"]
+
+
+def brand_mentions(text: str, brands: list) -> list:
+    return [b for b in brands if b["rx"].search(text)]
+
+
+def facet_questions(cfg: dict, row) -> dict:
+    if row["lang"] not in (None, "en"):
+        return {}
+    found = brand_mentions(f"{row['title']} {row['summary'] or ''}", cfg["_brands"])
+    qs = {f"brand-{b['slug']}": {"type": "noul", "instructions": (SPONSOR_Q if b["tier"] == "sponsor" else BRAND_Q).format(name=b["name"])}
+          for b in found}
+    qs.update({f"event-{e['slug']}": {"type": "noul", "instructions": e["instructions"].strip()} for e in cfg["_events"]})
+    return qs
 
 
 def resolve_source(s: dict, cfg: dict) -> dict:
@@ -680,7 +715,7 @@ async def classify_new(con, cfg: dict, clf) -> int:
         async def one(row):
             src = sources.get(row["source_url"])
             try:
-                scores, model = await clf.classify(client, build_state(row), build_questions(cfg, src))
+                scores, model = await clf.classify(client, build_state(row), build_questions(cfg, src) | facet_questions(cfg, row))
             except Exception as e:   # leave as 'new' so the next run retries
                 print(f"  ! {row['title'][:60]}: {e}", file=sys.stderr)
                 return

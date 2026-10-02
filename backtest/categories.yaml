@@ -123,7 +123,8 @@ categories:
   - slug: industry
     label: Industry & Business
     v1: []
-    instructions: The article is about motorcycle industry business, such as sales figures, company finances, acquisitions, recalls, regulation, tariffs, sponsorships, dealer news, or executive changes.
+    instructions: >   # 2026-10-02: racing sponsorship and rider contracts moved out; the business of racing stays (tested on 68 live items)
+      The article is about the motorcycle business: sales figures, company finances, acquisitions and investment, recalls, regulation (including emissions and noise rules), tariffs, dealers and retail, or executive changes at motorcycle companies. This includes the business of racing: series ownership and investment, series management, cost rules, and a manufacturer entering or leaving a series. Rider contracts, team line-ups and racing team sponsorship deals are not industry news.
 
   # EXPERIMENT: categories suggested by the orphan cluster analysis
   - slug: events-rides
