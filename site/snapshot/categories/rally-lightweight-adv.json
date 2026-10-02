@@ -343,39 +343,39 @@
       "also": []
     },
     {
-      "id": "6986735d55625356dc3d8eea9a1e20ede87dac68",
-      "title": "Royal Enfield Can Do No Wrong, As The Company Is Unable to Keep Up With Himalayan 440 Orders",
-      "link": "https://www.rideapart.com/news/810376/royal-enfield-himalayan-440-high-demand-orders-suspended",
+      "id": "193ec3e5791c0292e6cf44c5f0180fcb1472875b",
+      "title": "BMW's New Entry-Level Off-Road Motorcycle Is Affordable As Hell",
+      "link": "https://www.rideapart.com/news/810482/2027-bmw-f450gs-motorcycle-price-specs-horsepower",
       "lang": "en",
       "source": "RideApart",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T11:00:00+00:00",
-      "excerpt": "Royal Enfield's newest ADV is apparently so popular, it had to stop taking orders for the damn thing.",
-      "image": "https://cdn.motor1.com/images/mgl/Mk6Wo6/s3/royal-enfield-himalayan-440.jpg",
+      "published": "2026-10-02T12:49:00+00:00",
+      "excerpt": "Motorrad knows motorcycles are expensive these days, so it made an afforadble one.",
+      "image": "https://cdn.motor1.com/images/mgl/KbZ8p0/s3/2027-bmw-f-450-gs.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         },
         {
           "slug": "new-models",
           "label": "New Models"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "adventure",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.95,
-        "industry": 0.73,
-        "new-models": 0.62,
-        "rally-lightweight-adv": 0.69
+        "dirt-mx": 0.86,
+        "new-models": 0.84,
+        "adventure": 0.83,
+        "rally-lightweight-adv": 0.62
       },
       "subcategories": [
         {
@@ -386,36 +386,36 @@
       ],
       "forms": [],
       "form_scores": {
-        "news": 0.65,
-        "review": 0.12,
-        "comparison-test": 0.03,
-        "first-look": 0.22,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.11,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.59,
-        "profile-interview": 0.14,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.01,
-        "press-release": 0.18,
-        "digest": 0.06,
-        "photo-gallery": 0.1,
-        "ride-report": 0.04,
-        "history": 0.04,
-        "rumor": 0.07,
+        "news": 0.58,
+        "review": 0.57,
+        "comparison-test": 0.08,
+        "first-look": 0.58,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.26,
+        "how-to": 0.04,
+        "explainer": 0.19,
+        "opinion": 0.45,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.52,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
+        "ride-report": 0.07,
+        "history": 0.05,
+        "rumor": 0.23,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
-        "adventure",
-        "industry",
+        "dirt-mx",
         "new-models",
+        "adventure",
         "rally-lightweight-adv"
       ],
       "also": []
@@ -581,6 +581,84 @@
       "multi_subject": 0.04,
       "tags": [
         "adventure",
+        "new-models",
+        "rally-lightweight-adv"
+      ],
+      "also": []
+    },
+    {
+      "id": "6986735d55625356dc3d8eea9a1e20ede87dac68",
+      "title": "Royal Enfield Can Do No Wrong, As The Company Is Unable to Keep Up With Himalayan 440 Orders",
+      "link": "https://www.rideapart.com/news/810376/royal-enfield-himalayan-440-high-demand-orders-suspended",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T11:00:00+00:00",
+      "excerpt": "Royal Enfield's newest ADV is apparently so popular, it had to stop taking orders for the damn thing.",
+      "image": "https://cdn.motor1.com/images/mgl/Mk6Wo6/s3/royal-enfield-himalayan-440.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.95,
+        "industry": 0.73,
+        "new-models": 0.62,
+        "rally-lightweight-adv": 0.69
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.65,
+        "review": 0.12,
+        "comparison-test": 0.03,
+        "first-look": 0.22,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.11,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.59,
+        "profile-interview": 0.14,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.01,
+        "press-release": 0.18,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.04,
+        "history": 0.04,
+        "rumor": 0.07,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "adventure",
+        "industry",
         "new-models",
         "rally-lightweight-adv"
       ],
