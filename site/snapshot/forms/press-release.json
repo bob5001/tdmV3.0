@@ -811,17 +811,17 @@
       "also": []
     },
     {
-      "id": "3e2b2b4f581ec0c7cf399ad3658ee316b1218e18",
-      "title": "Ben Kelley Signs Extension with FMF KTM Factory Racing for 2027",
-      "link": "https://racerxonline.com/2026/10/01/ben-kelley-signs-extension-with-fmf-ktm-factory-racing-for-2027",
+      "id": "e8535d18fc6333a259e362700a35cb61bfbaa00c",
+      "title": "Landon Gibson Signs with Triumph for 2027 SMX Next Season",
+      "link": "https://racerxonline.com/2026/10/02/landon-gibson-signs-with-triumph-for-2027-smx-next-season",
       "lang": "en",
       "source": "Racer X Online",
       "ownership": "independent",
       "media": "article",
       "author": "Press Release",
-      "published": "2026-10-01T15:00:00+00:00",
-      "excerpt": "Defending Grand National Cross Country Series (GNCC) Champion Ben Kelley will continue with FMF KTM Factory Racing in 2027, with the pair agreeing to a contract extension as they target further success together into next season.",
-      "image": "https://rx.iscdn.net/2026/10/337475_dsc2572.jpg?w=1000",
+      "published": "2026-10-02T17:25:00+00:00",
+      "excerpt": "Triumph Racing America announces the signing of rising prospect, Landon Gibson through the 2027 season.",
+      "image": "https://rx.iscdn.net/2026/10/337722_img5605.jpg?w=1000",
       "audio": null,
       "categories": [
         {
@@ -837,9 +837,16 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.96
+        "racing": 0.87,
+        "motocross-supercross": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -851,35 +858,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.96,
+        "news": 0.94,
         "review": 0.01,
         "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.03,
+        "explainer": 0.04,
         "opinion": 0.03,
-        "profile-interview": 0.1,
+        "profile-interview": 0.12,
         "tribute": 0.01,
-        "listing": 0.01,
+        "listing": 0.02,
         "event-report": 0.03,
-        "event-preview": 0.06,
-        "press-release": 0.84,
-        "digest": 0.05,
-        "photo-gallery": 0.03,
+        "event-preview": 0.12,
+        "press-release": 0.91,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.02,
+        "history": 0.03,
+        "rumor": 0.03,
         "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.02,
+      "multi_subject": 0.03,
       "tags": [
         "dirt-mx",
-        "racing"
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -1722,91 +1730,6 @@
       "also": []
     },
     {
-      "id": "71e385564af31d5bdb27de27e010fb08c09efb36",
-      "title": "Cooper Webb, Team Tedder and Husqvarna!",
-      "link": "https://racerxonline.com/2026/10/01/cooper-webb-team-tedder-and-husqvarna",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Jason Weigandt",
-      "published": "2026-10-01T04:45:00+00:00",
-      "excerpt": "Rocky Mountain ATV/MC, Monster Energy , Team Tedder Husqvarna debuts at the Motocross of Nations this weekend.",
-      "image": "https://rx.iscdn.net/2026/10/337418_cooper-webb-team-tedder-husqvarna-2027-1.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.93,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.21,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.24,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.1,
-        "event-preview": 0.96,
-        "press-release": 0.86,
-        "digest": 0.11,
-        "photo-gallery": 0.14,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.15,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "75a12adcd44772d7e049d61cdcbd129a57eb1210",
       "title": "Alpinestars Unveils Latest Racing Sport Collection. Hold On To Your Wallet",
       "link": "https://www.rideapart.com/news/810364/2027-alpinestars-debuts-motorcycle-gear-racing-sport-collection",
@@ -1870,6 +1793,79 @@
       "multi_subject": 0.07,
       "tags": [
         "gear"
+      ],
+      "also": []
+    },
+    {
+      "id": "3e2b2b4f581ec0c7cf399ad3658ee316b1218e18",
+      "title": "Ben Kelley Signs Extension with FMF KTM Factory Racing for 2027",
+      "link": "https://racerxonline.com/2026/10/01/ben-kelley-signs-extension-with-fmf-ktm-factory-racing-for-2027",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-10-01T15:00:00+00:00",
+      "excerpt": "Defending Grand National Cross Country Series (GNCC) Champion Ben Kelley will continue with FMF KTM Factory Racing in 2027, with the pair agreeing to a contract extension as they target further success together into next season.",
+      "image": "https://rx.iscdn.net/2026/10/337475_dsc2572.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.96,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.03,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.06,
+        "press-release": 0.84,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "dirt-mx",
+        "racing"
       ],
       "also": []
     },
@@ -2449,87 +2445,6 @@
       "also": []
     },
     {
-      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
-      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
-      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-28T21:05:00+00:00",
-      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
-      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.03,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.22,
-        "press-release": 0.89,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "53c7ce25074b844c6120a9892cc9bc1cf7ceac99",
       "title": "Harley-Davidson Ends King of the Baggers Team. 'Evolves' Racing Going Forward",
       "link": "https://www.rideapart.com/news/810509/harley-davidson-will-end-its-king-of-the-baggers-team",
@@ -2614,6 +2529,91 @@
           "published": "2026-10-02T09:21:25+00:00"
         }
       ]
+    },
+    {
+      "id": "71e385564af31d5bdb27de27e010fb08c09efb36",
+      "title": "Cooper Webb, Team Tedder and Husqvarna!",
+      "link": "https://racerxonline.com/2026/10/01/cooper-webb-team-tedder-and-husqvarna",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Jason Weigandt",
+      "published": "2026-10-01T04:45:00+00:00",
+      "excerpt": "Rocky Mountain ATV/MC, Monster Energy , Team Tedder Husqvarna debuts at the Motocross of Nations this weekend.",
+      "image": "https://rx.iscdn.net/2026/10/337418_cooper-webb-team-tedder-husqvarna-2027-1.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.93,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.21,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.24,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.1,
+        "event-preview": 0.96,
+        "press-release": 0.86,
+        "digest": 0.11,
+        "photo-gallery": 0.14,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
     },
     {
       "id": "28a1db539716746121e6b3a2c9386822750a9977",
@@ -3027,91 +3027,6 @@
       "also": []
     },
     {
-      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
-      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
-      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
-      "lang": "en",
-      "source": "Racer X Online",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Press Release",
-      "published": "2026-09-24T11:00:00+00:00",
-      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
-      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.94,
-        "motocross-supercross": 0.95
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.88,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "ee76269eb2b65474f04e7b0736a77319eb3ea6f1",
       "title": "BMW Reveals Price of M 1000 RR Limited-Edition Isle of Man TT. It's Expensive",
       "link": "https://www.rideapart.com/news/809942/bmw-reveals-price-of-m-1000-rr-limited-edition-isle-of-man-tt-and-how-to-buy-it-in-the-us",
@@ -3187,6 +3102,87 @@
         "sport-bikes",
         "new-models",
         "for-sale"
+      ],
+      "also": []
+    },
+    {
+      "id": "cd25cb62fa9f1134abc7bc3591366964ecaeb7e8",
+      "title": "Gage Linville Joins Derek Kelley on Beta's Inaugural 2027 250SX Supercross-Only Team",
+      "link": "https://racerxonline.com/2026/09/28/gage-linville-joins-derek-kelley-on-betas-inaugural-2027-250sx-team",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-28T21:05:00+00:00",
+      "excerpt": "Beta USA has signed Gage Linville on a two-year deal to race for the Liqui Moly Beta Race Team in the 250SX class of the Monster Energy Supercross series.",
+      "image": "https://rx.iscdn.net/2026/09/337208_screenshot-2026-09-28-at-50742pm.png?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.03,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.22,
+        "press-release": 0.89,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
@@ -3576,6 +3572,91 @@
       "multi_subject": 0.09,
       "tags": [
         "odd-ball"
+      ],
+      "also": []
+    },
+    {
+      "id": "bb687c1e0b3f5a5b801a514c82271c3a1de8a590",
+      "title": "50th Annual Race of Champions, presented by Kawasaki, Returns to Raceway Park Motocross on October 1\u20134, 2026",
+      "link": "https://racerxonline.com/2026/09/24/50th-annual-race-of-champions-presented-by-kawasaki-returns-to-raceway-park-motocross",
+      "lang": "en",
+      "source": "Racer X Online",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Press Release",
+      "published": "2026-09-24T11:00:00+00:00",
+      "excerpt": "The AMA Featured Event and Pro-Am will bring together youth, amateur, veteran, and professional racers for three days of competition and special events at one of the Northeast\u2019s signature motocross weekends.",
+      "image": "https://rx.iscdn.net/2026/09/337093_raceway-park-to-celebrate-50th-annual-race-of-champions-pre.jpg?w=1000",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.94,
+        "motocross-supercross": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.04,
+        "event-preview": 0.98,
+        "press-release": 0.88,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },
