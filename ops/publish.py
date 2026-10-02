@@ -29,7 +29,6 @@ MIN_PUBLISH_MINUTES = 60        # pull every tick, publish at most this often
 MIN_ITEMS = 150                 # a snapshot smaller than this is a failure, not a quiet day
 MIN_KEEP_FRACTION = 0.5         # ... and so is one that lost half the previous snapshot
 MAX_PENDING_FRACTION = 0.10     # items still unclassified after a run (Jev down?) above this: don't publish
-PRUNE_DAYS = 180
 NOTIFY_AFTER_FAILURES = 3
 
 
@@ -106,7 +105,8 @@ def config_fingerprint() -> str:
     return hashlib.sha1(json.dumps({k: cfg.get(k) for k in keys}, sort_keys=True).encode()).hexdigest()[:12]
 
 
-def backup_and_prune(st: dict) -> None:
+def backup(st: dict) -> None:
+    """Daily local backup (7 kept). Items are never deleted: history is the asset (see `dm.py archive`)."""
     today = datetime.now(timezone.utc).strftime("%Y%m%d")
     db = DM / "dm.sqlite"
     if st.get("backup_day") == today or not db.exists():
@@ -117,15 +117,11 @@ def backup_and_prune(st: dict) -> None:
     dst = sqlite3.connect(bdir / f"dm-{today}.sqlite")
     src.backup(dst)
     dst.close()
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=PRUNE_DAYS)).isoformat()
-    n = src.execute("DELETE FROM items WHERE published < ?", (cutoff,)).rowcount
-    src.execute("DELETE FROM story_pairs WHERE a NOT IN (SELECT id FROM items) OR b NOT IN (SELECT id FROM items)")
-    src.commit()
     src.close()
     for old in sorted(bdir.glob("dm-*.sqlite"))[:-7]:
         old.unlink()
     st["backup_day"] = today
-    log(f"backup written; pruned {n} items older than {PRUNE_DAYS} days")
+    log("backup written")
 
 
 def snapshot_ids(text: str) -> set:
@@ -162,6 +158,21 @@ def cycle(args, st: dict) -> None:
     r = sh([sys.executable, "dm.py", "run"], DM, 1500)
     lines = [l.strip() for l in r.stdout.splitlines() if any(k in l for k in ("new items", "classified", "judged", "page images", "exported"))]
     log(f"pipeline ok in {time.time() - t0:.0f}s: " + " | ".join(lines))
+
+    # 3b. history: every new or changed item goes to the permanent Neon archive. Never blocks publishing:
+    # a missed run catches up on the next one (rows are fingerprinted), but a long outage gets a notification.
+    try:
+        a = sh([sys.executable, "dm.py", "archive"], DM, 300, check=False)
+    except Fail as e:                           # a timeout: treat like any other archive failure
+        a = subprocess.CompletedProcess([], 1, "", str(e))
+    if a.returncode == 0:
+        st["archive_failures"] = 0
+        log(" | ".join(l.strip() for l in a.stdout.splitlines() if "archive:" in l))
+    else:
+        st["archive_failures"] = st.get("archive_failures", 0) + 1
+        log(f"archive FAILED ({st['archive_failures']} in a row): {(a.stderr or a.stdout).strip().splitlines()[-1:]}")
+        if st["archive_failures"] in (NOTIFY_AFTER_FAILURES, NOTIFY_AFTER_FAILURES * 4):
+            notify("TDM archive failing", "History is not reaching Neon; it will catch up once fixed")
 
     # health: if Jev was down, items stay 'new' (they retry next tick); publishing then would drop them silently
     con = sqlite3.connect(db)
@@ -228,7 +239,7 @@ def main() -> int:
         cycle(args, st)
         st["failures"] = 0
         st["last_ok"] = datetime.now(timezone.utc).isoformat()
-        backup_and_prune(st)
+        backup(st)
         return_code = 0
     except Exception as e:                      # Fail, or anything unexpected: log it, count it, keep the last good site live
         st["failures"] = st.get("failures", 0) + 1

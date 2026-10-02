@@ -9,6 +9,7 @@ Commands:
   python dm.py review              walk the review queue in the terminal (y/n per tag)
   python dm.py export              re-export JSON from the database only
   python dm.py stats               counts by status/category/source + your review decisions
+  python dm.py archive             copy new/changed items to the permanent Neon archive (publisher only)
 
 Options: --force (ignore poll intervals), --feeds FILE, --config FILE.
 --mock uses a keyword stand-in instead of the Jev API so the pipeline runs without a key.
@@ -902,18 +903,24 @@ def _ts(iso: str) -> float:
 MORE = {"slug": "odd-ball", "label": "Odd Ball"}
 
 
+def neon_sql(query: str, params: list | None = None, timeout: float = 30) -> list:
+    """One statement against Neon over its HTTPS SQL endpoint (no Postgres driver needed). Returns rows."""
+    url = os.environ["TDM_DATABASE_URL"]
+    host = url.split("@", 1)[1].split("/", 1)[0]
+    r = httpx.post(f"https://{host}/sql", headers={"Neon-Connection-String": url}, timeout=timeout,
+                   json={"query": query, "params": params or []})
+    if r.status_code != 200:
+        raise RuntimeError(f"Neon {r.status_code}: {r.text[:300]}")
+    return r.json()["rows"]
+
+
 def sync_verdicts(con) -> None:
     """Copy the owner's tag verdicts (given on the site, stored in Neon) into the local DB.
     Unreachable Neon is not fatal: the last copy keeps applying."""
-    url = os.environ.get("TDM_DATABASE_URL")
-    if not url:
+    if not os.environ.get("TDM_DATABASE_URL"):
         return
     try:
-        host = url.split("@", 1)[1].split("/", 1)[0]
-        r = httpx.post(f"https://{host}/sql", headers={"Neon-Connection-String": url}, timeout=20, json={
-            "query": "SELECT id, item_id, action, tag, reason, created_at FROM verdicts ORDER BY id", "params": []})
-        r.raise_for_status()
-        rows = r.json()["rows"]
+        rows = neon_sql("SELECT id, item_id, action, tag, reason, created_at FROM verdicts ORDER BY id")
     except Exception as e:
         print(f"  verdicts: Neon unreachable ({type(e).__name__}); using the last copy")
         return
@@ -922,6 +929,63 @@ def sync_verdicts(con) -> None:
                     [(int(v["id"]), v["item_id"], v["action"], v["tag"], v["reason"], v["created_at"]) for v in rows])
     con.commit()
     print(f"  verdicts: {len(rows)} synced")
+
+
+ARCHIVE_JSON = {"scores", "categories", "pending", "forms"}
+ARCHIVE_TIME = {"published", "fetched_at", "classified_at"}
+
+
+def _archive_value(k, v):
+    if v in (None, ""):
+        return None
+    if k in ARCHIVE_JSON:
+        try:
+            return json.loads(v)
+        except (TypeError, ValueError):
+            return None
+    return v
+
+
+def archive(con, batch: int = 200) -> None:
+    """Keep history: copy every new or changed item (all statuses) and story pair to Neon, where nothing is
+    ever pruned. A per-row fingerprint means each run sends only what changed, including reclassified items.
+    Run by the publisher only: a dev database would overwrite the archive with stale classifications."""
+    if not os.environ.get("TDM_DATABASE_URL"):
+        sys.exit("archive: set TDM_DATABASE_URL")
+    con.execute("CREATE TABLE IF NOT EXISTS archive_sigs (kind TEXT, id TEXT, sig TEXT, PRIMARY KEY (kind, id))")
+    have = {(r["kind"], r["id"]): r["sig"] for r in con.execute("SELECT kind, id, sig FROM archive_sigs")}
+
+    cols = list(ITEM_COLUMNS)
+    types = {**{k: "text" for k in cols}, **{k: "jsonb" for k in ARCHIVE_JSON},
+             **{k: "timestamptz" for k in ARCHIVE_TIME}, "on_topic": "real", "quality": "real"}
+    rec = ", ".join(f"{k} {types[k]}" for k in cols)
+    items_sql = (f"INSERT INTO items ({', '.join(cols)}) SELECT {', '.join(cols)} FROM jsonb_to_recordset($1::jsonb) AS x({rec}) "
+                 f"ON CONFLICT (id) DO UPDATE SET {', '.join(f'{k} = EXCLUDED.{k}' for k in cols if k != 'id')}, archived_at = now()")
+    pairs_sql = ("INSERT INTO story_pairs (a, b, cosine, same_story, at) SELECT a, b, cosine, same_story, at "
+                 "FROM jsonb_to_recordset($1::jsonb) AS x(a text, b text, cosine real, same_story real, at timestamptz) "
+                 "ON CONFLICT (a, b) DO UPDATE SET cosine = EXCLUDED.cosine, same_story = EXCLUDED.same_story, at = EXCLUDED.at")
+
+    def changed(kind, rows, key):
+        out = []
+        for r in rows:
+            d = dict(r)
+            sig = hashlib.sha1(json.dumps(d, sort_keys=True, default=str).encode()).hexdigest()
+            if have.get((kind, key(d))) != sig:
+                out.append((key(d), sig, d))
+        return out
+
+    jobs = [("item", items_sql, changed("item", con.execute(f"SELECT {', '.join(cols)} FROM items"), lambda d: d["id"]),
+             lambda d: {k: _archive_value(k, d[k]) for k in cols}),
+            ("pair", pairs_sql, changed("pair", con.execute("SELECT a, b, cosine, same_story, at FROM story_pairs"),
+                                        lambda d: f"{d['a']}|{d['b']}"),
+             lambda d: {**d, "at": d["at"] or None})]
+    for kind, sql, todo, shape in jobs:
+        for i in range(0, len(todo), batch):
+            chunk = todo[i:i + batch]
+            neon_sql(sql, [json.dumps([shape(d) for _, _, d in chunk])], timeout=60)
+            con.executemany("INSERT OR REPLACE INTO archive_sigs VALUES (?, ?, ?)", [(kind, k, s) for k, s, _ in chunk])
+            con.commit()
+        print(f"  archive: {len(todo)} {kind}s sent to Neon")
 
 
 def apply_verdicts(stored: list, verdicts: list, kids: dict, valid: set) -> list:
@@ -1104,7 +1168,7 @@ def stats(con, cfg: dict) -> None:
 
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["validate", "run", "group", "review", "export", "stats"])
+    ap.add_argument("command", choices=["validate", "run", "group", "review", "export", "stats", "archive"])
     ap.add_argument("--mock", action="store_true", help="keyword stand-in instead of Jev")
     ap.add_argument("--force", action="store_true", help="ignore poll intervals")
     ap.add_argument("--config", default=str(ROOT / "config.yaml"))
@@ -1136,6 +1200,8 @@ def main() -> None:
     elif args.command == "export":
         sync_verdicts(con)
         export(con, cfg)
+    elif args.command == "archive":
+        archive(con)
     elif args.command == "stats":
         stats(con, cfg)
 

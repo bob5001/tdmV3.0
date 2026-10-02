@@ -4,7 +4,7 @@ Keeps the live site fresh without anyone at the keyboard.
 
 ```
 launchd (every 15 min) -> launch.sh -> git reset --hard origin/main -> publish.py
-   pull feeds -> classify (Jev) -> group stories -> images -> export -> npm run build
+   pull feeds -> classify (Jev) -> group stories -> images -> owner verdicts -> export -> archive to Neon -> npm run build
    -> health checks -> commit site/snapshot -> git push origin main -> Vercel builds
 ```
 
@@ -32,7 +32,7 @@ Pull runs every 15 minutes; a change is published at most once an hour (`MIN_PUB
 
 | path | what |
 |---|---|
-| `repo/` | the clean clone (its `TDM-jev-ClaudeProposalCurrent/.env` holds only `TYPESAFE_API_KEY`) |
+| `repo/` | the clean clone (its `TDM-jev-ClaudeProposalCurrent/.env` holds `TYPESAFE_API_KEY` and `TDM_DATABASE_URL`) |
 | `launch.sh` | copy of `ops/launch.sh` |
 | `state/state.json` | last publish, failure count, config fingerprint |
 | `state/backups/` | daily copy of `dm.sqlite`, last 7 kept |
@@ -63,5 +63,8 @@ If `gh auth status` ever shows the token expired, the publisher fails with an au
 
 - Each data push adds a snapshot commit (about 1 MB gzipped, less after git deltas). Fine for now; the upgrade path is
   uploading the snapshot to object storage and triggering a Vercel deploy hook, so data never enters git history.
-- Runs on this Mac only. `dm.sqlite` (the only copy of the scores) is backed up daily to `state/backups/`.
+- Runs on this Mac only. `dm.sqlite` is backed up daily to `state/backups/`, and every new or changed item (all
+  statuses) plus the story pairs are copied to the Neon `items` / `story_pairs` tables on each tick (`dm.py archive`).
+  Nothing is pruned, locally or in Neon: history is the asset for the intelligence product. A failed archive never
+  blocks publishing; it catches up on the next tick, and a run of failures raises a notification.
 - No item-level blocklist yet: to pull an item, remove its source in `feeds.yaml` or wait for the classifier to drop it.
