@@ -652,74 +652,59 @@
       "also": []
     },
     {
-      "id": "035dc2047c599e1506a555d075da17fceb3ba8ee",
-      "title": "Benda Rock 707: China Continues To Up Its Game",
-      "link": "https://www.advrider.com/benda-rock-707-china-continues-to-up-its-game",
+      "id": "c0d414ba73fa731ab19ade58ddfb0967013ded99",
+      "title": "Building A Smaller Harley-Davidson: The XR338 Concept, Part 1",
+      "link": "https://www.advrider.com/building-a-smaller-harley-davidson-the-xr338-concept-part-1",
       "lang": "en",
       "source": "ADVrider",
       "ownership": "community",
       "media": "discussion",
-      "author": "Zac / @kawazacky",
-      "published": "2026-09-24T05:00:27+00:00",
-      "excerpt": "China, for a long time, was known as a country that made budget-friendly bikes and that was pretty much it. The machines were mechanically crude, with styling borrowed from the West (often, multiple different Euro or Japanese machines\u2019 styling went into one China bike). This is t",
-      "image": "https://www.advrider.com/wp-content/uploads/2026/09/benda-rock-707-3-450x270.jpg",
+      "author": "Michael Uhlarik",
+      "published": "2026-10-01T23:27:27+00:00",
+      "excerpt": "Editor\u2019s note: You\u2019ve seen motorcycle think tank founder and designer Michael Uhlarik\u2019s interviews on The Lowdown Show. You might have seen his occasional pieces here on ADVrider.com, or in our print mag. But you might not know that Michael also publishes work through his Substac",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/10/XR338-2a-450x299.jpeg",
       "audio": null,
       "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
         {
           "slug": "cruisers",
           "label": "Cruisers"
         }
       ],
-      "primary": "new-models",
-      "confident": true,
+      "primary": "cruisers",
+      "confident": false,
       "cat_scores": {
-        "new-models": 0.87,
-        "cruisers": 0.79
+        "cruisers": 0.64
       },
       "subcategories": [],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        },
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.22,
-        "review": 0.41,
-        "comparison-test": 0.04,
-        "first-look": 0.63,
+        "news": 0.05,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.07,
         "ranked-list": 0.02,
-        "buyers-guide": 0.12,
-        "how-to": 0.02,
-        "explainer": 0.82,
-        "opinion": 0.83,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
+        "buyers-guide": 0.05,
+        "how-to": 0.04,
+        "explainer": 0.3,
+        "opinion": 0.46,
+        "profile-interview": 0.28,
+        "tribute": 0.02,
         "listing": 0.02,
         "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.2,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.04,
+        "event-preview": 0.02,
+        "press-release": 0.18,
+        "digest": 0.1,
+        "photo-gallery": 0.03,
+        "ride-report": 0.04,
+        "history": 0.2,
         "rumor": 0.16,
         "safety-notice": 0.01,
         "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "build-feature": 0.1,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.08,
       "tags": [
-        "new-models",
         "cruisers"
       ],
       "also": []
@@ -876,6 +861,79 @@
       "multi_subject": 0.03,
       "tags": [
         "events-rides",
+        "cruisers"
+      ],
+      "also": []
+    },
+    {
+      "id": "035dc2047c599e1506a555d075da17fceb3ba8ee",
+      "title": "Benda Rock 707: China Continues To Up Its Game",
+      "link": "https://www.advrider.com/benda-rock-707-china-continues-to-up-its-game",
+      "lang": "en",
+      "source": "ADVrider",
+      "ownership": "community",
+      "media": "discussion",
+      "author": "Zac / @kawazacky",
+      "published": "2026-09-24T05:00:27+00:00",
+      "excerpt": "China, for a long time, was known as a country that made budget-friendly bikes and that was pretty much it. The machines were mechanically crude, with styling borrowed from the West (often, multiple different Euro or Japanese machines\u2019 styling went into one China bike). This is t",
+      "image": "https://www.advrider.com/wp-content/uploads/2026/09/benda-rock-707-3-450x270.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.87,
+        "cruisers": 0.79
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        },
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.22,
+        "review": 0.41,
+        "comparison-test": 0.04,
+        "first-look": 0.63,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.12,
+        "how-to": 0.02,
+        "explainer": 0.82,
+        "opinion": 0.83,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.2,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.16,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.07,
+      "tags": [
+        "new-models",
         "cruisers"
       ],
       "also": []
