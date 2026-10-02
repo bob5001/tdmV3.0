@@ -380,89 +380,6 @@
       "also": []
     },
     {
-      "id": "33c3f032d937b0ca9c40a394ddc5aaa626287e48",
-      "title": "Honda SP-1s ridden by Joey Dunlop and John McGuinness go up for auction",
-      "link": "https://www.motorcyclenews.com/news/2026/september/honda-sp-1s",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T17:24:24+00:00",
-      "excerpt": "A pair of Honda SP-1 superbikes ridden to huge success by teammates Joey Dunlop and John McGuinness are heading to auction this coming November. Although no longer fitted with Aaron Slight\u2019s World...",
-      "image": "https://www.motorcyclenews.com/wp-images/440409/390x260/vimto_bikes-42_preview.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.96,
-        "racing": 0.87,
-        "for-sale": 0.58,
-        "worldsbk-superbike": 0.71
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.1,
-        "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.21,
-        "listing": 0.55,
-        "event-report": 0.07,
-        "event-preview": 0.6,
-        "press-release": 0.17,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.32,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.04,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "sport-bikes",
-        "racing",
-        "for-sale",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "dcaee7e4edee183e4e8a16ca371baa2485442e90",
       "title": "The Amount of Data It Takes To Win a WSBK Championship Is Wild. Just Ask Ducati",
       "link": "https://www.rideapart.com/news/809890/the-amount-of-data-it-takes-to-win-a-wsbk-championship-is-wild-just-ask-ducati",
@@ -676,17 +593,17 @@
       "also": []
     },
     {
-      "id": "352cb748d1c3814185552f73130fcff9f8ef6198",
-      "title": "Unbelievable turnaround: no Arenas, no America, Petrucci joining Go Eleven!",
-      "link": "https://www.gpone.com/en/2026/10/01/wsbk/unbelievable-turnaround-no-arenas-no-america-petrucci-joining-go-eleven.html",
+      "id": "bb85c323d847a85791624565a137d9e271ccb736",
+      "title": "Ducati claims Marc Marquez\u2019s Austria brakes issue \u201cwon\u2019t happen again\u201d",
+      "link": "https://www.crash.net/motogp/news/1106067/1/ducati-claims-marc-marquezs-austria-brakes-issue-wont-happen-again",
       "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
+      "source": "Crash.net",
+      "ownership": "commercial",
       "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-10-01T16:40:44+00:00",
-      "excerpt": "Danilo could return to Ducati after just one year, thanks to PATA\u2019s support. And for Gianni Ramello\u2019s team, fielding a second bike in the Superbike would be a historic milestone. Here\u2019s why.",
-      "image": null,
+      "author": null,
+      "published": "2026-10-02T07:57:56+00:00",
+      "excerpt": "Ducati says the brake issue that Marc Marquez had in Austria has been fixed",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348611_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -696,54 +613,65 @@
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.94
+        "racing": 0.96,
+        "sport-bikes": 0.87,
+        "law-safety": 0.65,
+        "motogp": 0.97
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.41,
-        "review": 0.02,
+        "news": 0.9,
+        "review": 0.03,
         "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.36,
-        "profile-interview": 0.17,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.12,
-        "press-release": 0.28,
-        "digest": 0.18,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.08,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.05,
+        "press-release": 0.73,
+        "digest": 0.07,
         "photo-gallery": 0.06,
         "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.32,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.07,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.21,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
-        "worldsbk-superbike"
+        "law-safety",
+        "motogp"
       ],
       "also": []
     },
@@ -821,34 +749,39 @@
       "also": []
     },
     {
-      "id": "0dd3aaf10dc89647cec0b9bd7f71d8f23c92a6eb",
-      "title": "BSB: Max Cook and Joe Talbot to remain with AJN Steelstock bimota next season",
-      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/max-cook-joe-talbot-bimota-2027",
+      "id": "33c3f032d937b0ca9c40a394ddc5aaa626287e48",
+      "title": "Honda SP-1s ridden by Joey Dunlop and John McGuinness go up for auction",
+      "link": "https://www.motorcyclenews.com/news/2026/september/honda-sp-1s",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T09:25:03+00:00",
-      "excerpt": "Max Cook and Joe Talbot will both continue to represent the AJN Steelstock bimota team in the British Superbike Championship next year. After switching from Kawasaki to bimota for the 2025 season,...",
-      "image": "https://www.motorcyclenews.com/wp-images/440263/390x260/max-cook-joe-talbot-bimota-2027.jpg",
+      "published": "2026-09-30T17:24:24+00:00",
+      "excerpt": "A pair of Honda SP-1 superbikes ridden to huge success by teammates Joey Dunlop and John McGuinness are heading to auction this coming November. Although no longer fitted with Aaron Slight\u2019s World...",
+      "image": "https://www.motorcyclenews.com/wp-images/440409/390x260/vimto_bikes-42_preview.jpg",
       "audio": null,
       "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
         {
           "slug": "racing",
           "label": "Racing"
         },
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "for-sale",
+          "label": "For Sale"
         }
       ],
-      "primary": "racing",
+      "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.98
+        "sport-bikes": 0.96,
+        "racing": 0.87,
+        "for-sale": 0.58,
+        "worldsbk-superbike": 0.71
       },
       "subcategories": [
         {
@@ -864,35 +797,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.93,
+        "news": 0.88,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.11,
-        "press-release": 0.53,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.1,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.21,
+        "listing": 0.55,
+        "event-report": 0.07,
+        "event-preview": 0.6,
+        "press-release": 0.17,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.32,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "episode": 0.03,
+        "build-feature": 0.04,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
-        "racing",
         "sport-bikes",
+        "racing",
+        "for-sale",
         "worldsbk-superbike"
       ],
       "also": []
@@ -977,93 +911,16 @@
       "also": []
     },
     {
-      "id": "0780580eee38148fcd4b1874c4fdee92a0ae7f22",
-      "title": "Bimota maintains promising rider line-up for BSB 2027",
-      "link": "https://www.crash.net/bsb/news/1105949/1/bimota-maintains-promising-rider-line-bsb-2027",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T14:22:35+00:00",
-      "excerpt": "The AJN Steelstock Bimota team has maintained the same rider line-up for the 2027 BSB season.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/signing-image.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.91,
-        "worldsbk-superbike": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.05,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.34,
-        "press-release": 0.66,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "d6043c706f5b3d917d39c12bdc0d415d4a0a9e81",
-      "title": "Monster scaling back partnership with Yamaha: no longer title sponsor starting in 2027",
-      "link": "https://www.gpone.com/en/2026/10/01/motogp/monster-scaling-back-partnership-with-yamaha-no-longer-title-sponsor-starting-in-2027.html",
+      "id": "352cb748d1c3814185552f73130fcff9f8ef6198",
+      "title": "Unbelievable turnaround: no Arenas, no America, Petrucci joining Go Eleven!",
+      "link": "https://www.gpone.com/en/2026/10/01/wsbk/unbelievable-turnaround-no-arenas-no-america-petrucci-joining-go-eleven.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
-      "author": "Matteo Aglio",
-      "published": "2026-10-01T14:48:36+00:00",
-      "excerpt": "The partnership could still continue on a smaller scale, with the green-claw logo still appearing on the fairings of the factory M1s",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-10-01T16:40:44+00:00",
+      "excerpt": "Danilo could return to Ducati after just one year, thanks to PATA\u2019s support. And for Gianni Ramello\u2019s team, fielding a second bike in the Superbike would be a historic milestone. Here\u2019s why.",
       "image": null,
       "audio": null,
       "categories": [
@@ -1080,53 +937,48 @@
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "sport-bikes": 0.89,
-        "motogp": 0.92
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.94
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.79,
+        "news": 0.41,
         "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.06,
-        "profile-interview": 0.15,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.36,
+        "profile-interview": 0.17,
         "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.07,
-        "press-release": 0.48,
-        "digest": 0.1,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.12,
+        "press-release": 0.28,
+        "digest": 0.18,
         "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.13,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.32,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.04
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.21,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1468,66 +1320,160 @@
       ]
     },
     {
-      "id": "18e8e96cac3b469bb1321d3bf58c2620fdd8916e",
-      "title": "ZXMOTO 500RR 1790875420000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/zxmoto/500rr/2026",
+      "id": "446e4d0b9f82328b915c544f6a080b8c90ce82b7",
+      "title": "'I\u2019ve lived my dream' - MCN goes down memory lane with Brad Binder as he prepares to depart MotoGP",
+      "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/brad-binder",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T17:23:28+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/440563/390x260/main_image_4_zxmoto_500rr_.jpg",
+      "published": "2026-10-02T10:01:41+00:00",
+      "excerpt": "Brad Binder\u2019s time in MotoGP is coming to an end, with the South African rider now destined for WorldSBK in 2027. His departure brings to a close a seven-season career in the premier class for the...",
+      "image": "https://www.motorcyclenews.com/wp-images/438737/390x260/ghg0731.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "racing",
+          "label": "Racing"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
-      "primary": "sport-bikes",
-      "confident": false,
+      "primary": "racing",
+      "confident": true,
       "cat_scores": {
-        "sport-bikes": 0.82,
-        "new-models": 0.75
+        "racing": 0.97,
+        "sport-bikes": 0.6,
+        "motogp": 0.87
       },
-      "subcategories": [],
-      "forms": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        }
+      ],
       "form_scores": {
-        "news": 0.5,
-        "review": 0.68,
-        "comparison-test": 0.13,
-        "first-look": 0.5,
+        "news": 0.55,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
         "ranked-list": 0.07,
-        "buyers-guide": 0.33,
-        "how-to": 0.1,
-        "explainer": 0.26,
-        "opinion": 0.17,
-        "profile-interview": 0.13,
-        "tribute": 0.03,
-        "listing": 0.39,
-        "event-report": 0.08,
-        "event-preview": 0.07,
-        "press-release": 0.57,
-        "digest": 0.11,
-        "photo-gallery": 0.25,
-        "ride-report": 0.11,
-        "history": 0.05,
-        "rumor": 0.56,
-        "safety-notice": 0.14,
-        "episode": 0.06,
-        "build-feature": 0.1,
-        "q-and-a": 0.09
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.24,
+        "profile-interview": 0.93,
+        "tribute": 0.82,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.12,
+        "press-release": 0.11,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.06,
+        "history": 0.6,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.05,
       "tags": [
+        "racing",
         "sport-bikes",
-        "new-models"
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "0dd3aaf10dc89647cec0b9bd7f71d8f23c92a6eb",
+      "title": "BSB: Max Cook and Joe Talbot to remain with AJN Steelstock bimota next season",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/september/max-cook-joe-talbot-bimota-2027",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T09:25:03+00:00",
+      "excerpt": "Max Cook and Joe Talbot will both continue to represent the AJN Steelstock bimota team in the British Superbike Championship next year. After switching from Kawasaki to bimota for the 2025 season,...",
+      "image": "https://www.motorcyclenews.com/wp-images/440263/390x260/max-cook-joe-talbot-bimota-2027.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.11,
+        "press-release": 0.53,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1681,17 +1627,17 @@
       "also": []
     },
     {
-      "id": "4d5bb628b1ed14cfa5677d09d9a43399dca52329",
-      "title": "2026 MotoGP Japan, Motegi - Friday Practice Results",
-      "link": "https://www.crash.net/motogp/results/1105914/1/2026-motogp-japan-motegi-friday-practice-results",
+      "id": "ec745c9ea6a9934fba517db009b1ebbd7bbef7fb",
+      "title": "Watch: Jack Miller's incredible Yamaha trick with Alex Rins at Motegi",
+      "link": "https://www.crash.net/motogp/news/1106075/1/watch-jack-millers-incredible-yamaha-trick-alex-rins-motegi",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T02:30:03+00:00",
-      "excerpt": "Friday practice results from the 2026 Japanese MotoGP at Motegi, round 16 of 22.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348596_hires_1600x900.jpg?width=1200",
+      "published": "2026-10-02T08:15:16+00:00",
+      "excerpt": "Jack Miller entertained the Motegi fans after Japanese MotoGP practice by giving stranded fellow Yamaha rider Alex Rins a dramatic two-up taxi ride.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1349117_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1706,9 +1652,387 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.6,
-        "motogp": 0.97
+        "racing": 0.9,
+        "sport-bikes": 0.63,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.74,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
+        "how-to": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.08,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.55,
+        "event-preview": 0.06,
+        "press-release": 0.04,
+        "digest": 0.05,
+        "photo-gallery": 0.43,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.22,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "0780580eee38148fcd4b1874c4fdee92a0ae7f22",
+      "title": "Bimota maintains promising rider line-up for BSB 2027",
+      "link": "https://www.crash.net/bsb/news/1105949/1/bimota-maintains-promising-rider-line-bsb-2027",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T14:22:35+00:00",
+      "excerpt": "The AJN Steelstock Bimota team has maintained the same rider line-up for the 2027 BSB season.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/signing-image.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.91,
+        "worldsbk-superbike": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.05,
+        "profile-interview": 0.15,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.34,
+        "press-release": 0.66,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "624cfe710c0858d9e2265100483c261153e734ab",
+      "title": "Bagnaia pays tribute to Haga: \u201cNitronori\u201d helmet at Motegi",
+      "link": "https://www.gpone.com/en/2026/10/02/motogp/bagnaia-pays-tribute-to-haga-nitronori-helmet-at-motegi.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-02T08:03:51+00:00",
+      "excerpt": "Pecco has chosen a replica of the livery used by the Japanese rider in 1999. A tribute to one of his childhood idols, who had also inspired his choice of number 41.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.81,
+        "gear": 0.73,
+        "motogp": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.21,
+        "opinion": 0.07,
+        "profile-interview": 0.3,
+        "tribute": 0.61,
+        "listing": 0.02,
+        "event-report": 0.27,
+        "event-preview": 0.38,
+        "press-release": 0.21,
+        "digest": 0.07,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.2,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.11,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "d6043c706f5b3d917d39c12bdc0d415d4a0a9e81",
+      "title": "Monster scaling back partnership with Yamaha: no longer title sponsor starting in 2027",
+      "link": "https://www.gpone.com/en/2026/10/01/motogp/monster-scaling-back-partnership-with-yamaha-no-longer-title-sponsor-starting-in-2027.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Matteo Aglio",
+      "published": "2026-10-01T14:48:36+00:00",
+      "excerpt": "The partnership could still continue on a smaller scale, with the green-claw logo still appearing on the fairings of the factory M1s",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.89,
+        "motogp": 0.92
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.06,
+        "profile-interview": 0.15,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.07,
+        "press-release": 0.48,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.13,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "930339b20f3ab00ee85edc34ae7c494ad40c90e1",
+      "title": "FOR SALE: 2006 Ducati Paul Smart 1000 Limited Edition",
+      "link": "https://www.returnofthecaferacers.com/ducati-cafe-racer/for-sale-2006-ducati-paul-smart-1000-limited-edition",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-22T10:26:38+00:00",
+      "excerpt": "The Ducati Paul Smart 1000 Limited Edition remains one of Ducati\u2019s most distinctive modern tributes to its racing heritage. Designed by Pierre Terblanche, the PS1000LE was inspired by the Ducati 750 Imola racer ridden by Paul Smart to victory at the 1972 Imola 200. Only 2,000 exa",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2006-Ducati-Paul-Smart-1000-Limited-Edition.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.96,
+        "sport-bikes": 0.7
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "listing",
+          "label": "Listing"
+        }
+      ],
+      "form_scores": {
+        "news": 0.14,
+        "review": 0.11,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.33,
+        "how-to": 0.02,
+        "explainer": 0.25,
+        "opinion": 0.1,
+        "profile-interview": 0.04,
+        "tribute": 0.09,
+        "listing": 0.96,
+        "event-report": 0.06,
+        "event-preview": 0.02,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.15,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.46,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "for-sale",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
+      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
+      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T03:24:54+00:00",
+      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.65,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -1725,39 +2049,268 @@
         {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.95,
         "review": 0.02,
-        "comparison-test": 0.11,
+        "comparison-test": 0.12,
         "first-look": 0.07,
-        "ranked-list": 0.54,
+        "ranked-list": 0.48,
         "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.07,
+        "how-to": 0.01,
+        "explainer": 0.05,
         "opinion": 0.04,
         "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.1,
-        "press-release": 0.09,
-        "digest": 0.05,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
+        "event-report": 0.92,
+        "event-preview": 0.85,
+        "press-release": 0.82,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
         "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
         "motogp"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
+          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
+          "published": "2026-10-02T02:59:13+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
+          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
+          "published": "2026-10-02T03:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": "18e8e96cac3b469bb1321d3bf58c2620fdd8916e",
+      "title": "ZXMOTO 500RR 1790875420000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/zxmoto/500rr/2026",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T17:23:28+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/440563/390x260/main_image_4_zxmoto_500rr_.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": false,
+      "cat_scores": {
+        "sport-bikes": 0.82,
+        "new-models": 0.75
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.5,
+        "review": 0.68,
+        "comparison-test": 0.13,
+        "first-look": 0.5,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.33,
+        "how-to": 0.1,
+        "explainer": 0.26,
+        "opinion": 0.17,
+        "profile-interview": 0.13,
+        "tribute": 0.03,
+        "listing": 0.39,
+        "event-report": 0.08,
+        "event-preview": 0.07,
+        "press-release": 0.57,
+        "digest": 0.11,
+        "photo-gallery": 0.25,
+        "ride-report": 0.11,
+        "history": 0.05,
+        "rumor": 0.56,
+        "safety-notice": 0.14,
+        "episode": 0.06,
+        "build-feature": 0.1,
+        "q-and-a": 0.09
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "sport-bikes",
+        "new-models"
+      ],
+      "also": []
+    },
+    {
+      "id": "22e5b47e7c5b9e07c2223f44dfa8d84fb3f26f71",
+      "title": "Is Honda Developing an All-New V3 Sport Bike To Replace the CBR600RR?",
+      "link": "https://www.rideapart.com/news/809595/is-honda-developing-a-v3-supersport-bike-to-replace-the-cbr600rr",
+      "lang": "en",
+      "source": "RideApart",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T11:18:00+00:00",
+      "excerpt": "There are rumors that Honda has a V3-powered supersport in the works, which could replace the CBR600RR.",
+      "image": "https://cdn.motor1.com/images/mgl/7Zoqj7/s3/honda-v3-concept.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "sport-bikes",
+      "confident": true,
+      "cat_scores": {
+        "sport-bikes": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.13,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.94,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "ddcbe1830b2e9b6cc7834e5f2c60c08d491c6ea7",
+      "title": "Fong takes first Superbike title as Kelly crashes in NJMP decider",
+      "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-superbike-supersport-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-28T01:26:55+00:00",
+      "excerpt": "Bobby Fong clinched his first MotoAmerica Superbike title after Sean Dylan Kelly crashed out of the NJMP decider. Mathew Scholtz won the finale, while Darryn Binder edged Josh Herrin by 0.137 seconds in Supersport and Kayla Yaakov secured third in the standings. The post Fong tak",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-MotoAmerica-American-SBK-NJMP-Sun-Bobby-Fong-Champion.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.91
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.13,
+        "digest": 0.16,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.12,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.22,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1984,475 +2537,6 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "930339b20f3ab00ee85edc34ae7c494ad40c90e1",
-      "title": "FOR SALE: 2006 Ducati Paul Smart 1000 Limited Edition",
-      "link": "https://www.returnofthecaferacers.com/ducati-cafe-racer/for-sale-2006-ducati-paul-smart-1000-limited-edition",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-22T10:26:38+00:00",
-      "excerpt": "The Ducati Paul Smart 1000 Limited Edition remains one of Ducati\u2019s most distinctive modern tributes to its racing heritage. Designed by Pierre Terblanche, the PS1000LE was inspired by the Ducati 750 Imola racer ridden by Paul Smart to victory at the 1972 Imola 200. Only 2,000 exa",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/2006-Ducati-Paul-Smart-1000-Limited-Edition.webp",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "for-sale",
-      "confident": true,
-      "cat_scores": {
-        "for-sale": 0.96,
-        "sport-bikes": 0.7
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "listing",
-          "label": "Listing"
-        }
-      ],
-      "form_scores": {
-        "news": 0.14,
-        "review": 0.11,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.33,
-        "how-to": 0.02,
-        "explainer": 0.25,
-        "opinion": 0.1,
-        "profile-interview": 0.04,
-        "tribute": 0.09,
-        "listing": 0.96,
-        "event-report": 0.06,
-        "event-preview": 0.02,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.15,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.46,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "for-sale",
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
-      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
-      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T03:24:54+00:00",
-      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.65,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.02,
-        "comparison-test": 0.12,
-        "first-look": 0.07,
-        "ranked-list": 0.48,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.85,
-        "press-release": 0.82,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
-          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
-          "published": "2026-10-02T02:59:13+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
-          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
-          "published": "2026-10-02T03:00:03+00:00"
-        }
-      ]
-    },
-    {
-      "id": "22e5b47e7c5b9e07c2223f44dfa8d84fb3f26f71",
-      "title": "Is Honda Developing an All-New V3 Sport Bike To Replace the CBR600RR?",
-      "link": "https://www.rideapart.com/news/809595/is-honda-developing-a-v3-supersport-bike-to-replace-the-cbr600rr",
-      "lang": "en",
-      "source": "RideApart",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T11:18:00+00:00",
-      "excerpt": "There are rumors that Honda has a V3-powered supersport in the works, which could replace the CBR600RR.",
-      "image": "https://cdn.motor1.com/images/mgl/7Zoqj7/s3/honda-v3-concept.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.96
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.11,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.13,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.94,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
-      "id": "ddcbe1830b2e9b6cc7834e5f2c60c08d491c6ea7",
-      "title": "Fong takes first Superbike title as Kelly crashes in NJMP decider",
-      "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-superbike-supersport-results",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-28T01:26:55+00:00",
-      "excerpt": "Bobby Fong clinched his first MotoAmerica Superbike title after Sean Dylan Kelly crashed out of the NJMP decider. Mathew Scholtz won the finale, while Darryn Binder edged Josh Herrin by 0.137 seconds in Supersport and Kayla Yaakov secured third in the standings. The post Fong tak",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-MotoAmerica-American-SBK-NJMP-Sun-Bobby-Fong-Champion.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.91
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.03,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.03,
-        "press-release": 0.13,
-        "digest": 0.16,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.12,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.22,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "683d6ebe1b06a37b92627677bc57ad176a9cdcc4",
-      "title": "MotoGP Japan LIVE: Aprilias lead midway through FP1",
-      "link": "https://www.crash.net/motogp/live/1044233/japan-motogp-live-friday-practice-motegi",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T00:43:56+00:00",
-      "excerpt": "Live Friday practice updates for the 2026 Japanese MotoGP at Motegi.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/martin-marquez-live-pic.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.71,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.75,
-        "review": 0.02,
-        "comparison-test": 0.1,
-        "first-look": 0.13,
-        "ranked-list": 0.09,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.4,
-        "event-preview": 0.26,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.07,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "ce4bfed3f9a7c4e6ac9ad4f36398cbecb7d72822",
-      "title": "GPOne Motegi, Bonora: \u201cWith Mart\u00edn and Bezzecchi, we need to keep the fire alive\u201d",
-      "link": "https://www.gpone.com/en/2026/10/01/motogp/gpone-motegi-bonora-with-martin-and-bezzecchi-we-need-to-keep-the-fire-alive.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-10-01T10:57:45+00:00",
-      "excerpt": "VIDEO - Aprilia Team Manager discusses the title fight, the RS-GP\u2019s progress and the management of his riders: \u201cAttack when we can, otherwise score as many points as possible\u201d",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.87,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.37,
-        "review": 0.03,
-        "comparison-test": 0.03,
-        "first-look": 0.06,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.05,
-        "explainer": 0.12,
-        "opinion": 0.25,
-        "profile-interview": 0.93,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.12,
-        "event-preview": 0.16,
-        "press-release": 0.27,
-        "digest": 0.05,
-        "photo-gallery": 0.12,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.5,
-        "build-feature": 0.02,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
       ],
       "also": []
     },
@@ -2845,66 +2929,156 @@
       ]
     },
     {
-      "id": "fa24630f671addd70c8463434c425df3ccf3fa9e",
-      "title": "HONDA CB1000F 1790338156000 (2026-on)",
-      "link": "https://www.motorcyclenews.com/bike-reviews/honda/cb1000f/2026",
+      "id": "683d6ebe1b06a37b92627677bc57ad176a9cdcc4",
+      "title": "MotoGP Japan LIVE: Aprilias lead midway through FP1",
+      "link": "https://www.crash.net/motogp/live/1044233/japan-motogp-live-friday-practice-motegi",
       "lang": "en",
-      "source": "Motorcycle News (MCN)",
+      "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T12:09:06+00:00",
-      "excerpt": "",
-      "image": "https://www.motorcyclenews.com/wp-images/439320/390x260/2026-on_honda_cb1000f_25.jpg",
+      "published": "2026-10-02T00:43:56+00:00",
+      "excerpt": "Live Friday practice updates for the 2026 Japanese MotoGP at Motegi.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/martin-marquez-live-pic.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "racing",
+          "label": "Racing"
         },
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
         }
       ],
-      "primary": "new-models",
-      "confident": false,
+      "primary": "racing",
+      "confident": true,
       "cat_scores": {
-        "new-models": 0.8,
-        "sport-bikes": 0.72
+        "racing": 0.97,
+        "sport-bikes": 0.71,
+        "motogp": 0.97
       },
-      "subcategories": [],
-      "forms": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.54,
-        "review": 0.71,
-        "comparison-test": 0.12,
-        "first-look": 0.53,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.34,
-        "how-to": 0.11,
-        "explainer": 0.29,
-        "opinion": 0.18,
-        "profile-interview": 0.1,
-        "tribute": 0.04,
-        "listing": 0.23,
-        "event-report": 0.07,
-        "event-preview": 0.06,
-        "press-release": 0.59,
-        "digest": 0.11,
-        "photo-gallery": 0.21,
-        "ride-report": 0.11,
-        "history": 0.04,
-        "rumor": 0.63,
-        "safety-notice": 0.1,
-        "episode": 0.06,
-        "build-feature": 0.07,
-        "q-and-a": 0.09
+        "news": 0.75,
+        "review": 0.02,
+        "comparison-test": 0.1,
+        "first-look": 0.13,
+        "ranked-list": 0.09,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.4,
+        "event-preview": 0.26,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.07,
       "tags": [
-        "new-models",
-        "sport-bikes"
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "ce4bfed3f9a7c4e6ac9ad4f36398cbecb7d72822",
+      "title": "GPOne Motegi, Bonora: \u201cWith Mart\u00edn and Bezzecchi, we need to keep the fire alive\u201d",
+      "link": "https://www.gpone.com/en/2026/10/01/motogp/gpone-motegi-bonora-with-martin-and-bezzecchi-we-need-to-keep-the-fire-alive.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-01T10:57:45+00:00",
+      "excerpt": "VIDEO - Aprilia Team Manager discusses the title fight, the RS-GP\u2019s progress and the management of his riders: \u201cAttack when we can, otherwise score as many points as possible\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.87,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.37,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.05,
+        "explainer": 0.12,
+        "opinion": 0.25,
+        "profile-interview": 0.93,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.12,
+        "event-preview": 0.16,
+        "press-release": 0.27,
+        "digest": 0.05,
+        "photo-gallery": 0.12,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.5,
+        "build-feature": 0.02,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },
@@ -3124,154 +3298,65 @@
       "also": []
     },
     {
-      "id": "9cc64650e6869b4feb164418bdb45387d47b4774",
-      "title": "Alvaro Bautista options narrow as Barni Ducati makes second 2027 WorldSBK signing",
-      "link": "https://www.crash.net/wsbk/news/1105940/1/alvaro-bautista-options-narrow-barni-ducati-makes-second-2027-worldsbk-signing",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T10:59:39+00:00",
-      "excerpt": "Barni Ducati has announced the signing of Xavi Vierge, confirming Alvaro Bautista will not ride for the team in WorldSBK 2027.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1341099_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.06,
-        "profile-interview": 0.09,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.05,
-        "event-preview": 0.13,
-        "press-release": 0.66,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": [
-        {
-          "source": "GPone",
-          "title": "It's over! Barni announces its split from Alvaro Bautista",
-          "link": "https://www.gpone.com/en/2026/10/01/wsbk/its-over-barni-announces-its-split-from-alvaro-bautista.html",
-          "published": "2026-10-01T10:05:45+00:00"
-        }
-      ]
-    },
-    {
-      "id": "c93552ac43fceaa55fd8e77024530ea84ba4a500",
-      "title": "Superbike Factory administrators reveal \u00a324m debt as some bikes are delivered to rightful owners",
-      "link": "https://www.motorcyclenews.com/news/2026/september/superbike-factory-notice-of-administrators-proposal",
+      "id": "fa24630f671addd70c8463434c425df3ccf3fa9e",
+      "title": "HONDA CB1000F 1790338156000 (2026-on)",
+      "link": "https://www.motorcyclenews.com/bike-reviews/honda/cb1000f/2026",
       "lang": "en",
       "source": "Motorcycle News (MCN)",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-23T11:46:00+00:00",
-      "excerpt": "The administrators handling the collapse of used bike giant Superbike Factory have published their formal proposals, revealing the fate of dozens of bikes customers paid for but never received \u2013 along...",
-      "image": "https://www.motorcyclenews.com/wp-images/438965/390x260/superbike-factory-1.jpg",
+      "published": "2026-09-25T12:09:06+00:00",
+      "excerpt": "",
+      "image": "https://www.motorcyclenews.com/wp-images/439320/390x260/2026-on_honda_cb1000f_25.jpg",
       "audio": null,
       "categories": [
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "new-models",
+          "label": "New Models"
         },
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
         }
       ],
-      "primary": "industry",
-      "confident": true,
+      "primary": "new-models",
+      "confident": false,
       "cat_scores": {
-        "industry": 0.93,
-        "sport-bikes": 0.64
+        "new-models": 0.8,
+        "sport-bikes": 0.72
       },
       "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.06,
-        "profile-interview": 0.16,
+        "news": 0.54,
+        "review": 0.71,
+        "comparison-test": 0.12,
+        "first-look": 0.53,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.34,
+        "how-to": 0.11,
+        "explainer": 0.29,
+        "opinion": 0.18,
+        "profile-interview": 0.1,
         "tribute": 0.04,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.18,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.09,
-        "rumor": 0.02,
-        "safety-notice": 0.07,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "listing": 0.23,
+        "event-report": 0.07,
+        "event-preview": 0.06,
+        "press-release": 0.59,
+        "digest": 0.11,
+        "photo-gallery": 0.21,
+        "ride-report": 0.11,
+        "history": 0.04,
+        "rumor": 0.63,
+        "safety-notice": 0.1,
+        "episode": 0.06,
+        "build-feature": 0.07,
+        "q-and-a": 0.09
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.09,
       "tags": [
-        "industry",
+        "new-models",
         "sport-bikes"
       ],
       "also": []
@@ -3531,6 +3616,240 @@
       "also": []
     },
     {
+      "id": "9cc64650e6869b4feb164418bdb45387d47b4774",
+      "title": "Alvaro Bautista options narrow as Barni Ducati makes second 2027 WorldSBK signing",
+      "link": "https://www.crash.net/wsbk/news/1105940/1/alvaro-bautista-options-narrow-barni-ducati-makes-second-2027-worldsbk-signing",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T10:59:39+00:00",
+      "excerpt": "Barni Ducati has announced the signing of Xavi Vierge, confirming Alvaro Bautista will not ride for the team in WorldSBK 2027.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1341099_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.96,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.09,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.05,
+        "event-preview": 0.13,
+        "press-release": 0.66,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": [
+        {
+          "source": "GPone",
+          "title": "It's over! Barni announces its split from Alvaro Bautista",
+          "link": "https://www.gpone.com/en/2026/10/01/wsbk/its-over-barni-announces-its-split-from-alvaro-bautista.html",
+          "published": "2026-10-01T10:05:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": "c93552ac43fceaa55fd8e77024530ea84ba4a500",
+      "title": "Superbike Factory administrators reveal \u00a324m debt as some bikes are delivered to rightful owners",
+      "link": "https://www.motorcyclenews.com/news/2026/september/superbike-factory-notice-of-administrators-proposal",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T11:46:00+00:00",
+      "excerpt": "The administrators handling the collapse of used bike giant Superbike Factory have published their formal proposals, revealing the fate of dozens of bikes customers paid for but never received \u2013 along...",
+      "image": "https://www.motorcyclenews.com/wp-images/438965/390x260/superbike-factory-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.93,
+        "sport-bikes": 0.64
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.06,
+        "profile-interview": 0.16,
+        "tribute": 0.04,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.18,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.02,
+        "safety-notice": 0.07,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.08,
+      "tags": [
+        "industry",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "67dbead4b4465b8ee7b1e3ca7060746979134683",
+      "title": "Cremona Saturday: Lecuona dominates, Alcoba breaks through, Artigas wins thriller",
+      "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-saturday-race-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-26T23:59:23+00:00",
+      "excerpt": "Iker Lecuona dominated WorldSBK Race 1 at Cremona, Jeremy Alcoba claimed his maiden WorldSSP victory and Xavi Artigas won a six-rider WorldSPB thriller. The post Cremona Saturday: Lecuona dominates, Alcoba breaks through, Artigas wins thriller appeared first on MCNews .",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-WorldSBK-Rnd10-Cremona-Sat-WorldSBK-R1-Start.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.95,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.04,
+        "press-release": 0.1,
+        "digest": 0.15,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.46,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "f89e4abda37541f3dd14481d441fe3a6cabfd017",
       "title": "How injury led Marc Marquez \u201cto appreciate\u201d Dani Pedrosa more as a rider",
       "link": "https://www.crash.net/motogp/news/1105944/1/how-injury-led-marc-marquez-appreciate-dani-pedrosa-more-rider",
@@ -3682,256 +4001,6 @@
       "tags": [
         "racing",
         "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "67dbead4b4465b8ee7b1e3ca7060746979134683",
-      "title": "Cremona Saturday: Lecuona dominates, Alcoba breaks through, Artigas wins thriller",
-      "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-saturday-race-results",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-26T23:59:23+00:00",
-      "excerpt": "Iker Lecuona dominated WorldSBK Race 1 at Cremona, Jeremy Alcoba claimed his maiden WorldSSP victory and Xavi Artigas won a six-rider WorldSPB thriller. The post Cremona Saturday: Lecuona dominates, Alcoba breaks through, Artigas wins thriller appeared first on MCNews .",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-WorldSBK-Rnd10-Cremona-Sat-WorldSBK-R1-Start.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.06,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.04,
-        "press-release": 0.1,
-        "digest": 0.15,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.46,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "4d4eb64db15703cba05339b878e3bef76b926232",
-      "title": "Johann Zarco outlines knee surgery plan \u201cto grow old in a good way\u201d",
-      "link": "https://www.crash.net/motogp/news/1105942/1/johann-zarco-outlines-knee-surgery-plan-grow-old-good-way",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T11:45:18+00:00",
-      "excerpt": "Johann Zarco says when he will need surgery on the knee he injured earlier this year",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348409_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.91,
-        "sport-bikes": 0.5,
-        "motogp": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.83,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.07,
-        "explainer": 0.17,
-        "opinion": 0.08,
-        "profile-interview": 0.9,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.06,
-        "press-release": 0.07,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.07
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "049a8a99593635db48fbe7159ae99ad4bcb43774",
-      "title": "Bastianini: \"Acosta's victory brought a more relaxed mood to the pit\"",
-      "link": "https://www.gpone.com/en/2026/10/01/motogp/bastianini-acostas-victory-brought-a-more-relaxed-mood-to-the-pit.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Andrea Scalera",
-      "published": "2026-10-01T10:51:26+00:00",
-      "excerpt": "\"He took advantage of the opportunity, but I'm not comfortable with that tire. I'm glad we'll have the usual one at Motegi. I'm not looking for anything extreme. I always work within that window, but it's a very narrow one.\"",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.73,
-        "motogp": 0.91,
-        "worldsbk-superbike": 0.73
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.51,
-        "review": 0.04,
-        "comparison-test": 0.05,
-        "first-look": 0.05,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.22,
-        "profile-interview": 0.9,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.79,
-        "event-preview": 0.58,
-        "press-release": 0.1,
-        "digest": 0.1,
-        "photo-gallery": 0.06,
-        "ride-report": 0.06,
-        "history": 0.13,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.03,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp",
         "worldsbk-superbike"
       ],
       "also": []
@@ -4183,6 +4252,175 @@
       "also": []
     },
     {
+      "id": "4d4eb64db15703cba05339b878e3bef76b926232",
+      "title": "Johann Zarco outlines knee surgery plan \u201cto grow old in a good way\u201d",
+      "link": "https://www.crash.net/motogp/news/1105942/1/johann-zarco-outlines-knee-surgery-plan-grow-old-good-way",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T11:45:18+00:00",
+      "excerpt": "Johann Zarco says when he will need surgery on the knee he injured earlier this year",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348409_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.91,
+        "sport-bikes": 0.5,
+        "motogp": 0.93
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.83,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.07,
+        "explainer": 0.17,
+        "opinion": 0.08,
+        "profile-interview": 0.9,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.06,
+        "press-release": 0.07,
+        "digest": 0.06,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "049a8a99593635db48fbe7159ae99ad4bcb43774",
+      "title": "Bastianini: \"Acosta's victory brought a more relaxed mood to the pit\"",
+      "link": "https://www.gpone.com/en/2026/10/01/motogp/bastianini-acostas-victory-brought-a-more-relaxed-mood-to-the-pit.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Andrea Scalera",
+      "published": "2026-10-01T10:51:26+00:00",
+      "excerpt": "\"He took advantage of the opportunity, but I'm not comfortable with that tire. I'm glad we'll have the usual one at Motegi. I'm not looking for anything extreme. I always work within that window, but it's a very narrow one.\"",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.73,
+        "motogp": 0.91,
+        "worldsbk-superbike": 0.73
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.51,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.05,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.22,
+        "profile-interview": 0.9,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.58,
+        "press-release": 0.1,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.06,
+        "history": 0.13,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.03,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "aca0654a0aa416f0f5689ac3c73baf47013a14d3",
       "title": "Quartararo: \u201cYamaha\u2019s home race won\u2019t be as satisfying as it will be for KTM\u201d",
       "link": "https://www.gpone.com/en/2026/10/01/motogp/quartararo-yamahas-home-race-wont-be-as-satisfying-as-it-will-be-for-ktm.html",
@@ -4341,6 +4579,81 @@
       "also": []
     },
     {
+      "id": "39cc177f786842c7f4c2986744a43618066ab782",
+      "title": "Isle of Man TT rider remains hospitalised one month after Classic TT incident",
+      "link": "https://www.visordown.com/news/isle-man-tt-rider-remains-hospitalised-one-month-after-classic-tt-incident",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T07:00:00+00:00",
+      "excerpt": "Australian road racer David Johnson is facing a \u201clong road to recovery\u201d following his Classic TT accident last month.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/dk-0117-jpg.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "law-safety": 0.87,
+        "sport-bikes": 0.51
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.16,
+        "tribute": 0.04,
+        "listing": 0.01,
+        "event-report": 0.22,
+        "event-preview": 0.03,
+        "press-release": 0.06,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "law-safety",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
       "id": "f1454e9c3f38605bc3f446871a82f00ea2f4f6d6",
       "title": "Rins, available as a test rider: \u201cA race in 2027? I\u2019ll always be available.\u201d",
       "link": "https://www.gpone.com/en/2026/10/01/motogp/rins-available-as-a-test-rider-a-race-in-2027-ill-always-be-available.html",
@@ -4434,81 +4747,6 @@
         "motogp",
         "worldsbk-superbike",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "39cc177f786842c7f4c2986744a43618066ab782",
-      "title": "Isle of Man TT rider remains hospitalised one month after Classic TT incident",
-      "link": "https://www.visordown.com/news/isle-man-tt-rider-remains-hospitalised-one-month-after-classic-tt-incident",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T07:00:00+00:00",
-      "excerpt": "Australian road racer David Johnson is facing a \u201clong road to recovery\u201d following his Classic TT accident last month.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/dk-0117-jpg.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "law-safety": 0.87,
-        "sport-bikes": 0.51
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.16,
-        "tribute": 0.04,
-        "listing": 0.01,
-        "event-report": 0.22,
-        "event-preview": 0.03,
-        "press-release": 0.06,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.04,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "law-safety",
-        "sport-bikes"
       ],
       "also": []
     },
@@ -13684,90 +13922,6 @@
       "also": []
     },
     {
-      "id": "d0e5b7fd218e4491fe904f656a9bf46018ee8712",
-      "title": "Ducati and the Bulega case: He\u2019s done 10 more days of testing than anyone else! Is that fair?",
-      "link": "https://www.gpone.com/en/2026/09/22/motogp/ducati-and-the-bulega-case-hes-done-10-more-days-of-testing-than-anyone-else-is-that-fair.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Riccardo Guglielmetti",
-      "published": "2026-09-22T07:54:16+00:00",
-      "excerpt": "ANALYSIS \u2013 Pol Espargar\u00f3 and other riders have raised the issue, but the rules are clear\u2014or almost clear. Yet there\u2019s already a precedent that puts Nicol\u00f2 in the eye of the storm. It seems they decided to close the gate after the horses had already bolted.",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.88,
-        "motogp": 0.95,
-        "worldsbk-superbike": 0.85
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.1,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.07,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.3,
-        "opinion": 0.9,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.06,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.06,
-        "safety-notice": 0.04,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.08
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "7394c5b5870a371daeb8576f4a56cb1b3728de4c",
       "title": "A date with history for Nicol\u00f2 Bulega at the Cremona Circuit",
       "link": "https://www.gpone.com/en/2026/09/22/wsbk/a-date-with-history-for-nicolo-bulega-at-the-cremona-circuit.html",
@@ -13930,6 +14084,90 @@
         "law-safety",
         "sport-bikes",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "d0e5b7fd218e4491fe904f656a9bf46018ee8712",
+      "title": "Ducati and the Bulega case: He\u2019s done 10 more days of testing than anyone else! Is that fair?",
+      "link": "https://www.gpone.com/en/2026/09/22/motogp/ducati-and-the-bulega-case-hes-done-10-more-days-of-testing-than-anyone-else-is-that-fair.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Riccardo Guglielmetti",
+      "published": "2026-09-22T07:54:16+00:00",
+      "excerpt": "ANALYSIS \u2013 Pol Espargar\u00f3 and other riders have raised the issue, but the rules are clear\u2014or almost clear. Yet there\u2019s already a precedent that puts Nicol\u00f2 in the eye of the storm. It seems they decided to close the gate after the horses had already bolted.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.88,
+        "motogp": 0.95,
+        "worldsbk-superbike": 0.85
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.1,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.3,
+        "opinion": 0.9,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.1,
+        "event-preview": 0.06,
+        "press-release": 0.04,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.06,
+        "safety-notice": 0.04,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.08
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
       ],
       "also": []
     },

@@ -737,102 +737,6 @@
       "also": []
     },
     {
-      "id": "cba444885ca3e2eec54af057649778acfe0daee9",
-      "title": "Moto2: Alonso Breaks Record In Japan",
-      "link": "https://www.roadracingworld.com/news/moto2-alonso-breaks-record-in-japan",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T07:00:57+00:00",
-      "excerpt": "David Alonso led Moto2 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Riding his CFMOTO Power Electronics Aspar Team Kalex on Pirelli control tires, the Colombian rider lapped the 2.98-mile (4.8 km) road course in 1:47.508, topping the field of ",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/08/image-230_1787943915.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.64,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.12,
-        "first-look": 0.04,
-        "ranked-list": 0.37,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.87,
-        "event-preview": 0.93,
-        "press-release": 0.8,
-        "digest": 0.05,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "2026 Japanese Moto2 - Practice Results",
-          "link": "https://www.crash.net/moto2/results/1106040/1/2026-japanese-moto2-practice-results",
-          "published": "2026-10-02T06:37:03+00:00"
-        }
-      ]
-    },
-    {
       "id": "664b5d437cac9cd13191f5d86a50bac6ddbe755e",
       "title": "Is Harley-Davidson seriously considering leaving King of the Baggers?",
       "link": "https://www.visordown.com/news/harley-davidson-seriously-considering-leaving-king-baggers",
@@ -906,6 +810,106 @@
         "industry"
       ],
       "also": []
+    },
+    {
+      "id": "638c0c5518ad9d7a8ce0a760201e2e5d2e3a9a51",
+      "title": "MotoGP: A. Marquez Cracks Lap Record At Motegi",
+      "link": "https://www.roadracingworld.com/news/motogp-a-marquez-cracks-lap-record-at-motegi",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T07:32:22+00:00",
+      "excerpt": "Alex Marquez led MotoGP World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Riding his BK8 Gresini Racing Ducati Desmosedici GP26 on spec Michelin tires, the Spaniard turned a lap time of 1:42.811. Not only was that good enough to lead the 22-rider f",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2432_1790926121.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.08,
+        "first-look": 0.08,
+        "ranked-list": 0.51,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.85,
+        "event-preview": 0.19,
+        "press-release": 0.14,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "2026 MotoGP Japan, Motegi - Friday Practice Results",
+          "link": "https://www.crash.net/motogp/results/1105914/1/2026-motogp-japan-motegi-friday-practice-results",
+          "published": "2026-10-02T02:30:03+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Alex Marquez leads red-flagged second MotoGP practice in Japan",
+          "link": "https://www.crash.net/motogp/news/1106057/1/alex-marquez-leads-red-flagged-second-motogp-practice-japan",
+          "published": "2026-10-02T07:24:21+00:00"
+        },
+        {
+          "source": "Autosport (MotoGP)",
+          "title": "MotoGP Japanese GP: Alex Marquez heads the field at Motegi",
+          "link": "https://www.autosport.com/motogp/news/motogp-japanese-gp-alex-marquez-heads-the-field-at-motegi/10860878",
+          "published": "2026-10-02T07:40:57+00:00"
+        },
+        {
+          "source": "MCNews Australia",
+          "title": "Alex Marquez tops Motegi Friday as Agius and Kelso book Q2 places",
+          "link": "https://www.mcnews.com.au/2026-motegi-motogp-friday-practice-results",
+          "published": "2026-10-02T07:50:59+00:00"
+        }
+      ]
     },
     {
       "id": "1eaa1ad5947b23103bf5be3077242e04baeef8bd",
@@ -1164,17 +1168,17 @@
       "also": []
     },
     {
-      "id": "640c51b90f67eab8fd5d5ff4cb6c6cb3278ca48a",
-      "title": "Douwe van Mechgelen Finishes Coup de L\u2019avenir on a Positive Note",
-      "link": "https://mxvice.com/2026/10/01/douwe-van-mechgelen-finishes-coup-de-lavenir-on-a-positive-note",
+      "id": "e2cfe2a05d860b5e3d185252060560cab9f49963",
+      "title": "CHAMPIONS! Inside Triumph\u2019s Historic First MX2 World Title with Guillem Farres and Camden McLellan",
+      "link": "https://mxvice.com/2026/10/02/champions-inside-triumphs-historic-first-mx2-world-title-with-guillem-farres-and-camden-mclellan",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-10-01T16:57:59+00:00",
-      "excerpt": "Douwe van Mechgelen made a strong impression during the Coup de L\u2019avenir in Baisieux, Belgium. Despite also having to deal with some setbacks, Van Mechgelen regained the confidence he had before his injury and put together strong sixth-place finishes in the second and third motos",
-      "image": "http://mxvice.com/wp-content/uploads/2026/10/Douwe-van-Mechgelen-3.jpg",
+      "published": "2026-10-02T07:47:58+00:00",
+      "excerpt": "New MX2 World Champion Guillem Farres sits down with his Triumph Racing team-mate Camden McLellan for a special interview with former Motocross of Nations winner and MXGP commentator Paul Malin. Recorded at Triumph\u2019s HQ in the UK just after the team flew back from the final round",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
       "audio": null,
       "categories": [
         {
@@ -1190,8 +1194,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.94
+        "racing": 0.98,
+        "motocross-supercross": 0.99
       },
       "subcategories": [
         {
@@ -1202,39 +1206,43 @@
       ],
       "forms": [
         {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
           "slug": "event-report",
           "label": "Event Report"
         },
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "episode",
+          "label": "Episode"
         }
       ],
       "form_scores": {
-        "news": 0.86,
-        "review": 0.01,
+        "news": 0.57,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.06,
-        "profile-interview": 0.22,
-        "tribute": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.17,
+        "opinion": 0.08,
+        "profile-interview": 0.98,
+        "tribute": 0.03,
         "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.03,
-        "press-release": 0.12,
+        "event-report": 0.79,
+        "event-preview": 0.02,
+        "press-release": 0.49,
         "digest": 0.03,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.18,
+        "photo-gallery": 0.1,
+        "ride-report": 0.03,
+        "history": 0.17,
         "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.02,
+        "episode": 0.76,
         "build-feature": 0.01,
-        "q-and-a": 0.01
+        "q-and-a": 0.03
       },
       "multi_subject": 0.03,
       "tags": [
@@ -1907,85 +1915,6 @@
       "also": []
     },
     {
-      "id": "f33a2407763464d90c4a936f8ad94eb2c9e4360e",
-      "title": "Moto3: Morelli Is Best Friday Afternoon At Motegi",
-      "link": "https://www.roadracingworld.com/news/moto3-morelli-is-best-friday-afternoon-at-motegi",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T06:51:18+00:00",
-      "excerpt": "Marco Morelli led Moto3 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Morelli used his Pirelli-shod CFMOTO Gaviota Aspar Team KTM to lap the 2.98-mile (4.8 km) track in 1:55.280 to lead the field of 26 riders. Home hero Ryusei Yamanaka was seco",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-18_1788967602.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.04,
-        "ranked-list": 0.55,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.07,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.91,
-        "event-preview": 0.22,
-        "press-release": 0.77,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "fae8c3fcd01bdadedf4abdef2bc0fd4a3aee4741",
       "title": "Triumph Originals 2026 won by Spain\u2019s Tamarit Motorcycles",
       "link": "https://www.visordown.com/news/triumph-originals-2026-won-spains-tamarit-motorcycles",
@@ -2051,6 +1980,102 @@
         "custom"
       ],
       "also": []
+    },
+    {
+      "id": "cba444885ca3e2eec54af057649778acfe0daee9",
+      "title": "Moto2: Alonso Breaks Record In Japan",
+      "link": "https://www.roadracingworld.com/news/moto2-alonso-breaks-record-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T07:00:57+00:00",
+      "excerpt": "David Alonso led Moto2 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Riding his CFMOTO Power Electronics Aspar Team Kalex on Pirelli control tires, the Colombian rider lapped the 2.98-mile (4.8 km) road course in 1:47.508, topping the field of ",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/08/image-230_1787943915.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.64,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.12,
+        "first-look": 0.04,
+        "ranked-list": 0.37,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.87,
+        "event-preview": 0.93,
+        "press-release": 0.8,
+        "digest": 0.05,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "2026 Japanese Moto2 - Practice Results",
+          "link": "https://www.crash.net/moto2/results/1106040/1/2026-japanese-moto2-practice-results",
+          "published": "2026-10-02T06:37:03+00:00"
+        }
+      ]
     },
     {
       "id": "d333fc0d6a594b3f1386491b15298caec8e71b59",
@@ -2219,87 +2244,6 @@
       "also": []
     },
     {
-      "id": "f8cb29150da7594d7d8e3099c06fbc50cd6fa15b",
-      "title": "Kash van Hamond Wins Both MX Nationals Motos in Heerde",
-      "link": "https://mxvice.com/2026/10/01/kash-van-hamond-wins-both-mx-nationals-motos-in-heerde",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-10-01T16:49:05+00:00",
-      "excerpt": "Kash van Hamond of the Future MX Team won both MX Nationals 85 motos in Heerde on Sunday. Van Hamond put together two very strong races, winning both motos with a comfortable lead. During practice, the track was still completely flat. This resulted in high speeds, but Kash really",
-      "image": "http://mxvice.com/wp-content/uploads/2026/10/Kash-van-Hamond.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.99,
-        "event-preview": 0.02,
-        "press-release": 0.16,
-        "digest": 0.02,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.02,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "ff273c5f7c96174a2220c873cb2ef07e53c7eb23",
       "title": "2500 riders unite as Harley-Davidson charity ride raises $140,000",
       "link": "https://www.mcnews.com.au/harley-davidson-united-we-ride-2026-salvos",
@@ -2373,17 +2317,98 @@
       "also": []
     },
     {
-      "id": "4d5bb628b1ed14cfa5677d09d9a43399dca52329",
-      "title": "2026 MotoGP Japan, Motegi - Friday Practice Results",
-      "link": "https://www.crash.net/motogp/results/1105914/1/2026-motogp-japan-motegi-friday-practice-results",
+      "id": "640c51b90f67eab8fd5d5ff4cb6c6cb3278ca48a",
+      "title": "Douwe van Mechgelen Finishes Coup de L\u2019avenir on a Positive Note",
+      "link": "https://mxvice.com/2026/10/01/douwe-van-mechgelen-finishes-coup-de-lavenir-on-a-positive-note",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-10-01T16:57:59+00:00",
+      "excerpt": "Douwe van Mechgelen made a strong impression during the Coup de L\u2019avenir in Baisieux, Belgium. Despite also having to deal with some setbacks, Van Mechgelen regained the confidence he had before his injury and put together strong sixth-place finishes in the second and third motos",
+      "image": "http://mxvice.com/wp-content/uploads/2026/10/Douwe-van-Mechgelen-3.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.06,
+        "profile-interview": 0.22,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.12,
+        "digest": 0.03,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.18,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "e417d3adc50009bbf7ca9b12a7e8da34c090b171",
+      "title": "Jake Dixon \u201coverachieved\u201d for best WorldSBK finish, Jonathan Rea pushes Honda \u201chard\u201d",
+      "link": "https://www.crash.net/wsbk/news/1105895/1/jake-dixon-overachieved-best-worldsbk-finish-jonathan-rea-pushes-honda-hard",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T02:30:03+00:00",
-      "excerpt": "Friday practice results from the 2026 Japanese MotoGP at Motegi, round 16 of 22.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348596_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-29T15:06:05+00:00",
+      "excerpt": "Jake Dixon claimed his best WorldSBK result at Cremona and revealed Jonathan Rea is pushing Honda \u201chard\u201d behind the scenes.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347876_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -2399,57 +2424,57 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "sport-bikes": 0.6,
-        "motogp": 0.97
+        "sport-bikes": 0.96,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.83,
         "review": 0.02,
-        "comparison-test": 0.11,
-        "first-look": 0.07,
-        "ranked-list": 0.54,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.05,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
+        "opinion": 0.22,
+        "profile-interview": 0.66,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.1,
+        "event-report": 0.89,
+        "event-preview": 0.06,
         "press-release": 0.09,
-        "digest": 0.05,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.06,
+        "rumor": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.09,
       "tags": [
         "racing",
         "sport-bikes",
-        "motogp"
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -3030,108 +3055,6 @@
       "also": []
     },
     {
-      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
-      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
-      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T03:24:54+00:00",
-      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.65,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.95,
-        "review": 0.02,
-        "comparison-test": 0.12,
-        "first-look": 0.07,
-        "ranked-list": 0.48,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.85,
-        "press-release": 0.82,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "MCNews Australia",
-          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
-          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
-          "published": "2026-10-02T02:59:13+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
-          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
-          "published": "2026-10-02T03:00:03+00:00"
-        }
-      ]
-    },
-    {
       "id": "9a75d74302b1b71f1908ad3f0f153eef029f4abc",
       "title": "Indian Challenger lands another major result against Harley-Davidson\u2019s Road Glide",
       "link": "https://www.visordown.com/news/indian-challenger-lands-another-major-result-against-harley-davidsons-road-glide",
@@ -3201,6 +3124,85 @@
       "tags": [
         "cruisers",
         "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "f33a2407763464d90c4a936f8ad94eb2c9e4360e",
+      "title": "Moto3: Morelli Is Best Friday Afternoon At Motegi",
+      "link": "https://www.roadracingworld.com/news/moto3-morelli-is-best-friday-afternoon-at-motegi",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T06:51:18+00:00",
+      "excerpt": "Marco Morelli led Moto3 World Championship practice Friday afternoon at Mobility Resort Motegi, in Japan. Morelli used his Pirelli-shod CFMOTO Gaviota Aspar Team KTM to lap the 2.98-mile (4.8 km) track in 1:55.280 to lead the field of 26 riders. Home hero Ryusei Yamanaka was seco",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-18_1788967602.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.04,
+        "ranked-list": 0.55,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.91,
+        "event-preview": 0.22,
+        "press-release": 0.77,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -3373,87 +3375,6 @@
       "also": []
     },
     {
-      "id": "1742e52588c8a3ebae8f98e929ab6cde58eba793",
-      "title": "Extensive Review of the SMX Final in Ridgedale",
-      "link": "https://mxvice.com/2026/10/01/extensive-review-of-the-smx-final-in-ridgedale",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-10-01T16:27:34+00:00",
-      "excerpt": "Ricky Carmichael and Ryan Villopoto are back from their trip to Missouri, where they attended the SMX World Championship Final. In this extensive review, the two champions discuss, among other things, Jorge Prado and Levi Kitchen\u2019s championship titles, Haiden Deegan\u2019s attempt to ",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "episode",
-          "label": "Episode"
-        }
-      ],
-      "form_scores": {
-        "news": 0.25,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.64,
-        "profile-interview": 0.45,
-        "tribute": 0.06,
-        "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.04,
-        "press-release": 0.07,
-        "digest": 0.15,
-        "photo-gallery": 0.1,
-        "ride-report": 0.07,
-        "history": 0.17,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.75,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.54,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "815745b654f5d9346f6ef3c83ffa9dcc8d3cd2db",
       "title": "Moto Wrap Weekly | World titles, fine margins and the week ahead",
       "link": "https://www.mcnews.com.au/moto-news-weekly-wrap-september-29-2026",
@@ -3543,17 +3464,98 @@
       "also": []
     },
     {
-      "id": "e417d3adc50009bbf7ca9b12a7e8da34c090b171",
-      "title": "Jake Dixon \u201coverachieved\u201d for best WorldSBK finish, Jonathan Rea pushes Honda \u201chard\u201d",
-      "link": "https://www.crash.net/wsbk/news/1105895/1/jake-dixon-overachieved-best-worldsbk-finish-jonathan-rea-pushes-honda-hard",
+      "id": "f8cb29150da7594d7d8e3099c06fbc50cd6fa15b",
+      "title": "Kash van Hamond Wins Both MX Nationals Motos in Heerde",
+      "link": "https://mxvice.com/2026/10/01/kash-van-hamond-wins-both-mx-nationals-motos-in-heerde",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-10-01T16:49:05+00:00",
+      "excerpt": "Kash van Hamond of the Future MX Team won both MX Nationals 85 motos in Heerde on Sunday. Van Hamond put together two very strong races, winning both motos with a comfortable lead. During practice, the track was still completely flat. This resulted in high speeds, but Kash really",
+      "image": "http://mxvice.com/wp-content/uploads/2026/10/Kash-van-Hamond.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.99,
+        "event-preview": 0.02,
+        "press-release": 0.16,
+        "digest": 0.02,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.02,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "967072f99e7cb223a79968cdd39a1022093f86cb",
+      "title": "2026 Cremona WorldSBK: Championship standings after Race 2",
+      "link": "https://www.crash.net/wsbk/results/1105857/1/2026-cremona-worldsbk-championship-standings-after-race-2",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T15:06:05+00:00",
-      "excerpt": "Jake Dixon claimed his best WorldSBK result at Cremona and revealed Jonathan Rea is pushing Honda \u201chard\u201d behind the scenes.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347876_hires_1600x900.jpg?width=1200",
+      "published": "2026-09-27T18:28:40+00:00",
+      "excerpt": "WorldSBK riders' standings after Race 2 at the 2026 Italian Round at Cremona Circuit, the 10th round of the 2026 season.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348221_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3570,7 +3572,7 @@
       "cat_scores": {
         "racing": 0.98,
         "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.98
+        "worldsbk-superbike": 0.99
       },
       "subcategories": [
         {
@@ -3590,32 +3592,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.83,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.05,
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.67,
         "buyers-guide": 0.02,
         "how-to": 0.02,
         "explainer": 0.07,
-        "opinion": 0.22,
-        "profile-interview": 0.66,
-        "tribute": 0.02,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.89,
-        "event-preview": 0.06,
+        "event-report": 0.94,
+        "event-preview": 0.03,
         "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.03,
-        "history": 0.06,
-        "rumor": 0.04,
-        "safety-notice": 0.01,
-        "episode": 0.05,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
         "sport-bikes",
@@ -3876,81 +3878,6 @@
       "also": []
     },
     {
-      "id": "7288a9ee7ae92584c2aa247ffdc74718ac6ea472",
-      "title": "Moto2: Gonzalez Tops Opening Practice At Motegi",
-      "link": "https://www.roadracingworld.com/news/moto2-gonzalez-tops-opening-practice-at-motegi",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T03:17:50+00:00",
-      "excerpt": "Manuel Gonzalez was quickest during Moto2 World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Pirelli-shod LIQUI MOLY Dynavolt Intact GP Kalex on the 2.98-mile (4.8 km) track, the Spaniard recorded a 1:47.551 to lead the field",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-32_1789135800-1024x640.png",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.96,
-        "review": 0.01,
-        "comparison-test": 0.06,
-        "first-look": 0.03,
-        "ranked-list": 0.5,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.03,
-        "opinion": 0.02,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.9,
-        "event-preview": 0.28,
-        "press-release": 0.15,
-        "digest": 0.04,
-        "photo-gallery": 0.01,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
       "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
       "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
@@ -4027,6 +3954,108 @@
           "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
           "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
           "published": "2026-09-30T09:21:47+00:00"
+        }
+      ]
+    },
+    {
+      "id": "a8ca7a61d83238f11e2992360034831dc0b9db9f",
+      "title": "MotoGP: M. Marquez Heads FP1 In Japan",
+      "link": "https://www.roadracingworld.com/news/motogp-m-marquez-heads-fp1-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T03:24:54+00:00",
+      "excerpt": "Marc Marquez topped MotoGP World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Michelin-shod Lenovo Team Ducati Desmosedici GP26, the Spaniard turned a lap of 1:44.073 around the 2.98-mile (4.8 km) track and led the 23-rider f",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2430_1790911459.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.65,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.95,
+        "review": 0.02,
+        "comparison-test": 0.12,
+        "first-look": 0.07,
+        "ranked-list": 0.48,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.85,
+        "press-release": 0.82,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "MCNews Australia",
+          "title": "Marquez tops damp Motegi FP1 as new surface catches riders out",
+          "link": "https://www.mcnews.com.au/2026-japanese-motogp-friday-fp1-results",
+          "published": "2026-10-02T02:59:13+00:00"
+        },
+        {
+          "source": "Crash.net",
+          "title": "Marc Marquez edges Martin in FP1 at the Japanese MotoGP, Nakagami injured",
+          "link": "https://www.crash.net/motogp/news/1105985/1/marc-marquez-edges-martin-fp1-japanese-motogp-nakagami-injured",
+          "published": "2026-10-02T03:00:03+00:00"
         }
       ]
     },
@@ -4183,95 +4212,6 @@
       "also": []
     },
     {
-      "id": "b5eeecf89b3e767a5047699321d9f5cdb8f22ab1",
-      "title": "2026 ACERBIS BEST LAP WINNERS | HERLINGS AND S. COENEN",
-      "link": "https://mxvice.com/2026/09/28/2026-acerbis-best-lap-winners-herlings-and-s-coenen",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-28T16:46:49+00:00",
-      "excerpt": "Infront Moto Racing is proud to continue its partnership with Acerbis for the Acerbis Best Lap Competition , a highlight of the 2026 FIM Motocross World Championship. This season once again delivered unforgettable action across MXGP and MX2, with the Acerbis Best Lap awards shini",
-      "image": "https://www.mxgp.com/sites/default/files/images/Images%20for%20PR/Red%20line.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.79,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.68,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.93,
-        "opinion": 0.09,
-        "profile-interview": 0.12,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.87,
-        "digest": 0.05,
-        "photo-gallery": 0.04,
-        "ride-report": 0.01,
-        "history": 0.11,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "504a17d197a74992582cd69a95113958e115f874",
       "title": "Bodie Paige runner-up as Drane seals two MotoAmerica top threes",
       "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-twins-talent-cup-results",
@@ -4345,17 +4285,98 @@
       "also": []
     },
     {
-      "id": "967072f99e7cb223a79968cdd39a1022093f86cb",
-      "title": "2026 Cremona WorldSBK: Championship standings after Race 2",
-      "link": "https://www.crash.net/wsbk/results/1105857/1/2026-cremona-worldsbk-championship-standings-after-race-2",
+      "id": "1742e52588c8a3ebae8f98e929ab6cde58eba793",
+      "title": "Extensive Review of the SMX Final in Ridgedale",
+      "link": "https://mxvice.com/2026/10/01/extensive-review-of-the-smx-final-in-ridgedale",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-10-01T16:27:34+00:00",
+      "excerpt": "Ricky Carmichael and Ryan Villopoto are back from their trip to Missouri, where they attended the SMX World Championship Final. In this extensive review, the two champions discuss, among other things, Jorge Prado and Levi Kitchen\u2019s championship titles, Haiden Deegan\u2019s attempt to ",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.25,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.64,
+        "profile-interview": 0.45,
+        "tribute": 0.06,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.04,
+        "press-release": 0.07,
+        "digest": 0.15,
+        "photo-gallery": 0.1,
+        "ride-report": 0.07,
+        "history": 0.17,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.75,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.54,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "829d4b7d54b3377a1d31e56ce5ae10c3e06c9608",
+      "title": "Gigi Dall\u2019Igna keen to credit Ducati after Nicolo Bulega wins WorldSBK title",
+      "link": "https://www.crash.net/wsbk/news/1105855/1/gigi-dalligna-keen-credit-ducati-after-nicolo-bulega-wins-worldsbk-title",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T18:28:40+00:00",
-      "excerpt": "WorldSBK riders' standings after Race 2 at the 2026 Italian Round at Cremona Circuit, the 10th round of the 2026 season.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348221_hires.jpg?width=1200",
+      "published": "2026-09-27T18:19:34+00:00",
+      "excerpt": "Ducati Corse boss Gigi Dall\u2019Igna was keen to praise the Ducati Panigale V4 R after Nicolo Bulega won the 2026 WorldSBK title.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348217_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -4372,7 +4393,7 @@
       "cat_scores": {
         "racing": 0.98,
         "sport-bikes": 0.96,
-        "worldsbk-superbike": 0.99
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
@@ -4392,32 +4413,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
+        "news": 0.87,
+        "review": 0.05,
         "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.67,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.01,
         "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
+        "opinion": 0.13,
+        "profile-interview": 0.44,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.03,
-        "press-release": 0.09,
+        "event-report": 0.88,
+        "event-preview": 0.04,
+        "press-release": 0.3,
         "digest": 0.06,
-        "photo-gallery": 0.1,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -4507,81 +4528,6 @@
       "also": []
     },
     {
-      "id": "3ebb7c95e956ec967b27c78b9d0bff0b01c6649c",
-      "title": "Moto3: Yamanaka Quickest In Opening Practice In Japan",
-      "link": "https://www.roadracingworld.com/news/moto3-yamanaka-quickest-in-opening-practice-in-japan",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-10-02T03:11:17+00:00",
-      "excerpt": "Home hero Ryusei Yamanaka was quickest during Moto3 World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his AEON Credit \u2013 MT Helmets \u2013 MSI KTM on Pirelli control tires, the Japanese rider covered the 2.98-mile (4.8 km) road course",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2429_1790910640.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.97,
-        "review": 0.02,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.28,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.03,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.9,
-        "event-preview": 0.37,
-        "press-release": 0.13,
-        "digest": 0.04,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
       "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
       "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
@@ -4659,6 +4605,81 @@
         "adventure",
         "dirt-mx",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "7288a9ee7ae92584c2aa247ffdc74718ac6ea472",
+      "title": "Moto2: Gonzalez Tops Opening Practice At Motegi",
+      "link": "https://www.roadracingworld.com/news/moto2-gonzalez-tops-opening-practice-at-motegi",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T03:17:50+00:00",
+      "excerpt": "Manuel Gonzalez was quickest during Moto2 World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his Pirelli-shod LIQUI MOLY Dynavolt Intact GP Kalex on the 2.98-mile (4.8 km) track, the Spaniard recorded a 1:47.551 to lead the field",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/image-32_1789135800-1024x640.png",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.96,
+        "review": 0.01,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.5,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.02,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.9,
+        "event-preview": 0.28,
+        "press-release": 0.15,
+        "digest": 0.04,
+        "photo-gallery": 0.01,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
       ],
       "also": []
     },
@@ -4821,91 +4842,6 @@
       "also": []
     },
     {
-      "id": "dc5cd9631f2a01553691a4a1054a0bc526c27c8b",
-      "title": "Torre van Mechgelen scores sixth place in the MX Nationals at Heerde",
-      "link": "https://mxvice.com/2026/09/28/torre-van-mechgelen-scores-sixth-place-in-the-mx-nationals-at-heerde",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-28T16:40:09+00:00",
-      "excerpt": "Torre van Mechgelen of the De Baets AIT Racing Yamaha team secured sixth place during the penultimate round of the MX Nationals in Heerde. In the first race, he fought his way back from around 15th place after a poor start to finish sixth. In the second race, he was hit hard on t",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-16.18.45.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.03,
-        "opinion": 0.03,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.94,
-        "press-release": 0.35,
-        "digest": 0.71,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.76,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "68706ca9b363fa652547221a387e9362eeca3822",
       "title": "Herfoss wins at NJMP but misses Baggers runner-up spot by two points",
       "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-king-of-the-baggers-results",
@@ -4985,17 +4921,106 @@
       "also": []
     },
     {
-      "id": "829d4b7d54b3377a1d31e56ce5ae10c3e06c9608",
-      "title": "Gigi Dall\u2019Igna keen to credit Ducati after Nicolo Bulega wins WorldSBK title",
-      "link": "https://www.crash.net/wsbk/news/1105855/1/gigi-dalligna-keen-credit-ducati-after-nicolo-bulega-wins-worldsbk-title",
+      "id": "b5eeecf89b3e767a5047699321d9f5cdb8f22ab1",
+      "title": "2026 ACERBIS BEST LAP WINNERS | HERLINGS AND S. COENEN",
+      "link": "https://mxvice.com/2026/09/28/2026-acerbis-best-lap-winners-herlings-and-s-coenen",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:46:49+00:00",
+      "excerpt": "Infront Moto Racing is proud to continue its partnership with Acerbis for the Acerbis Best Lap Competition , a highlight of the 2026 FIM Motocross World Championship. This season once again delivered unforgettable action across MXGP and MX2, with the Acerbis Best Lap awards shini",
+      "image": "https://www.mxgp.com/sites/default/files/images/Images%20for%20PR/Red%20line.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.68,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.93,
+        "opinion": 0.09,
+        "profile-interview": 0.12,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.87,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.11,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "c71fe4a3ebd9928427125d254087431a1fab1b5d",
+      "title": "Nicolo Bulega WorldSBK rival issues \u201cperfect\u201d praise after title win",
+      "link": "https://www.crash.net/wsbk/news/1105853/1/nicolo-bulega-worldsbk-rival-issues-perfect-praise-after-title-win",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T18:19:34+00:00",
-      "excerpt": "Ducati Corse boss Gigi Dall\u2019Igna was keen to praise the Ducati Panigale V4 R after Nicolo Bulega won the 2026 WorldSBK title.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348217_hires.jpg?width=1200",
+      "published": "2026-09-27T17:37:37+00:00",
+      "excerpt": "Iker Lecuona says Nicolo Bulega was \u201cperfect every race\u201d on his way to the 2026 WorldSBK title.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341362_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5011,7 +5036,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "sport-bikes": 0.96,
+        "sport-bikes": 0.95,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -5032,109 +5057,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.05,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
+        "news": 0.79,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.07,
-        "opinion": 0.13,
-        "profile-interview": 0.44,
-        "tribute": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.2,
+        "profile-interview": 0.39,
+        "tribute": 0.04,
         "listing": 0.01,
-        "event-report": 0.88,
+        "event-report": 0.85,
         "event-preview": 0.04,
-        "press-release": 0.3,
+        "press-release": 0.08,
         "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.03,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.01,
         "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "2af488c7964515cfc25c7e9f292e83b79e32b8cc",
-      "title": "Josh Hayes: For The Love Of Motorcycle Racing",
-      "link": "https://www.roadracingworld.com/news/josh-hayes-for-the-love-of-motorcycle-racing",
-      "lang": "en",
-      "source": "Roadracing World",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mathilde Gasnier",
-      "published": "2026-09-30T21:56:35+00:00",
-      "excerpt": "By Sean Bice If you\u2019re a fan of the Classic Rock genre and, in particular, early-1980s rock ballads, then you\u2019ve certainly enjoyed the sometimes-dulcet, sometimes-raucous musical creations of Michael Lee Aday, otherwise known professionally by his ground-round stage name, Meat Lo",
-      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/Hayes-Ruckus-Racing-1994_1790766364.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.88
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.28,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.17,
-        "profile-interview": 0.95,
-        "tribute": 0.16,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.08,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.72,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.15,
-      "tags": [
-        "racing",
-        "sport-bikes"
       ],
       "also": []
     },
@@ -5211,6 +5163,81 @@
           "published": "2026-09-22T16:40:30+00:00"
         }
       ]
+    },
+    {
+      "id": "3ebb7c95e956ec967b27c78b9d0bff0b01c6649c",
+      "title": "Moto3: Yamanaka Quickest In Opening Practice In Japan",
+      "link": "https://www.roadracingworld.com/news/moto3-yamanaka-quickest-in-opening-practice-in-japan",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-10-02T03:11:17+00:00",
+      "excerpt": "Home hero Ryusei Yamanaka was quickest during Moto3 World Championship Free Practice One (FP1) Friday morning at Mobility Resort Motegi, in Japan. Riding his AEON Credit \u2013 MT Helmets \u2013 MSI KTM on Pirelli control tires, the Japanese rider covered the 2.98-mile (4.8 km) road course",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/10/IMG_2429_1790910640.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "motogp": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.97,
+        "review": 0.02,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.28,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.9,
+        "event-preview": 0.37,
+        "press-release": 0.13,
+        "digest": 0.04,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "4bc3716d5655012300c69e2dc5e15c7bf213e5a6",
@@ -5367,91 +5394,6 @@
       "also": []
     },
     {
-      "id": "fd4d418e4e599df2231ac1abc51578213a01152f",
-      "title": "Dex Kooiker Wins MX Nationals in Heerde",
-      "link": "https://mxvice.com/2026/09/28/dex-kooiker-wins-mx-nationals-in-heerde",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-28T16:03:44+00:00",
-      "excerpt": "Dex Kooiker of the De Baets AIT Racing Yamaha team won the penultimate round of the MX Nationals in Heerde on Sunday. Kooiker dominated both races to claim maximum points. Kooiker immediately made his mark in qualifying, securing pole position with a 1.2-second advantage over the",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/Torre-van-Megchelen.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.03,
-        "opinion": 0.03,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.92,
-        "press-release": 0.14,
-        "digest": 0.53,
-        "photo-gallery": 0.02,
-        "ride-report": 0.01,
-        "history": 0.09,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.52,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "ddcbe1830b2e9b6cc7834e5f2c60c08d491c6ea7",
       "title": "Fong takes first Superbike title as Kelly crashes in NJMP decider",
       "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-superbike-supersport-results",
@@ -5533,17 +5475,102 @@
       "also": []
     },
     {
-      "id": "c71fe4a3ebd9928427125d254087431a1fab1b5d",
-      "title": "Nicolo Bulega WorldSBK rival issues \u201cperfect\u201d praise after title win",
-      "link": "https://www.crash.net/wsbk/news/1105853/1/nicolo-bulega-worldsbk-rival-issues-perfect-praise-after-title-win",
+      "id": "dc5cd9631f2a01553691a4a1054a0bc526c27c8b",
+      "title": "Torre van Mechgelen scores sixth place in the MX Nationals at Heerde",
+      "link": "https://mxvice.com/2026/09/28/torre-van-mechgelen-scores-sixth-place-in-the-mx-nationals-at-heerde",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:40:09+00:00",
+      "excerpt": "Torre van Mechgelen of the De Baets AIT Racing Yamaha team secured sixth place during the penultimate round of the MX Nationals in Heerde. In the first race, he fought his way back from around 15th place after a poor start to finish sixth. In the second race, he was hit hard on t",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-28-at-16.18.45.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.03,
+        "opinion": 0.03,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.94,
+        "press-release": 0.35,
+        "digest": 0.71,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.76,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "dd9ddb6b53d1e898fb2a40c8d8ccec5b6fb865b4",
+      "title": "Nicolo Bulega\u2019s emotional first words after winning WorldSBK title",
+      "link": "https://www.crash.net/wsbk/news/1105845/1/nicolo-bulegas-emotional-first-words-after-winning-worldsbk-title",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T17:37:37+00:00",
-      "excerpt": "Iker Lecuona says Nicolo Bulega was \u201cperfect every race\u201d on his way to the 2026 WorldSBK title.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1341362_hires.jpg?width=1200",
+      "published": "2026-09-27T14:40:42+00:00",
+      "excerpt": "Nicolo Bulega struggled for words after winning the 2026 WorldSBK title at Cremona.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348149_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5558,8 +5585,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
+        "racing": 0.97,
+        "sport-bikes": 0.94,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -5575,41 +5602,118 @@
           "label": "Event Report"
         },
         {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.79,
+        "news": 0.82,
         "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
+        "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
         "explainer": 0.05,
-        "opinion": 0.2,
-        "profile-interview": 0.39,
-        "tribute": 0.04,
+        "opinion": 0.08,
+        "profile-interview": 0.83,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.85,
-        "event-preview": 0.04,
-        "press-release": 0.08,
-        "digest": 0.06,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.09,
+        "event-report": 0.92,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.03,
+        "history": 0.1,
         "rumor": 0.01,
         "safety-notice": 0.01,
         "episode": 0.06,
-        "build-feature": 0.01,
+        "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "2af488c7964515cfc25c7e9f292e83b79e32b8cc",
+      "title": "Josh Hayes: For The Love Of Motorcycle Racing",
+      "link": "https://www.roadracingworld.com/news/josh-hayes-for-the-love-of-motorcycle-racing",
+      "lang": "en",
+      "source": "Roadracing World",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mathilde Gasnier",
+      "published": "2026-09-30T21:56:35+00:00",
+      "excerpt": "By Sean Bice If you\u2019re a fan of the Classic Rock genre and, in particular, early-1980s rock ballads, then you\u2019ve certainly enjoyed the sometimes-dulcet, sometimes-raucous musical creations of Michael Lee Aday, otherwise known professionally by his ground-round stage name, Meat Lo",
+      "image": "https://www.roadracingworld.com/wp-content/uploads/2026/09/Hayes-Ruckus-Racing-1994_1790766364.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.88
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.28,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.17,
+        "profile-interview": 0.95,
+        "tribute": 0.16,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.08,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.02,
+        "ride-report": 0.02,
+        "history": 0.72,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.15,
+      "tags": [
+        "racing",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -5783,87 +5887,6 @@
       "also": []
     },
     {
-      "id": "b0f2997b124a940f7fe1747a8c30990a1d7ef35b",
-      "title": "Thorius and the Fantic XX 125 take double win at the Italian Junior MX finals",
-      "link": "https://mxvice.com/2026/09/28/thorius-and-the-fantic-xx-125-take-double-win-at-the-italian-junior-mx-finals",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-28T10:04:21+00:00",
-      "excerpt": "It was a flawless weekend for Bertram Thorius, claiming pole position and going 1-1 at the Italian Junior Motocross Championship in Mantova, which allowed him to secure the runner-up spot in the final championship standings. The third and final round of the Italian Junior MX Cham",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.99,
-        "motocross-supercross": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.09,
-        "profile-interview": 0.42,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.99,
-        "event-preview": 0.03,
-        "press-release": 0.48,
-        "digest": 0.03,
-        "photo-gallery": 0.02,
-        "ride-report": 0.03,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "8fbc01312250141407aa4ae493ea9f6fa86c52ea",
       "title": "Australian podiums as Pawelec seals Moto2 European title at Aragon",
       "link": "https://www.mcnews.com.au/2026-motojunior-aragon-results-australians",
@@ -5939,17 +5962,102 @@
       "also": []
     },
     {
-      "id": "dd9ddb6b53d1e898fb2a40c8d8ccec5b6fb865b4",
-      "title": "Nicolo Bulega\u2019s emotional first words after winning WorldSBK title",
-      "link": "https://www.crash.net/wsbk/news/1105845/1/nicolo-bulegas-emotional-first-words-after-winning-worldsbk-title",
+      "id": "fd4d418e4e599df2231ac1abc51578213a01152f",
+      "title": "Dex Kooiker Wins MX Nationals in Heerde",
+      "link": "https://mxvice.com/2026/09/28/dex-kooiker-wins-mx-nationals-in-heerde",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T16:03:44+00:00",
+      "excerpt": "Dex Kooiker of the De Baets AIT Racing Yamaha team won the penultimate round of the MX Nationals in Heerde on Sunday. Kooiker dominated both races to claim maximum points. Kooiker immediately made his mark in qualifying, securing pole position with a 1.2-second advantage over the",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/Torre-van-Megchelen.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.03,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.92,
+        "press-release": 0.14,
+        "digest": 0.53,
+        "photo-gallery": 0.02,
+        "ride-report": 0.01,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.52,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "736f43fda3174ebc1dc2a05c0151ec5bdd3e1aa5",
+      "title": "Nicolo Bulega wins 2026 WorldSBK title at Italian Round",
+      "link": "https://www.crash.net/wsbk/news/1105842/1/nicolo-bulega-wins-2026-worldsbk-title-italian-round",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T14:40:42+00:00",
-      "excerpt": "Nicolo Bulega struggled for words after winning the 2026 WorldSBK title at Cremona.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348149_hires.jpg?width=1200",
+      "published": "2026-09-27T14:05:00+00:00",
+      "excerpt": "Nicolo Bulega has been crowned 2026 WorldSBK champion at the Italian Round in Cremona.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348012_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -5964,8 +6072,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.94,
+        "racing": 0.98,
+        "sport-bikes": 0.95,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -5981,41 +6089,37 @@
           "label": "Event Report"
         },
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        },
-        {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.82,
-        "review": 0.02,
+        "news": 0.9,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.08,
-        "profile-interview": 0.83,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.08,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.11,
-        "ride-report": 0.03,
-        "history": 0.1,
+        "event-report": 0.94,
+        "event-preview": 0.04,
+        "press-release": 0.14,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.08,
         "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
@@ -6189,87 +6293,6 @@
       "also": []
     },
     {
-      "id": "aee53a80ea1d78376fc03525cd81ae4104fbfb11",
-      "title": "Fredriksen wins in Morocco ahead of Knuiman",
-      "link": "https://mxvice.com/2026/09/28/fredriksen-wins-in-morocco-ahead-of-knuiman",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-28T10:00:09+00:00",
-      "excerpt": "Hakon Fredriksen won the first round of the Sand Races World Championship in Morocco ahead of Damien Knuiman, who put in a very strong performance to win the second race. Jeremy Hauquier secured third place! The post Fredriksen wins in Morocco ahead of Knuiman appeared first on M",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/uitslag.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.82
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.02,
-        "comparison-test": 0.08,
-        "first-look": 0.02,
-        "ranked-list": 0.27,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.15,
-        "press-release": 0.15,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.02,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "db6ac382c21c34c9454ad9980ea55fbbecfdae79",
       "title": "Cremona Sunday: Bulega crowned, Lecuona sweeps, Thompson breaks through",
       "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-sunday-race-results",
@@ -6358,17 +6381,98 @@
       ]
     },
     {
-      "id": "736f43fda3174ebc1dc2a05c0151ec5bdd3e1aa5",
-      "title": "Nicolo Bulega wins 2026 WorldSBK title at Italian Round",
-      "link": "https://www.crash.net/wsbk/news/1105842/1/nicolo-bulega-wins-2026-worldsbk-title-italian-round",
+      "id": "b0f2997b124a940f7fe1747a8c30990a1d7ef35b",
+      "title": "Thorius and the Fantic XX 125 take double win at the Italian Junior MX finals",
+      "link": "https://mxvice.com/2026/09/28/thorius-and-the-fantic-xx-125-take-double-win-at-the-italian-junior-mx-finals",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-28T10:04:21+00:00",
+      "excerpt": "It was a flawless weekend for Bertram Thorius, claiming pole position and going 1-1 at the Italian Junior Motocross Championship in Mantova, which allowed him to secure the runner-up spot in the final championship standings. The third and final round of the Italian Junior MX Cham",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.99,
+        "motocross-supercross": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.09,
+        "profile-interview": 0.42,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.99,
+        "event-preview": 0.03,
+        "press-release": 0.48,
+        "digest": 0.03,
+        "photo-gallery": 0.02,
+        "ride-report": 0.03,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "c1ccff0582cf0edfc9e8acb04c9583e96becc894",
+      "title": "How Nicolo Bulega tyre gamble affected Iker Lecuona strategy at Cremona WorldSBK",
+      "link": "https://www.crash.net/wsbk/news/1105803/1/how-nicolo-bulega-tyre-gamble-affected-iker-lecuona-strategy-cremona-worldsbk",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T14:05:00+00:00",
-      "excerpt": "Nicolo Bulega has been crowned 2026 WorldSBK champion at the Italian Round in Cremona.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348012_hires.jpg?width=1200",
+      "published": "2026-09-27T10:15:43+00:00",
+      "excerpt": "Iker Lecuona says he knew before going to the grid that Nicolo Bulega could make a tyre gamble for the Cremona WorldSBK Superpole Race.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348017_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -6398,39 +6502,35 @@
         {
           "slug": "event-report",
           "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.64,
         "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.08,
-        "tribute": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.27,
+        "opinion": 0.14,
+        "profile-interview": 0.59,
+        "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.04,
-        "press-release": 0.14,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.08,
+        "event-report": 0.77,
+        "event-preview": 0.05,
+        "press-release": 0.05,
+        "digest": 0.05,
+        "photo-gallery": 0.07,
+        "ride-report": 0.04,
+        "history": 0.16,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.05,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.05
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -6686,17 +6786,17 @@
       ]
     },
     {
-      "id": "577019b3cb86218e285fed1899ae11fb2ac91679",
-      "title": "Results of the Coup de L\u2019avenir in Belgium",
-      "link": "https://mxvice.com/2026/09/27/van-de-moosdijk-wins-in-drehna-heuver-takes-podium-finish-copy",
+      "id": "aee53a80ea1d78376fc03525cd81ae4104fbfb11",
+      "title": "Fredriksen wins in Morocco ahead of Knuiman",
+      "link": "https://mxvice.com/2026/09/28/fredriksen-wins-in-morocco-ahead-of-knuiman",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-27T20:36:54+00:00",
-      "excerpt": "The Coup de L\u2019avenir was held in Belgium this weekend. Check out all the results now: The post Results of the Coup de L\u2019avenir in Belgium appeared first on MX Vice .",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/open.jpg",
+      "published": "2026-09-28T10:00:09+00:00",
+      "excerpt": "Hakon Fredriksen won the first round of the Sand Races World Championship in Morocco ahead of Damien Knuiman, who put in a very strong performance to win the second race. Jeremy Hauquier secured third place! The post Fredriksen wins in Morocco ahead of Knuiman appeared first on M",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/uitslag.jpeg",
       "audio": null,
       "categories": [
         {
@@ -6712,8 +6812,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.73,
-        "motocross-supercross": 0.73
+        "racing": 0.97,
+        "motocross-supercross": 0.82
       },
       "subcategories": [
         {
@@ -6733,32 +6833,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.03,
-        "comparison-test": 0.11,
-        "first-look": 0.03,
-        "ranked-list": 0.33,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.04,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.93,
-        "event-preview": 0.06,
-        "press-release": 0.17,
-        "digest": 0.12,
-        "photo-gallery": 0.23,
-        "ride-report": 0.03,
-        "history": 0.09,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.07,
-        "build-feature": 0.04,
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.08,
+        "first-look": 0.02,
+        "ranked-list": 0.27,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.15,
+        "press-release": 0.15,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.06,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.12,
+      "multi_subject": 0.04,
       "tags": [
         "dirt-mx",
         "racing",
@@ -6767,17 +6867,17 @@
       "also": []
     },
     {
-      "id": "c1ccff0582cf0edfc9e8acb04c9583e96becc894",
-      "title": "How Nicolo Bulega tyre gamble affected Iker Lecuona strategy at Cremona WorldSBK",
-      "link": "https://www.crash.net/wsbk/news/1105803/1/how-nicolo-bulega-tyre-gamble-affected-iker-lecuona-strategy-cremona-worldsbk",
+      "id": "1f328267de278902586d8fe15bd8a9159904dea0",
+      "title": "2026 Cremona WorldSBK, Warm Up Results: Lecuona maintains top spot",
+      "link": "https://www.crash.net/wsbk/results/1105779/1/2026-cremona-worldsbk-warm-results",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T10:15:43+00:00",
-      "excerpt": "Iker Lecuona says he knew before going to the grid that Nicolo Bulega could make a tyre gamble for the Cremona WorldSBK Superpole Race.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1348017_hires.jpg?width=1200",
+      "published": "2026-09-27T07:21:55+00:00",
+      "excerpt": "Full results from Warm Up at the 2026 Cremona WorldSBK in Italy ahead of Sunday's races at round 10 of the 2026 season.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347885_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -6794,7 +6894,7 @@
       "cat_scores": {
         "racing": 0.98,
         "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.98
+        "worldsbk-superbike": 0.99
       },
       "subcategories": [
         {
@@ -6805,37 +6905,41 @@
       ],
       "forms": [
         {
+          "slug": "news",
+          "label": "News"
+        },
+        {
           "slug": "event-report",
           "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.64,
+        "news": 0.91,
         "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
+        "comparison-test": 0.06,
+        "first-look": 0.04,
+        "ranked-list": 0.63,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.27,
-        "opinion": 0.14,
-        "profile-interview": 0.59,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.77,
-        "event-preview": 0.05,
-        "press-release": 0.05,
+        "event-report": 0.91,
+        "event-preview": 0.64,
+        "press-release": 0.08,
         "digest": 0.05,
-        "photo-gallery": 0.07,
-        "ride-report": 0.04,
-        "history": 0.16,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.05,
         "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
         "sport-bikes",
@@ -7120,17 +7224,17 @@
       "also": []
     },
     {
-      "id": "461a24db9b8b93f1fff9b70d088ade2961e88460",
-      "title": "Van de Moosdijk wins in Drehna, Heuver takes podium finish",
-      "link": "https://mxvice.com/2026/09/27/van-de-moosdijk-wins-in-drehna-heuver-takes-podium-finish",
+      "id": "577019b3cb86218e285fed1899ae11fb2ac91679",
+      "title": "Results of the Coup de L\u2019avenir in Belgium",
+      "link": "https://mxvice.com/2026/09/27/van-de-moosdijk-wins-in-drehna-heuver-takes-podium-finish-copy",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-27T20:01:12+00:00",
-      "excerpt": "Roan van de Moosdijk, Nicolai Skovbjerg, Lucas Leok and Martins Cirulis won the final round of the ADAC MX Masters Championship in F\u00fcrstlich Drehna. Timo Heuver put in an impressive performance to finish third in the 125cc class! Van de Moosdijk and Skovbjerg had already secured ",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-masters-1.jpg",
+      "published": "2026-09-27T20:36:54+00:00",
+      "excerpt": "The Coup de L\u2019avenir was held in Belgium this weekend. Check out all the results now: The post Results of the Coup de L\u2019avenir in Belgium appeared first on MX Vice .",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/open.jpg",
       "audio": null,
       "categories": [
         {
@@ -7146,8 +7250,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.97
+        "racing": 0.73,
+        "motocross-supercross": 0.73
       },
       "subcategories": [
         {
@@ -7167,32 +7271,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.03,
-        "opinion": 0.04,
+        "news": 0.87,
+        "review": 0.03,
+        "comparison-test": 0.11,
+        "first-look": 0.03,
+        "ranked-list": 0.33,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.06,
         "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.04,
-        "press-release": 0.25,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.1,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.93,
+        "event-preview": 0.06,
+        "press-release": 0.17,
+        "digest": 0.12,
+        "photo-gallery": 0.23,
+        "ride-report": 0.03,
+        "history": 0.09,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.07,
+        "build-feature": 0.04,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.09,
+      "multi_subject": 0.12,
       "tags": [
         "dirt-mx",
         "racing",
@@ -7201,17 +7305,17 @@
       "also": []
     },
     {
-      "id": "1f328267de278902586d8fe15bd8a9159904dea0",
-      "title": "2026 Cremona WorldSBK, Warm Up Results: Lecuona maintains top spot",
-      "link": "https://www.crash.net/wsbk/results/1105779/1/2026-cremona-worldsbk-warm-results",
+      "id": "154696e19a7c333b89f691fbf03a92c23b2d3ecc",
+      "title": "Jake Dixon makes bold claim about Honda WorldSBK potential after first top 10",
+      "link": "https://www.crash.net/wsbk/news/1105776/1/jake-dixon-makes-bold-claim-about-honda-worldsbk-potential-after-first-top-10",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T07:21:55+00:00",
-      "excerpt": "Full results from Warm Up at the 2026 Cremona WorldSBK in Italy ahead of Sunday's races at round 10 of the 2026 season.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347885_hires.jpg?width=1200",
+      "published": "2026-09-26T18:24:29+00:00",
+      "excerpt": "Honda\u2019s WorldSBK bike is capable of top-six finishes, Jake Dixon thinks, after he took the team\u2019s first top-10 of the season at Cremona.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347842_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -7239,41 +7343,41 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.06,
-        "first-look": 0.04,
-        "ranked-list": 0.63,
-        "buyers-guide": 0.02,
+        "news": 0.85,
+        "review": 0.05,
+        "comparison-test": 0.04,
+        "first-look": 0.07,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
+        "opinion": 0.28,
+        "profile-interview": 0.54,
         "tribute": 0.01,
         "listing": 0.01,
         "event-report": 0.91,
-        "event-preview": 0.64,
-        "press-release": 0.08,
+        "event-preview": 0.05,
+        "press-release": 0.11,
         "digest": 0.05,
-        "photo-gallery": 0.09,
+        "photo-gallery": 0.05,
         "ride-report": 0.02,
         "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "sport-bikes",
@@ -7447,87 +7551,6 @@
       "also": []
     },
     {
-      "id": "ed4cb56f2d0ed72bdc3c53c538c0b91844548aa9",
-      "title": "Mewse wins in Blaxhall and secures British title",
-      "link": "https://mxvice.com/2026/09/27/mewse-wins-in-blaxhall-and-secures-british-title",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-27T18:26:20+00:00",
-      "excerpt": "Conrad Mewse, Joe Brookes and Hayden Statt won the final round of the British Motocross Championship in Blaxhall. Dutch riders Gyan Doensen and Cas Valk finished fourth and fifth in the MX2 class! With his victory, Mewse secured the 500cc championship title ahead of Ben Watson. C",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/500.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.01,
-        "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.13,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.98,
-        "event-preview": 0.03,
-        "press-release": 0.17,
-        "digest": 0.12,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "dbcb4257f582a3f0a60588eea6f97d3f99cd936f",
       "title": "Bulega clinches 2026 WorldSBK title as Ducati completes triple crown",
       "link": "https://www.mcnews.com.au/nicolo-bulega-2026-worldsbk-champion-ducati",
@@ -7609,17 +7632,98 @@
       "also": []
     },
     {
-      "id": "154696e19a7c333b89f691fbf03a92c23b2d3ecc",
-      "title": "Jake Dixon makes bold claim about Honda WorldSBK potential after first top 10",
-      "link": "https://www.crash.net/wsbk/news/1105776/1/jake-dixon-makes-bold-claim-about-honda-worldsbk-potential-after-first-top-10",
+      "id": "461a24db9b8b93f1fff9b70d088ade2961e88460",
+      "title": "Van de Moosdijk wins in Drehna, Heuver takes podium finish",
+      "link": "https://mxvice.com/2026/09/27/van-de-moosdijk-wins-in-drehna-heuver-takes-podium-finish",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-27T20:01:12+00:00",
+      "excerpt": "Roan van de Moosdijk, Nicolai Skovbjerg, Lucas Leok and Martins Cirulis won the final round of the ADAC MX Masters Championship in F\u00fcrstlich Drehna. Timo Heuver put in an impressive performance to finish third in the 125cc class! Van de Moosdijk and Skovbjerg had already secured ",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-masters-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.03,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.04,
+        "press-release": 0.25,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.1,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "b5cb6312a86f3561c7258a6fef712cb3903c02b8",
+      "title": "Nicolo Bulega \u201cclever\u201d to take P2 at Cremona WorldSBK as title nears",
+      "link": "https://www.crash.net/wsbk/news/1105775/1/nicolo-bulega-clever-take-p2-cremona-worldsbk-title-nears",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T18:24:29+00:00",
-      "excerpt": "Honda\u2019s WorldSBK bike is capable of top-six finishes, Jake Dixon thinks, after he took the team\u2019s first top-10 of the season at Cremona.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347842_hires.jpg?width=1200",
+      "published": "2026-09-26T17:35:51+00:00",
+      "excerpt": "Nicolo Bulega says his second place in Race 1 at the Cremona WorldSBK was \u201cclever\u201d after crashing twice on Friday.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347896_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -7656,30 +7760,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.85,
-        "review": 0.05,
-        "comparison-test": 0.04,
-        "first-look": 0.07,
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.03,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.01,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.28,
-        "profile-interview": 0.54,
+        "explainer": 0.08,
+        "opinion": 0.4,
+        "profile-interview": 0.59,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.91,
-        "event-preview": 0.05,
-        "press-release": 0.11,
-        "digest": 0.05,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
+        "event-report": 0.96,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.03,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
         "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.03,
       "tags": [
@@ -7856,87 +7960,6 @@
       "also": []
     },
     {
-      "id": "f134334f0e3267edc49cf70b557368f98c9a07b7",
-      "title": "Herlings, Heitink, Kooiker and Van Hamond win in Heerde",
-      "link": "https://mxvice.com/2026/09/27/herlings-heitink-kooiker-and-van-hamond-win-in-heerde",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-27T17:18:29+00:00",
-      "excerpt": "Jeffrey Herlings, Dani Heitink, Dex Kooiker and Kash van Hamond have won the MX Nationals in Heerde! Check out the results below NK 500cc first moto: NK 500cc second moto: NK 250cc Totaal: NK 125cc Totall: NK 85cc Totall: @shotbybavo The post Herlings, Heitink, Kooiker and Van Ha",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/1ste-manche-500.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.91,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.01,
-        "ranked-list": 0.29,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.06,
-        "press-release": 0.18,
-        "digest": 0.12,
-        "photo-gallery": 0.33,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.05,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.22,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "67dbead4b4465b8ee7b1e3ca7060746979134683",
       "title": "Cremona Saturday: Lecuona dominates, Alcoba breaks through, Artigas wins thriller",
       "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-saturday-race-results",
@@ -8018,17 +8041,98 @@
       "also": []
     },
     {
-      "id": "b5cb6312a86f3561c7258a6fef712cb3903c02b8",
-      "title": "Nicolo Bulega \u201cclever\u201d to take P2 at Cremona WorldSBK as title nears",
-      "link": "https://www.crash.net/wsbk/news/1105775/1/nicolo-bulega-clever-take-p2-cremona-worldsbk-title-nears",
+      "id": "ed4cb56f2d0ed72bdc3c53c538c0b91844548aa9",
+      "title": "Mewse wins in Blaxhall and secures British title",
+      "link": "https://mxvice.com/2026/09/27/mewse-wins-in-blaxhall-and-secures-british-title",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-27T18:26:20+00:00",
+      "excerpt": "Conrad Mewse, Joe Brookes and Hayden Statt won the final round of the British Motocross Championship in Blaxhall. Dutch riders Gyan Doensen and Cas Valk finished fourth and fifth in the MX2 class! With his victory, Mewse secured the 500cc championship title ahead of Ben Watson. C",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.13,
+        "buyers-guide": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.04,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.98,
+        "event-preview": 0.03,
+        "press-release": 0.17,
+        "digest": 0.12,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "ee859d3abd4396c84fa47f8f52a2a0afa31c53b1",
+      "title": "Iker Lecuona warns Nicolo Bulega \u201calways finds something\u201d after Cremona WorldSBK romp",
+      "link": "https://www.crash.net/wsbk/news/1105773/1/iker-lecuona-warns-nicolo-bulega-always-finds-something-after-cremona-worldsbk",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T17:35:51+00:00",
-      "excerpt": "Nicolo Bulega says his second place in Race 1 at the Cremona WorldSBK was \u201cclever\u201d after crashing twice on Friday.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347896_hires.jpg?width=1200",
+      "published": "2026-09-26T16:51:55+00:00",
+      "excerpt": "Iker Lecuona suggests he expects Nicolo Bulega to find more performance on Sunday at the Cremona WorldSBK.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347852_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -8044,8 +8148,8 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.99
+        "sport-bikes": 0.96,
+        "worldsbk-superbike": 0.98
       },
       "subcategories": [
         {
@@ -8058,39 +8162,35 @@
         {
           "slug": "event-report",
           "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.86,
+        "news": 0.67,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.4,
-        "profile-interview": 0.59,
+        "explainer": 0.06,
+        "opinion": 0.43,
+        "profile-interview": 0.36,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.96,
-        "event-preview": 0.04,
-        "press-release": 0.06,
+        "event-report": 0.81,
+        "event-preview": 0.7,
+        "press-release": 0.04,
         "digest": 0.06,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.07,
         "ride-report": 0.03,
-        "history": 0.08,
+        "history": 0.05,
         "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
+        "safety-notice": 0.01,
+        "episode": 0.05,
         "build-feature": 0.01,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -8187,91 +8287,6 @@
       "also": []
     },
     {
-      "id": "e34eba033b55d118b3f9c3995b75fdd3be91c936",
-      "title": "Deegan and Beaumer fastest in qualifying at Ridgedale",
-      "link": "https://mxvice.com/2026/09/26/deegan-and-beaumer-fastest-in-qualifying-at-ridgedale",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-26T19:32:57+00:00",
-      "excerpt": "Haiden Deegan and Julien Beaumer set the fastest times during qualifying for the SuperMotocross finale in Ridgedale. 450: 250: Photocredits \u2013 The post Deegan and Beaumer fastest in qualifying at Ridgedale appeared first on MX Vice .",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-450-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.02,
-        "comparison-test": 0.06,
-        "first-look": 0.03,
-        "ranked-list": 0.11,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.85,
-        "event-preview": 0.83,
-        "press-release": 0.22,
-        "digest": 0.09,
-        "photo-gallery": 0.22,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.07,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "32075af0031e5ec8e4e0eda6990788dd5322787a",
       "title": "Cremona WorldSBK: Lecuona fastest, Thompson takes maiden WorldSPB pole",
       "link": "https://www.mcnews.com.au/worldsbk-cremona-2026-friday-results",
@@ -8353,17 +8368,98 @@
       "also": []
     },
     {
-      "id": "ee859d3abd4396c84fa47f8f52a2a0afa31c53b1",
-      "title": "Iker Lecuona warns Nicolo Bulega \u201calways finds something\u201d after Cremona WorldSBK romp",
-      "link": "https://www.crash.net/wsbk/news/1105773/1/iker-lecuona-warns-nicolo-bulega-always-finds-something-after-cremona-worldsbk",
+      "id": "f134334f0e3267edc49cf70b557368f98c9a07b7",
+      "title": "Herlings, Heitink, Kooiker and Van Hamond win in Heerde",
+      "link": "https://mxvice.com/2026/09/27/herlings-heitink-kooiker-and-van-hamond-win-in-heerde",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-27T17:18:29+00:00",
+      "excerpt": "Jeffrey Herlings, Dani Heitink, Dex Kooiker and Kash van Hamond have won the MX Nationals in Heerde! Check out the results below NK 500cc first moto: NK 500cc second moto: NK 250cc Totaal: NK 125cc Totall: NK 85cc Totall: @shotbybavo The post Herlings, Heitink, Kooiker and Van Ha",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/1ste-manche-500.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.01,
+        "ranked-list": 0.29,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.04,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.06,
+        "press-release": 0.18,
+        "digest": 0.12,
+        "photo-gallery": 0.33,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.05,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.22,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "1d570e858d7146d71db3d650350fc9e03cdb0978",
+      "title": "2026 Cremona WorldSBK: Championship standings after Race 1",
+      "link": "https://www.crash.net/wsbk/results/1105757/1/2026-cremona-worldsbk-championship-standings-after-race-1",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T16:51:55+00:00",
-      "excerpt": "Iker Lecuona suggests he expects Nicolo Bulega to find more performance on Sunday at the Cremona WorldSBK.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347852_hires.jpg?width=1200",
+      "published": "2026-09-26T14:32:25+00:00",
+      "excerpt": "2026 WorldSBK championship standings after Race 1 at the Italian Round at Cremona Circuit, round 10 of the 2026 season.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347623_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -8379,7 +8475,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "sport-bikes": 0.96,
+        "sport-bikes": 0.95,
         "worldsbk-superbike": 0.98
       },
       "subcategories": [
@@ -8391,37 +8487,41 @@
       ],
       "forms": [
         {
+          "slug": "news",
+          "label": "News"
+        },
+        {
           "slug": "event-report",
           "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.67,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
+        "news": 0.89,
+        "review": 0.01,
+        "comparison-test": 0.05,
+        "first-look": 0.02,
+        "ranked-list": 0.62,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.43,
-        "profile-interview": 0.36,
+        "explainer": 0.07,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.81,
-        "event-preview": 0.7,
-        "press-release": 0.04,
-        "digest": 0.06,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.05,
+        "event-report": 0.89,
+        "event-preview": 0.04,
+        "press-release": 0.08,
+        "digest": 0.05,
+        "photo-gallery": 0.11,
+        "ride-report": 0.01,
+        "history": 0.06,
         "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
         "sport-bikes",
@@ -8511,87 +8611,6 @@
       "also": []
     },
     {
-      "id": "99b861c3a18072a66c3532e72f0a2db84a7f6cea",
-      "title": "Van de Moosdijk wins first moto in Drehna",
-      "link": "https://mxvice.com/2026/09/26/van-de-moosdijk-wins-first-moto-in-drehna",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-26T16:18:52+00:00",
-      "excerpt": "Roan van de Moosdijk, Nicolai Skovbjerg and Patriks Cirulis have won the first moto of the ADAC MX Masters series in F\u00fcrstlich Drehna. The post Van de Moosdijk wins first moto in Drehna appeared first on MX Vice .",
-      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-Masters.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.97,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.05,
-        "press-release": 0.26,
-        "digest": 0.11,
-        "photo-gallery": 0.1,
-        "ride-report": 0.03,
-        "history": 0.09,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "990c75a4d658bac6d5706c1b08ddd4153a945dd6",
       "title": "Classic TT 2026: Dunlop\u2019s treble, McGuinness\u2019s milestone and a race against the weather",
       "link": "https://www.mcnews.com.au/2026-classic-tt-review-results",
@@ -8659,17 +8678,102 @@
       "also": []
     },
     {
-      "id": "1d570e858d7146d71db3d650350fc9e03cdb0978",
-      "title": "2026 Cremona WorldSBK: Championship standings after Race 1",
-      "link": "https://www.crash.net/wsbk/results/1105757/1/2026-cremona-worldsbk-championship-standings-after-race-1",
+      "id": "e34eba033b55d118b3f9c3995b75fdd3be91c936",
+      "title": "Deegan and Beaumer fastest in qualifying at Ridgedale",
+      "link": "https://mxvice.com/2026/09/26/deegan-and-beaumer-fastest-in-qualifying-at-ridgedale",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T19:32:57+00:00",
+      "excerpt": "Haiden Deegan and Julien Beaumer set the fastest times during qualifying for the SuperMotocross finale in Ridgedale. 450: 250: Photocredits \u2013 The post Deegan and Beaumer fastest in qualifying at Ridgedale appeared first on MX Vice .",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-450-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.97,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.11,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.85,
+        "event-preview": 0.83,
+        "press-release": 0.22,
+        "digest": 0.09,
+        "photo-gallery": 0.22,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "f1f333b56d9c658ca981fb3d23c49d50869322a8",
+      "title": "2026 Cremona WorldSBK, Race 1 Results: Lecuona dominates Bulega for second win",
+      "link": "https://www.crash.net/wsbk/results/1105753/1/2026-cremona-worldsbk-race-1-results-lecuona-dominates-bulega-second-win",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T14:32:25+00:00",
-      "excerpt": "2026 WorldSBK championship standings after Race 1 at the Italian Round at Cremona Circuit, round 10 of the 2026 season.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347623_hires.jpg?width=1200",
+      "published": "2026-09-26T14:08:48+00:00",
+      "excerpt": "Full results from Race 1 at the 2026 Cremona WorldSBK, the 10th round of the 2026 season.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347872_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -8686,7 +8790,7 @@
       "cat_scores": {
         "racing": 0.98,
         "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.98
+        "worldsbk-superbike": 0.99
       },
       "subcategories": [
         {
@@ -8697,41 +8801,41 @@
       ],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "event-report",
           "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.9,
         "review": 0.01,
         "comparison-test": 0.05,
         "first-look": 0.02,
-        "ranked-list": 0.62,
+        "ranked-list": 0.58,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.04,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.89,
+        "event-report": 0.91,
         "event-preview": 0.04,
         "press-release": 0.08,
         "digest": 0.05,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.07,
         "rumor": 0.01,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "sport-bikes",
@@ -8827,87 +8931,6 @@
       "also": []
     },
     {
-      "id": "a76550108a8f56fae88ac025b55754f55d2adc59",
-      "title": "Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship",
-      "link": "https://mxvice.com/2026/09/26/cole-davies-story-on-tvnz-sports-news-winning-pro-250mx-championship",
-      "lang": "en",
-      "source": "MX Vice",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Arno van den Brink",
-      "published": "2026-09-26T11:10:55+00:00",
-      "excerpt": "Cole Davies story on TVNZ Sports News after winning Pro 250MX Championship at Ironman Raceway, Indiana on August 30, 2026. Film footage: Feld Motor Sports/NBC Sports. Photocredits \u2013 Align Media The post Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship appear",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0,
-        "racing": 0.96,
-        "motocross-supercross": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motocross-supercross",
-          "label": "Motocross & Supercross",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.54,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.94,
-        "event-preview": 0.03,
-        "press-release": 0.15,
-        "digest": 0.08,
-        "photo-gallery": 0.4,
-        "ride-report": 0.04,
-        "history": 0.18,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.24,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "dirt-mx",
-        "racing",
-        "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
       "id": "4e19b7c3328d9d6afa6b02fa82bc645517b5ba73",
       "title": "2026 Husqvarna Trek: Six days in a greener Flinders Ranges",
       "link": "https://www.mcnews.com.au/2026-husqvarna-trek-flinders-ranges",
@@ -8995,98 +9018,17 @@
       "also": []
     },
     {
-      "id": "f1f333b56d9c658ca981fb3d23c49d50869322a8",
-      "title": "2026 Cremona WorldSBK, Race 1 Results: Lecuona dominates Bulega for second win",
-      "link": "https://www.crash.net/wsbk/results/1105753/1/2026-cremona-worldsbk-race-1-results-lecuona-dominates-bulega-second-win",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-26T14:08:48+00:00",
-      "excerpt": "Full results from Race 1 at the 2026 Cremona WorldSBK, the 10th round of the 2026 season.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347872_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "sport-bikes": 0.95,
-        "worldsbk-superbike": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.05,
-        "first-look": 0.02,
-        "ranked-list": 0.58,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.04,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.91,
-        "event-preview": 0.04,
-        "press-release": 0.08,
-        "digest": 0.05,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
-      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
-      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
+      "id": "99b861c3a18072a66c3532e72f0a2db84a7f6cea",
+      "title": "Van de Moosdijk wins first moto in Drehna",
+      "link": "https://mxvice.com/2026/09/26/van-de-moosdijk-wins-first-moto-in-drehna",
       "lang": "en",
       "source": "MX Vice",
       "ownership": "independent",
       "media": "article",
       "author": "Arno van den Brink",
-      "published": "2026-09-25T07:41:40+00:00",
-      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
-      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "published": "2026-09-26T16:18:52+00:00",
+      "excerpt": "Roan van de Moosdijk, Nicolai Skovbjerg and Patriks Cirulis have won the first moto of the ADAC MX Masters series in F\u00fcrstlich Drehna. The post Van de Moosdijk wins first moto in Drehna appeared first on MX Vice .",
+      "image": "http://mxvice.com/wp-content/uploads/2026/09/1-Masters.jpg",
       "audio": null,
       "categories": [
         {
@@ -9102,8 +9044,8 @@
       "confident": true,
       "cat_scores": {
         "dirt-mx": 1.0,
-        "racing": 0.98,
-        "motocross-supercross": 0.98
+        "racing": 0.97,
+        "motocross-supercross": 0.97
       },
       "subcategories": [
         {
@@ -9123,103 +9065,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.85,
+        "news": 0.92,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.15,
-        "ranked-list": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.06,
         "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "how-to": 0.02,
         "explainer": 0.04,
-        "opinion": 0.1,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
+        "opinion": 0.04,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.96,
+        "event-report": 0.97,
         "event-preview": 0.05,
-        "press-release": 0.24,
-        "digest": 0.52,
-        "photo-gallery": 0.04,
-        "ride-report": 0.02,
-        "history": 0.1,
-        "rumor": 0.03,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.01
+        "press-release": 0.26,
+        "digest": 0.11,
+        "photo-gallery": 0.1,
+        "ride-report": 0.03,
+        "history": 0.09,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.65,
+      "multi_subject": 0.06,
       "tags": [
         "dirt-mx",
         "racing",
         "motocross-supercross"
-      ],
-      "also": []
-    },
-    {
-      "id": "09f10aefc3d25dcf571dd6345b259ae2f8fc0bb2",
-      "title": "Payne and Rousseau sweep Assen as Turners rebound for ninth",
-      "link": "https://www.mcnews.com.au/2026-assen-sidecar-world-championship-results",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-23T01:09:50+00:00",
-      "excerpt": "Two wins at Assen put Payne and Rousseau within reach of the 2026 FIM Sidecar world title. Corey and Danyon Turner recovered from 19th in the Sprint to ninth in the Main race. Report and full results. The post Payne and Rousseau sweep Assen as Turners rebound for ninth appeared f",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-Sidecar-World-Championship-Assen-R2-Start.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.02,
-        "comparison-test": 0.04,
-        "first-look": 0.01,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.97,
-        "event-preview": 0.06,
-        "press-release": 0.11,
-        "digest": 0.11,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "racing"
       ],
       "also": []
     },
@@ -9305,6 +9180,154 @@
       "also": []
     },
     {
+      "id": "09f10aefc3d25dcf571dd6345b259ae2f8fc0bb2",
+      "title": "Payne and Rousseau sweep Assen as Turners rebound for ninth",
+      "link": "https://www.mcnews.com.au/2026-assen-sidecar-world-championship-results",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-23T01:09:50+00:00",
+      "excerpt": "Two wins at Assen put Payne and Rousseau within reach of the 2026 FIM Sidecar world title. Corey and Danyon Turner recovered from 19th in the Sprint to ninth in the Main race. Report and full results. The post Payne and Rousseau sweep Assen as Turners rebound for ninth appeared f",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-FIM-Sidecar-World-Championship-Assen-R2-Start.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.02,
+        "comparison-test": 0.04,
+        "first-look": 0.01,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.97,
+        "event-preview": 0.06,
+        "press-release": 0.11,
+        "digest": 0.11,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.09,
+      "tags": [
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "a76550108a8f56fae88ac025b55754f55d2adc59",
+      "title": "Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship",
+      "link": "https://mxvice.com/2026/09/26/cole-davies-story-on-tvnz-sports-news-winning-pro-250mx-championship",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-26T11:10:55+00:00",
+      "excerpt": "Cole Davies story on TVNZ Sports News after winning Pro 250MX Championship at Ironman Raceway, Indiana on August 30, 2026. Film footage: Feld Motor Sports/NBC Sports. Photocredits \u2013 Align Media The post Cole Davies story on TVNZ Sports News \u2013 winning Pro 250MX Championship appear",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.96,
+        "motocross-supercross": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.54,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.94,
+        "event-preview": 0.03,
+        "press-release": 0.15,
+        "digest": 0.08,
+        "photo-gallery": 0.4,
+        "ride-report": 0.04,
+        "history": 0.18,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.24,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "e9e050518ec4e9e4260c5c20f625d449898c4555",
       "title": "2026 Cremona WorldSBK, FP3 Results: Bulega only 10th as Surra hits the top",
       "link": "https://www.crash.net/wsbk/news/1105507/1/2026-cremona-worldsbk-fp3-results-bulega-only-10th-surra-hits-top",
@@ -9382,6 +9405,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "891cd05fee38fe4707618b4b22862fdc8030cd44",
+      "title": "Lachlan Turner Impresses in WMX Debut Alongside Lotte van Drunen",
+      "link": "https://mxvice.com/2026/09/25/lachlan-turner-impresses-in-wmx-debut-alongside-lotte-van-drunen",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-09-25T07:41:40+00:00",
+      "excerpt": "Reigning AMA and Australian WMX Champion Lachlan Turner joined two-time WMX World Champion Lotte van Drunen at the final round of the FIM Women\u2019s Motocross World Championship in Darwin, Australia. With the MXGP World Championship already decided, the final rounds of the WMX and M",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.15,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.1,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.96,
+        "event-preview": 0.05,
+        "press-release": 0.24,
+        "digest": 0.52,
+        "photo-gallery": 0.04,
+        "ride-report": 0.02,
+        "history": 0.1,
+        "rumor": 0.03,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.01
+      },
+      "multi_subject": 0.65,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
       ],
       "also": []
     },

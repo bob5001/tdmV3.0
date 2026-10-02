@@ -3,87 +3,6 @@
   "label": "Tribute",
   "items": [
     {
-      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
-      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
-      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-25T18:01:51+00:00",
-      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
-      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "events-rides",
-      "confident": true,
-      "cat_scores": {
-        "events-rides": 0.95,
-        "law-safety": 0.91
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "tribute",
-          "label": "Tribute"
-        },
-        {
-          "slug": "history",
-          "label": "History"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.19,
-        "opinion": 0.07,
-        "profile-interview": 0.15,
-        "tribute": 0.8,
-        "listing": 0.01,
-        "event-report": 0.26,
-        "event-preview": 0.76,
-        "press-release": 0.28,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.8,
-        "rumor": 0.01,
-        "safety-notice": 0.37,
-        "episode": 0.03,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "events-rides",
-        "law-safety"
-      ],
-      "also": []
-    },
-    {
       "id": "bd905f3a0669bcee961fa169692e28900fc5232b",
       "title": "TEN YEARS AGO TODAY! GODSPEED! CHUCK \u201cFEETS\u201d MINERT (1931-2016)",
       "link": "https://motocrossactionmag.com/godspeed-chuck-feets-minert-1931-2016",
@@ -167,6 +86,87 @@
         "racing",
         "classic",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "446e4d0b9f82328b915c544f6a080b8c90ce82b7",
+      "title": "'I\u2019ve lived my dream' - MCN goes down memory lane with Brad Binder as he prepares to depart MotoGP",
+      "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/brad-binder",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T10:01:41+00:00",
+      "excerpt": "Brad Binder\u2019s time in MotoGP is coming to an end, with the South African rider now destined for WorldSBK in 2027. His departure brings to a close a seven-season career in the premier class for the...",
+      "image": "https://www.motorcyclenews.com/wp-images/438737/390x260/ghg0731.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.6,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        }
+      ],
+      "form_scores": {
+        "news": 0.55,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.24,
+        "profile-interview": 0.93,
+        "tribute": 0.82,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.12,
+        "press-release": 0.11,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.06,
+        "history": 0.6,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },
@@ -336,6 +336,87 @@
         "sport-bikes",
         "motogp",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "405e535c9ee214a64f04a81f901604bcf5140360",
+      "title": "Sikh Motorcycle Club UK marks 50 years since landmark turban helmet law victory in Manchester",
+      "link": "https://www.motorcyclenews.com/news/2026/september/50th-anniversary-of-sikh-helmet-exemption-marked-by-manchester-ride-out",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T18:01:51+00:00",
+      "excerpt": "The Sikh Motorcycle Club UK, working alongside the family of the late campaigner Gyani Sundar Singh Sagar (known as Gyani Ji) have organised a commemorative motorcycle ride in Manchester to mark 50...",
+      "image": "https://www.motorcyclenews.com/wp-images/439546/390x260/mcn-2.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "events-rides",
+          "label": "Events & Rides"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "events-rides",
+      "confident": true,
+      "cat_scores": {
+        "events-rides": 0.95,
+        "law-safety": 0.91
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        },
+        {
+          "slug": "history",
+          "label": "History"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.19,
+        "opinion": 0.07,
+        "profile-interview": 0.15,
+        "tribute": 0.8,
+        "listing": 0.01,
+        "event-report": 0.26,
+        "event-preview": 0.76,
+        "press-release": 0.28,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.8,
+        "rumor": 0.01,
+        "safety-notice": 0.37,
+        "episode": 0.03,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "events-rides",
+        "law-safety"
       ],
       "also": []
     },

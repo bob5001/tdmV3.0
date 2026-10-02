@@ -3,6 +3,91 @@
   "label": "Profile & Interview",
   "items": [
     {
+      "id": "e2cfe2a05d860b5e3d185252060560cab9f49963",
+      "title": "CHAMPIONS! Inside Triumph\u2019s Historic First MX2 World Title with Guillem Farres and Camden McLellan",
+      "link": "https://mxvice.com/2026/10/02/champions-inside-triumphs-historic-first-mx2-world-title-with-guillem-farres-and-camden-mclellan",
+      "lang": "en",
+      "source": "MX Vice",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Arno van den Brink",
+      "published": "2026-10-02T07:47:58+00:00",
+      "excerpt": "New MX2 World Champion Guillem Farres sits down with his Triumph Racing team-mate Camden McLellan for a special interview with former Motocross of Nations winner and MXGP commentator Paul Malin. Recorded at Triumph\u2019s HQ in the UK just after the team flew back from the final round",
+      "image": "https://mxvice.com/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-21-at-17.29.19-1.jpeg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0,
+        "racing": 0.98,
+        "motocross-supercross": 0.99
+      },
+      "subcategories": [
+        {
+          "slug": "motocross-supercross",
+          "label": "Motocross & Supercross",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "episode",
+          "label": "Episode"
+        }
+      ],
+      "form_scores": {
+        "news": 0.57,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.17,
+        "opinion": 0.08,
+        "profile-interview": 0.98,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.79,
+        "event-preview": 0.02,
+        "press-release": 0.49,
+        "digest": 0.03,
+        "photo-gallery": 0.1,
+        "ride-report": 0.03,
+        "history": 0.17,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
+        "episode": 0.76,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "dirt-mx",
+        "racing",
+        "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
       "id": "2af488c7964515cfc25c7e9f292e83b79e32b8cc",
       "title": "Josh Hayes: For The Love Of Motorcycle Racing",
       "link": "https://www.roadracingworld.com/news/josh-hayes-for-the-love-of-motorcycle-racing",
@@ -385,77 +470,6 @@
       "also": []
     },
     {
-      "id": "6fb65f7817d78ca3724ba863cc288a55162699ae",
-      "title": "Honda UK back 17-year-old's bid to become the youngest-ever round the world rider",
-      "link": "https://www.motorcyclenews.com/news/2026/september/olimoto-youngest-round-the-world-rider-honda",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T09:00:00+00:00",
-      "excerpt": "A father and son duo from Aberdeenshire are gearing up for a round the world adventure with a difference, attempting to set a new record for the youngest male to ever circumnavigate the globe by...",
-      "image": "https://www.motorcyclenews.com/wp-images/438907/390x260/olimoto-rtw-record-honda-1.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        }
-      ],
-      "primary": "adventure",
-      "confident": false,
-      "cat_scores": {
-        "adventure": 0.76,
-        "adv-events-competitions": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.74,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.05,
-        "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.08,
-        "profile-interview": 0.75,
-        "tribute": 0.03,
-        "listing": 0.02,
-        "event-report": 0.07,
-        "event-preview": 0.57,
-        "press-release": 0.23,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.07,
-        "history": 0.07,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.04,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "adventure",
-        "adv-events-competitions"
-      ],
-      "also": []
-    },
-    {
       "id": "759b9d3be1b5b9bc429f49191f5a2d395a243a6b",
       "title": "ZACH OSBORNE INTERVIEW: \u201cI\u2019M ABLE TO ENJOY IT WITHOUT A LOT OF PRESSURE ON THE RESULTS\u201d",
       "link": "https://motocrossactionmag.com/zach-osborne-interview-im-able-to-enjoy-it-without-a-lot-of-pressure-on-the-results",
@@ -533,6 +547,87 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "446e4d0b9f82328b915c544f6a080b8c90ce82b7",
+      "title": "'I\u2019ve lived my dream' - MCN goes down memory lane with Brad Binder as he prepares to depart MotoGP",
+      "link": "https://www.motorcyclenews.com/sport/motogp/2026/september/brad-binder",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T10:01:41+00:00",
+      "excerpt": "Brad Binder\u2019s time in MotoGP is coming to an end, with the South African rider now destined for WorldSBK in 2027. His departure brings to a close a seven-season career in the premier class for the...",
+      "image": "https://www.motorcyclenews.com/wp-images/438737/390x260/ghg0731.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.6,
+        "motogp": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        },
+        {
+          "slug": "tribute",
+          "label": "Tribute"
+        }
+      ],
+      "form_scores": {
+        "news": 0.55,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.24,
+        "profile-interview": 0.93,
+        "tribute": 0.82,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.12,
+        "press-release": 0.11,
+        "digest": 0.06,
+        "photo-gallery": 0.1,
+        "ride-report": 0.06,
+        "history": 0.6,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
       ],
       "also": []
     },
@@ -1278,6 +1373,77 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "6fb65f7817d78ca3724ba863cc288a55162699ae",
+      "title": "Honda UK back 17-year-old's bid to become the youngest-ever round the world rider",
+      "link": "https://www.motorcyclenews.com/news/2026/september/olimoto-youngest-round-the-world-rider-honda",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T09:00:00+00:00",
+      "excerpt": "A father and son duo from Aberdeenshire are gearing up for a round the world adventure with a difference, attempting to set a new record for the youngest male to ever circumnavigate the globe by...",
+      "image": "https://www.motorcyclenews.com/wp-images/438907/390x260/olimoto-rtw-record-honda-1.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        }
+      ],
+      "primary": "adventure",
+      "confident": false,
+      "cat_scores": {
+        "adventure": 0.76,
+        "adv-events-competitions": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.74,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.05,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.08,
+        "profile-interview": 0.75,
+        "tribute": 0.03,
+        "listing": 0.02,
+        "event-report": 0.07,
+        "event-preview": 0.57,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.07,
+        "history": 0.07,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.04,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "adv-events-competitions"
       ],
       "also": []
     },

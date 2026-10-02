@@ -136,83 +136,6 @@
       "also": []
     },
     {
-      "id": "8a9028391eada06e51fbc16110554005277e9a10",
-      "title": "Takaaki Nakagami out of Japanese MotoGP after violent FP1 crash",
-      "link": "https://www.crash.net/motogp/news/1105983/1/takaaki-nakagami-out-japanese-motogp-after-violent-fp1-crash",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T02:56:16+00:00",
-      "excerpt": "Takaaki Nakagami has been declared unfit and ruled out of the remainder of the Japanese MotoGP following his FP1 crash.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1346765_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "law-safety": 0.89,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.94,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.04,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.5,
-        "event-preview": 0.08,
-        "press-release": 0.15,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.08,
-        "rumor": 0.01,
-        "safety-notice": 0.05,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "law-safety",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "aa78a5d8be80c7898443265813ac8f3bc606d15b",
       "title": "Arizona: Lane Splitting Is Now Reckless Driving",
       "link": "https://www.advrider.com/arizona-lane-splitting-is-now-reckless-driving",
@@ -508,6 +431,83 @@
         "racing",
         "law-safety",
         "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "8a9028391eada06e51fbc16110554005277e9a10",
+      "title": "Takaaki Nakagami out of Japanese MotoGP after violent FP1 crash",
+      "link": "https://www.crash.net/motogp/news/1105983/1/takaaki-nakagami-out-japanese-motogp-after-violent-fp1-crash",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T02:56:16+00:00",
+      "excerpt": "Takaaki Nakagami has been declared unfit and ruled out of the remainder of the Japanese MotoGP following his FP1 crash.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1346765_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "law-safety": 0.89,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.04,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.5,
+        "event-preview": 0.08,
+        "press-release": 0.15,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.08,
+        "rumor": 0.01,
+        "safety-notice": 0.05,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "law-safety",
         "motogp"
       ],
       "also": []
@@ -1239,6 +1239,89 @@
       "also": []
     },
     {
+      "id": "bb85c323d847a85791624565a137d9e271ccb736",
+      "title": "Ducati claims Marc Marquez\u2019s Austria brakes issue \u201cwon\u2019t happen again\u201d",
+      "link": "https://www.crash.net/motogp/news/1106067/1/ducati-claims-marc-marquezs-austria-brakes-issue-wont-happen-again",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T07:57:56+00:00",
+      "excerpt": "Ducati says the brake issue that Marc Marquez had in Austria has been fixed",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348611_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "sport-bikes": 0.87,
+        "law-safety": 0.65,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.9,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.04,
+        "explainer": 0.1,
+        "opinion": 0.08,
+        "profile-interview": 0.19,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.05,
+        "press-release": 0.73,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.06,
+        "rumor": 0.03,
+        "safety-notice": 0.07,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "law-safety",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
       "title": "Furygan launches first women-specific motorcycle airbag",
       "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
@@ -1388,83 +1471,6 @@
       "also": []
     },
     {
-      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
-      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
-      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-27T08:00:00+00:00",
-      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "law-safety": 0.56,
-        "motogp": 0.99
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.81,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.2,
-        "profile-interview": 0.15,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.17,
-        "press-release": 0.32,
-        "digest": 0.06,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "law-safety",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "39cc177f786842c7f4c2986744a43618066ab782",
       "title": "Isle of Man TT rider remains hospitalised one month after Classic TT incident",
       "link": "https://www.visordown.com/news/isle-man-tt-rider-remains-hospitalised-one-month-after-classic-tt-incident",
@@ -1540,26 +1546,22 @@
       "also": []
     },
     {
-      "id": "db2126be7974d4d5ac4a97952fb261993417df4a",
-      "title": "Nicolo Bulega left \u201cangry\u201d by dual Italian WorldSBK practice crashes",
-      "link": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
+      "id": "ce47aafa1ea28f9d70b05d2efcfffea071258610",
+      "title": "Jorge Martin arm surgery decision: Aprilia backs \u201clower risk\u201d option",
+      "link": "https://www.crash.net/motogp/news/1105455/1/jorge-martin-arm-surgery-decision-aprilia-backs-lower-risk-option",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T17:56:58+00:00",
-      "excerpt": "Nicolo Bulega says he\u2019s \u201cangry\u201d after crashing twice in practice at the Italian WorldSBK.",
-      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
+      "published": "2026-09-27T08:00:00+00:00",
+      "excerpt": "Aprilia believes avoiding surgery is the \u201clower risk\u201d option for Jorge Martin as he takes a 12-point MotoGP lead into the flyaways.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1346981_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         },
         {
           "slug": "law-safety",
@@ -1570,14 +1572,13 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.97,
-        "sport-bikes": 0.95,
-        "law-safety": 0.66,
-        "worldsbk-superbike": 0.98
+        "law-safety": 0.56,
+        "motogp": 0.99
       },
       "subcategories": [
         {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
+          "slug": "motogp",
+          "label": "MotoGP",
           "parent": "racing"
         }
       ],
@@ -1588,37 +1589,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
+        "news": 0.81,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.01,
         "ranked-list": 0.02,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.41,
+        "explainer": 0.1,
+        "opinion": 0.2,
+        "profile-interview": 0.15,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.52,
-        "event-preview": 0.1,
-        "press-release": 0.06,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.04,
-        "history": 0.06,
-        "rumor": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.17,
+        "press-release": 0.32,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.04,
+        "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "sport-bikes",
         "law-safety",
-        "worldsbk-superbike"
+        "motogp"
       ],
       "also": []
     },
@@ -1703,6 +1703,89 @@
           "published": "2026-09-30T08:09:41+00:00"
         }
       ]
+    },
+    {
+      "id": "db2126be7974d4d5ac4a97952fb261993417df4a",
+      "title": "Nicolo Bulega left \u201cangry\u201d by dual Italian WorldSBK practice crashes",
+      "link": "https://www.crash.net/wsbk/news/1105505/1/nicolo-bulega-left-angry-dual-italian-worldsbk-practice-crashes",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T17:56:58+00:00",
+      "excerpt": "Nicolo Bulega says he\u2019s \u201cangry\u201d after crashing twice in practice at the Italian WorldSBK.",
+      "image": "https://www.crash.net/sites/default/files/2026-09/gng_1347421_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.95,
+        "law-safety": 0.66,
+        "worldsbk-superbike": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.41,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.52,
+        "event-preview": 0.1,
+        "press-release": 0.06,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.04,
+        "history": 0.06,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "law-safety",
+        "worldsbk-superbike"
+      ],
+      "also": []
     },
     {
       "id": "aedc9d70f380a039a7cde55a19cd37677537800d",
