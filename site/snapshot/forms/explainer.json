@@ -3,6 +3,96 @@
   "label": "Explainer",
   "items": [
     {
+      "id": "e75548048c103da193fafb1c5804356e2973217f",
+      "title": "What is \u201cchunking\u201d, the tyre degradation seen on TV at Motegi",
+      "link": "https://www.gpone.com/en/2026/10/03/motogp/what-is-chunking-the-tyre-degradation-seen-on-tv-at-motegi.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-03T07:29:11+00:00",
+      "excerpt": "The rear Ducati tyre shows sections of the tread coming away: a phenomenon different from the blistering mentioned on TV. Here is what changes compared to bubbles and graining, while the causes of the degradation remain unclear",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.9,
+        "sport-bikes": 0.72,
+        "motogp": 0.83,
+        "worldsbk-superbike": 0.63
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.31,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.9,
+        "opinion": 0.12,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.24,
+        "event-preview": 0.04,
+        "press-release": 0.04,
+        "digest": 0.05,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.15
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "89fef438a4f54349761d1953056216d422b86a4f",
       "title": "How to Build a Men\u2019s Motorcycle Kit That You\u2019ll Actually Wear",
       "link": "https://www.webbikeworld.com/how-to-build-a-mens-motorcycle-kit-that-youll-actually-wear",
@@ -459,197 +549,6 @@
       "also": []
     },
     {
-      "id": "aa7f3bcfa82f40c00c0a436e7879022a9c7b2f6f",
-      "title": "Norton ownership: dealerships, warranty, finance and roadside support explained",
-      "link": "https://www.visordown.com/features/norton-ownership-dealerships-warranty-finance-and-roadside-support-explained",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-23T06:46:37+00:00",
-      "excerpt": "From its growing dealer network and Foster + Partners showrooms to warranty, roadside assistance, finance and the Norton Rider app, here\u2019s what Norton ownership looks like.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/norton-range-manx-and-atlas-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
-        }
-      ],
-      "primary": "industry",
-      "confident": false,
-      "cat_scores": {
-        "industry": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.15,
-        "review": 0.04,
-        "comparison-test": 0.03,
-        "first-look": 0.06,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.5,
-        "how-to": 0.08,
-        "explainer": 0.92,
-        "opinion": 0.07,
-        "profile-interview": 0.22,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.44,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.17
-      },
-      "multi_subject": 0.33,
-      "tags": [
-        "industry"
-      ],
-      "also": []
-    },
-    {
-      "id": "22cc4016a041f736ba3cb28c2f8dbe324e077307",
-      "title": "Product Of The Week Presented By iKoniK Insurance Canada- 24/7 Heat Studio Sports Saunas",
-      "link": "https://www.mxpmag.com/product-of-the-week-presented-by-ikonik-insurance-canada-sports-saunas",
-      "lang": "en",
-      "source": "MXP Magazine",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Chris Pomeroy",
-      "published": "2026-09-22T13:50:46+00:00",
-      "excerpt": "For this week\u2019s Product of the Week, we\u2019re shifting gears. Instead of spotlighting something bolted to a bike or worn on the track, we\u2019re looking at a product designed to elevate the athletes who make our sport what it is. Over the past 50 years, motocross has evolved in every di",
-      "image": "https://www.mxpmag.com/wp-content/uploads/2026/01/new-ikonik-ad.gif",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        }
-      ],
-      "primary": "dirt-mx",
-      "confident": true,
-      "cat_scores": {
-        "dirt-mx": 1.0
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.04,
-        "review": 0.42,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
-        "ranked-list": 0.05,
-        "buyers-guide": 0.16,
-        "how-to": 0.04,
-        "explainer": 0.89,
-        "opinion": 0.69,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
-        "listing": 0.1,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.65,
-        "digest": 0.07,
-        "photo-gallery": 0.03,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.02,
-        "safety-notice": 0.01,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "bef1f0b0d69ba554da90ca20d34d241f90f83589",
-      "title": "MOTOREX Top Speed 4T: What\u2019s in the bottle?",
-      "link": "https://www.mcnews.com.au/motorex-top-speed-4t-motorcycle-oil",
-      "lang": "en",
-      "source": "MCNews Australia",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Trev",
-      "published": "2026-09-22T00:35:04+00:00",
-      "excerpt": "Four viscosity grades, JASO MA2 wet-clutch compatibility and a focus on protection under heat and load. We look inside MOTOREX's Top Speed 4T range and explain the starting points for choosing the appropriate oil. The post MOTOREX Top Speed 4T: What\u2019s in the bottle? appeared firs",
-      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-A1-Promo-Motorex-TopSpeed-4T-Cover.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
-        }
-      ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        },
-        {
-          "slug": "buyers-guide",
-          "label": "Buyer's Guide"
-        }
-      ],
-      "form_scores": {
-        "news": 0.11,
-        "review": 0.25,
-        "comparison-test": 0.1,
-        "first-look": 0.04,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.79,
-        "how-to": 0.23,
-        "explainer": 0.9,
-        "opinion": 0.12,
-        "profile-interview": 0.11,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.27,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.13
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "odd-ball"
-      ],
-      "also": []
-    },
-    {
       "id": "cde8793c60a6fc53fa97eba9682a40d8d524682a",
       "title": "Super Stats: 2026 Motocross of Nations Preview and Stats Breakdown",
       "link": "https://pulpmx.com/2026/09/29/super-stats-2026-motocross-of-nations-preview-and-stats-breakdown",
@@ -1020,6 +919,197 @@
       "tags": [
         "new-models",
         "cruisers"
+      ],
+      "also": []
+    },
+    {
+      "id": "aa7f3bcfa82f40c00c0a436e7879022a9c7b2f6f",
+      "title": "Norton ownership: dealerships, warranty, finance and roadside support explained",
+      "link": "https://www.visordown.com/features/norton-ownership-dealerships-warranty-finance-and-roadside-support-explained",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-23T06:46:37+00:00",
+      "excerpt": "From its growing dealer network and Foster + Partners showrooms to warranty, roadside assistance, finance and the Norton Rider app, here\u2019s what Norton ownership looks like.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/norton-range-manx-and-atlas-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "industry",
+      "confident": false,
+      "cat_scores": {
+        "industry": 0.61
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.15,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.06,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.5,
+        "how-to": 0.08,
+        "explainer": 0.92,
+        "opinion": 0.07,
+        "profile-interview": 0.22,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.44,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.03,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.17
+      },
+      "multi_subject": 0.33,
+      "tags": [
+        "industry"
+      ],
+      "also": []
+    },
+    {
+      "id": "22cc4016a041f736ba3cb28c2f8dbe324e077307",
+      "title": "Product Of The Week Presented By iKoniK Insurance Canada- 24/7 Heat Studio Sports Saunas",
+      "link": "https://www.mxpmag.com/product-of-the-week-presented-by-ikonik-insurance-canada-sports-saunas",
+      "lang": "en",
+      "source": "MXP Magazine",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Chris Pomeroy",
+      "published": "2026-09-22T13:50:46+00:00",
+      "excerpt": "For this week\u2019s Product of the Week, we\u2019re shifting gears. Instead of spotlighting something bolted to a bike or worn on the track, we\u2019re looking at a product designed to elevate the athletes who make our sport what it is. Over the past 50 years, motocross has evolved in every di",
+      "image": "https://www.mxpmag.com/wp-content/uploads/2026/01/new-ikonik-ad.gif",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "dirt-mx",
+      "confident": true,
+      "cat_scores": {
+        "dirt-mx": 1.0
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.04,
+        "review": 0.42,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.05,
+        "buyers-guide": 0.16,
+        "how-to": 0.04,
+        "explainer": 0.89,
+        "opinion": 0.69,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.1,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.65,
+        "digest": 0.07,
+        "photo-gallery": 0.03,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.02,
+        "safety-notice": 0.01,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "bef1f0b0d69ba554da90ca20d34d241f90f83589",
+      "title": "MOTOREX Top Speed 4T: What\u2019s in the bottle?",
+      "link": "https://www.mcnews.com.au/motorex-top-speed-4t-motorcycle-oil",
+      "lang": "en",
+      "source": "MCNews Australia",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Trev",
+      "published": "2026-09-22T00:35:04+00:00",
+      "excerpt": "Four viscosity grades, JASO MA2 wet-clutch compatibility and a focus on protection under heat and load. We look inside MOTOREX's Top Speed 4T range and explain the starting points for choosing the appropriate oil. The post MOTOREX Top Speed 4T: What\u2019s in the bottle? appeared firs",
+      "image": "https://www.mcnews.com.au/wp-content/uploads/2026/09/2026-A1-Promo-Motorex-TopSpeed-4T-Cover.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "odd-ball",
+          "label": "Odd Ball"
+        }
+      ],
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        },
+        {
+          "slug": "buyers-guide",
+          "label": "Buyer's Guide"
+        }
+      ],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.25,
+        "comparison-test": 0.1,
+        "first-look": 0.04,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.79,
+        "how-to": 0.23,
+        "explainer": 0.9,
+        "opinion": 0.12,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.27,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.13
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "odd-ball"
       ],
       "also": []
     },
