@@ -436,7 +436,14 @@
         "law-safety",
         "motogp"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "GPone",
+          "title": "Double Long Lap penalty for Alex Marquez in the Motegi Grand Prix",
+          "link": "https://www.gpone.com/en/2026/10/03/motogp/double-long-lap-penalty-for-alex-marquez-in-the-motegi-grand-prix.html",
+          "published": "2026-10-03T07:38:10+00:00"
+        }
+      ]
     },
     {
       "id": "83c09b039f40948bd7d7c83a6e1a95affdb5dde1",
@@ -962,16 +969,16 @@
       ]
     },
     {
-      "id": "5a5f68ee2979d231a14c796e96c2172648e85551",
-      "title": "Double Long Lap penalty for Alex Marquez in the Motegi Grand Prix",
-      "link": "https://www.gpone.com/en/2026/10/03/motogp/double-long-lap-penalty-for-alex-marquez-in-the-motegi-grand-prix.html",
+      "id": "725850fb879bfecb4578421eeed71eaadcd9db80",
+      "title": "Collin Veijer undergoes surgery: recovery timeline still uncertain",
+      "link": "https://www.gpone.com/en/2026/09/23/moto2/collin-veijer-undergoes-surgery-recovery-timeline-still-uncertain.html",
       "lang": "en",
       "source": "GPone",
       "ownership": "independent",
       "media": "article",
       "author": "GPOne",
-      "published": "2026-10-03T07:38:10+00:00",
-      "excerpt": "The Stewards have penalised the Gresini team rider for bringing down Acosta and Di Giannantonio in the Sprint",
+      "published": "2026-09-23T10:54:56+00:00",
+      "excerpt": "The Ajo team rider fractured his left collarbone at the Red Bull Ring; he is expected to be discharged from the hospital in the next few hours",
       "image": null,
       "audio": null,
       "categories": [
@@ -982,19 +989,14 @@
         {
           "slug": "law-safety",
           "label": "Law & Safety"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 1.0,
-        "law-safety": 0.79,
-        "sport-bikes": 0.7,
-        "motogp": 0.98
+        "law-safety": 0.52,
+        "motogp": 0.93
       },
       "subcategories": [
         {
@@ -1005,45 +1007,40 @@
       ],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
+        "news": 0.92,
         "review": 0.01,
-        "comparison-test": 0.02,
+        "comparison-test": 0.01,
         "first-look": 0.01,
-        "ranked-list": 0.02,
+        "ranked-list": 0.01,
         "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.05,
-        "profile-interview": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.07,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.92,
-        "event-preview": 0.04,
-        "press-release": 0.13,
-        "digest": 0.09,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.08,
+        "event-report": 0.23,
+        "event-preview": 0.03,
+        "press-release": 0.25,
+        "digest": 0.07,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
+        "history": 0.03,
         "rumor": 0.01,
-        "safety-notice": 0.12,
-        "episode": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.03,
         "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
         "racing",
         "law-safety",
-        "sport-bikes",
         "motogp"
       ],
       "also": []
@@ -1499,83 +1496,6 @@
         "racing",
         "law-safety",
         "sport-bikes",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
-      "id": "725850fb879bfecb4578421eeed71eaadcd9db80",
-      "title": "Collin Veijer undergoes surgery: recovery timeline still uncertain",
-      "link": "https://www.gpone.com/en/2026/09/23/moto2/collin-veijer-undergoes-surgery-recovery-timeline-still-uncertain.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-23T10:54:56+00:00",
-      "excerpt": "The Ajo team rider fractured his left collarbone at the Red Bull Ring; he is expected to be discharged from the hospital in the next few hours",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "law-safety": 0.52,
-        "motogp": 0.93
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.92,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.07,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.23,
-        "event-preview": 0.03,
-        "press-release": 0.25,
-        "digest": 0.07,
-        "photo-gallery": 0.05,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "racing",
-        "law-safety",
         "motogp"
       ],
       "also": []

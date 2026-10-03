@@ -77,7 +77,14 @@
         "racing",
         "events-rides"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Classic Motorcycle UK",
+          "title": "Everything you need to know about the Stafford Classic Motorcycle Mechanics Show 2026",
+          "link": "https://www.classicmotorcycle.co.uk/everything-you-need-to-know-about-the-stafford-classic-motorcycle-mechanics-show-2026",
+          "published": "2026-10-03T07:24:00+00:00"
+        }
+      ]
     },
     {
       "id": "a83dd39b93c41f39ecf0b9a08516bd5f3e5a87d4",
@@ -313,6 +320,64 @@
       "also": []
     },
     {
+      "id": "846618b110a01a6401266bacce8b6bb132d3dd26",
+      "title": "November 2026",
+      "link": "https://www.classicmotorcycle.co.uk/november-2026",
+      "lang": "en",
+      "source": "Classic Motorcycle UK",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Alex Bestwick",
+      "published": "2026-10-01T14:45:43+00:00",
+      "excerpt": "The November edition of The Classic MotorCycle magazine offers a lavishly illustrated celebration of legendary machines, riders and races, and news, reviews and rare period images from the golden age of motorcycling. Drawing on an archive stretching back to 1903, The Classic Moto",
+      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/10/tcm-nov-2026.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "classic",
+      "confident": true,
+      "cat_scores": {
+        "classic": 0.98
+      },
+      "subcategories": [],
+      "forms": [],
+      "form_scores": {
+        "news": 0.11,
+        "review": 0.05,
+        "comparison-test": 0.06,
+        "first-look": 0.07,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.16,
+        "how-to": 0.03,
+        "explainer": 0.16,
+        "opinion": 0.08,
+        "profile-interview": 0.27,
+        "tribute": 0.16,
+        "listing": 0.06,
+        "event-report": 0.07,
+        "event-preview": 0.05,
+        "press-release": 0.25,
+        "digest": 0.51,
+        "photo-gallery": 0.13,
+        "ride-report": 0.03,
+        "history": 0.48,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.1,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.78,
+      "tags": [
+        "classic"
+      ],
+      "also": []
+    },
+    {
       "id": "304dec0483380d1fb20087b559fa1ff74e2d793d",
       "title": "New BSA Gold Star Paint Job Has A Much Cooler Backstory Than You\u2019d Expect",
       "link": "https://www.rideapart.com/news/810154/bsa-gold-star-650-new-colors-birmingham-blue-brooklands-black",
@@ -453,81 +518,6 @@
       "also": []
     },
     {
-      "id": "9d1df7c8389b080e071492547188888c5f3fa872",
-      "title": "Everything you need to know about the Stafford Classic Motorcycle Mechanics Show 2026",
-      "link": "https://www.classicmotorcycle.co.uk/everything-you-need-to-know-about-the-stafford-classic-motorcycle-mechanics-show-2026",
-      "lang": "en",
-      "source": "Classic Motorcycle UK",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Mark Lancaster",
-      "published": "2026-10-03T07:24:00+00:00",
-      "excerpt": "The Classic Motorcycle Mechanics Show sponsored by Carole Nash returns to Staffordshire Showground on October 10-11, with more than 900 traders, dealers and autojumble stands, a huge club presence, famous racing machinery, special guests and the Bonhams Autumn Stafford Sale. Staf",
-      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/10/474777722_1039023684921357_5488399472854004606_n-1024x693.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "events-rides",
-          "label": "Events & Rides"
-        }
-      ],
-      "primary": "classic",
-      "confident": true,
-      "cat_scores": {
-        "classic": 0.96,
-        "racing": 0.78,
-        "events-rides": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.73,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.19,
-        "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.98,
-        "press-release": 0.64,
-        "digest": 0.07,
-        "photo-gallery": 0.02,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.09,
-      "tags": [
-        "classic",
-        "racing",
-        "events-rides"
-      ],
-      "also": []
-    },
-    {
       "id": "7cd27f08a53ad1e50e11d4b58552b6ec6adf81e6",
       "title": "Book Review: Encounters \u2013 Brough Superior in Austria",
       "link": "https://thevintagent.com/2026/10/02/book-review-encounters-brough-superior-in-austria",
@@ -591,17 +581,17 @@
       "also": []
     },
     {
-      "id": "846618b110a01a6401266bacce8b6bb132d3dd26",
-      "title": "November 2026",
-      "link": "https://www.classicmotorcycle.co.uk/november-2026",
+      "id": "a0dffef9e9b3adcb0c9a89829fb48c970ef332a9",
+      "title": "Wartime DKW emerges from the River Danube",
+      "link": "https://www.classicmotorcycle.co.uk/wartime-dkw-emerges-from-the-river-danube",
       "lang": "en",
       "source": "Classic Motorcycle UK",
       "ownership": "commercial",
       "media": "article",
-      "author": "Alex Bestwick",
-      "published": "2026-10-01T14:45:43+00:00",
-      "excerpt": "The November edition of The Classic MotorCycle magazine offers a lavishly illustrated celebration of legendary machines, riders and races, and news, reviews and rare period images from the golden age of motorcycling. Drawing on an archive stretching back to 1903, The Classic Moto",
-      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/10/tcm-nov-2026.jpg",
+      "author": "Mark Lancaster",
+      "published": "2026-09-30T15:40:46+00:00",
+      "excerpt": "Global warming across the world has resulted in water levels in rivers, lakes and reservoirs dropping, leading to the reemergence of long-submerged buildings and even villages. But in Budapest, a decrease in the level of the Danube has led to a particularly interesting discovery.",
+      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/09/dkw-3-1024x640.jpg",
       "audio": null,
       "categories": [
         {
@@ -612,37 +602,42 @@
       "primary": "classic",
       "confident": true,
       "cat_scores": {
-        "classic": 0.98
+        "classic": 0.95
       },
       "subcategories": [],
-      "forms": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
       "form_scores": {
-        "news": 0.11,
-        "review": 0.05,
-        "comparison-test": 0.06,
-        "first-look": 0.07,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.16,
-        "how-to": 0.03,
-        "explainer": 0.16,
-        "opinion": 0.08,
-        "profile-interview": 0.27,
-        "tribute": 0.16,
-        "listing": 0.06,
-        "event-report": 0.07,
-        "event-preview": 0.05,
-        "press-release": 0.25,
-        "digest": 0.51,
-        "photo-gallery": 0.13,
-        "ride-report": 0.03,
-        "history": 0.48,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
+        "news": 0.85,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.26,
+        "opinion": 0.03,
+        "profile-interview": 0.02,
+        "tribute": 0.19,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.03,
+        "ride-report": 0.01,
+        "history": 0.65,
+        "rumor": 0.01,
+        "safety-notice": 0.01,
         "episode": 0.02,
-        "build-feature": 0.1,
-        "q-and-a": 0.03
+        "build-feature": 0.02,
+        "q-and-a": 0.01
       },
-      "multi_subject": 0.78,
+      "multi_subject": 0.05,
       "tags": [
         "classic"
       ],
@@ -866,69 +861,6 @@
         "classic",
         "dirt-mx",
         "restomods"
-      ],
-      "also": []
-    },
-    {
-      "id": "a0dffef9e9b3adcb0c9a89829fb48c970ef332a9",
-      "title": "Wartime DKW emerges from the River Danube",
-      "link": "https://www.classicmotorcycle.co.uk/wartime-dkw-emerges-from-the-river-danube",
-      "lang": "en",
-      "source": "Classic Motorcycle UK",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Mark Lancaster",
-      "published": "2026-09-30T15:40:46+00:00",
-      "excerpt": "Global warming across the world has resulted in water levels in rivers, lakes and reservoirs dropping, leading to the reemergence of long-submerged buildings and even villages. But in Budapest, a decrease in the level of the Danube has led to a particularly interesting discovery.",
-      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/09/dkw-3-1024x640.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "classic",
-      "confident": true,
-      "cat_scores": {
-        "classic": 0.95
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.85,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.26,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.19,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.03,
-        "ride-report": 0.01,
-        "history": 0.65,
-        "rumor": 0.01,
-        "safety-notice": 0.01,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.01
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "classic"
       ],
       "also": []
     },
@@ -1928,6 +1860,69 @@
       "also": []
     },
     {
+      "id": "c369703eea8b5dc97a7923d733af0858e76aa1c5",
+      "title": "Readers\u2019 Tale: A year to remember",
+      "link": "https://www.classicmotorcycle.co.uk/readers-tale-a-year-to-remember",
+      "lang": "en",
+      "source": "Classic Motorcycle UK",
+      "ownership": "commercial",
+      "media": "article",
+      "author": "Mark Lancaster",
+      "published": "2026-09-23T17:11:59+00:00",
+      "excerpt": "John Stevenson (aka 5012094 SAC Stevenson J) looks back on a special year in his life. Many people I think have a special year \u2013 always to be remembered. It could be national, such as the 1966 football World Cup or it could be personal. Perhaps trivial, perhaps not. The pilot\u2019s n",
+      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/09/stevenson-1_amd-659x1024.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "classic",
+          "label": "Classic"
+        }
+      ],
+      "primary": "classic",
+      "confident": false,
+      "cat_scores": {
+        "classic": 0.65
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "history",
+          "label": "History"
+        }
+      ],
+      "form_scores": {
+        "news": 0.02,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.11,
+        "opinion": 0.12,
+        "profile-interview": 0.53,
+        "tribute": 0.59,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.01,
+        "press-release": 0.02,
+        "digest": 0.07,
+        "photo-gallery": 0.02,
+        "ride-report": 0.64,
+        "history": 0.91,
+        "rumor": 0.01,
+        "safety-notice": 0.03,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.11,
+      "tags": [
+        "classic"
+      ],
+      "also": []
+    },
+    {
       "id": "c6e14bca22521d0f5bdba06dc9c82f5c24d8be47",
       "title": "Common Denominator: Eric Hendrikx and Motorcycle Life",
       "link": "https://thevintagent.com/2026/09/28/common-denominator-eric-hendrikx-and-motorcycle-life",
@@ -2147,69 +2142,6 @@
         "custom",
         "for-sale",
         "cafe-racers"
-      ],
-      "also": []
-    },
-    {
-      "id": "c369703eea8b5dc97a7923d733af0858e76aa1c5",
-      "title": "Readers\u2019 Tale: A year to remember",
-      "link": "https://www.classicmotorcycle.co.uk/readers-tale-a-year-to-remember",
-      "lang": "en",
-      "source": "Classic Motorcycle UK",
-      "ownership": "commercial",
-      "media": "article",
-      "author": "Mark Lancaster",
-      "published": "2026-09-23T17:11:59+00:00",
-      "excerpt": "John Stevenson (aka 5012094 SAC Stevenson J) looks back on a special year in his life. Many people I think have a special year \u2013 always to be remembered. It could be national, such as the 1966 football World Cup or it could be personal. Perhaps trivial, perhaps not. The pilot\u2019s n",
-      "image": "https://www.classicmotorcycle.co.uk/wp-content/uploads/sites/17/2026/09/stevenson-1_amd-659x1024.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "classic",
-      "confident": false,
-      "cat_scores": {
-        "classic": 0.65
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "history",
-          "label": "History"
-        }
-      ],
-      "form_scores": {
-        "news": 0.02,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.11,
-        "opinion": 0.12,
-        "profile-interview": 0.53,
-        "tribute": 0.59,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.01,
-        "press-release": 0.02,
-        "digest": 0.07,
-        "photo-gallery": 0.02,
-        "ride-report": 0.64,
-        "history": 0.91,
-        "rumor": 0.01,
-        "safety-notice": 0.03,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.11,
-      "tags": [
-        "classic"
       ],
       "also": []
     },

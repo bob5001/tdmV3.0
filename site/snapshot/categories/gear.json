@@ -726,6 +726,83 @@
       "also": []
     },
     {
+      "id": "e32e68015eb5ca7642cfdda800ce5bdc6cbe7bea",
+      "title": "Michelin makes major tyre change after Motegi MotoGP Sprint",
+      "link": "https://www.crash.net/motogp/news/1106323/1/michelin-makes-major-tyre-change-after-motegi-motogp-sprint",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-03T10:10:25+00:00",
+      "excerpt": "Michelin has removed the soft rear from the Japanese MotoGP allocation and recommends the reinforced hard, which nobody has yet used.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350386_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.96,
+        "gear": 0.96,
+        "motogp": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.04,
+        "comparison-test": 0.05,
+        "first-look": 0.09,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.08,
+        "how-to": 0.04,
+        "explainer": 0.14,
+        "opinion": 0.07,
+        "profile-interview": 0.08,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.69,
+        "event-preview": 0.1,
+        "press-release": 0.56,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.09,
+        "safety-notice": 0.17,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "f46c5f7758f058102e7eef7ef7efab24da4e5829",
       "title": "I Got A Hands-On Look At Cardo's New Noise-Cancelling Motorcycle Helmet. What Do You Want To Know?",
       "link": "https://www.rideapart.com/news/810078/cardo-beyond-gts-motorcycle-helmet-anc-hands-on-first-look",
@@ -854,90 +931,6 @@
         "gear"
       ],
       "also": []
-    },
-    {
-      "id": "6a3cfc28b8994eec9c56c3e97b8ba9cab5f7d979",
-      "title": "Multiple MotoGP riders dismiss Michelin\u2019s Motegi addition",
-      "link": "https://www.crash.net/motogp/news/1105933/1/multiple-motogp-riders-dismiss-michelins-motegi-addition",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T08:52:06+00:00",
-      "excerpt": "MotoGP riders have dismissed the viability Michelin\u2019s harder-construction rear tyre at the Japanese Grand Prix.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348467_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "gear": 0.93,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.79,
-        "review": 0.05,
-        "comparison-test": 0.1,
-        "first-look": 0.43,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.11,
-        "opinion": 0.21,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.17,
-        "event-preview": 0.38,
-        "press-release": 0.1,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.07,
-        "rumor": 0.06,
-        "safety-notice": 0.05,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "GPone",
-          "title": "Michelin: \"At Motegi, the main challenge will be the new asphalt\"",
-          "link": "https://www.gpone.com/en/2026/09/30/motogp/michelin-at-motegi-the-main-challenge-will-be-the-new-asphalt.html",
-          "published": "2026-09-30T12:34:43+00:00"
-        }
-      ]
     },
     {
       "id": "e2986c2f640c75b77c27157707893a6c4fce244f",
@@ -1662,87 +1655,6 @@
       "also": []
     },
     {
-      "id": "1cec5826dd1294473c5f21780801792761796fbe",
-      "title": "Why Marco Bezzecchi\u2019s costly Japanese MotoGP tyre call was correct \u201con paper\u201d",
-      "link": "https://www.crash.net/motogp/news/1106300/1/why-marco-bezzecchis-costly-japanese-motogp-tyre-call-was-correct-paper",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-03T08:39:15+00:00",
-      "excerpt": "Marco Bezzecchi has defended his alternative rear tyre choice in the Japanese MotoGP Sprint despite slumping to sixth.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1349548_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.98,
-        "gear": 0.72,
-        "motogp": 0.98
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "opinion",
-          "label": "Opinion"
-        }
-      ],
-      "form_scores": {
-        "news": 0.56,
-        "review": 0.03,
-        "comparison-test": 0.04,
-        "first-look": 0.03,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.03,
-        "explainer": 0.54,
-        "opinion": 0.82,
-        "profile-interview": 0.43,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.06,
-        "digest": 0.05,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.07,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
       "title": "Furygan launches first women-specific motorcycle airbag",
       "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
@@ -1819,6 +1731,90 @@
           "title": "Furygan release new airbag vest specifically designed for ladies",
           "link": "https://www.motorcyclenews.com/bike-kit/news/2026-kit-news/october/furygan-ladies-airbag",
           "published": "2026-10-01T17:25:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": "6a3cfc28b8994eec9c56c3e97b8ba9cab5f7d979",
+      "title": "Multiple MotoGP riders dismiss Michelin\u2019s Motegi addition",
+      "link": "https://www.crash.net/motogp/news/1105933/1/multiple-motogp-riders-dismiss-michelins-motegi-addition",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T08:52:06+00:00",
+      "excerpt": "MotoGP riders have dismissed the viability Michelin\u2019s harder-construction rear tyre at the Japanese Grand Prix.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1348467_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "gear": 0.93,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.05,
+        "comparison-test": 0.1,
+        "first-look": 0.43,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.11,
+        "opinion": 0.21,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.17,
+        "event-preview": 0.38,
+        "press-release": 0.1,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.06,
+        "safety-notice": 0.05,
+        "episode": 0.04,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "GPone",
+          "title": "Michelin: \"At Motegi, the main challenge will be the new asphalt\"",
+          "link": "https://www.gpone.com/en/2026/09/30/motogp/michelin-at-motegi-the-main-challenge-will-be-the-new-asphalt.html",
+          "published": "2026-09-30T12:34:43+00:00"
         }
       ]
     },
@@ -1973,17 +1969,17 @@
       "also": []
     },
     {
-      "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
-      "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
-      "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
+      "id": "c762a6655e93e54e59ba54acc41531cba4dee115",
+      "title": "MotoGP considering mandatory hard tyre as Miller warns of \u201clottery\u201d",
+      "link": "https://www.crash.net/motogp/news/1106315/1/motogp-considering-mandatory-hard-tyre-miller-warns-lottery",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T00:40:21+00:00",
-      "excerpt": "The stiffer Michelin rear tyre that Ducati struggled with in Austria returns as part of this weekend\u2019s expanded allocation for the Japanese MotoGP.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/marc-marquez-2025.jpg?width=1200",
+      "published": "2026-10-03T09:20:25+00:00",
+      "excerpt": "Jack Miller says blistering on both the soft and medium rears could force a mandatory hard tyre for the grand prix, turning the Motegi MotoGP into a \u201clottery\u201d.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350063_hires_1600x900.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -1999,7 +1995,7 @@
       "confident": true,
       "cat_scores": {
         "racing": 0.98,
-        "gear": 0.83,
+        "gear": 0.7,
         "motogp": 0.98
       },
       "subcategories": [
@@ -2009,43 +2005,34 @@
           "parent": "racing"
         }
       ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
+      "forms": [],
       "form_scores": {
-        "news": 0.79,
-        "review": 0.04,
-        "comparison-test": 0.06,
-        "first-look": 0.08,
-        "ranked-list": 0.02,
+        "news": 0.55,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.01,
         "buyers-guide": 0.02,
         "how-to": 0.02,
-        "explainer": 0.15,
-        "opinion": 0.26,
-        "profile-interview": 0.07,
+        "explainer": 0.14,
+        "opinion": 0.24,
+        "profile-interview": 0.21,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.08,
-        "event-preview": 0.95,
-        "press-release": 0.12,
-        "digest": 0.07,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
+        "event-report": 0.11,
+        "event-preview": 0.66,
+        "press-release": 0.09,
+        "digest": 0.06,
+        "photo-gallery": 0.05,
+        "ride-report": 0.02,
         "history": 0.04,
         "rumor": 0.04,
-        "safety-notice": 0.05,
+        "safety-notice": 0.23,
         "episode": 0.03,
         "build-feature": 0.01,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "gear",
@@ -2129,6 +2116,168 @@
         "gear",
         "adventure",
         "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "1cec5826dd1294473c5f21780801792761796fbe",
+      "title": "Why Marco Bezzecchi\u2019s costly Japanese MotoGP tyre call was correct \u201con paper\u201d",
+      "link": "https://www.crash.net/motogp/news/1106300/1/why-marco-bezzecchis-costly-japanese-motogp-tyre-call-was-correct-paper",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-03T08:39:15+00:00",
+      "excerpt": "Marco Bezzecchi has defended his alternative rear tyre choice in the Japanese MotoGP Sprint despite slumping to sixth.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1349548_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "gear": 0.72,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "opinion",
+          "label": "Opinion"
+        }
+      ],
+      "form_scores": {
+        "news": 0.56,
+        "review": 0.03,
+        "comparison-test": 0.04,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.03,
+        "explainer": 0.54,
+        "opinion": 0.82,
+        "profile-interview": 0.43,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.05,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.07,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "5c39313d0fe83c13dd7132979becc590e28b8465",
+      "title": "Motegi tyre allocation poses fresh concern for Marc Marquez and Ducati",
+      "link": "https://www.crash.net/motogp/news/1105913/1/motegi-tyre-allocation-poses-fresh-concern-marc-marquez-and-ducati",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T00:40:21+00:00",
+      "excerpt": "The stiffer Michelin rear tyre that Ducati struggled with in Austria returns as part of this weekend\u2019s expanded allocation for the Japanese MotoGP.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/marc-marquez-2025.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "gear": 0.83,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.04,
+        "comparison-test": 0.06,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.15,
+        "opinion": 0.26,
+        "profile-interview": 0.07,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.08,
+        "event-preview": 0.95,
+        "press-release": 0.12,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.04,
+        "safety-notice": 0.05,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
       ],
       "also": []
     },
