@@ -5,6 +5,90 @@
   "children": [],
   "items": [
     {
+      "id": "30c98f3603e9c1e4a811da416899dcfaff0fbd73",
+      "title": "Michelin bans soft compound for MotoGP Japanese GP",
+      "link": "https://www.autosport.com/motogp/news/michelin-bans-soft-compound-for-motogp-japanese-gp/10861464",
+      "lang": "en",
+      "source": "Autosport (MotoGP)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-03T10:38:08+00:00",
+      "excerpt": "Following acute tyre difficulties for some riders during today's sprint race at Motegi, MotoGP tyre supplier Michelin has taken the extreme step of banning the soft compound for tomorrow's Japanese Grand Prix. Jorge Martin and Francesco Bagnaia were particularly affected by high ",
+      "image": "https://cdn-7.motorsport.com/images/amp/0JXRMeBY/s6/jorge-martin-aprilia-racing-te.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.9,
+        "motogp": 0.98
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.07,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.64,
+        "event-preview": 0.72,
+        "press-release": 0.42,
+        "digest": 0.05,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.05,
+        "rumor": 0.03,
+        "safety-notice": 0.65,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Michelin makes major tyre change after Motegi MotoGP Sprint",
+          "link": "https://www.crash.net/motogp/news/1106323/1/michelin-makes-major-tyre-change-after-motegi-motogp-sprint",
+          "published": "2026-10-03T10:10:25+00:00"
+        }
+      ]
+    },
+    {
       "id": "348a017fb36b77630b9b9d415a2ac66c7685ca6d",
       "title": "Continental motorcycle tyres join A1 Accessory Imports in Australia",
       "link": "https://www.mcnews.com.au/continental-motorcycle-tyres-a1-accessory-imports-australia",
@@ -370,159 +454,6 @@
       "also": []
     },
     {
-      "id": "43cf13db4906010c130f4c743050b5e62a472c23",
-      "title": "12 Best Motorcycle Upgrades for 2026: Essential Gear for Safety, Comfort and Reliability",
-      "link": "https://www.returnofthecaferacers.com/motorcycle-accessories/12-best-motorcycle-upgrades-for-2026-essential-gear-for-safety-comfort-and-reliability",
-      "lang": "en",
-      "source": "Return of the Cafe Racers",
-      "ownership": "independent",
-      "media": "article",
-      "author": "Mark Capayas",
-      "published": "2026-09-23T10:47:42+00:00",
-      "excerpt": "Motorcycle accessories are a massive market, but not every product deserves space on a bike. The most useful upgrades are the ones that solve genuine problems: protecting the rider, improving visibility, reducing distraction, preventing mechanical failures, or making long-distanc",
-      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/DSC1645-scaled-80782.webp",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.96
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.05,
-        "review": 0.03,
-        "comparison-test": 0.27,
-        "first-look": 0.03,
-        "ranked-list": 0.97,
-        "buyers-guide": 0.68,
-        "how-to": 0.11,
-        "explainer": 0.33,
-        "opinion": 0.48,
-        "profile-interview": 0.04,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.12,
-        "digest": 0.13,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.57,
-      "tags": [
-        "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "e75548048c103da193fafb1c5804356e2973217f",
-      "title": "What is \u201cchunking\u201d, the tyre degradation seen on TV at Motegi",
-      "link": "https://www.gpone.com/en/2026/10/03/motogp/what-is-chunking-the-tyre-degradation-seen-on-tv-at-motegi.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-10-03T07:29:11+00:00",
-      "excerpt": "The rear Ducati tyre shows sections of the tread coming away: a phenomenon different from the blistering mentioned on TV. Here is what changes compared to bubbles and graining, while the causes of the degradation remain unclear",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "gear": 0.9,
-        "sport-bikes": 0.72,
-        "motogp": 0.83,
-        "worldsbk-superbike": 0.63
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        },
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "explainer",
-          "label": "Explainer"
-        }
-      ],
-      "form_scores": {
-        "news": 0.31,
-        "review": 0.04,
-        "comparison-test": 0.03,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.04,
-        "explainer": 0.9,
-        "opinion": 0.12,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.24,
-        "event-preview": 0.04,
-        "press-release": 0.04,
-        "digest": 0.05,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.04,
-        "rumor": 0.02,
-        "safety-notice": 0.03,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.15
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "gear",
-        "sport-bikes",
-        "motogp",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
       "id": "75a12adcd44772d7e049d61cdcbd129a57eb1210",
       "title": "Alpinestars Unveils Latest Racing Sport Collection. Hold On To Your Wallet",
       "link": "https://www.rideapart.com/news/810364/2027-alpinestars-debuts-motorcycle-gear-racing-sport-collection",
@@ -726,17 +657,17 @@
       "also": []
     },
     {
-      "id": "e32e68015eb5ca7642cfdda800ce5bdc6cbe7bea",
-      "title": "Michelin makes major tyre change after Motegi MotoGP Sprint",
-      "link": "https://www.crash.net/motogp/news/1106323/1/michelin-makes-major-tyre-change-after-motegi-motogp-sprint",
+      "id": "f861f8e4c53c90fc2d0aab771ffb5e19d7bd42d1",
+      "title": "One of remaining Japanese MotoGP tyres described as \u201crisky\u201d by Michelin",
+      "link": "https://www.crash.net/motogp/news/1106328/1/one-remaining-japanese-motogp-tyres-described-risky-michelin",
       "lang": "en",
       "source": "Crash.net",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-03T10:10:25+00:00",
-      "excerpt": "Michelin has removed the soft rear from the Japanese MotoGP allocation and recommends the reinforced hard, which nobody has yet used.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350386_hires_1600x900.jpg?width=1200",
+      "published": "2026-10-03T11:30:10+00:00",
+      "excerpt": "Michelin MotoGP boss Piero Taramasso says one of the tyres remaining in the allocation in Japan is \u201crisky\u201d.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350152_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -751,8 +682,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "gear": 0.96,
+        "racing": 0.95,
+        "gear": 0.93,
         "motogp": 0.97
       },
       "subcategories": [
@@ -769,30 +700,30 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
+        "news": 0.85,
         "review": 0.04,
-        "comparison-test": 0.05,
-        "first-look": 0.09,
+        "comparison-test": 0.04,
+        "first-look": 0.07,
         "ranked-list": 0.02,
-        "buyers-guide": 0.08,
-        "how-to": 0.04,
-        "explainer": 0.14,
-        "opinion": 0.07,
-        "profile-interview": 0.08,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.14,
+        "profile-interview": 0.24,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.69,
-        "event-preview": 0.1,
-        "press-release": 0.56,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.09,
-        "safety-notice": 0.17,
-        "episode": 0.03,
+        "listing": 0.02,
+        "event-report": 0.09,
+        "event-preview": 0.38,
+        "press-release": 0.24,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.06,
+        "safety-notice": 0.11,
+        "episode": 0.04,
         "build-feature": 0.01,
-        "q-and-a": 0.04
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
@@ -933,6 +864,96 @@
       "also": []
     },
     {
+      "id": "e75548048c103da193fafb1c5804356e2973217f",
+      "title": "What is \u201cchunking\u201d, the tyre degradation seen on TV at Motegi",
+      "link": "https://www.gpone.com/en/2026/10/03/motogp/what-is-chunking-the-tyre-degradation-seen-on-tv-at-motegi.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-03T07:29:11+00:00",
+      "excerpt": "The rear Ducati tyre shows sections of the tread coming away: a phenomenon different from the blistering mentioned on TV. Here is what changes compared to bubbles and graining, while the causes of the degradation remain unclear",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.9,
+        "sport-bikes": 0.72,
+        "motogp": 0.83,
+        "worldsbk-superbike": 0.63
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        },
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "explainer",
+          "label": "Explainer"
+        }
+      ],
+      "form_scores": {
+        "news": 0.31,
+        "review": 0.04,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.9,
+        "opinion": 0.12,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.24,
+        "event-preview": 0.04,
+        "press-release": 0.04,
+        "digest": 0.05,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.04,
+        "rumor": 0.02,
+        "safety-notice": 0.03,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.15
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "gear",
+        "sport-bikes",
+        "motogp",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "e2986c2f640c75b77c27157707893a6c4fce244f",
       "title": "Popular LS2 Spectrum intercom gains new voice operation technology",
       "link": "https://www.visordown.com/news/popular-ls2-spectrum-intercom-gains-new-voice-operation-technology",
@@ -996,91 +1017,6 @@
       "multi_subject": 0.04,
       "tags": [
         "gear"
-      ],
-      "also": []
-    },
-    {
-      "id": "2e5e2b03967ff98cea78ea59a0e04d74e55fdbdb",
-      "title": "Pirelli takes on Motegi and new track surface: \"It's the main variable\"",
-      "link": "https://www.gpone.com/en/2026/09/28/moto2/pirelli-takes-on-motegi-and-new-track-surface-its-the-main-variable.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-09-28T17:27:46+00:00",
-      "excerpt": "They confirmed the 2025 tires for the Moto2 and Moto3, but the grip on the new surface will be assessed on site",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "gear": 0.94,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.82,
-        "review": 0.06,
-        "comparison-test": 0.05,
-        "first-look": 0.15,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.1,
-        "profile-interview": 0.72,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.07,
-        "event-preview": 0.82,
-        "press-release": 0.75,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.04,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.05
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "gear",
-        "motogp"
       ],
       "also": []
     },
@@ -1655,6 +1591,174 @@
       "also": []
     },
     {
+      "id": "63b6265aa75d17b246cc21ae3584708b67d59f09",
+      "title": "Bagnaia: \u201cThe tire problem? It\u2019s because I\u2019m lacking grip.\u201d",
+      "link": "https://www.gpone.com/en/2026/10/03/motogp/bagnaia-the-tire-problem-its-because-im-lacking-grip.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Daniela Piazza",
+      "published": "2026-10-03T09:26:38+00:00",
+      "excerpt": "\u201cMaybe that happened to Martin, because he was keeping a pretty fast pace, but I\u2019m struggling with a lack of grip. The tire slips a lot when I accelerate, and it overheats.\u201d",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.84,
+        "gear": 0.51,
+        "motogp": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.42,
+        "review": 0.06,
+        "comparison-test": 0.04,
+        "first-look": 0.08,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.04,
+        "explainer": 0.12,
+        "opinion": 0.21,
+        "profile-interview": 0.85,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.3,
+        "event-preview": 0.05,
+        "press-release": 0.06,
+        "digest": 0.1,
+        "photo-gallery": 0.06,
+        "ride-report": 0.15,
+        "history": 0.05,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.07,
+        "build-feature": 0.02,
+        "q-and-a": 0.07
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "2e5e2b03967ff98cea78ea59a0e04d74e55fdbdb",
+      "title": "Pirelli takes on Motegi and new track surface: \"It's the main variable\"",
+      "link": "https://www.gpone.com/en/2026/09/28/moto2/pirelli-takes-on-motegi-and-new-track-surface-its-the-main-variable.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-09-28T17:27:46+00:00",
+      "excerpt": "They confirmed the 2025 tires for the Moto2 and Moto3, but the grip on the new surface will be assessed on site",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "gear": 0.94,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.82,
+        "review": 0.06,
+        "comparison-test": 0.05,
+        "first-look": 0.15,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.17,
+        "opinion": 0.1,
+        "profile-interview": 0.72,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.07,
+        "event-preview": 0.82,
+        "press-release": 0.75,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.09,
+        "safety-notice": 0.04,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
       "title": "Furygan launches first women-specific motorcycle airbag",
       "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
@@ -1819,89 +1923,6 @@
       ]
     },
     {
-      "id": "624cfe710c0858d9e2265100483c261153e734ab",
-      "title": "Bagnaia pays tribute to Haga: \u201cNitronori\u201d helmet at Motegi",
-      "link": "https://www.gpone.com/en/2026/10/02/motogp/bagnaia-pays-tribute-to-haga-nitronori-helmet-at-motegi.html",
-      "lang": "en",
-      "source": "GPone",
-      "ownership": "independent",
-      "media": "article",
-      "author": "GPOne",
-      "published": "2026-10-02T08:03:51+00:00",
-      "excerpt": "Pecco has chosen a replica of the livery used by the Japanese rider in 1999. A tribute to one of his childhood idols, who had also inspired his choice of number 41.",
-      "image": null,
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "gear",
-          "label": "Gear"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 1.0,
-        "sport-bikes": 0.81,
-        "gear": 0.73,
-        "motogp": 0.94
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.86,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.21,
-        "opinion": 0.07,
-        "profile-interview": 0.3,
-        "tribute": 0.61,
-        "listing": 0.02,
-        "event-report": 0.27,
-        "event-preview": 0.38,
-        "press-release": 0.21,
-        "digest": 0.07,
-        "photo-gallery": 0.13,
-        "ride-report": 0.02,
-        "history": 0.2,
-        "rumor": 0.08,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.11,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "gear",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "e317323f7029708bc80d282660274cb44c361a4e",
       "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
       "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
@@ -2035,6 +2056,89 @@
       "multi_subject": 0.04,
       "tags": [
         "racing",
+        "gear",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "624cfe710c0858d9e2265100483c261153e734ab",
+      "title": "Bagnaia pays tribute to Haga: \u201cNitronori\u201d helmet at Motegi",
+      "link": "https://www.gpone.com/en/2026/10/02/motogp/bagnaia-pays-tribute-to-haga-nitronori-helmet-at-motegi.html",
+      "lang": "en",
+      "source": "GPone",
+      "ownership": "independent",
+      "media": "article",
+      "author": "GPOne",
+      "published": "2026-10-02T08:03:51+00:00",
+      "excerpt": "Pecco has chosen a replica of the livery used by the Japanese rider in 1999. A tribute to one of his childhood idols, who had also inspired his choice of number 41.",
+      "image": null,
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 1.0,
+        "sport-bikes": 0.81,
+        "gear": 0.73,
+        "motogp": 0.94
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.21,
+        "opinion": 0.07,
+        "profile-interview": 0.3,
+        "tribute": 0.61,
+        "listing": 0.02,
+        "event-report": 0.27,
+        "event-preview": 0.38,
+        "press-release": 0.21,
+        "digest": 0.07,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.2,
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.11,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
         "gear",
         "motogp"
       ],
@@ -2350,6 +2454,69 @@
         "racing",
         "gear",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "43cf13db4906010c130f4c743050b5e62a472c23",
+      "title": "12 Best Motorcycle Upgrades for 2026: Essential Gear for Safety, Comfort and Reliability",
+      "link": "https://www.returnofthecaferacers.com/motorcycle-accessories/12-best-motorcycle-upgrades-for-2026-essential-gear-for-safety-comfort-and-reliability",
+      "lang": "en",
+      "source": "Return of the Cafe Racers",
+      "ownership": "independent",
+      "media": "article",
+      "author": "Mark Capayas",
+      "published": "2026-09-23T10:47:42+00:00",
+      "excerpt": "Motorcycle accessories are a massive market, but not every product deserves space on a bike. The most useful upgrades are the ones that solve genuine problems: protecting the rider, improving visibility, reducing distraction, preventing mechanical failures, or making long-distanc",
+      "image": "https://www.returnofthecaferacers.com/wp-content/uploads/2026/09/DSC1645-scaled-80782.webp",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        }
+      ],
+      "primary": "gear",
+      "confident": true,
+      "cat_scores": {
+        "gear": 0.96
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        }
+      ],
+      "form_scores": {
+        "news": 0.05,
+        "review": 0.03,
+        "comparison-test": 0.27,
+        "first-look": 0.03,
+        "ranked-list": 0.97,
+        "buyers-guide": 0.68,
+        "how-to": 0.11,
+        "explainer": 0.33,
+        "opinion": 0.48,
+        "profile-interview": 0.04,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.12,
+        "digest": 0.13,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.05
+      },
+      "multi_subject": 0.57,
+      "tags": [
+        "gear"
       ],
       "also": []
     },

@@ -3,73 +3,6 @@
   "label": "Announcement",
   "items": [
     {
-      "id": "7a8f4142cfabbad47d9af6cbe3510d478869a850",
-      "title": "BMW F450R revealed: new A2 naked bike with 46.9bhp and clutchless riding tech",
-      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/october/bmw-f450r",
-      "lang": "en",
-      "source": "Motorcycle News (MCN)",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T16:00:00+00:00",
-      "excerpt": "BMW have revealed their new F450R, an entry-level naked bike for the A2 licence class that replaces the already discontinued G310R in their range. The new bike offers 46.9bhp, S1000R-inspired styling,...",
-      "image": "https://www.motorcyclenews.com/wp-images/440322/390x260/bmw-f450-r_026.jpg",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.97
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.93,
-        "review": 0.2,
-        "comparison-test": 0.03,
-        "first-look": 0.41,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.23,
-        "how-to": 0.03,
-        "explainer": 0.23,
-        "opinion": 0.06,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.88,
-        "digest": 0.06,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.09,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models"
-      ],
-      "also": []
-    },
-    {
       "id": "9d5b7e3f623849b22cb9686ae7d3ecf2c8e4c48a",
       "title": "Roadskin launches new Ranger Multi-season AAA-Rated Jacket",
       "link": "https://www.classicmotorcycle.co.uk/roadskin-launches-new-ranger-multi-season-aaa-rated-jacket",
@@ -397,6 +330,87 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "eae4daabb22ab1a8d590c0ad310556354c26a274",
+      "title": "BSB: Ben Currie and Harry Truelove stay with McAMS Yamaha for 2027 British Supersport season",
+      "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/october/ben-currie-harry-truelove-mcams-yamaha-2027",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-03T12:01:38+00:00",
+      "excerpt": "Ben Currie and Harry Truelove have both agreed new deals with McAMS Yamaha and will once again represent the team in the British Supersport Championship in 2027. McAMS Yamaha entered the Supersport...",
+      "image": "https://www.motorcyclenews.com/wp-images/440871/390x260/ben-currie-harry-truelove-mcams-yamaha.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.89,
+        "worldsbk-superbike": 0.87
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.94,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.22,
+        "press-release": 0.76,
+        "digest": 0.08,
+        "photo-gallery": 0.04,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1354,6 +1368,73 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "7a8f4142cfabbad47d9af6cbe3510d478869a850",
+      "title": "BMW F450R revealed: new A2 naked bike with 46.9bhp and clutchless riding tech",
+      "link": "https://www.motorcyclenews.com/news/new-bikes/2026/october/bmw-f450r",
+      "lang": "en",
+      "source": "Motorcycle News (MCN)",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T16:00:00+00:00",
+      "excerpt": "BMW have revealed their new F450R, an entry-level naked bike for the A2 licence class that replaces the already discontinued G310R in their range. The new bike offers 46.9bhp, S1000R-inspired styling,...",
+      "image": "https://www.motorcyclenews.com/wp-images/440322/390x260/bmw-f450-r_026.jpg",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        }
+      ],
+      "primary": "new-models",
+      "confident": true,
+      "cat_scores": {
+        "new-models": 0.97
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.93,
+        "review": 0.2,
+        "comparison-test": 0.03,
+        "first-look": 0.41,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.23,
+        "how-to": 0.03,
+        "explainer": 0.23,
+        "opinion": 0.06,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.88,
+        "digest": 0.06,
+        "photo-gallery": 0.06,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.09,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "new-models"
       ],
       "also": []
     },
