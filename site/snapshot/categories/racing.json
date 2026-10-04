@@ -11,7 +11,7 @@
     {
       "slug": "worldsbk-superbike",
       "label": "WorldSBK & Superbike",
-      "count": 143
+      "count": 144
     },
     {
       "slug": "motocross-supercross",
@@ -873,6 +873,87 @@
       "also": []
     },
     {
+      "id": "7e07467f81695cc868be552a95166d01868f01ea",
+      "title": "Kawasaki completes major first in Sportbike World Championship",
+      "link": "https://www.visordown.com/news/kawasaki-completes-major-first-world-sportbike-championship",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-04T04:36:59+00:00",
+      "excerpt": "Kawasaki\u2019s racing success has extended itself to the new Sportbike World Championship, after the Japanese company secured the Manufacturers\u2019 title for the first time in Cremona.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1320801_hires_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.05,
+        "press-release": 0.61,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.16,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "ba3c2eb594556560afd5b10b2cced1da97794574",
       "title": "Marquez wins chaotic Motegi Sprint as penalties reshape podium",
       "link": "https://www.mcnews.com.au/2026-japanese-motogp-motegi-sprint-results",
@@ -1355,7 +1436,14 @@
         "racing",
         "motogp"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "MotoGP Japan, Race LIVE: Big tyre call at Motegi",
+          "link": "https://www.crash.net/motogp/live/1044233/motogp-japan-race-live-updates-motegi",
+          "published": "2026-10-04T04:00:00+00:00"
+        }
+      ]
     },
     {
       "id": "bff6bf41eaf3b8789b1963cd9306dee6ed981ab7",
@@ -2103,78 +2191,6 @@
           "published": "2026-10-03T13:20:54+00:00"
         }
       ]
-    },
-    {
-      "id": "8800741f2f32678173a056565da1166e18a11947",
-      "title": "Lenovo technology played a crucial role in Ducati\u2019s WorldSBK triple crown, and here\u2019s how",
-      "link": "https://www.visordown.com/news/lenovo-technology-played-crucial-role-ducatis-worldsbk-triple-crown-and-heres-how",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T11:26:06+00:00",
-      "excerpt": "Ducati\u2019s on-track results are what will be remembered from the 2026 WorldSBK campaign, however, the technology driven by Lenovo played a huge helping hand.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1348287_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.95,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.46,
-        "review": 0.04,
-        "comparison-test": 0.04,
-        "first-look": 0.04,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.67,
-        "opinion": 0.31,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.73,
-        "event-preview": 0.05,
-        "press-release": 0.58,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.16,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
     },
     {
       "id": "09889fc807192fd3665b1695245e1d92cff23165",
@@ -3318,17 +3334,17 @@
       "also": []
     },
     {
-      "id": "664b5d437cac9cd13191f5d86a50bac6ddbe755e",
-      "title": "Is Harley-Davidson seriously considering leaving King of the Baggers?",
-      "link": "https://www.visordown.com/news/harley-davidson-seriously-considering-leaving-king-baggers",
+      "id": "8800741f2f32678173a056565da1166e18a11947",
+      "title": "Lenovo technology played a crucial role in Ducati\u2019s WorldSBK triple crown, and here\u2019s how",
+      "link": "https://www.visordown.com/news/lenovo-technology-played-crucial-role-ducatis-worldsbk-triple-crown-and-heres-how",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T10:29:31+00:00",
-      "excerpt": "Harley-Davidson lost the 2026 King of the Baggers crown to Indian Motorcycle, but is an exit from the series on the horizon for the American motorcycle maker.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t104325.791.png?width=1200",
+      "published": "2026-10-01T11:26:06+00:00",
+      "excerpt": "Ducati\u2019s on-track results are what will be remembered from the 2026 WorldSBK campaign, however, the technology driven by Lenovo played a huge helping hand.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1348287_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -3336,59 +3352,56 @@
           "label": "Racing"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.93,
-        "cruisers": 0.88,
-        "industry": 0.8
+        "racing": 0.95,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.96
       },
-      "subcategories": [],
-      "forms": [
+      "subcategories": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
         }
       ],
+      "forms": [],
       "form_scores": {
-        "news": 0.48,
-        "review": 0.02,
-        "comparison-test": 0.06,
-        "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.05,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.25,
-        "profile-interview": 0.14,
-        "tribute": 0.02,
+        "news": 0.46,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.67,
+        "opinion": 0.31,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.08,
-        "press-release": 0.11,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
+        "event-report": 0.73,
+        "event-preview": 0.05,
+        "press-release": 0.58,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.15,
+        "history": 0.16,
+        "rumor": 0.04,
         "safety-notice": 0.02,
         "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.06
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.06,
       "tags": [
         "racing",
-        "cruisers",
-        "industry"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -4588,89 +4601,26 @@
       "also": []
     },
     {
-      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
-      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
-      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
+      "id": "664b5d437cac9cd13191f5d86a50bac6ddbe755e",
+      "title": "Is Harley-Davidson seriously considering leaving King of the Baggers?",
+      "link": "https://www.visordown.com/news/harley-davidson-seriously-considering-leaving-king-baggers",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T07:30:00+00:00",
-      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
+      "published": "2026-10-01T10:29:31+00:00",
+      "excerpt": "Harley-Davidson lost the 2026 King of the Baggers crown to Indian Motorcycle, but is an exit from the series on the horizon for the American motorcycle maker.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t104325.791.png?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "racing",
           "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": false,
-      "cat_scores": {
-        "racing": 0.69
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
         },
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.12,
-        "opinion": 0.04,
-        "profile-interview": 0.17,
-        "tribute": 0.04,
-        "listing": 0.02,
-        "event-report": 0.06,
-        "event-preview": 0.85,
-        "press-release": 0.65,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.19,
-        "rumor": 0.09,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "f06c8cd697b48a444c56334b8c9359efaece3ef0",
-      "title": "KTM CEO reveals cost-cutting solution for MotoGP after strongly opposing single-bike rule",
-      "link": "https://www.visordown.com/news/ktm-ceo-reveals-cost-cutting-solution-motogp-after-strongly-opposing-single-bike-rule",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T12:03:10+00:00",
-      "excerpt": "KTM CEO Gottfried Neumeister has offered an interesting view on how MotoGP could implement effective cost-cutting measures going forward.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1345871_hires_0.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "cruisers",
+          "label": "Cruisers"
         },
         {
           "slug": "industry",
@@ -4680,54 +4630,48 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.95,
-        "industry": 0.84,
-        "motogp": 0.96
+        "racing": 0.93,
+        "cruisers": 0.88,
+        "industry": 0.8
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.77,
+        "news": 0.48,
         "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
+        "comparison-test": 0.06,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
         "how-to": 0.02,
-        "explainer": 0.23,
-        "opinion": 0.22,
-        "profile-interview": 0.56,
-        "tribute": 0.01,
+        "explainer": 0.09,
+        "opinion": 0.25,
+        "profile-interview": 0.14,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.04,
-        "press-release": 0.23,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.04,
+        "event-report": 0.88,
+        "event-preview": 0.08,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.05,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.05,
         "build-feature": 0.02,
-        "q-and-a": 0.04
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
-        "industry",
-        "motogp"
+        "cruisers",
+        "industry"
       ],
       "also": []
     },
@@ -5609,6 +5553,150 @@
         "dirt-mx",
         "racing",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
+      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
+      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T07:30:00+00:00",
+      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.69
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-preview",
+          "label": "Event Preview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.12,
+        "opinion": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.04,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.85,
+        "press-release": 0.65,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.19,
+        "rumor": 0.09,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "f06c8cd697b48a444c56334b8c9359efaece3ef0",
+      "title": "KTM CEO reveals cost-cutting solution for MotoGP after strongly opposing single-bike rule",
+      "link": "https://www.visordown.com/news/ktm-ceo-reveals-cost-cutting-solution-motogp-after-strongly-opposing-single-bike-rule",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T12:03:10+00:00",
+      "excerpt": "KTM CEO Gottfried Neumeister has offered an interesting view on how MotoGP could implement effective cost-cutting measures going forward.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1345871_hires_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "industry": 0.84,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.77,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.23,
+        "opinion": 0.22,
+        "profile-interview": 0.56,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.04,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -6610,86 +6698,6 @@
         "motocross-supercross"
       ],
       "also": []
-    },
-    {
-      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
-      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
-      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T08:36:10+00:00",
-      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "classic": 0.82
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.19,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.43,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.2,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.07,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "classic"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
-          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
-          "published": "2026-09-30T09:21:47+00:00"
-        }
-      ]
     },
     {
       "id": "504a17d197a74992582cd69a95113958e115f874",
@@ -7717,17 +7725,17 @@
       "also": []
     },
     {
-      "id": "807468462120df81ac632e53a33c1fa35bafbf68",
-      "title": "'My life has changed' Maria Costello gives injury update following Isle of Man TT crash",
-      "link": "https://www.visordown.com/news/my-life-has-changed-maria-costello-gives-injury-update-following-isle-man-tt-crash",
+      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
+      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
+      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T16:17:35+00:00",
-      "excerpt": "In an emotional message to her supporters paralysed racer Maria Costello said \"this had been the hardest thing I\u2019ve ever faced\"",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/untitled-design-3.png?width=1200",
+      "published": "2026-09-30T08:36:10+00:00",
+      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
       "audio": null,
       "categories": [
         {
@@ -7735,72 +7743,64 @@
           "label": "Racing"
         },
         {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 0.96,
-        "law-safety": 0.84
+        "classic": 0.82
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.79,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "news": 0.84,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
         "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.7,
-        "tribute": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.19,
         "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.07,
-        "history": 0.06,
-        "rumor": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.43,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.2,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
+        "episode": 0.04,
+        "build-feature": 0.07,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "law-safety"
+        "classic"
       ],
       "also": [
         {
           "source": "Crash.net",
-          "title": "Maria Costello vows to \"fight to get to what I love\" after Isle of Man TT crash",
-          "link": "https://www.crash.net/rr/news/1105896/1/maria-costello-vows-fight-get-what-i-love-after-isle-man-tt-crash",
-          "published": "2026-09-29T15:58:42+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "Maria Costello, the toughest challenge since the TT: \u201cI\u2019ll fight to get back to what I love\u201d",
-          "link": "https://www.gpone.com/en/2026/09/30/news/maria-costello-the-toughest-challenge-since-the-tt-ill-fight-to-get-back-to-what-i-love.html",
-          "published": "2026-09-30T08:09:41+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "'The hardest thing I\u2019ve ever faced' - Maria Costello MBE gives video update after TT sidecar crash",
-          "link": "https://www.motorcyclenews.com/news/2026/october/maria-costello-video-update",
-          "published": "2026-10-02T14:04:56+00:00"
+          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
+          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
+          "published": "2026-09-30T09:21:47+00:00"
         }
       ]
     },
@@ -8832,90 +8832,17 @@
       ]
     },
     {
-      "id": "9a75d74302b1b71f1908ad3f0f153eef029f4abc",
-      "title": "Indian Challenger lands another major result against Harley-Davidson\u2019s Road Glide",
-      "link": "https://www.visordown.com/news/indian-challenger-lands-another-major-result-against-harley-davidsons-road-glide",
+      "id": "807468462120df81ac632e53a33c1fa35bafbf68",
+      "title": "'My life has changed' Maria Costello gives injury update following Isle of Man TT crash",
+      "link": "https://www.visordown.com/news/my-life-has-changed-maria-costello-gives-injury-update-following-isle-man-tt-crash",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T10:35:52+00:00",
-      "excerpt": "The Indian Challenger has cemented itself as the motorcycle to beat over the Harley-Davidson Road Glide in KOTB.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t114338.680.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "cruisers",
-      "confident": true,
-      "cat_scores": {
-        "cruisers": 0.92,
-        "racing": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "comparison-test",
-          "label": "Comparison Test"
-        }
-      ],
-      "form_scores": {
-        "news": 0.64,
-        "review": 0.17,
-        "comparison-test": 0.79,
-        "first-look": 0.07,
-        "ranked-list": 0.14,
-        "buyers-guide": 0.16,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.69,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.85,
-        "event-preview": 0.07,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.15,
-        "ride-report": 0.05,
-        "history": 0.1,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.08,
-        "build-feature": 0.1,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "cruisers",
-        "racing"
-      ],
-      "also": []
-    },
-    {
-      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
-      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
-      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T08:52:49+00:00",
-      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
-      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
+      "published": "2026-09-29T16:17:35+00:00",
+      "excerpt": "In an emotional message to her supporters paralysed racer Maria Costello said \"this had been the hardest thing I\u2019ve ever faced\"",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/untitled-design-3.png?width=1200",
       "audio": null,
       "categories": [
         {
@@ -8923,72 +8850,72 @@
           "label": "Racing"
         },
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.96
+        "racing": 0.96,
+        "law-safety": 0.84
       },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
         "news": 0.79,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.27,
-        "profile-interview": 0.76,
-        "tribute": 0.02,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.7,
+        "tribute": 0.06,
         "listing": 0.01,
-        "event-report": 0.1,
+        "event-report": 0.29,
         "event-preview": 0.03,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.07,
         "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.1,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.06,
+        "build-feature": 0.01,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
+        "law-safety"
       ],
       "also": [
         {
           "source": "Crash.net",
-          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
-          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
-          "published": "2026-09-28T08:50:48+00:00"
+          "title": "Maria Costello vows to \"fight to get to what I love\" after Isle of Man TT crash",
+          "link": "https://www.crash.net/rr/news/1105896/1/maria-costello-vows-fight-get-what-i-love-after-isle-man-tt-crash",
+          "published": "2026-09-29T15:58:42+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "Maria Costello, the toughest challenge since the TT: \u201cI\u2019ll fight to get back to what I love\u201d",
+          "link": "https://www.gpone.com/en/2026/09/30/news/maria-costello-the-toughest-challenge-since-the-tt-ill-fight-to-get-back-to-what-i-love.html",
+          "published": "2026-09-30T08:09:41+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "'The hardest thing I\u2019ve ever faced' - Maria Costello MBE gives video update after TT sidecar crash",
+          "link": "https://www.motorcyclenews.com/news/2026/october/maria-costello-video-update",
+          "published": "2026-10-02T14:04:56+00:00"
         }
       ]
     },
@@ -9742,17 +9669,90 @@
       "also": []
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "9a75d74302b1b71f1908ad3f0f153eef029f4abc",
+      "title": "Indian Challenger lands another major result against Harley-Davidson\u2019s Road Glide",
+      "link": "https://www.visordown.com/news/indian-challenger-lands-another-major-result-against-harley-davidsons-road-glide",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "published": "2026-09-30T10:35:52+00:00",
+      "excerpt": "The Indian Challenger has cemented itself as the motorcycle to beat over the Harley-Davidson Road Glide in KOTB.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t114338.680.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "cruisers",
+      "confident": true,
+      "cat_scores": {
+        "cruisers": 0.92,
+        "racing": 0.61
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "comparison-test",
+          "label": "Comparison Test"
+        }
+      ],
+      "form_scores": {
+        "news": 0.64,
+        "review": 0.17,
+        "comparison-test": 0.79,
+        "first-look": 0.07,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.16,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.69,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.85,
+        "event-preview": 0.07,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
+        "ride-report": 0.05,
+        "history": 0.1,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.08,
+        "build-feature": 0.1,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "cruisers",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
+      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
+      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T08:52:49+00:00",
+      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
+      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -9760,21 +9760,21 @@
           "label": "Racing"
         },
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.86,
-        "industry": 0.81,
-        "motogp": 0.84
+        "racing": 0.97,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.96
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -9784,43 +9784,50 @@
           "label": "News"
         },
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
+        "news": 0.79,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.13,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.27,
+        "profile-interview": 0.76,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.19,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "event-report": 0.1,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.1,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "industry",
-        "motogp"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
+          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
+          "published": "2026-09-28T08:50:48+00:00"
+        }
+      ]
     },
     {
       "id": "8fbc01312250141407aa4ae493ea9f6fa86c52ea",
@@ -10370,6 +10377,87 @@
         "racing",
         "classic",
         "motocross-supercross"
+      ],
+      "also": []
+    },
+    {
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.86,
+        "industry": 0.81,
+        "motogp": 0.84
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.01,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.19,
+        "press-release": 0.81,
+        "digest": 0.12,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.13,
+      "tags": [
+        "racing",
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -11033,77 +11121,6 @@
       "also": []
     },
     {
-      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
-      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
-      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-24T10:48:46+00:00",
-      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.72,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.1,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.13,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.95,
-        "press-release": 0.55,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.63,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "racing",
-        "motogp"
-      ],
-      "also": []
-    },
-    {
       "id": "4c21652e8c14b2104f778adc4de5bfd87b63bf2c",
       "title": "Kabakchiev wins Roof of Africa | Lettenbichler edges Young by 0.1s",
       "link": "https://www.mcnews.com.au/2026-roof-of-africa-results",
@@ -11694,17 +11711,17 @@
       "also": []
     },
     {
-      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
-      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
-      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
+      "id": "fd65d646cb38bf20ed3a9a12b5e3b603c40fff1c",
+      "title": "\u201cFull circle moment\u201d teased by Honda ahead of final 1,000cc Japanese MotoGP",
+      "link": "https://www.visordown.com/news/full-circle-moment-teased-honda-ahead-final-1000cc-japanese-motogp",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T09:29:04+00:00",
-      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
+      "published": "2026-09-24T10:48:46+00:00",
+      "excerpt": "Honda has teased a \u201cfull circle moment\u201d ahead of the final 1,000cc Japanese MotoGP next month, hinting at a potential one-off livery to be used by Takaaki Nakagami.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1281856_hires-1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -11715,8 +11732,8 @@
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "motogp": 0.98
+        "racing": 0.96,
+        "motogp": 0.97
       },
       "subcategories": [
         {
@@ -11732,32 +11749,32 @@
         }
       ],
       "form_scores": {
-        "news": 0.68,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.01,
-        "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.1,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
+        "news": 0.72,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.1,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.13,
+        "tribute": 0.07,
         "listing": 0.01,
-        "event-report": 0.05,
-        "event-preview": 0.76,
-        "press-release": 0.37,
+        "event-report": 0.04,
+        "event-preview": 0.95,
+        "press-release": 0.55,
         "digest": 0.07,
-        "photo-gallery": 0.06,
+        "photo-gallery": 0.08,
         "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.25,
-        "safety-notice": 0.04,
-        "episode": 0.03,
-        "build-feature": 0.01,
+        "history": 0.05,
+        "rumor": 0.63,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
         "racing",
         "motogp"
@@ -12349,17 +12366,17 @@
       "also": []
     },
     {
-      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
-      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
-      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
+      "id": "47145c211431b59e55033d006206ee09ba7d28c8",
+      "title": "One of MotoGP's most unpopular races dropped from 2027 calendar",
+      "link": "https://www.visordown.com/news/one-motogps-most-unpopular-races-dropped-2027-calendar",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T14:49:42+00:00",
-      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
+      "published": "2026-09-24T09:29:04+00:00",
+      "excerpt": "MotoGP is set to reveal its full 2027 race calendar on Friday, which will include Valencia as the season-finale once again, although there will be no Hungarian Grand Prix.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1323785_hires.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -12368,10 +12385,10 @@
         }
       ],
       "primary": "racing",
-      "confident": false,
+      "confident": true,
       "cat_scores": {
-        "racing": 0.77,
-        "motogp": 0.74
+        "racing": 0.97,
+        "motogp": 0.98
       },
       "subcategories": [
         {
@@ -12382,37 +12399,37 @@
       ],
       "forms": [
         {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.46,
-        "review": 0.05,
-        "comparison-test": 0.02,
-        "first-look": 0.12,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.05,
-        "how-to": 0.02,
-        "explainer": 0.13,
-        "opinion": 0.11,
-        "profile-interview": 0.09,
-        "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.19,
-        "digest": 0.09,
-        "photo-gallery": 0.08,
+        "news": 0.68,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.01,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.1,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.05,
+        "event-preview": 0.76,
+        "press-release": 0.37,
+        "digest": 0.07,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.84,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
-        "q-and-a": 0.03
+        "history": 0.02,
+        "rumor": 0.25,
+        "safety-notice": 0.04,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
         "motogp"
@@ -12916,6 +12933,77 @@
           "published": "2026-10-03T07:15:25+00:00"
         }
       ]
+    },
+    {
+      "id": "9da322f34c1f09dab2ee0a98ed6907d2faf1f609",
+      "title": "Yamaha appears to be developing a revised version of its unusual tri-plane winglet",
+      "link": "https://www.visordown.com/features/yamaha-appears-be-developing-revised-version-its-unusual-tri-plane-winglet",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T14:49:42+00:00",
+      "excerpt": "Yamaha looks set to evolve its current tri-plane winglets housed by the 1,000cc M1 MotoGP bike, albeit with modifications, for the new-generation 850cc machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1346444_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "racing",
+      "confident": false,
+      "cat_scores": {
+        "racing": 0.77,
+        "motogp": 0.74
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
+        }
+      ],
+      "form_scores": {
+        "news": 0.46,
+        "review": 0.05,
+        "comparison-test": 0.02,
+        "first-look": 0.12,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
+        "how-to": 0.02,
+        "explainer": 0.13,
+        "opinion": 0.11,
+        "profile-interview": 0.09,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.19,
+        "digest": 0.09,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.03,
+        "rumor": 0.84,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "motogp"
+      ],
+      "also": []
     },
     {
       "id": "32075af0031e5ec8e4e0eda6990788dd5322787a",

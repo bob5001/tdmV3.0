@@ -209,6 +209,87 @@
       "also": []
     },
     {
+      "id": "7e07467f81695cc868be552a95166d01868f01ea",
+      "title": "Kawasaki completes major first in Sportbike World Championship",
+      "link": "https://www.visordown.com/news/kawasaki-completes-major-first-world-sportbike-championship",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-04T04:36:59+00:00",
+      "excerpt": "Kawasaki\u2019s racing success has extended itself to the new Sportbike World Championship, after the Japanese company secured the Manufacturers\u2019 title for the first time in Cremona.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1320801_hires_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.95
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.92,
+        "review": 0.02,
+        "comparison-test": 0.03,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.92,
+        "event-preview": 0.05,
+        "press-release": 0.61,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.16,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
       "id": "c249168b9fa712c171902369022e5b90b7f46a85",
       "title": "BSB Donington Park: Kyle Ryde secures 15th victory of 2026 season in Race One",
       "link": "https://www.motorcyclenews.com/sport/british-superbikes/2026/october/kyle-ryde-wins-race-one-donington",
@@ -517,78 +598,6 @@
         "episode": 0.07,
         "build-feature": 0.02,
         "q-and-a": 0.03
-      },
-      "multi_subject": 0.06,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "worldsbk-superbike"
-      ],
-      "also": []
-    },
-    {
-      "id": "8800741f2f32678173a056565da1166e18a11947",
-      "title": "Lenovo technology played a crucial role in Ducati\u2019s WorldSBK triple crown, and here\u2019s how",
-      "link": "https://www.visordown.com/news/lenovo-technology-played-crucial-role-ducatis-worldsbk-triple-crown-and-heres-how",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T11:26:06+00:00",
-      "excerpt": "Ducati\u2019s on-track results are what will be remembered from the 2026 WorldSBK campaign, however, the technology driven by Lenovo played a huge helping hand.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1348287_hires.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.95,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [],
-      "form_scores": {
-        "news": 0.46,
-        "review": 0.04,
-        "comparison-test": 0.04,
-        "first-look": 0.04,
-        "ranked-list": 0.06,
-        "buyers-guide": 0.06,
-        "how-to": 0.03,
-        "explainer": 0.67,
-        "opinion": 0.31,
-        "profile-interview": 0.26,
-        "tribute": 0.07,
-        "listing": 0.01,
-        "event-report": 0.73,
-        "event-preview": 0.05,
-        "press-release": 0.58,
-        "digest": 0.06,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.16,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.04
       },
       "multi_subject": 0.06,
       "tags": [
@@ -943,6 +952,78 @@
         "sport-bikes",
         "new-models",
         "for-sale"
+      ],
+      "also": []
+    },
+    {
+      "id": "8800741f2f32678173a056565da1166e18a11947",
+      "title": "Lenovo technology played a crucial role in Ducati\u2019s WorldSBK triple crown, and here\u2019s how",
+      "link": "https://www.visordown.com/news/lenovo-technology-played-crucial-role-ducatis-worldsbk-triple-crown-and-heres-how",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-01T11:26:06+00:00",
+      "excerpt": "Ducati\u2019s on-track results are what will be remembered from the 2026 WorldSBK campaign, however, the technology driven by Lenovo played a huge helping hand.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1348287_hires.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.95,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [],
+      "form_scores": {
+        "news": 0.46,
+        "review": 0.04,
+        "comparison-test": 0.04,
+        "first-look": 0.04,
+        "ranked-list": 0.06,
+        "buyers-guide": 0.06,
+        "how-to": 0.03,
+        "explainer": 0.67,
+        "opinion": 0.31,
+        "profile-interview": 0.26,
+        "tribute": 0.07,
+        "listing": 0.01,
+        "event-report": 0.73,
+        "event-preview": 0.05,
+        "press-release": 0.58,
+        "digest": 0.06,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.16,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.06,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1670,85 +1751,6 @@
       ]
     },
     {
-      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
-      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
-      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-02T06:00:00+00:00",
-      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "gear",
-      "confident": false,
-      "cat_scores": {
-        "gear": 0.73,
-        "adventure": 0.56,
-        "sport-bikes": 0.5
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.43,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.08,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.84,
-        "digest": 0.11,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.02,
-        "build-feature": 0.02,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "gear",
-        "adventure",
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
       "id": "ba3c2eb594556560afd5b10b2cced1da97794574",
       "title": "Marquez wins chaotic Motegi Sprint as penalties reshape podium",
       "link": "https://www.mcnews.com.au/2026-japanese-motogp-motegi-sprint-results",
@@ -2438,6 +2440,85 @@
       "also": []
     },
     {
+      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
+      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
+      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-02T06:00:00+00:00",
+      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "gear",
+      "confident": false,
+      "cat_scores": {
+        "gear": 0.73,
+        "adventure": 0.56,
+        "sport-bikes": 0.5
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.87,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.43,
+        "how-to": 0.02,
+        "explainer": 0.08,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
+        "tribute": 0.01,
+        "listing": 0.08,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.84,
+        "digest": 0.11,
+        "photo-gallery": 0.06,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "gear",
+        "adventure",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
       "id": "bb59ad377e00d2a15af7efd367b6852ddfe2539f",
       "title": "Marquez: \"I hate Saturdays. My strength is my instinct.\"",
       "link": "https://www.gpone.com/en/2026/10/03/motogp/marquez-i-hate-saturdays-my-strength-is-my-instinct.html",
@@ -2693,145 +2774,6 @@
       ]
     },
     {
-      "id": "46c511da0f380728f366a2f5ed67f8730a9e2444",
-      "title": "Updated Kawasaki Ninja 650 confirmed for Europe",
-      "link": "https://www.visordown.com/news/updated-kawasaki-ninja-650-confirmed-europe",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-01T07:40:30+00:00",
-      "excerpt": "Kawasaki\u2019s Ninja 650 has received a major facelift for 2027, gaining numerous front-end changes, including inverted Showa forks and radial brake calipers.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t074810.042.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "new-models",
-      "confident": true,
-      "cat_scores": {
-        "new-models": 0.93,
-        "sport-bikes": 0.79
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.86,
-        "review": 0.15,
-        "comparison-test": 0.03,
-        "first-look": 0.18,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.16,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.7,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.27,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "new-models",
-        "sport-bikes"
-      ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Kawasaki treat long-standing Ninja 650 soft sportsbike to upside down forks and radial front brakes",
-          "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/kawasaki-ninja-650-updated",
-          "published": "2026-09-30T17:36:55+00:00"
-        }
-      ]
-    },
-    {
-      "id": "fb9ed66e3bc780455f8b58b59121d137caece475",
-      "title": "Honda\u2019s new V3 platform could soon power a CBR600RR supersport replacement",
-      "link": "https://www.visordown.com/news/hondas-new-v3-platform-could-soon-power-cbr600rr-supersport-replacement",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-29T12:39:05+00:00",
-      "excerpt": "Honda\u2019s new V3 engine platform could be set to power a new CBR600RR replacement, with more details potentially arriving at EICMA 2026, this November.",
-      "image": "https://www.visordown.com/sites/default/files/2025-11/v3-r-01.jpeg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "sport-bikes",
-      "confident": true,
-      "cat_scores": {
-        "sport-bikes": 0.94
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
-        }
-      ],
-      "form_scores": {
-        "news": 0.25,
-        "review": 0.03,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.07,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.11,
-        "profile-interview": 0.06,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.19,
-        "press-release": 0.17,
-        "digest": 0.08,
-        "photo-gallery": 0.05,
-        "ride-report": 0.01,
-        "history": 0.02,
-        "rumor": 0.87,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "sport-bikes"
-      ],
-      "also": []
-    },
-    {
       "id": "ddcbe1830b2e9b6cc7834e5f2c60c08d491c6ea7",
       "title": "Fong takes first Superbike title as Kelly crashes in NJMP decider",
       "link": "https://www.mcnews.com.au/2026-motoamerica-njmp-superbike-supersport-results",
@@ -3015,33 +2957,33 @@
       ]
     },
     {
-      "id": "d806134c947e9400d11936cff5589365d60be277",
-      "title": "Ducati Streetfighter V4 Lamborghini Speciale Clienti with zero miles heads to auction",
-      "link": "https://www.visordown.com/news/ducati-streetfighter-v4-lamborghini-speciale-clienti-zero-miles-heads-auction",
+      "id": "46c511da0f380728f366a2f5ed67f8730a9e2444",
+      "title": "Updated Kawasaki Ninja 650 confirmed for Europe",
+      "link": "https://www.visordown.com/news/updated-kawasaki-ninja-650-confirmed-europe",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T13:52:20+00:00",
-      "excerpt": "A very rare opportunity to own a factory-built Ducati Streetfighter V4 Lamborghini Speciale Clienti model will be available in the UK this November.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t143237.743.png?width=1200",
+      "published": "2026-10-01T07:40:30+00:00",
+      "excerpt": "Kawasaki\u2019s Ninja 650 has received a major facelift for 2027, gaining numerous front-end changes, including inverted Showa forks and radial brake calipers.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t074810.042.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "for-sale",
-          "label": "For Sale"
+          "slug": "new-models",
+          "label": "New Models"
         },
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
         }
       ],
-      "primary": "for-sale",
+      "primary": "new-models",
       "confident": true,
       "cat_scores": {
-        "for-sale": 0.85,
-        "sport-bikes": 0.75
+        "new-models": 0.93,
+        "sport-bikes": 0.79
       },
       "subcategories": [],
       "forms": [
@@ -3051,108 +2993,105 @@
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
+        "news": 0.86,
+        "review": 0.15,
+        "comparison-test": 0.03,
+        "first-look": 0.18,
         "ranked-list": 0.02,
-        "buyers-guide": 0.19,
+        "buyers-guide": 0.16,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.09,
         "opinion": 0.05,
         "profile-interview": 0.05,
-        "tribute": 0.02,
-        "listing": 0.74,
-        "event-report": 0.04,
-        "event-preview": 0.38,
-        "press-release": 0.25,
-        "digest": 0.09,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.7,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.27,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.08,
-        "q-and-a": 0.02
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "for-sale",
+        "new-models",
         "sport-bikes"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Kawasaki treat long-standing Ninja 650 soft sportsbike to upside down forks and radial front brakes",
+          "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/kawasaki-ninja-650-updated",
+          "published": "2026-09-30T17:36:55+00:00"
+        }
+      ]
     },
     {
-      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
-      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
-      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
+      "id": "fb9ed66e3bc780455f8b58b59121d137caece475",
+      "title": "Honda\u2019s new V3 platform could soon power a CBR600RR supersport replacement",
+      "link": "https://www.visordown.com/news/hondas-new-v3-platform-could-soon-power-cbr600rr-supersport-replacement",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T09:56:20+00:00",
-      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
+      "published": "2026-09-29T12:39:05+00:00",
+      "excerpt": "Honda\u2019s new V3 engine platform could be set to power a new CBR600RR replacement, with more details potentially arriving at EICMA 2026, this November.",
+      "image": "https://www.visordown.com/sites/default/files/2025-11/v3-r-01.jpeg?width=1200",
       "audio": null,
       "categories": [
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
         }
       ],
       "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "sport-bikes": 0.87,
-        "new-models": 0.6
+        "sport-bikes": 0.94
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
         {
           "slug": "rumor",
           "label": "Rumor & Spy Shots"
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.1,
-        "comparison-test": 0.03,
-        "first-look": 0.68,
+        "news": 0.25,
+        "review": 0.03,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.07,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.1,
+        "explainer": 0.1,
+        "opinion": 0.11,
+        "profile-interview": 0.06,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.16,
-        "event-preview": 0.12,
-        "press-release": 0.43,
-        "digest": 0.07,
-        "photo-gallery": 0.26,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.76,
-        "safety-notice": 0.01,
-        "episode": 0.1,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "listing": 0.01,
+        "event-report": 0.03,
+        "event-preview": 0.19,
+        "press-release": 0.17,
+        "digest": 0.08,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.87,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "sport-bikes",
-        "new-models"
+        "sport-bikes"
       ],
       "also": []
     },
@@ -3396,43 +3335,102 @@
       "also": []
     },
     {
-      "id": "fe90d86ae41fda22420dfa53c70f233d0abde4bc",
-      "title": "Stark Varg SM Sk\u00f6ll sold out in under 48 hours with no second production run planned",
-      "link": "https://www.visordown.com/news/stark-varg-sm-skoll-sold-out-under-48-hours-no-second-production-run-planned",
+      "id": "d806134c947e9400d11936cff5589365d60be277",
+      "title": "Ducati Streetfighter V4 Lamborghini Speciale Clienti with zero miles heads to auction",
+      "link": "https://www.visordown.com/news/ducati-streetfighter-v4-lamborghini-speciale-clienti-zero-miles-heads-auction",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T09:16:10+00:00",
-      "excerpt": "Stark has confirmed there will be no second production run after its limited-edition Varg SM Sk\u00f6ll sold out in double quick time.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/skoll-black-sm-outdoor-configurator_1.jpg?width=1200",
+      "published": "2026-09-30T13:52:20+00:00",
+      "excerpt": "A very rare opportunity to own a factory-built Ducati Streetfighter V4 Lamborghini Speciale Clienti model will be available in the UK this November.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t143237.743.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "for-sale",
+          "label": "For Sale"
         },
         {
-          "slug": "electric",
-          "label": "Electric"
-        },
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "for-sale",
+      "confident": true,
+      "cat_scores": {
+        "for-sale": 0.85,
+        "sport-bikes": 0.75
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.84,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.19,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.74,
+        "event-report": 0.04,
+        "event-preview": 0.38,
+        "press-release": 0.25,
+        "digest": 0.09,
+        "photo-gallery": 0.11,
+        "ride-report": 0.01,
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.08,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "for-sale",
+        "sport-bikes"
+      ],
+      "also": []
+    },
+    {
+      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
+      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
+      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T09:56:20+00:00",
+      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
+      "audio": null,
+      "categories": [
         {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "industry",
+      "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "industry": 0.89,
-        "electric": 0.84,
-        "sport-bikes": 0.74,
-        "dirt-mx": 0.7
+        "sport-bikes": 0.87,
+        "new-models": 0.6
       },
       "subcategories": [],
       "forms": [
@@ -3441,132 +3439,42 @@
           "label": "News"
         },
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.07,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
+        "news": 0.84,
+        "review": 0.1,
+        "comparison-test": 0.03,
+        "first-look": 0.68,
         "ranked-list": 0.02,
-        "buyers-guide": 0.11,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.15,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.02,
-        "press-release": 0.75,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
-        "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.03,
-      "tags": [
-        "industry",
-        "electric",
-        "sport-bikes",
-        "dirt-mx"
-      ],
-      "also": []
-    },
-    {
-      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
-      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
-      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-28T08:52:49+00:00",
-      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
-      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
-        }
-      ],
-      "form_scores": {
-        "news": 0.79,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.27,
-        "profile-interview": 0.76,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.03,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.1,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.16,
+        "event-preview": 0.12,
+        "press-release": 0.43,
+        "digest": 0.07,
+        "photo-gallery": 0.26,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.76,
+        "safety-notice": 0.01,
+        "episode": 0.1,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.05,
       "tags": [
-        "racing",
         "sport-bikes",
-        "worldsbk-superbike"
+        "new-models"
       ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
-          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
-          "published": "2026-09-28T08:50:48+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "446e4d0b9f82328b915c544f6a080b8c90ce82b7",
@@ -4067,6 +3975,179 @@
         "worldsbk-superbike"
       ],
       "also": []
+    },
+    {
+      "id": "fe90d86ae41fda22420dfa53c70f233d0abde4bc",
+      "title": "Stark Varg SM Sk\u00f6ll sold out in under 48 hours with no second production run planned",
+      "link": "https://www.visordown.com/news/stark-varg-sm-skoll-sold-out-under-48-hours-no-second-production-run-planned",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T09:16:10+00:00",
+      "excerpt": "Stark has confirmed there will be no second production run after its limited-edition Varg SM Sk\u00f6ll sold out in double quick time.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/skoll-black-sm-outdoor-configurator_1.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "industry",
+      "confident": true,
+      "cat_scores": {
+        "industry": 0.89,
+        "electric": 0.84,
+        "sport-bikes": 0.74,
+        "dirt-mx": 0.7
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.07,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.11,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.15,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.02,
+        "press-release": 0.75,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "industry",
+        "electric",
+        "sport-bikes",
+        "dirt-mx"
+      ],
+      "also": []
+    },
+    {
+      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
+      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
+      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-28T08:52:49+00:00",
+      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
+      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
+        {
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
+        }
+      ],
+      "form_scores": {
+        "news": 0.79,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.27,
+        "profile-interview": 0.76,
+        "tribute": 0.02,
+        "listing": 0.01,
+        "event-report": 0.1,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.1,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
+      ],
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
+          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
+          "published": "2026-09-28T08:50:48+00:00"
+        }
+      ]
     },
     {
       "id": "18e8e96cac3b469bb1321d3bf58c2620fdd8916e",

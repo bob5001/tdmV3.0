@@ -805,17 +805,17 @@
       ]
     },
     {
-      "id": "664b5d437cac9cd13191f5d86a50bac6ddbe755e",
-      "title": "Is Harley-Davidson seriously considering leaving King of the Baggers?",
-      "link": "https://www.visordown.com/news/harley-davidson-seriously-considering-leaving-king-baggers",
+      "id": "7e07467f81695cc868be552a95166d01868f01ea",
+      "title": "Kawasaki completes major first in Sportbike World Championship",
+      "link": "https://www.visordown.com/news/kawasaki-completes-major-first-world-sportbike-championship",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T10:29:31+00:00",
-      "excerpt": "Harley-Davidson lost the 2026 King of the Baggers crown to Indian Motorcycle, but is an exit from the series on the horizon for the American motorcycle maker.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t104325.791.png?width=1200",
+      "published": "2026-10-04T04:36:59+00:00",
+      "excerpt": "Kawasaki\u2019s racing success has extended itself to the new Sportbike World Championship, after the Japanese company secured the Manufacturers\u2019 title for the first time in Cremona.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1320801_hires_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -823,59 +823,65 @@
           "label": "Racing"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.93,
-        "cruisers": 0.88,
-        "industry": 0.8
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.95
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
       "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        },
         {
           "slug": "event-report",
           "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.48,
+        "news": 0.92,
         "review": 0.02,
-        "comparison-test": 0.06,
+        "comparison-test": 0.03,
         "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.05,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.25,
-        "profile-interview": 0.14,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.88,
-        "event-preview": 0.08,
-        "press-release": 0.11,
+        "event-report": 0.92,
+        "event-preview": 0.05,
+        "press-release": 0.61,
         "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.15,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.16,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.06
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
         "racing",
-        "cruisers",
-        "industry"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -1883,69 +1889,77 @@
       ]
     },
     {
-      "id": "fae8c3fcd01bdadedf4abdef2bc0fd4a3aee4741",
-      "title": "Triumph Originals 2026 won by Spain\u2019s Tamarit Motorcycles",
-      "link": "https://www.visordown.com/news/triumph-originals-2026-won-spains-tamarit-motorcycles",
+      "id": "664b5d437cac9cd13191f5d86a50bac6ddbe755e",
+      "title": "Is Harley-Davidson seriously considering leaving King of the Baggers?",
+      "link": "https://www.visordown.com/news/harley-davidson-seriously-considering-leaving-king-baggers",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T15:07:53+00:00",
-      "excerpt": "Tamarit Motorcycles beat six teams to be crowned the winner of Triumph Originals 2026, gaining 33 per cent of the public vote.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/tamarit-miura-01.jpg?width=1200",
+      "published": "2026-10-01T10:29:31+00:00",
+      "excerpt": "Harley-Davidson lost the 2026 King of the Baggers crown to Indian Motorcycle, but is an exit from the series on the horizon for the American motorcycle maker.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t104325.791.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "custom",
-          "label": "Custom"
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
-      "primary": "custom",
-      "confident": false,
+      "primary": "racing",
+      "confident": true,
       "cat_scores": {
-        "custom": 0.81
+        "racing": 0.93,
+        "cruisers": 0.88,
+        "industry": 0.8
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "event-report",
           "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.03,
-        "comparison-test": 0.43,
+        "news": 0.48,
+        "review": 0.02,
+        "comparison-test": 0.06,
         "first-look": 0.03,
-        "ranked-list": 0.49,
-        "buyers-guide": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.05,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.17,
+        "explainer": 0.09,
+        "opinion": 0.25,
+        "profile-interview": 0.14,
         "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.91,
-        "event-preview": 0.07,
-        "press-release": 0.34,
-        "digest": 0.09,
-        "photo-gallery": 0.13,
+        "listing": 0.01,
+        "event-report": 0.88,
+        "event-preview": 0.08,
+        "press-release": 0.11,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
         "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.05,
+        "history": 0.05,
+        "rumor": 0.15,
         "safety-notice": 0.02,
         "episode": 0.05,
-        "build-feature": 0.21,
-        "q-and-a": 0.03
+        "build-feature": 0.02,
+        "q-and-a": 0.06
       },
       "multi_subject": 0.04,
       "tags": [
-        "custom"
+        "racing",
+        "cruisers",
+        "industry"
       ],
       "also": []
     },
@@ -2873,79 +2887,6 @@
       "also": []
     },
     {
-      "id": "9a75d74302b1b71f1908ad3f0f153eef029f4abc",
-      "title": "Indian Challenger lands another major result against Harley-Davidson\u2019s Road Glide",
-      "link": "https://www.visordown.com/news/indian-challenger-lands-another-major-result-against-harley-davidsons-road-glide",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T10:35:52+00:00",
-      "excerpt": "The Indian Challenger has cemented itself as the motorcycle to beat over the Harley-Davidson Road Glide in KOTB.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t114338.680.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "cruisers",
-          "label": "Cruisers"
-        },
-        {
-          "slug": "racing",
-          "label": "Racing"
-        }
-      ],
-      "primary": "cruisers",
-      "confident": true,
-      "cat_scores": {
-        "cruisers": 0.92,
-        "racing": 0.61
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "comparison-test",
-          "label": "Comparison Test"
-        }
-      ],
-      "form_scores": {
-        "news": 0.64,
-        "review": 0.17,
-        "comparison-test": 0.79,
-        "first-look": 0.07,
-        "ranked-list": 0.14,
-        "buyers-guide": 0.16,
-        "how-to": 0.03,
-        "explainer": 0.1,
-        "opinion": 0.69,
-        "profile-interview": 0.1,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.85,
-        "event-preview": 0.07,
-        "press-release": 0.19,
-        "digest": 0.08,
-        "photo-gallery": 0.15,
-        "ride-report": 0.05,
-        "history": 0.1,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.08,
-        "build-feature": 0.1,
-        "q-and-a": 0.04
-      },
-      "multi_subject": 0.04,
-      "tags": [
-        "cruisers",
-        "racing"
-      ],
-      "also": []
-    },
-    {
       "id": "fb079c96c894a92d555226aa3ed3db0819389fb9",
       "title": "First 100 Colls France crowns Kove duo after 48-hour strategy challenge in the Alps",
       "link": "https://www.motorcyclenews.com/news/2026/september/100-colls-france",
@@ -3023,6 +2964,73 @@
         "events-rides",
         "adventure",
         "adv-events-competitions"
+      ],
+      "also": []
+    },
+    {
+      "id": "fae8c3fcd01bdadedf4abdef2bc0fd4a3aee4741",
+      "title": "Triumph Originals 2026 won by Spain\u2019s Tamarit Motorcycles",
+      "link": "https://www.visordown.com/news/triumph-originals-2026-won-spains-tamarit-motorcycles",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T15:07:53+00:00",
+      "excerpt": "Tamarit Motorcycles beat six teams to be crowned the winner of Triumph Originals 2026, gaining 33 per cent of the public vote.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/tamarit-miura-01.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "custom",
+          "label": "Custom"
+        }
+      ],
+      "primary": "custom",
+      "confident": false,
+      "cat_scores": {
+        "custom": 0.81
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.88,
+        "review": 0.03,
+        "comparison-test": 0.43,
+        "first-look": 0.03,
+        "ranked-list": 0.49,
+        "buyers-guide": 0.07,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.06,
+        "profile-interview": 0.17,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.91,
+        "event-preview": 0.07,
+        "press-release": 0.34,
+        "digest": 0.09,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.05,
+        "safety-notice": 0.02,
+        "episode": 0.05,
+        "build-feature": 0.21,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "custom"
       ],
       "also": []
     },
@@ -3829,86 +3837,6 @@
       "also": []
     },
     {
-      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
-      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
-      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
-      "lang": "en",
-      "source": "Visordown",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-09-30T08:36:10+00:00",
-      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "classic",
-          "label": "Classic"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.96,
-        "classic": 0.82
-      },
-      "subcategories": [],
-      "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        }
-      ],
-      "form_scores": {
-        "news": 0.84,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.19,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.43,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.2,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.07,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "classic"
-      ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
-          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
-          "published": "2026-09-30T09:21:47+00:00"
-        }
-      ]
-    },
-    {
       "id": "b5ccd23c80b011e0112a137a033b3f268171d1b9",
       "title": "Racing stars and stunning weather draw big crowd to Cadwell Moto celebration weekend at Cadwell Park",
       "link": "https://www.motorcyclenews.com/news/2026/september/cadwell-moto-cadwell-park-classic-bike-trackdays",
@@ -3983,6 +3911,79 @@
       "tags": [
         "events-rides",
         "classic",
+        "racing"
+      ],
+      "also": []
+    },
+    {
+      "id": "9a75d74302b1b71f1908ad3f0f153eef029f4abc",
+      "title": "Indian Challenger lands another major result against Harley-Davidson\u2019s Road Glide",
+      "link": "https://www.visordown.com/news/indian-challenger-lands-another-major-result-against-harley-davidsons-road-glide",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-30T10:35:52+00:00",
+      "excerpt": "The Indian Challenger has cemented itself as the motorcycle to beat over the Harley-Davidson Road Glide in KOTB.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t114338.680.png?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "racing",
+          "label": "Racing"
+        }
+      ],
+      "primary": "cruisers",
+      "confident": true,
+      "cat_scores": {
+        "cruisers": 0.92,
+        "racing": 0.61
+      },
+      "subcategories": [],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "comparison-test",
+          "label": "Comparison Test"
+        }
+      ],
+      "form_scores": {
+        "news": 0.64,
+        "review": 0.17,
+        "comparison-test": 0.79,
+        "first-look": 0.07,
+        "ranked-list": 0.14,
+        "buyers-guide": 0.16,
+        "how-to": 0.03,
+        "explainer": 0.1,
+        "opinion": 0.69,
+        "profile-interview": 0.1,
+        "tribute": 0.02,
+        "listing": 0.02,
+        "event-report": 0.85,
+        "event-preview": 0.07,
+        "press-release": 0.19,
+        "digest": 0.08,
+        "photo-gallery": 0.15,
+        "ride-report": 0.05,
+        "history": 0.1,
+        "rumor": 0.04,
+        "safety-notice": 0.02,
+        "episode": 0.08,
+        "build-feature": 0.1,
+        "q-and-a": 0.04
+      },
+      "multi_subject": 0.04,
+      "tags": [
+        "cruisers",
         "racing"
       ],
       "also": []
@@ -4575,42 +4576,35 @@
       "also": []
     },
     {
-      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
-      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
-      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
+      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
+      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
+      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T11:49:00+00:00",
-      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
+      "published": "2026-09-30T08:36:10+00:00",
+      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "racing",
+          "label": "Racing"
         },
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
-      "primary": "adventure",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.96,
-        "dirt-mx": 0.82,
-        "adv-events-competitions": 0.97
+        "racing": 0.96,
+        "classic": 0.82
       },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "event-report",
@@ -4622,38 +4616,44 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.04,
-        "comparison-test": 0.02,
+        "news": 0.84,
+        "review": 0.03,
+        "comparison-test": 0.05,
         "first-look": 0.03,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.04,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.03,
         "how-to": 0.02,
         "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.19,
         "listing": 0.01,
         "event-report": 0.93,
         "event-preview": 0.04,
-        "press-release": 0.29,
+        "press-release": 0.43,
         "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.06,
-        "history": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.2,
         "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.03,
+        "build-feature": 0.07,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.05,
       "tags": [
-        "adventure",
-        "dirt-mx",
-        "adv-events-competitions"
+        "racing",
+        "classic"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
+          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
+          "published": "2026-09-30T09:21:47+00:00"
+        }
+      ]
     },
     {
       "id": "ce6a533f6eda691120ddc7d0db203b76158194a5",
@@ -5137,6 +5137,87 @@
         "racing",
         "sport-bikes",
         "worldsbk-superbike"
+      ],
+      "also": []
+    },
+    {
+      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
+      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
+      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-25T11:49:00+00:00",
+      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.96,
+        "dirt-mx": 0.82,
+        "adv-events-competitions": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.91,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.04,
+        "how-to": 0.02,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.13,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.29,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.06,
+        "history": 0.1,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
+      },
+      "multi_subject": 0.03,
+      "tags": [
+        "adventure",
+        "dirt-mx",
+        "adv-events-competitions"
       ],
       "also": []
     },

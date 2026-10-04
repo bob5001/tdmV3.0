@@ -1258,67 +1258,83 @@
       ]
     },
     {
-      "id": "a1c85671f46995fc95bbcf226e7efb4665482309",
-      "title": "These are the UK areas with the worst roads for motorcyclists",
-      "link": "https://www.visordown.com/news/these-are-uk-areas-worst-roads-motorcyclists",
+      "id": "7e07467f81695cc868be552a95166d01868f01ea",
+      "title": "Kawasaki completes major first in Sportbike World Championship",
+      "link": "https://www.visordown.com/news/kawasaki-completes-major-first-world-sportbike-championship",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T14:00:00+00:00",
-      "excerpt": "New analysis of DfT road condition data reveals the UK areas with the highest proportion of roads classed as needing improvement.",
-      "image": "https://www.visordown.com/sites/default/files/2026-04/238174_rapid_14_15_4_26_jamiemorris_r3jm3245_jpg.jpg?width=1200",
+      "published": "2026-10-04T04:36:59+00:00",
+      "excerpt": "Kawasaki\u2019s racing success has extended itself to the new Sportbike World Championship, after the Japanese company secured the Manufacturers\u2019 title for the first time in Cremona.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gng_1320801_hires_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
-      "primary": "odd-ball",
-      "confident": false,
-      "cat_scores": {},
-      "subcategories": [],
-      "forms": [
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.98,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.95
+      },
+      "subcategories": [
         {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
         }
       ],
       "form_scores": {
-        "news": 0.77,
-        "review": 0.01,
+        "news": 0.92,
+        "review": 0.02,
         "comparison-test": 0.03,
-        "first-look": 0.01,
-        "ranked-list": 0.86,
+        "first-look": 0.03,
+        "ranked-list": 0.03,
         "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.14,
-        "opinion": 0.09,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
+        "how-to": 0.02,
+        "explainer": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.09,
-        "digest": 0.08,
-        "photo-gallery": 0.1,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.01,
-        "safety-notice": 0.06,
+        "event-report": 0.92,
+        "event-preview": 0.05,
+        "press-release": 0.61,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.16,
+        "rumor": 0.02,
+        "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.03
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.07,
+      "multi_subject": 0.04,
       "tags": [
-        "odd-ball"
+        "racing",
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
       "also": []
     },
@@ -2318,34 +2334,32 @@
       "also": []
     },
     {
-      "id": "1d44c63aaa0d8a04c3ac145b26407e13a40dc078",
-      "title": "Alpinestars RSRV and Red Bull team up for new capsule collection",
-      "link": "https://www.visordown.com/news/alpinestars-rsrv-and-red-bull-team-new-capsule-collection",
+      "id": "a1c85671f46995fc95bbcf226e7efb4665482309",
+      "title": "These are the UK areas with the worst roads for motorcyclists",
+      "link": "https://www.visordown.com/news/these-are-uk-areas-worst-roads-motorcyclists",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T12:00:00+00:00",
-      "excerpt": "Alpinestars RSRV and Red Bull have teamed up for a five-piece clothing collection, including a $2,500 leather jacket with some motorcycle protection.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/unnamed.jpg?width=1200",
+      "published": "2026-10-02T14:00:00+00:00",
+      "excerpt": "New analysis of DfT road condition data reveals the UK areas with the highest proportion of roads classed as needing improvement.",
+      "image": "https://www.visordown.com/sites/default/files/2026-04/238174_rapid_14_15_4_26_jamiemorris_r3jm3245_jpg.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "odd-ball",
+          "label": "Odd Ball"
         }
       ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.91
-      },
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
       "subcategories": [],
       "forms": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "ranked-list",
+          "label": "Ten Best"
         },
         {
           "slug": "news",
@@ -2353,34 +2367,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.04,
-        "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.09,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.11,
+        "news": 0.77,
+        "review": 0.01,
+        "comparison-test": 0.03,
+        "first-look": 0.01,
+        "ranked-list": 0.86,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.14,
+        "opinion": 0.09,
+        "profile-interview": 0.03,
         "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.03,
-        "event-preview": 0.05,
-        "press-release": 0.89,
-        "digest": 0.09,
-        "photo-gallery": 0.12,
-        "ride-report": 0.01,
+        "listing": 0.01,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.09,
+        "digest": 0.08,
+        "photo-gallery": 0.1,
+        "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.15,
-        "safety-notice": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.06,
         "episode": 0.03,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.07,
       "tags": [
-        "gear"
+        "odd-ball"
       ],
       "also": []
     },
@@ -3301,65 +3315,69 @@
       "also": []
     },
     {
-      "id": "a444eb976c5e9319a5c5cfc9c5fae72f5211a8fa",
-      "title": "Suzuki GSX-8TT gets a racy red and gold makeover",
-      "link": "https://www.visordown.com/news/suzuki-gsx-8tt-gets-racy-red-and-gold-makeover",
+      "id": "1d44c63aaa0d8a04c3ac145b26407e13a40dc078",
+      "title": "Alpinestars RSRV and Red Bull team up for new capsule collection",
+      "link": "https://www.visordown.com/news/alpinestars-rsrv-and-red-bull-team-new-capsule-collection",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T09:45:45+00:00",
-      "excerpt": "Suzuki has given its retro naked a makeover, with the GSX-8TT gaining a stylish colour scheme featuring red with gold wheels.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/a1a7298-1024x683-1.jpg?width=1200",
+      "published": "2026-10-02T12:00:00+00:00",
+      "excerpt": "Alpinestars RSRV and Red Bull have teamed up for a five-piece clothing collection, including a $2,500 leather jacket with some motorcycle protection.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/unnamed.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
-      "primary": "new-models",
-      "confident": false,
+      "primary": "gear",
+      "confident": true,
       "cat_scores": {
-        "new-models": 0.7
+        "gear": 0.91
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.13,
+        "news": 0.88,
+        "review": 0.04,
         "comparison-test": 0.02,
-        "first-look": 0.16,
+        "first-look": 0.07,
         "ranked-list": 0.02,
-        "buyers-guide": 0.1,
+        "buyers-guide": 0.09,
         "how-to": 0.02,
-        "explainer": 0.07,
-        "opinion": 0.1,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
-        "listing": 0.04,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.72,
-        "digest": 0.08,
-        "photo-gallery": 0.2,
-        "ride-report": 0.02,
-        "history": 0.06,
-        "rumor": 0.12,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.11,
+        "tribute": 0.01,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.05,
+        "press-release": 0.89,
+        "digest": 0.09,
+        "photo-gallery": 0.12,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.15,
         "safety-notice": 0.02,
         "episode": 0.03,
-        "build-feature": 0.14,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
-        "new-models"
+        "gear"
       ],
       "also": []
     },
@@ -4315,69 +4333,65 @@
       ]
     },
     {
-      "id": "e2986c2f640c75b77c27157707893a6c4fce244f",
-      "title": "Popular LS2 Spectrum intercom gains new voice operation technology",
-      "link": "https://www.visordown.com/news/popular-ls2-spectrum-intercom-gains-new-voice-operation-technology",
+      "id": "a444eb976c5e9319a5c5cfc9c5fae72f5211a8fa",
+      "title": "Suzuki GSX-8TT gets a racy red and gold makeover",
+      "link": "https://www.visordown.com/news/suzuki-gsx-8tt-gets-racy-red-and-gold-makeover",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T09:00:00+00:00",
-      "excerpt": "LS2 has revealed significant updates to its popular Spectrum intercom unit, with the main functions now controlled by your own voice.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t153445.193.png?width=1200",
+      "published": "2026-10-02T09:45:45+00:00",
+      "excerpt": "Suzuki has given its retro naked a makeover, with the GSX-8TT gaining a stylish colour scheme featuring red with gold wheels.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/a1a7298-1024x683-1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "gear",
-      "confident": true,
+      "primary": "new-models",
+      "confident": false,
       "cat_scores": {
-        "gear": 0.98
+        "new-models": 0.7
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.27,
-        "comparison-test": 0.03,
-        "first-look": 0.18,
+        "news": 0.87,
+        "review": 0.13,
+        "comparison-test": 0.02,
+        "first-look": 0.16,
         "ranked-list": 0.02,
-        "buyers-guide": 0.16,
-        "how-to": 0.06,
-        "explainer": 0.34,
-        "opinion": 0.05,
-        "profile-interview": 0.1,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.89,
+        "buyers-guide": 0.1,
+        "how-to": 0.02,
+        "explainer": 0.07,
+        "opinion": 0.1,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.04,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.72,
         "digest": 0.08,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.2,
         "ride-report": 0.02,
-        "history": 0.02,
+        "history": 0.06,
         "rumor": 0.12,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "episode": 0.03,
+        "build-feature": 0.14,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
-        "gear"
+        "new-models"
       ],
       "also": []
     },
@@ -5203,28 +5217,28 @@
       "also": []
     },
     {
-      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
-      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
-      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
+      "id": "e2986c2f640c75b77c27157707893a6c4fce244f",
+      "title": "Popular LS2 Spectrum intercom gains new voice operation technology",
+      "link": "https://www.visordown.com/news/popular-ls2-spectrum-intercom-gains-new-voice-operation-technology",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T07:30:00+00:00",
-      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
+      "published": "2026-10-02T09:00:00+00:00",
+      "excerpt": "LS2 has revealed significant updates to its popular Spectrum intercom unit, with the main functions now controlled by your own voice.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t153445.193.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
-      "primary": "racing",
-      "confident": false,
+      "primary": "gear",
+      "confident": true,
       "cat_scores": {
-        "racing": 0.69
+        "gear": 0.98
       },
       "subcategories": [],
       "forms": [
@@ -5233,39 +5247,39 @@
           "label": "News"
         },
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.02,
-        "comparison-test": 0.01,
-        "first-look": 0.02,
+        "news": 0.91,
+        "review": 0.27,
+        "comparison-test": 0.03,
+        "first-look": 0.18,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.12,
-        "opinion": 0.04,
-        "profile-interview": 0.17,
-        "tribute": 0.04,
-        "listing": 0.02,
-        "event-report": 0.06,
-        "event-preview": 0.85,
-        "press-release": 0.65,
-        "digest": 0.1,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.19,
-        "rumor": 0.09,
+        "buyers-guide": 0.16,
+        "how-to": 0.06,
+        "explainer": 0.34,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.03,
+        "event-report": 0.02,
+        "event-preview": 0.01,
+        "press-release": 0.89,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.02,
+        "rumor": 0.12,
         "safety-notice": 0.02,
-        "episode": 0.05,
+        "episode": 0.04,
         "build-feature": 0.02,
-        "q-and-a": 0.02
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "racing"
+        "gear"
       ],
       "also": []
     },
@@ -6052,28 +6066,28 @@
       "also": []
     },
     {
-      "id": "abcd36c3ece38b9e4b203635867c6974276a85ae",
-      "title": "BMW F450 R launches with UK prices starting at \u00a36,395",
-      "link": "https://www.visordown.com/news/bmw-f-450-r-launches-uk-prices-starting-ps6395",
+      "id": "b14077d12b08aba5841f791c0896d2221d6ecad9",
+      "title": "Charley Boorman to showcase new North West 200 film at MCL26",
+      "link": "https://www.visordown.com/news/charley-boorman-showcase-new-north-west-200-film-mcl26",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T07:22:57+00:00",
-      "excerpt": "BMW Motorrad\u2019s new F450 R uses a 420cc parallel-twin engine, weighs 175kg, and costs \u00a36,395 to \u00a36,995 in the UK.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/bmw-f450-r-01.jpg?width=1200",
+      "published": "2026-10-02T07:30:00+00:00",
+      "excerpt": "Charley Boorman will appear at Motorcycle Live 2026 to showcase Bigger, Better, Faster, a new film exploring the history of the North West 200.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/charley-boorman-zero-fit.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "racing",
+          "label": "Racing"
         }
       ],
-      "primary": "new-models",
-      "confident": true,
+      "primary": "racing",
+      "confident": false,
       "cat_scores": {
-        "new-models": 0.96
+        "racing": 0.69
       },
       "subcategories": [],
       "forms": [
@@ -6082,39 +6096,39 @@
           "label": "News"
         },
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "event-preview",
+          "label": "Event Preview"
         }
       ],
       "form_scores": {
-        "news": 0.93,
-        "review": 0.26,
-        "comparison-test": 0.03,
-        "first-look": 0.19,
+        "news": 0.89,
+        "review": 0.02,
+        "comparison-test": 0.01,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.25,
-        "how-to": 0.02,
-        "explainer": 0.09,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.12,
         "opinion": 0.04,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.06,
-        "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.9,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.02,
-        "history": 0.05,
-        "rumor": 0.04,
+        "profile-interview": 0.17,
+        "tribute": 0.04,
+        "listing": 0.02,
+        "event-report": 0.06,
+        "event-preview": 0.85,
+        "press-release": 0.65,
+        "digest": 0.1,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.19,
+        "rumor": 0.09,
         "safety-notice": 0.02,
-        "episode": 0.03,
+        "episode": 0.05,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
-        "new-models"
+        "racing"
       ],
       "also": []
     },
@@ -6846,38 +6860,28 @@
       "also": []
     },
     {
-      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
-      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
-      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
+      "id": "abcd36c3ece38b9e4b203635867c6974276a85ae",
+      "title": "BMW F450 R launches with UK prices starting at \u00a36,395",
+      "link": "https://www.visordown.com/news/bmw-f-450-r-launches-uk-prices-starting-ps6395",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-02T06:00:00+00:00",
-      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
+      "published": "2026-10-02T07:22:57+00:00",
+      "excerpt": "BMW Motorrad\u2019s new F450 R uses a 420cc parallel-twin engine, weighs 175kg, and costs \u00a36,395 to \u00a36,995 in the UK.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/bmw-f450-r-01.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "gear",
-      "confident": false,
+      "primary": "new-models",
+      "confident": true,
       "cat_scores": {
-        "gear": 0.73,
-        "adventure": 0.56,
-        "sport-bikes": 0.5
+        "new-models": 0.96
       },
       "subcategories": [],
       "forms": [
@@ -6891,36 +6895,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
+        "news": 0.93,
+        "review": 0.26,
+        "comparison-test": 0.03,
+        "first-look": 0.19,
         "ranked-list": 0.02,
-        "buyers-guide": 0.43,
+        "buyers-guide": 0.25,
         "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.03,
-        "profile-interview": 0.03,
+        "explainer": 0.09,
+        "opinion": 0.04,
+        "profile-interview": 0.05,
         "tribute": 0.01,
-        "listing": 0.08,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.84,
-        "digest": 0.11,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.02,
+        "listing": 0.06,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.9,
+        "digest": 0.08,
+        "photo-gallery": 0.08,
+        "ride-report": 0.02,
+        "history": 0.05,
         "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
-        "gear",
-        "adventure",
-        "sport-bikes"
+        "new-models"
       ],
       "also": []
     },
@@ -7676,63 +7678,81 @@
       "also": []
     },
     {
-      "id": "b8221f07c85267de2e0df72d977f06895b8608e8",
-      "title": "Voting is now open for the 2026 Visordown Bike of the Year!",
-      "link": "https://www.visordown.com/news/voting-now-open-2026-visordown-bike-year",
+      "id": "4aaedc1fc43a034e87781048fe556aef9a249066",
+      "title": "Suzuki GSX-8T now available with free accessory pack worth over \u00a3800",
+      "link": "https://www.visordown.com/news/suzuki-gsx-8t-now-available-free-accessory-pack-worth-over-ps800",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T12:00:00+00:00",
-      "excerpt": "You can now cast your vote for the 2026 Visordown Bike of the Year from today, October 1, until 10 pm (UK time) on 11 November 2026.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/visordown-awards-2026_visordown-bike-of-the-year_horizontal.jpg?width=1200",
+      "published": "2026-10-02T06:00:00+00:00",
+      "excerpt": "Customers that buy a Suzuki GSX-8T this autumn will automatically qualify for a free accessory pack worth \u00a3800.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/gsx-8t_qsy_rhs_gold_ap-1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "odd-ball",
-          "label": "Odd Ball"
+          "slug": "gear",
+          "label": "Gear"
+        },
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
-      "primary": "odd-ball",
+      "primary": "gear",
       "confident": false,
-      "cat_scores": {},
+      "cat_scores": {
+        "gear": 0.73,
+        "adventure": 0.56,
+        "sport-bikes": 0.5
+      },
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.03,
-        "comparison-test": 0.21,
-        "first-look": 0.02,
-        "ranked-list": 0.25,
-        "buyers-guide": 0.09,
-        "how-to": 0.05,
+        "news": 0.87,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.43,
+        "how-to": 0.02,
         "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.02,
+        "opinion": 0.03,
+        "profile-interview": 0.03,
         "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.41,
-        "press-release": 0.72,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
+        "listing": 0.08,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.84,
+        "digest": 0.11,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
         "history": 0.02,
-        "rumor": 0.03,
+        "rumor": 0.04,
         "safety-notice": 0.02,
         "episode": 0.02,
         "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.04,
       "tags": [
-        "odd-ball"
+        "gear",
+        "adventure",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -8388,84 +8408,65 @@
       ]
     },
     {
-      "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
-      "title": "Furygan launches first women-specific motorcycle airbag",
-      "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
+      "id": "b8221f07c85267de2e0df72d977f06895b8608e8",
+      "title": "Voting is now open for the 2026 Visordown Bike of the Year!",
+      "link": "https://www.visordown.com/news/voting-now-open-2026-visordown-bike-year",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T09:31:05+00:00",
-      "excerpt": "Furygan has launched its first airbag designed for women, with five modes and a \u00a3369.99 price tag.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-01-at-10.30.33.png?width=1200",
+      "published": "2026-10-01T12:00:00+00:00",
+      "excerpt": "You can now cast your vote for the 2026 Visordown Bike of the Year from today, October 1, until 10 pm (UK time) on 11 November 2026.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/visordown-awards-2026_visordown-bike-of-the-year_horizontal.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
-        },
-        {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "odd-ball",
+          "label": "Odd Ball"
         }
       ],
-      "primary": "gear",
-      "confident": true,
-      "cat_scores": {
-        "gear": 0.97,
-        "law-safety": 0.84
-      },
+      "primary": "odd-ball",
+      "confident": false,
+      "cat_scores": {},
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.92,
-        "review": 0.27,
-        "comparison-test": 0.03,
-        "first-look": 0.17,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.28,
-        "how-to": 0.03,
-        "explainer": 0.24,
-        "opinion": 0.04,
-        "profile-interview": 0.13,
+        "news": 0.9,
+        "review": 0.03,
+        "comparison-test": 0.21,
+        "first-look": 0.02,
+        "ranked-list": 0.25,
+        "buyers-guide": 0.09,
+        "how-to": 0.05,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.02,
         "tribute": 0.01,
-        "listing": 0.09,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.92,
-        "digest": 0.09,
-        "photo-gallery": 0.09,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.05,
-        "safety-notice": 0.04,
-        "episode": 0.04,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.41,
+        "press-release": 0.72,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.03,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.02,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
-        "gear",
-        "law-safety"
+        "odd-ball"
       ],
-      "also": [
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "Furygan release new airbag vest specifically designed for ladies",
-          "link": "https://www.motorcyclenews.com/bike-kit/news/2026-kit-news/october/furygan-ladies-airbag",
-          "published": "2026-10-01T17:25:18+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "abe5d62842185ff6b025c92e4e5c8295cbec22a8",
@@ -9038,78 +9039,82 @@
       "also": []
     },
     {
-      "id": "46c511da0f380728f366a2f5ed67f8730a9e2444",
-      "title": "Updated Kawasaki Ninja 650 confirmed for Europe",
-      "link": "https://www.visordown.com/news/updated-kawasaki-ninja-650-confirmed-europe",
+      "id": "e2b87bf8e91bd5a5fa287e54b21f5bb0eddb725f",
+      "title": "Furygan launches first women-specific motorcycle airbag",
+      "link": "https://www.visordown.com/news/furygan-launches-first-women-specific-motorcycle-airbag",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T07:40:30+00:00",
-      "excerpt": "Kawasaki\u2019s Ninja 650 has received a major facelift for 2027, gaining numerous front-end changes, including inverted Showa forks and radial brake calipers.",
-      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t074810.042.png?width=1200",
+      "published": "2026-10-01T09:31:05+00:00",
+      "excerpt": "Furygan has launched its first airbag designed for women, with five modes and a \u00a3369.99 price tag.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/screenshot-2026-10-01-at-10.30.33.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "gear",
+          "label": "Gear"
         },
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
-      "primary": "new-models",
+      "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "new-models": 0.93,
-        "sport-bikes": 0.79
+        "gear": 0.97,
+        "law-safety": 0.84
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.86,
-        "review": 0.15,
+        "news": 0.92,
+        "review": 0.27,
         "comparison-test": 0.03,
-        "first-look": 0.18,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.16,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
+        "first-look": 0.17,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.28,
+        "how-to": 0.03,
+        "explainer": 0.24,
+        "opinion": 0.04,
+        "profile-interview": 0.13,
         "tribute": 0.01,
-        "listing": 0.03,
+        "listing": 0.09,
         "event-report": 0.03,
-        "event-preview": 0.03,
-        "press-release": 0.7,
-        "digest": 0.08,
+        "event-preview": 0.02,
+        "press-release": 0.92,
+        "digest": 0.09,
         "photo-gallery": 0.09,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.27,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
+        "rumor": 0.05,
+        "safety-notice": 0.04,
+        "episode": 0.04,
+        "build-feature": 0.01,
         "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "new-models",
-        "sport-bikes"
+        "gear",
+        "law-safety"
       ],
       "also": [
         {
           "source": "Motorcycle News (MCN)",
-          "title": "Kawasaki treat long-standing Ninja 650 soft sportsbike to upside down forks and radial front brakes",
-          "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/kawasaki-ninja-650-updated",
-          "published": "2026-09-30T17:36:55+00:00"
+          "title": "Furygan release new airbag vest specifically designed for ladies",
+          "link": "https://www.motorcyclenews.com/bike-kit/news/2026-kit-news/october/furygan-ladies-airbag",
+          "published": "2026-10-01T17:25:18+00:00"
         }
       ]
     },
@@ -9682,75 +9687,80 @@
       "also": []
     },
     {
-      "id": "ea6b9f8e0322e1f207875c42efe48213a73e72f2",
-      "title": "More attractions and deals than ever promised for MCL26",
-      "link": "https://www.visordown.com/news/more-attractions-and-deals-ever-promised-mcl26",
+      "id": "46c511da0f380728f366a2f5ed67f8730a9e2444",
+      "title": "Updated Kawasaki Ninja 650 confirmed for Europe",
+      "link": "https://www.visordown.com/news/updated-kawasaki-ninja-650-confirmed-europe",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-10-01T07:17:22+00:00",
-      "excerpt": "Motorcycle Live 2026 returns to Birmingham\u2019s NEC from November 21-29, with hundreds of bikes, free test rides, live shows, riding experiences and advance tickets from \u00a325.",
-      "image": "https://www.visordown.com/sites/default/files/2026-01/mcl.jpg?width=1200",
+      "published": "2026-10-01T07:40:30+00:00",
+      "excerpt": "Kawasaki\u2019s Ninja 650 has received a major facelift for 2027, gaining numerous front-end changes, including inverted Showa forks and radial brake calipers.",
+      "image": "https://www.visordown.com/sites/default/files/2026-10/site-image-resize-2026-10-01t074810.042.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
-      "primary": "events-rides",
-      "confident": false,
+      "primary": "new-models",
+      "confident": true,
       "cat_scores": {
-        "events-rides": 0.8
+        "new-models": 0.93,
+        "sport-bikes": 0.79
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
         "news": 0.86,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.04,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.07,
+        "review": 0.15,
+        "comparison-test": 0.03,
+        "first-look": 0.18,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.16,
         "how-to": 0.02,
-        "explainer": 0.07,
+        "explainer": 0.09,
         "opinion": 0.05,
-        "profile-interview": 0.06,
+        "profile-interview": 0.05,
         "tribute": 0.01,
-        "listing": 0.04,
-        "event-report": 0.05,
-        "event-preview": 0.97,
-        "press-release": 0.77,
-        "digest": 0.1,
-        "photo-gallery": 0.07,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.03,
+        "press-release": 0.7,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
         "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.03,
+        "history": 0.03,
+        "rumor": 0.27,
         "safety-notice": 0.02,
         "episode": 0.03,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.08,
+      "multi_subject": 0.04,
       "tags": [
-        "events-rides"
+        "new-models",
+        "sport-bikes"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "Kawasaki treat long-standing Ninja 650 soft sportsbike to upside down forks and radial front brakes",
+          "link": "https://www.motorcyclenews.com/news/new-bikes/2026/september/kawasaki-ninja-650-updated",
+          "published": "2026-09-30T17:36:55+00:00"
+        }
+      ]
     },
     {
       "id": "e6a8efefaeb316df41ee3c196608d8f3228640dd",
@@ -10328,69 +10338,73 @@
       ]
     },
     {
-      "id": "fae8c3fcd01bdadedf4abdef2bc0fd4a3aee4741",
-      "title": "Triumph Originals 2026 won by Spain\u2019s Tamarit Motorcycles",
-      "link": "https://www.visordown.com/news/triumph-originals-2026-won-spains-tamarit-motorcycles",
+      "id": "ea6b9f8e0322e1f207875c42efe48213a73e72f2",
+      "title": "More attractions and deals than ever promised for MCL26",
+      "link": "https://www.visordown.com/news/more-attractions-and-deals-ever-promised-mcl26",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T15:07:53+00:00",
-      "excerpt": "Tamarit Motorcycles beat six teams to be crowned the winner of Triumph Originals 2026, gaining 33 per cent of the public vote.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/tamarit-miura-01.jpg?width=1200",
+      "published": "2026-10-01T07:17:22+00:00",
+      "excerpt": "Motorcycle Live 2026 returns to Birmingham\u2019s NEC from November 21-29, with hundreds of bikes, free test rides, live shows, riding experiences and advance tickets from \u00a325.",
+      "image": "https://www.visordown.com/sites/default/files/2026-01/mcl.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "custom",
-          "label": "Custom"
+          "slug": "events-rides",
+          "label": "Events & Rides"
         }
       ],
-      "primary": "custom",
+      "primary": "events-rides",
       "confident": false,
       "cat_scores": {
-        "custom": 0.81
+        "events-rides": 0.8
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
+          "slug": "event-preview",
+          "label": "Event Preview"
         },
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.03,
-        "comparison-test": 0.43,
-        "first-look": 0.03,
-        "ranked-list": 0.49,
+        "news": 0.86,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.04,
+        "ranked-list": 0.03,
         "buyers-guide": 0.07,
         "how-to": 0.02,
         "explainer": 0.07,
-        "opinion": 0.06,
-        "profile-interview": 0.17,
-        "tribute": 0.02,
-        "listing": 0.02,
-        "event-report": 0.91,
-        "event-preview": 0.07,
-        "press-release": 0.34,
-        "digest": 0.09,
-        "photo-gallery": 0.13,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.01,
+        "listing": 0.04,
+        "event-report": 0.05,
+        "event-preview": 0.97,
+        "press-release": 0.77,
+        "digest": 0.1,
+        "photo-gallery": 0.07,
         "ride-report": 0.02,
-        "history": 0.09,
-        "rumor": 0.05,
+        "history": 0.02,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.05,
-        "build-feature": 0.21,
+        "episode": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.08,
       "tags": [
-        "custom"
+        "events-rides"
       ],
       "also": []
     },
@@ -10866,71 +10880,69 @@
       "also": []
     },
     {
-      "id": "d806134c947e9400d11936cff5589365d60be277",
-      "title": "Ducati Streetfighter V4 Lamborghini Speciale Clienti with zero miles heads to auction",
-      "link": "https://www.visordown.com/news/ducati-streetfighter-v4-lamborghini-speciale-clienti-zero-miles-heads-auction",
+      "id": "fae8c3fcd01bdadedf4abdef2bc0fd4a3aee4741",
+      "title": "Triumph Originals 2026 won by Spain\u2019s Tamarit Motorcycles",
+      "link": "https://www.visordown.com/news/triumph-originals-2026-won-spains-tamarit-motorcycles",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T13:52:20+00:00",
-      "excerpt": "A very rare opportunity to own a factory-built Ducati Streetfighter V4 Lamborghini Speciale Clienti model will be available in the UK this November.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t143237.743.png?width=1200",
+      "published": "2026-09-30T15:07:53+00:00",
+      "excerpt": "Tamarit Motorcycles beat six teams to be crowned the winner of Triumph Originals 2026, gaining 33 per cent of the public vote.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/tamarit-miura-01.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "for-sale",
-          "label": "For Sale"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "custom",
+          "label": "Custom"
         }
       ],
-      "primary": "for-sale",
-      "confident": true,
+      "primary": "custom",
+      "confident": false,
       "cat_scores": {
-        "for-sale": 0.85,
-        "sport-bikes": 0.75
+        "custom": 0.81
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.06,
-        "comparison-test": 0.02,
-        "first-look": 0.05,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.19,
+        "news": 0.88,
+        "review": 0.03,
+        "comparison-test": 0.43,
+        "first-look": 0.03,
+        "ranked-list": 0.49,
+        "buyers-guide": 0.07,
         "how-to": 0.02,
         "explainer": 0.07,
-        "opinion": 0.05,
-        "profile-interview": 0.05,
+        "opinion": 0.06,
+        "profile-interview": 0.17,
         "tribute": 0.02,
-        "listing": 0.74,
-        "event-report": 0.04,
-        "event-preview": 0.38,
-        "press-release": 0.25,
+        "listing": 0.02,
+        "event-report": 0.91,
+        "event-preview": 0.07,
+        "press-release": 0.34,
         "digest": 0.09,
-        "photo-gallery": 0.11,
-        "ride-report": 0.01,
-        "history": 0.04,
-        "rumor": 0.06,
+        "photo-gallery": 0.13,
+        "ride-report": 0.02,
+        "history": 0.09,
+        "rumor": 0.05,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.08,
-        "q-and-a": 0.02
+        "episode": 0.05,
+        "build-feature": 0.21,
+        "q-and-a": 0.03
       },
       "multi_subject": 0.04,
       "tags": [
-        "for-sale",
-        "sport-bikes"
+        "custom"
       ],
       "also": []
     },
@@ -11463,69 +11475,71 @@
       "also": []
     },
     {
-      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
-      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
-      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
+      "id": "d806134c947e9400d11936cff5589365d60be277",
+      "title": "Ducati Streetfighter V4 Lamborghini Speciale Clienti with zero miles heads to auction",
+      "link": "https://www.visordown.com/news/ducati-streetfighter-v4-lamborghini-speciale-clienti-zero-miles-heads-auction",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T12:19:12+00:00",
-      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
-      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
+      "published": "2026-09-30T13:52:20+00:00",
+      "excerpt": "A very rare opportunity to own a factory-built Ducati Streetfighter V4 Lamborghini Speciale Clienti model will be available in the UK this November.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t143237.743.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "for-sale",
+          "label": "For Sale"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
-      "primary": "law-safety",
+      "primary": "for-sale",
       "confident": true,
       "cat_scores": {
-        "law-safety": 0.98
+        "for-sale": 0.85,
+        "sport-bikes": 0.75
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "safety-notice",
-          "label": "Safety & Rules"
-        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.9,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
+        "news": 0.84,
+        "review": 0.06,
+        "comparison-test": 0.02,
+        "first-look": 0.05,
         "ranked-list": 0.02,
-        "buyers-guide": 0.02,
-        "how-to": 0.05,
-        "explainer": 0.63,
+        "buyers-guide": 0.19,
+        "how-to": 0.02,
+        "explainer": 0.07,
         "opinion": 0.05,
-        "profile-interview": 0.03,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.02,
-        "event-preview": 0.01,
-        "press-release": 0.23,
+        "profile-interview": 0.05,
+        "tribute": 0.02,
+        "listing": 0.74,
+        "event-report": 0.04,
+        "event-preview": 0.38,
+        "press-release": 0.25,
         "digest": 0.09,
-        "photo-gallery": 0.05,
+        "photo-gallery": 0.11,
         "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.01,
-        "safety-notice": 0.95,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
+        "history": 0.04,
+        "rumor": 0.06,
+        "safety-notice": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.08,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.04,
       "tags": [
-        "law-safety"
+        "for-sale",
+        "sport-bikes"
       ],
       "also": []
     },
@@ -12081,79 +12095,69 @@
       "also": []
     },
     {
-      "id": "f06c8cd697b48a444c56334b8c9359efaece3ef0",
-      "title": "KTM CEO reveals cost-cutting solution for MotoGP after strongly opposing single-bike rule",
-      "link": "https://www.visordown.com/news/ktm-ceo-reveals-cost-cutting-solution-motogp-after-strongly-opposing-single-bike-rule",
+      "id": "8f77bf0b99759b0f3f2ab8585f763f18812b9456",
+      "title": "Graduated motorcycle licence rules introduced in Northern Ireland",
+      "link": "https://www.visordown.com/news/graduated-motorcycle-licence-rules-introduced-northern-ireland",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T12:03:10+00:00",
-      "excerpt": "KTM CEO Gottfried Neumeister has offered an interesting view on how MotoGP could implement effective cost-cutting measures going forward.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1345871_hires_0.jpg?width=1200",
+      "published": "2026-09-30T12:19:12+00:00",
+      "excerpt": "Northern Ireland introduces new motorcycle licensing rules, with mandatory training modules and a logbook required before learners can take their practical test.",
+      "image": "https://www.visordown.com/sites/default/files/2025-08/phoenix-motorcycle-training-5.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
-      "primary": "racing",
+      "primary": "law-safety",
       "confident": true,
       "cat_scores": {
-        "racing": 0.95,
-        "industry": 0.84,
-        "motogp": 0.96
+        "law-safety": 0.98
       },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
+        {
+          "slug": "safety-notice",
+          "label": "Safety & Rules"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.77,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
-        "explainer": 0.23,
-        "opinion": 0.22,
-        "profile-interview": 0.56,
+        "news": 0.9,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.02,
+        "how-to": 0.05,
+        "explainer": 0.63,
+        "opinion": 0.05,
+        "profile-interview": 0.03,
         "tribute": 0.01,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.04,
+        "event-report": 0.02,
+        "event-preview": 0.01,
         "press-release": 0.23,
-        "digest": 0.08,
-        "photo-gallery": 0.06,
+        "digest": 0.09,
+        "photo-gallery": 0.05,
         "ride-report": 0.01,
         "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.02,
+        "rumor": 0.01,
+        "safety-notice": 0.95,
+        "episode": 0.03,
+        "build-feature": 0.01,
         "q-and-a": 0.04
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.04,
       "tags": [
-        "racing",
-        "industry",
-        "motogp"
+        "law-safety"
       ],
       "also": []
     },
@@ -12687,87 +12691,79 @@
       "also": []
     },
     {
-      "id": "fe90d86ae41fda22420dfa53c70f233d0abde4bc",
-      "title": "Stark Varg SM Sk\u00f6ll sold out in under 48 hours with no second production run planned",
-      "link": "https://www.visordown.com/news/stark-varg-sm-skoll-sold-out-under-48-hours-no-second-production-run-planned",
+      "id": "f06c8cd697b48a444c56334b8c9359efaece3ef0",
+      "title": "KTM CEO reveals cost-cutting solution for MotoGP after strongly opposing single-bike rule",
+      "link": "https://www.visordown.com/news/ktm-ceo-reveals-cost-cutting-solution-motogp-after-strongly-opposing-single-bike-rule",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T09:16:10+00:00",
-      "excerpt": "Stark has confirmed there will be no second production run after its limited-edition Varg SM Sk\u00f6ll sold out in double quick time.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/skoll-black-sm-outdoor-configurator_1.jpg?width=1200",
+      "published": "2026-09-30T12:03:10+00:00",
+      "excerpt": "KTM CEO Gottfried Neumeister has offered an interesting view on how MotoGP could implement effective cost-cutting measures going forward.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/gng_1345871_hires_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
           "slug": "industry",
           "label": "Industry & Business"
-        },
-        {
-          "slug": "electric",
-          "label": "Electric"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
         }
       ],
-      "primary": "industry",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "industry": 0.89,
-        "electric": 0.84,
-        "sport-bikes": 0.74,
-        "dirt-mx": 0.7
+        "racing": 0.95,
+        "industry": 0.84,
+        "motogp": 0.96
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "press-release",
-          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.91,
-        "review": 0.07,
+        "news": 0.77,
+        "review": 0.02,
         "comparison-test": 0.02,
-        "first-look": 0.07,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.11,
-        "how-to": 0.01,
-        "explainer": 0.06,
-        "opinion": 0.05,
-        "profile-interview": 0.15,
-        "tribute": 0.02,
-        "listing": 0.03,
-        "event-report": 0.07,
-        "event-preview": 0.02,
-        "press-release": 0.75,
-        "digest": 0.07,
-        "photo-gallery": 0.07,
+        "first-look": 0.02,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.23,
+        "opinion": 0.22,
+        "profile-interview": 0.56,
+        "tribute": 0.01,
+        "listing": 0.01,
+        "event-report": 0.04,
+        "event-preview": 0.04,
+        "press-release": 0.23,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.07,
-        "rumor": 0.04,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.05,
-        "q-and-a": 0.03
+        "history": 0.03,
+        "rumor": 0.03,
+        "safety-notice": 0.03,
+        "episode": 0.04,
+        "build-feature": 0.02,
+        "q-and-a": 0.04
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.06,
       "tags": [
+        "racing",
         "industry",
-        "electric",
-        "sport-bikes",
-        "dirt-mx"
+        "motogp"
       ],
       "also": []
     },
@@ -13285,84 +13281,89 @@
       "also": []
     },
     {
-      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
-      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
-      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
+      "id": "fe90d86ae41fda22420dfa53c70f233d0abde4bc",
+      "title": "Stark Varg SM Sk\u00f6ll sold out in under 48 hours with no second production run planned",
+      "link": "https://www.visordown.com/news/stark-varg-sm-skoll-sold-out-under-48-hours-no-second-production-run-planned",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-30T08:36:10+00:00",
-      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
+      "published": "2026-09-30T09:16:10+00:00",
+      "excerpt": "Stark has confirmed there will be no second production run after its limited-edition Varg SM Sk\u00f6ll sold out in double quick time.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/skoll-black-sm-outdoor-configurator_1.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
+          "slug": "industry",
+          "label": "Industry & Business"
         },
         {
-          "slug": "classic",
-          "label": "Classic"
+          "slug": "electric",
+          "label": "Electric"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "racing",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "racing": 0.96,
-        "classic": 0.82
+        "industry": 0.89,
+        "electric": 0.84,
+        "sport-bikes": 0.74,
+        "dirt-mx": 0.7
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
-        {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.03,
-        "comparison-test": 0.05,
-        "first-look": 0.03,
-        "ranked-list": 0.07,
-        "buyers-guide": 0.03,
-        "how-to": 0.02,
+        "news": 0.91,
+        "review": 0.07,
+        "comparison-test": 0.02,
+        "first-look": 0.07,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.11,
+        "how-to": 0.01,
         "explainer": 0.06,
         "opinion": 0.05,
-        "profile-interview": 0.09,
-        "tribute": 0.19,
-        "listing": 0.01,
-        "event-report": 0.93,
-        "event-preview": 0.04,
-        "press-release": 0.43,
-        "digest": 0.08,
-        "photo-gallery": 0.09,
-        "ride-report": 0.03,
-        "history": 0.2,
-        "rumor": 0.02,
+        "profile-interview": 0.15,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.07,
+        "event-preview": 0.02,
+        "press-release": 0.75,
+        "digest": 0.07,
+        "photo-gallery": 0.07,
+        "ride-report": 0.01,
+        "history": 0.07,
+        "rumor": 0.04,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.07,
-        "q-and-a": 0.02
+        "episode": 0.03,
+        "build-feature": 0.05,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.03,
       "tags": [
-        "racing",
-        "classic"
+        "industry",
+        "electric",
+        "sport-bikes",
+        "dirt-mx"
       ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
-          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
-          "published": "2026-09-30T09:21:47+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "640c51b90f67eab8fd5d5ff4cb6c6cb3278ca48a",
@@ -13679,17 +13680,17 @@
       "also": []
     },
     {
-      "id": "807468462120df81ac632e53a33c1fa35bafbf68",
-      "title": "'My life has changed' Maria Costello gives injury update following Isle of Man TT crash",
-      "link": "https://www.visordown.com/news/my-life-has-changed-maria-costello-gives-injury-update-following-isle-man-tt-crash",
+      "id": "f80cfbacb1b84069fae60b7980eb0244fc1f5b4e",
+      "title": "John McGuinness rides Norton Manx to second place finish at Goodwood Revival",
+      "link": "https://www.visordown.com/news/john-mcguinness-rides-norton-manx-second-place-finish-goodwood-revival",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T16:17:35+00:00",
-      "excerpt": "In an emotional message to her supporters paralysed racer Maria Costello said \"this had been the hardest thing I\u2019ve ever faced\"",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/untitled-design-3.png?width=1200",
+      "published": "2026-09-30T08:36:10+00:00",
+      "excerpt": "John McGuinness and team-mate Richard Parker secured Norton\u2019s best finish at the 2026 Goodwood Revival, which celebrated Barry Sheene\u2019s first Grand Prix title 50 years ago.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-30t085303.220.png?width=1200",
       "audio": null,
       "categories": [
         {
@@ -13697,72 +13698,64 @@
           "label": "Racing"
         },
         {
-          "slug": "law-safety",
-          "label": "Law & Safety"
+          "slug": "classic",
+          "label": "Classic"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
         "racing": 0.96,
-        "law-safety": 0.84
+        "classic": 0.82
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.79,
-        "review": 0.01,
-        "comparison-test": 0.01,
-        "first-look": 0.01,
-        "ranked-list": 0.01,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
+        "news": 0.84,
+        "review": 0.03,
+        "comparison-test": 0.05,
+        "first-look": 0.03,
+        "ranked-list": 0.07,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
         "explainer": 0.06,
-        "opinion": 0.06,
-        "profile-interview": 0.7,
-        "tribute": 0.06,
+        "opinion": 0.05,
+        "profile-interview": 0.09,
+        "tribute": 0.19,
         "listing": 0.01,
-        "event-report": 0.29,
-        "event-preview": 0.03,
-        "press-release": 0.07,
-        "digest": 0.07,
-        "photo-gallery": 0.08,
-        "ride-report": 0.07,
-        "history": 0.06,
-        "rumor": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.43,
+        "digest": 0.08,
+        "photo-gallery": 0.09,
+        "ride-report": 0.03,
+        "history": 0.2,
+        "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.06,
-        "build-feature": 0.01,
-        "q-and-a": 0.04
+        "episode": 0.04,
+        "build-feature": 0.07,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "law-safety"
+        "classic"
       ],
       "also": [
         {
           "source": "Crash.net",
-          "title": "Maria Costello vows to \"fight to get to what I love\" after Isle of Man TT crash",
-          "link": "https://www.crash.net/rr/news/1105896/1/maria-costello-vows-fight-get-what-i-love-after-isle-man-tt-crash",
-          "published": "2026-09-29T15:58:42+00:00"
-        },
-        {
-          "source": "GPone",
-          "title": "Maria Costello, the toughest challenge since the TT: \u201cI\u2019ll fight to get back to what I love\u201d",
-          "link": "https://www.gpone.com/en/2026/09/30/news/maria-costello-the-toughest-challenge-since-the-tt-ill-fight-to-get-back-to-what-i-love.html",
-          "published": "2026-09-30T08:09:41+00:00"
-        },
-        {
-          "source": "Motorcycle News (MCN)",
-          "title": "'The hardest thing I\u2019ve ever faced' - Maria Costello MBE gives video update after TT sidecar crash",
-          "link": "https://www.motorcyclenews.com/news/2026/october/maria-costello-video-update",
-          "published": "2026-10-02T14:04:56+00:00"
+          "title": "TT legend John McGuinness grabs podium at Goodwood Revival",
+          "link": "https://www.crash.net/rr/news/1105903/1/tt-legend-john-mcguinness-grabs-podium-goodwood-revival",
+          "published": "2026-09-30T09:21:47+00:00"
         }
       ]
     },
@@ -14016,71 +14009,92 @@
       ]
     },
     {
-      "id": "e317323f7029708bc80d282660274cb44c361a4e",
-      "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
-      "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
+      "id": "807468462120df81ac632e53a33c1fa35bafbf68",
+      "title": "'My life has changed' Maria Costello gives injury update following Isle of Man TT crash",
+      "link": "https://www.visordown.com/news/my-life-has-changed-maria-costello-gives-injury-update-following-isle-man-tt-crash",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T14:27:14+00:00",
-      "excerpt": "AGV has revealed the all-new K5 sport-touring helmet which balances premium specs with affordable pricing.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t150927.357.png?width=1200",
+      "published": "2026-09-29T16:17:35+00:00",
+      "excerpt": "In an emotional message to her supporters paralysed racer Maria Costello said \"this had been the hardest thing I\u2019ve ever faced\"",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/untitled-design-3.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "gear",
-          "label": "Gear"
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "law-safety",
+          "label": "Law & Safety"
         }
       ],
-      "primary": "gear",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "gear": 0.99
+        "racing": 0.96,
+        "law-safety": 0.84
       },
       "subcategories": [],
       "forms": [
-        {
-          "slug": "press-release",
-          "label": "Announcement"
-        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.93,
-        "review": 0.21,
-        "comparison-test": 0.03,
-        "first-look": 0.33,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.27,
-        "how-to": 0.02,
-        "explainer": 0.12,
-        "opinion": 0.05,
-        "profile-interview": 0.08,
-        "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.03,
-        "event-preview": 0.02,
-        "press-release": 0.95,
-        "digest": 0.08,
-        "photo-gallery": 0.11,
-        "ride-report": 0.02,
-        "history": 0.02,
-        "rumor": 0.08,
+        "news": 0.79,
+        "review": 0.01,
+        "comparison-test": 0.01,
+        "first-look": 0.01,
+        "ranked-list": 0.01,
+        "buyers-guide": 0.02,
+        "how-to": 0.01,
+        "explainer": 0.06,
+        "opinion": 0.06,
+        "profile-interview": 0.7,
+        "tribute": 0.06,
+        "listing": 0.01,
+        "event-report": 0.29,
+        "event-preview": 0.03,
+        "press-release": 0.07,
+        "digest": 0.07,
+        "photo-gallery": 0.08,
+        "ride-report": 0.07,
+        "history": 0.06,
+        "rumor": 0.01,
         "safety-notice": 0.02,
-        "episode": 0.02,
+        "episode": 0.06,
         "build-feature": 0.01,
-        "q-and-a": 0.02
+        "q-and-a": 0.04
       },
       "multi_subject": 0.04,
       "tags": [
-        "gear"
+        "racing",
+        "law-safety"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Maria Costello vows to \"fight to get to what I love\" after Isle of Man TT crash",
+          "link": "https://www.crash.net/rr/news/1105896/1/maria-costello-vows-fight-get-what-i-love-after-isle-man-tt-crash",
+          "published": "2026-09-29T15:58:42+00:00"
+        },
+        {
+          "source": "GPone",
+          "title": "Maria Costello, the toughest challenge since the TT: \u201cI\u2019ll fight to get back to what I love\u201d",
+          "link": "https://www.gpone.com/en/2026/09/30/news/maria-costello-the-toughest-challenge-since-the-tt-ill-fight-to-get-back-to-what-i-love.html",
+          "published": "2026-09-30T08:09:41+00:00"
+        },
+        {
+          "source": "Motorcycle News (MCN)",
+          "title": "'The hardest thing I\u2019ve ever faced' - Maria Costello MBE gives video update after TT sidecar crash",
+          "link": "https://www.motorcyclenews.com/news/2026/october/maria-costello-video-update",
+          "published": "2026-10-02T14:04:56+00:00"
+        }
+      ]
     },
     {
       "id": "a4b353f9fd73bb0d61af7714bf2af764608f43c6",
@@ -14339,75 +14353,69 @@
       "also": []
     },
     {
-      "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
-      "title": "KTM teases major off-road plans for EICMA 2026 in November",
-      "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
+      "id": "e317323f7029708bc80d282660274cb44c361a4e",
+      "title": "AGV launches brand-new K5 sport-touring helmet in 13 different colours",
+      "link": "https://www.visordown.com/news/agv-launches-brand-new-k5-sport-touring-helmet-13-different-colours",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-29T09:32:16+00:00",
-      "excerpt": "KTM\u2019s off-road sector looks set to be bolstered in a big way this November, after the Austrian manufacturer provided details about its upcoming EICMA 2026 plans.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/738632_my26-ktm-1390-super-adventure-r-action_europe-global.jpg?width=1200",
+      "published": "2026-09-29T14:27:14+00:00",
+      "excerpt": "AGV has revealed the all-new K5 sport-touring helmet which balances premium specs with affordable pricing.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-29t150927.357.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
-        },
-        {
-          "slug": "adventure",
-          "label": "Adventure"
+          "slug": "gear",
+          "label": "Gear"
         }
       ],
-      "primary": "dirt-mx",
+      "primary": "gear",
       "confident": true,
       "cat_scores": {
-        "dirt-mx": 0.94,
-        "adventure": 0.58
+        "gear": 0.99
       },
       "subcategories": [],
       "forms": [
         {
-          "slug": "news",
-          "label": "News"
-        },
-        {
           "slug": "press-release",
           "label": "Announcement"
+        },
+        {
+          "slug": "news",
+          "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.81,
-        "review": 0.03,
+        "news": 0.93,
+        "review": 0.21,
         "comparison-test": 0.03,
-        "first-look": 0.12,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.06,
+        "first-look": 0.33,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.27,
         "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.07,
-        "profile-interview": 0.19,
+        "explainer": 0.12,
+        "opinion": 0.05,
+        "profile-interview": 0.08,
         "tribute": 0.01,
-        "listing": 0.02,
-        "event-report": 0.04,
-        "event-preview": 0.65,
-        "press-release": 0.75,
+        "listing": 0.03,
+        "event-report": 0.03,
+        "event-preview": 0.02,
+        "press-release": 0.95,
         "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.01,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
         "history": 0.02,
-        "rumor": 0.54,
-        "safety-notice": 0.03,
-        "episode": 0.04,
-        "build-feature": 0.02,
-        "q-and-a": 0.03
+        "rumor": 0.08,
+        "safety-notice": 0.02,
+        "episode": 0.02,
+        "build-feature": 0.01,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "dirt-mx",
-        "adventure"
+        "gear"
       ],
       "also": []
     },
@@ -14649,71 +14657,75 @@
       "also": []
     },
     {
-      "id": "4687ac6e8217ec7940ac796c90040a5a66e8902f",
-      "title": "Canadian dealership expects major blowback from Trump\u2019s 50 per cent Harley-Davidson tariffs",
-      "link": "https://www.visordown.com/news/canadian-dealership-expects-major-blowback-trumps-50-cent-harley-davidson-tariffs",
+      "id": "3575cc72f6ee512cb2bec5bda84c527d1c84b1e2",
+      "title": "KTM teases major off-road plans for EICMA 2026 in November",
+      "link": "https://www.visordown.com/news/ktm-teases-major-road-plans-eicma-2026-november",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T13:54:06+00:00",
-      "excerpt": "A Canadian dealership owner says the cost of high-capacity Harley-Davidson motorcycles could double after retaliatory tariffs were imposed this month.",
-      "image": "https://www.visordown.com/sites/default/files/2026-06/harley-davidson-super-glide-02.jpg?width=1200",
+      "published": "2026-09-29T09:32:16+00:00",
+      "excerpt": "KTM\u2019s off-road sector looks set to be bolstered in a big way this November, after the Austrian manufacturer provided details about its upcoming EICMA 2026 plans.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/738632_my26-ktm-1390-super-adventure-r-action_europe-global.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         },
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
+          "slug": "adventure",
+          "label": "Adventure"
         }
       ],
-      "primary": "industry",
+      "primary": "dirt-mx",
       "confident": true,
       "cat_scores": {
-        "industry": 0.98,
-        "cruisers": 0.81
+        "dirt-mx": 0.94,
+        "adventure": 0.58
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
-        "news": 0.87,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.08,
-        "how-to": 0.01,
-        "explainer": 0.11,
-        "opinion": 0.13,
-        "profile-interview": 0.5,
+        "news": 0.81,
+        "review": 0.03,
+        "comparison-test": 0.03,
+        "first-look": 0.12,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.07,
+        "profile-interview": 0.19,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.02,
-        "event-preview": 0.02,
-        "press-release": 0.07,
+        "event-report": 0.04,
+        "event-preview": 0.65,
+        "press-release": 0.75,
         "digest": 0.08,
-        "photo-gallery": 0.06,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.02,
-        "safety-notice": 0.13,
-        "episode": 0.03,
+        "photo-gallery": 0.08,
+        "ride-report": 0.01,
+        "history": 0.02,
+        "rumor": 0.54,
+        "safety-notice": 0.03,
+        "episode": 0.04,
         "build-feature": 0.02,
         "q-and-a": 0.03
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.05,
       "tags": [
-        "industry",
-        "cruisers"
+        "dirt-mx",
+        "adventure"
       ],
       "also": []
     },
@@ -14959,75 +14971,71 @@
       "also": []
     },
     {
-      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
-      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
-      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
+      "id": "4687ac6e8217ec7940ac796c90040a5a66e8902f",
+      "title": "Canadian dealership expects major blowback from Trump\u2019s 50 per cent Harley-Davidson tariffs",
+      "link": "https://www.visordown.com/news/canadian-dealership-expects-major-blowback-trumps-50-cent-harley-davidson-tariffs",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T09:56:20+00:00",
-      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
+      "published": "2026-09-28T13:54:06+00:00",
+      "excerpt": "A Canadian dealership owner says the cost of high-capacity Harley-Davidson motorcycles could double after retaliatory tariffs were imposed this month.",
+      "image": "https://www.visordown.com/sites/default/files/2026-06/harley-davidson-super-glide-02.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
+          "slug": "industry",
+          "label": "Industry & Business"
         },
         {
-          "slug": "new-models",
-          "label": "New Models"
+          "slug": "cruisers",
+          "label": "Cruisers"
         }
       ],
-      "primary": "sport-bikes",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "sport-bikes": 0.87,
-        "new-models": 0.6
+        "industry": 0.98,
+        "cruisers": 0.81
       },
       "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
-        },
-        {
-          "slug": "rumor",
-          "label": "Rumor & Spy Shots"
         }
       ],
       "form_scores": {
-        "news": 0.84,
-        "review": 0.1,
-        "comparison-test": 0.03,
-        "first-look": 0.68,
+        "news": 0.87,
+        "review": 0.02,
+        "comparison-test": 0.02,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
-        "how-to": 0.02,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.1,
+        "buyers-guide": 0.08,
+        "how-to": 0.01,
+        "explainer": 0.11,
+        "opinion": 0.13,
+        "profile-interview": 0.5,
         "tribute": 0.01,
         "listing": 0.02,
-        "event-report": 0.16,
-        "event-preview": 0.12,
-        "press-release": 0.43,
-        "digest": 0.07,
-        "photo-gallery": 0.26,
+        "event-report": 0.02,
+        "event-preview": 0.02,
+        "press-release": 0.07,
+        "digest": 0.08,
+        "photo-gallery": 0.06,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.76,
-        "safety-notice": 0.01,
-        "episode": 0.1,
-        "build-feature": 0.03,
-        "q-and-a": 0.02
+        "rumor": 0.02,
+        "safety-notice": 0.13,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "sport-bikes",
-        "new-models"
+        "industry",
+        "cruisers"
       ],
       "also": []
     },
@@ -15261,92 +15269,77 @@
       "also": []
     },
     {
-      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
-      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
-      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
+      "id": "531189ffd77272cee304d2a59279271ec5f30d4e",
+      "title": "CFMoto unleashes V4 SR-RR on track as development of 196.2mph prototype continues",
+      "link": "https://www.visordown.com/news/cfmoto-unleashes-v4-sr-rr-track-development-1962mph-prototype-continues",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-28T08:52:49+00:00",
-      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
-      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
+      "published": "2026-09-28T09:56:20+00:00",
+      "excerpt": "Footage has emerged of CFMoto\u2019s highly-anticipated V4 SR-RR on track, with future Honda MotoGP rider David Alonso testing the new machine.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-28t110420.316.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
           "slug": "sport-bikes",
           "label": "Sport Bikes"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
         }
       ],
-      "primary": "racing",
+      "primary": "sport-bikes",
       "confident": true,
       "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.94,
-        "worldsbk-superbike": 0.96
+        "sport-bikes": 0.87,
+        "new-models": 0.6
       },
-      "subcategories": [
-        {
-          "slug": "worldsbk-superbike",
-          "label": "WorldSBK & Superbike",
-          "parent": "racing"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
           "label": "News"
         },
         {
-          "slug": "profile-interview",
-          "label": "Profile & Interview"
+          "slug": "rumor",
+          "label": "Rumor & Spy Shots"
         }
       ],
       "form_scores": {
-        "news": 0.79,
-        "review": 0.02,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
+        "news": 0.84,
+        "review": 0.1,
+        "comparison-test": 0.03,
+        "first-look": 0.68,
         "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "buyers-guide": 0.06,
         "how-to": 0.02,
-        "explainer": 0.14,
-        "opinion": 0.27,
-        "profile-interview": 0.76,
-        "tribute": 0.02,
-        "listing": 0.01,
-        "event-report": 0.1,
-        "event-preview": 0.03,
-        "press-release": 0.08,
-        "digest": 0.08,
-        "photo-gallery": 0.07,
-        "ride-report": 0.03,
-        "history": 0.06,
-        "rumor": 0.02,
-        "safety-notice": 0.1,
-        "episode": 0.05,
-        "build-feature": 0.02,
-        "q-and-a": 0.06
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.1,
+        "tribute": 0.01,
+        "listing": 0.02,
+        "event-report": 0.16,
+        "event-preview": 0.12,
+        "press-release": 0.43,
+        "digest": 0.07,
+        "photo-gallery": 0.26,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.76,
+        "safety-notice": 0.01,
+        "episode": 0.1,
+        "build-feature": 0.03,
+        "q-and-a": 0.02
       },
       "multi_subject": 0.05,
       "tags": [
-        "racing",
         "sport-bikes",
-        "worldsbk-superbike"
+        "new-models"
       ],
-      "also": [
-        {
-          "source": "Crash.net",
-          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
-          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
-          "published": "2026-09-28T08:50:48+00:00"
-        }
-      ]
+      "also": []
     },
     {
       "id": "afdf51fafd1f7e120b7211c15367acace0220b58",
@@ -15607,17 +15600,17 @@
       "also": []
     },
     {
-      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
-      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
-      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
+      "id": "59394fe3196fd1371dfb1d068f52ead5acd95cba",
+      "title": "Peter Hickman says BSB regulations have worked against BMW as return ruled out",
+      "link": "https://www.visordown.com/news/peter-hickman-says-bsb-regulations-have-worked-against-bmw-return-ruled-out",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-27T09:30:00+00:00",
-      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
+      "published": "2026-09-28T08:52:49+00:00",
+      "excerpt": "Peter Hickman says the door has been closed on returning to the British Superbike Championship, at least for now.",
+      "image": "https://www.visordown.com/sites/default/files/2026-07/peter-hickman.jpg?width=1200",
       "audio": null,
       "categories": [
         {
@@ -15625,21 +15618,21 @@
           "label": "Racing"
         },
         {
-          "slug": "industry",
-          "label": "Industry & Business"
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
         }
       ],
       "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "racing": 0.86,
-        "industry": 0.81,
-        "motogp": 0.84
+        "racing": 0.97,
+        "sport-bikes": 0.94,
+        "worldsbk-superbike": 0.96
       },
       "subcategories": [
         {
-          "slug": "motogp",
-          "label": "MotoGP",
+          "slug": "worldsbk-superbike",
+          "label": "WorldSBK & Superbike",
           "parent": "racing"
         }
       ],
@@ -15649,43 +15642,50 @@
           "label": "News"
         },
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "profile-interview",
+          "label": "Profile & Interview"
         }
       ],
       "form_scores": {
-        "news": 0.88,
-        "review": 0.01,
+        "news": 0.79,
+        "review": 0.02,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.03,
-        "buyers-guide": 0.02,
-        "how-to": 0.01,
-        "explainer": 0.08,
-        "opinion": 0.05,
-        "profile-interview": 0.13,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.03,
+        "how-to": 0.02,
+        "explainer": 0.14,
+        "opinion": 0.27,
+        "profile-interview": 0.76,
         "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.04,
-        "event-preview": 0.19,
-        "press-release": 0.81,
-        "digest": 0.12,
-        "photo-gallery": 0.06,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.04,
-        "safety-notice": 0.03,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
+        "event-report": 0.1,
+        "event-preview": 0.03,
+        "press-release": 0.08,
+        "digest": 0.08,
+        "photo-gallery": 0.07,
+        "ride-report": 0.03,
+        "history": 0.06,
+        "rumor": 0.02,
+        "safety-notice": 0.1,
+        "episode": 0.05,
+        "build-feature": 0.02,
+        "q-and-a": 0.06
       },
-      "multi_subject": 0.13,
+      "multi_subject": 0.05,
       "tags": [
         "racing",
-        "industry",
-        "motogp"
+        "sport-bikes",
+        "worldsbk-superbike"
       ],
-      "also": []
+      "also": [
+        {
+          "source": "Crash.net",
+          "title": "Peter Hickman quits BSB for good: \"I don't miss the politics\"",
+          "link": "https://www.crash.net/bsb/news/1105862/1/peter-hickman-quits-bsb-good-i-dont-miss-politics",
+          "published": "2026-09-28T08:50:48+00:00"
+        }
+      ]
     },
     {
       "id": "0a1777f9288c4901b29488989e9961352cd5bb53",
@@ -15928,30 +15928,42 @@
       "also": []
     },
     {
-      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
-      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
-      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
+      "id": "c5d6a39dc163a159d6dfa4d87ce1e44adbfe1087",
+      "title": "MotoGP appoints Tottenham Hotspur officer to major leadership role",
+      "link": "https://www.visordown.com/news/motogp-appoints-tottenham-hotspur-officer-major-leadership-role",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-26T08:30:00+00:00",
-      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
+      "published": "2026-09-27T09:30:00+00:00",
+      "excerpt": "MotoGP has announced a series of changes with four new executives confirmed ahead of the 850cc era in 2027.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/b9d45b36-7d79-c287-2235-dd9b034c912f.jpg?width=1200",
       "audio": null,
       "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
         {
           "slug": "industry",
           "label": "Industry & Business"
         }
       ],
-      "primary": "industry",
+      "primary": "racing",
       "confident": true,
       "cat_scores": {
-        "industry": 0.97
+        "racing": 0.86,
+        "industry": 0.81,
+        "motogp": 0.84
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
       "forms": [
         {
           "slug": "news",
@@ -15963,34 +15975,36 @@
         }
       ],
       "form_scores": {
-        "news": 0.91,
+        "news": 0.88,
         "review": 0.01,
         "comparison-test": 0.02,
         "first-look": 0.02,
-        "ranked-list": 0.02,
-        "buyers-guide": 0.03,
+        "ranked-list": 0.03,
+        "buyers-guide": 0.02,
         "how-to": 0.01,
-        "explainer": 0.05,
-        "opinion": 0.04,
-        "profile-interview": 0.19,
-        "tribute": 0.1,
+        "explainer": 0.08,
+        "opinion": 0.05,
+        "profile-interview": 0.13,
+        "tribute": 0.02,
         "listing": 0.01,
-        "event-report": 0.03,
-        "event-preview": 0.04,
-        "press-release": 0.76,
-        "digest": 0.1,
-        "photo-gallery": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.19,
+        "press-release": 0.81,
+        "digest": 0.12,
+        "photo-gallery": 0.06,
         "ride-report": 0.01,
-        "history": 0.05,
-        "rumor": 0.02,
-        "safety-notice": 0.02,
+        "history": 0.03,
+        "rumor": 0.04,
+        "safety-notice": 0.03,
         "episode": 0.03,
-        "build-feature": 0.02,
+        "build-feature": 0.01,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.06,
+      "multi_subject": 0.13,
       "tags": [
-        "industry"
+        "racing",
+        "industry",
+        "motogp"
       ],
       "also": []
     },
@@ -16170,83 +16184,69 @@
       "also": []
     },
     {
-      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
-      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
-      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
+      "id": "378b31adb6e0582e13ae7445a6862d37ee6f5403",
+      "title": "Paul Stroud set to retire after guiding Triumph to record global sales growth",
+      "link": "https://www.visordown.com/news/paul-stroud-set-retire-after-guiding-triumph-record-global-sales-growth",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T11:49:00+00:00",
-      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
+      "published": "2026-09-26T08:30:00+00:00",
+      "excerpt": "Triumph has confirmed a series of management changes, including the imminent retirement of Chief Commercial Officer, Paul Stroud.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-23t144901.914.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "industry",
+          "label": "Industry & Business"
         }
       ],
-      "primary": "adventure",
+      "primary": "industry",
       "confident": true,
       "cat_scores": {
-        "adventure": 0.96,
-        "dirt-mx": 0.82,
-        "adv-events-competitions": 0.97
+        "industry": 0.97
       },
-      "subcategories": [
-        {
-          "slug": "adv-events-competitions",
-          "label": "ADV Events & Competitions",
-          "parent": "adventure"
-        }
-      ],
+      "subcategories": [],
       "forms": [
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        },
         {
           "slug": "news",
           "label": "News"
+        },
+        {
+          "slug": "press-release",
+          "label": "Announcement"
         }
       ],
       "form_scores": {
         "news": 0.91,
-        "review": 0.04,
+        "review": 0.01,
         "comparison-test": 0.02,
-        "first-look": 0.03,
+        "first-look": 0.02,
         "ranked-list": 0.02,
-        "buyers-guide": 0.04,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.13,
-        "tribute": 0.01,
+        "buyers-guide": 0.03,
+        "how-to": 0.01,
+        "explainer": 0.05,
+        "opinion": 0.04,
+        "profile-interview": 0.19,
+        "tribute": 0.1,
         "listing": 0.01,
-        "event-report": 0.93,
+        "event-report": 0.03,
         "event-preview": 0.04,
-        "press-release": 0.29,
-        "digest": 0.08,
-        "photo-gallery": 0.08,
-        "ride-report": 0.06,
-        "history": 0.1,
+        "press-release": 0.76,
+        "digest": 0.1,
+        "photo-gallery": 0.05,
+        "ride-report": 0.01,
+        "history": 0.05,
         "rumor": 0.02,
         "safety-notice": 0.02,
-        "episode": 0.04,
-        "build-feature": 0.03,
+        "episode": 0.03,
+        "build-feature": 0.02,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.03,
+      "multi_subject": 0.06,
       "tags": [
-        "adventure",
-        "dirt-mx",
-        "adv-events-competitions"
+        "industry"
       ],
       "also": []
     },
@@ -16421,39 +16421,46 @@
       "also": []
     },
     {
-      "id": "2b955b2adb33606624883c92bf48b9694010a145",
-      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
-      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
+      "id": "df8ef4a5ce8084fed7711b80e4570d5151282f1c",
+      "title": "Sam Sunderland travels 948 miles in 15 hours as part of around the world record attempt",
+      "link": "https://www.visordown.com/news/sam-sunderland-travels-948-miles-in-15-hours-as-part-of-around-the-world-record-attempt",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T09:55:34+00:00",
-      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
+      "published": "2026-09-25T11:49:00+00:00",
+      "excerpt": "Sam Sunderland has completed the second leg of his around the world record attempt, travelling 948 miles from Bangkok, Thailand, to Kuala Lumpur, Malaysia, aboard a Triumph Tiger 1200 Rally Explorer.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/si202609100403_0.jpg?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "cruisers",
-          "label": "Cruisers"
+          "slug": "adventure",
+          "label": "Adventure"
         },
         {
-          "slug": "electric",
-          "label": "Electric"
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
         }
       ],
-      "primary": "cruisers",
-      "confident": false,
+      "primary": "adventure",
+      "confident": true,
       "cat_scores": {
-        "cruisers": 0.69,
-        "electric": 0.56
+        "adventure": 0.96,
+        "dirt-mx": 0.82,
+        "adv-events-competitions": 0.97
       },
-      "subcategories": [],
+      "subcategories": [
+        {
+          "slug": "adv-events-competitions",
+          "label": "ADV Events & Competitions",
+          "parent": "adventure"
+        }
+      ],
       "forms": [
         {
-          "slug": "press-release",
-          "label": "Announcement"
+          "slug": "event-report",
+          "label": "Event Report"
         },
         {
           "slug": "news",
@@ -16462,34 +16469,35 @@
       ],
       "form_scores": {
         "news": 0.91,
-        "review": 0.07,
-        "comparison-test": 0.03,
-        "first-look": 0.54,
+        "review": 0.04,
+        "comparison-test": 0.02,
+        "first-look": 0.03,
         "ranked-list": 0.02,
-        "buyers-guide": 0.06,
+        "buyers-guide": 0.04,
         "how-to": 0.02,
-        "explainer": 0.17,
-        "opinion": 0.05,
-        "profile-interview": 0.14,
+        "explainer": 0.06,
+        "opinion": 0.03,
+        "profile-interview": 0.13,
         "tribute": 0.01,
-        "listing": 0.03,
-        "event-report": 0.28,
-        "event-preview": 0.07,
-        "press-release": 0.92,
+        "listing": 0.01,
+        "event-report": 0.93,
+        "event-preview": 0.04,
+        "press-release": 0.29,
         "digest": 0.08,
-        "photo-gallery": 0.14,
-        "ride-report": 0.02,
-        "history": 0.03,
-        "rumor": 0.24,
+        "photo-gallery": 0.08,
+        "ride-report": 0.06,
+        "history": 0.1,
+        "rumor": 0.02,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.04,
+        "build-feature": 0.03,
         "q-and-a": 0.02
       },
-      "multi_subject": 0.04,
+      "multi_subject": 0.03,
       "tags": [
-        "cruisers",
-        "electric"
+        "adventure",
+        "dirt-mx",
+        "adv-events-competitions"
       ],
       "also": []
     },
@@ -16656,65 +16664,75 @@
       "also": []
     },
     {
-      "id": "092ae0c9328f227b9ce504d0fb0663453d2482db",
-      "title": "MCL26 Show and Shine voting closes this Sunday!",
-      "link": "https://www.visordown.com/news/mcl26-show-and-shine-voting-closes-sunday",
+      "id": "2b955b2adb33606624883c92bf48b9694010a145",
+      "title": "Voge launches plug-in-hybrid CU-X cruiser concept at CIMA 2026",
+      "link": "https://www.visordown.com/news/voge-launches-plug-hybrid-cu-x-cruiser-concept-cima-2026",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-25T07:05:49+00:00",
-      "excerpt": "Voting is nearly over for MCL26 Show and Shine, with The Biker Lawyers, with hundreds of bikes competing for one of just 10 places at this year\u2019s show.",
-      "image": "https://www.visordown.com/sites/default/files/2026-07/show-and-shine-mcl26.png?width=1200",
+      "published": "2026-09-25T09:55:34+00:00",
+      "excerpt": "Voge has launched a brand-new CU-X Hybrid Concept featuring a plug-in-hybrid engine, and a futuristic design.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/site-image-resize-2026-09-25t105753.198.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "events-rides",
-          "label": "Events & Rides"
+          "slug": "cruisers",
+          "label": "Cruisers"
+        },
+        {
+          "slug": "electric",
+          "label": "Electric"
         }
       ],
-      "primary": "events-rides",
+      "primary": "cruisers",
       "confident": false,
       "cat_scores": {
-        "events-rides": 0.83
+        "cruisers": 0.69,
+        "electric": 0.56
       },
       "subcategories": [],
       "forms": [
+        {
+          "slug": "press-release",
+          "label": "Announcement"
+        },
         {
           "slug": "news",
           "label": "News"
         }
       ],
       "form_scores": {
-        "news": 0.75,
-        "review": 0.02,
-        "comparison-test": 0.09,
-        "first-look": 0.02,
-        "ranked-list": 0.43,
-        "buyers-guide": 0.04,
-        "how-to": 0.03,
-        "explainer": 0.07,
+        "news": 0.91,
+        "review": 0.07,
+        "comparison-test": 0.03,
+        "first-look": 0.54,
+        "ranked-list": 0.02,
+        "buyers-guide": 0.06,
+        "how-to": 0.02,
+        "explainer": 0.17,
         "opinion": 0.05,
-        "profile-interview": 0.06,
-        "tribute": 0.02,
+        "profile-interview": 0.14,
+        "tribute": 0.01,
         "listing": 0.03,
-        "event-report": 0.12,
-        "event-preview": 0.32,
-        "press-release": 0.48,
-        "digest": 0.09,
-        "photo-gallery": 0.15,
+        "event-report": 0.28,
+        "event-preview": 0.07,
+        "press-release": 0.92,
+        "digest": 0.08,
+        "photo-gallery": 0.14,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.03,
+        "rumor": 0.24,
         "safety-notice": 0.02,
         "episode": 0.04,
-        "build-feature": 0.07,
-        "q-and-a": 0.03
+        "build-feature": 0.04,
+        "q-and-a": 0.02
       },
-      "multi_subject": 0.05,
+      "multi_subject": 0.04,
       "tags": [
-        "events-rides"
+        "cruisers",
+        "electric"
       ],
       "also": []
     },
@@ -16879,47 +16897,30 @@
       "also": []
     },
     {
-      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
-      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
-      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "id": "092ae0c9328f227b9ce504d0fb0663453d2482db",
+      "title": "MCL26 Show and Shine voting closes this Sunday!",
+      "link": "https://www.visordown.com/news/mcl26-show-and-shine-voting-closes-sunday",
       "lang": "en",
       "source": "Visordown",
       "ownership": "commercial",
       "media": "article",
       "author": null,
-      "published": "2026-09-24T07:10:29+00:00",
-      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
-      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "published": "2026-09-25T07:05:49+00:00",
+      "excerpt": "Voting is nearly over for MCL26 Show and Shine, with The Biker Lawyers, with hundreds of bikes competing for one of just 10 places at this year\u2019s show.",
+      "image": "https://www.visordown.com/sites/default/files/2026-07/show-and-shine-mcl26.png?width=1200",
       "audio": null,
       "categories": [
         {
-          "slug": "adventure",
-          "label": "Adventure"
-        },
-        {
-          "slug": "new-models",
-          "label": "New Models"
-        },
-        {
-          "slug": "dirt-mx",
-          "label": "MX & Dirt"
+          "slug": "events-rides",
+          "label": "Events & Rides"
         }
       ],
-      "primary": "adventure",
-      "confident": true,
+      "primary": "events-rides",
+      "confident": false,
       "cat_scores": {
-        "adventure": 0.97,
-        "new-models": 0.94,
-        "dirt-mx": 0.9,
-        "rally-lightweight-adv": 0.97
+        "events-rides": 0.83
       },
-      "subcategories": [
-        {
-          "slug": "rally-lightweight-adv",
-          "label": "Rally & Lightweight ADV",
-          "parent": "adventure"
-        }
-      ],
+      "subcategories": [],
       "forms": [
         {
           "slug": "news",
@@ -16927,37 +16928,34 @@
         }
       ],
       "form_scores": {
-        "news": 0.89,
-        "review": 0.18,
-        "comparison-test": 0.11,
-        "first-look": 0.25,
-        "ranked-list": 0.04,
-        "buyers-guide": 0.34,
-        "how-to": 0.02,
-        "explainer": 0.1,
-        "opinion": 0.08,
-        "profile-interview": 0.05,
-        "tribute": 0.01,
-        "listing": 0.05,
-        "event-report": 0.04,
-        "event-preview": 0.03,
-        "press-release": 0.68,
+        "news": 0.75,
+        "review": 0.02,
+        "comparison-test": 0.09,
+        "first-look": 0.02,
+        "ranked-list": 0.43,
+        "buyers-guide": 0.04,
+        "how-to": 0.03,
+        "explainer": 0.07,
+        "opinion": 0.05,
+        "profile-interview": 0.06,
+        "tribute": 0.02,
+        "listing": 0.03,
+        "event-report": 0.12,
+        "event-preview": 0.32,
+        "press-release": 0.48,
         "digest": 0.09,
-        "photo-gallery": 0.07,
+        "photo-gallery": 0.15,
         "ride-report": 0.02,
         "history": 0.03,
-        "rumor": 0.15,
+        "rumor": 0.03,
         "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.02,
+        "episode": 0.04,
+        "build-feature": 0.07,
         "q-and-a": 0.03
       },
       "multi_subject": 0.05,
       "tags": [
-        "adventure",
-        "new-models",
-        "dirt-mx",
-        "rally-lightweight-adv"
+        "events-rides"
       ],
       "also": []
     },
@@ -17114,6 +17112,89 @@
       "tags": [
         "racing",
         "motogp"
+      ],
+      "also": []
+    },
+    {
+      "id": "7bd26861ee3e6a623b6db94372dd1ca13fe21ce0",
+      "title": "KTM 690 Rally given Yamaha T\u00e9n\u00e9r\u00e9 700 Rally-rivalling price",
+      "link": "https://www.visordown.com/news/ktm-690-rally-given-yamaha-tenere-700-rally-rivalling-price",
+      "lang": "en",
+      "source": "Visordown",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-09-24T07:10:29+00:00",
+      "excerpt": "Built using the same platform as the company\u2019s Enduro R, KTM's all-new 690 Rally middleweight will cost UK customers \u00a311,499.",
+      "image": "https://www.visordown.com/sites/default/files/2026-09/762874_my27-ktm-690-rally_static_cat-a_static.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "adventure",
+          "label": "Adventure"
+        },
+        {
+          "slug": "new-models",
+          "label": "New Models"
+        },
+        {
+          "slug": "dirt-mx",
+          "label": "MX & Dirt"
+        }
+      ],
+      "primary": "adventure",
+      "confident": true,
+      "cat_scores": {
+        "adventure": 0.97,
+        "new-models": 0.94,
+        "dirt-mx": 0.9,
+        "rally-lightweight-adv": 0.97
+      },
+      "subcategories": [
+        {
+          "slug": "rally-lightweight-adv",
+          "label": "Rally & Lightweight ADV",
+          "parent": "adventure"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "news",
+          "label": "News"
+        }
+      ],
+      "form_scores": {
+        "news": 0.89,
+        "review": 0.18,
+        "comparison-test": 0.11,
+        "first-look": 0.25,
+        "ranked-list": 0.04,
+        "buyers-guide": 0.34,
+        "how-to": 0.02,
+        "explainer": 0.1,
+        "opinion": 0.08,
+        "profile-interview": 0.05,
+        "tribute": 0.01,
+        "listing": 0.05,
+        "event-report": 0.04,
+        "event-preview": 0.03,
+        "press-release": 0.68,
+        "digest": 0.09,
+        "photo-gallery": 0.07,
+        "ride-report": 0.02,
+        "history": 0.03,
+        "rumor": 0.15,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.02,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.05,
+      "tags": [
+        "adventure",
+        "new-models",
+        "dirt-mx",
+        "rally-lightweight-adv"
       ],
       "also": []
     },
