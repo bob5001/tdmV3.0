@@ -3,6 +3,87 @@
   "label": "Ten Best",
   "items": [
     {
+      "id": "4082b301f8c573d9a9f62035336e784e3bdaa3ef",
+      "title": "The all-time MotoGP Sprint winners' list after Motegi",
+      "link": "https://www.crash.net/motogp/news/1092378/1/all-time-motogp-sprint-race-winners-list",
+      "lang": "en",
+      "source": "Crash.net",
+      "ownership": "commercial",
+      "media": "article",
+      "author": null,
+      "published": "2026-10-03T07:34:03+00:00",
+      "excerpt": "The latest all-time ranking for MotoGP Sprint race winners.",
+      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350089_hires_1600x900.jpg?width=1200",
+      "audio": null,
+      "categories": [
+        {
+          "slug": "racing",
+          "label": "Racing"
+        },
+        {
+          "slug": "sport-bikes",
+          "label": "Sport Bikes"
+        }
+      ],
+      "primary": "racing",
+      "confident": true,
+      "cat_scores": {
+        "racing": 0.97,
+        "sport-bikes": 0.57,
+        "motogp": 0.96
+      },
+      "subcategories": [
+        {
+          "slug": "motogp",
+          "label": "MotoGP",
+          "parent": "racing"
+        }
+      ],
+      "forms": [
+        {
+          "slug": "ranked-list",
+          "label": "Ten Best"
+        },
+        {
+          "slug": "event-report",
+          "label": "Event Report"
+        }
+      ],
+      "form_scores": {
+        "news": 0.66,
+        "review": 0.01,
+        "comparison-test": 0.04,
+        "first-look": 0.02,
+        "ranked-list": 0.96,
+        "buyers-guide": 0.02,
+        "how-to": 0.02,
+        "explainer": 0.09,
+        "opinion": 0.04,
+        "profile-interview": 0.03,
+        "tribute": 0.03,
+        "listing": 0.01,
+        "event-report": 0.84,
+        "event-preview": 0.04,
+        "press-release": 0.06,
+        "digest": 0.07,
+        "photo-gallery": 0.11,
+        "ride-report": 0.02,
+        "history": 0.34,
+        "rumor": 0.01,
+        "safety-notice": 0.02,
+        "episode": 0.03,
+        "build-feature": 0.01,
+        "q-and-a": 0.03
+      },
+      "multi_subject": 0.1,
+      "tags": [
+        "racing",
+        "sport-bikes",
+        "motogp"
+      ],
+      "also": []
+    },
+    {
       "id": "a1c85671f46995fc95bbcf226e7efb4665482309",
       "title": "These are the UK areas with the worst roads for motorcyclists",
       "link": "https://www.visordown.com/news/these-are-uk-areas-worst-roads-motorcyclists",
@@ -137,87 +218,6 @@
       "tags": [
         "classic",
         "for-sale"
-      ],
-      "also": []
-    },
-    {
-      "id": "4082b301f8c573d9a9f62035336e784e3bdaa3ef",
-      "title": "The all-time MotoGP Sprint winners' list after Motegi",
-      "link": "https://www.crash.net/motogp/news/1092378/1/all-time-motogp-sprint-race-winners-list",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-03T07:34:03+00:00",
-      "excerpt": "The latest all-time ranking for MotoGP Sprint race winners.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1350089_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.57,
-        "motogp": 0.96
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        },
-        {
-          "slug": "event-report",
-          "label": "Event Report"
-        }
-      ],
-      "form_scores": {
-        "news": 0.66,
-        "review": 0.01,
-        "comparison-test": 0.04,
-        "first-look": 0.02,
-        "ranked-list": 0.96,
-        "buyers-guide": 0.02,
-        "how-to": 0.02,
-        "explainer": 0.09,
-        "opinion": 0.04,
-        "profile-interview": 0.03,
-        "tribute": 0.03,
-        "listing": 0.01,
-        "event-report": 0.84,
-        "event-preview": 0.04,
-        "press-release": 0.06,
-        "digest": 0.07,
-        "photo-gallery": 0.11,
-        "ride-report": 0.02,
-        "history": 0.34,
-        "rumor": 0.01,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.03
-      },
-      "multi_subject": 0.1,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
       ],
       "also": []
     },
@@ -532,104 +532,6 @@
         "motocross-supercross"
       ],
       "also": []
-    },
-    {
-      "id": "515ef155eeccd1df13402d2e24dc39e339edc4f6",
-      "title": "Starting grid for the 2026 Motegi MotoGP Sprint race",
-      "link": "https://www.crash.net/motogp/news/1106184/1/starting-grid-2026-motegi-motogp-sprint-race",
-      "lang": "en",
-      "source": "Crash.net",
-      "ownership": "commercial",
-      "media": "article",
-      "author": null,
-      "published": "2026-10-03T03:41:16+00:00",
-      "excerpt": "The full starting grid for Saturday\u2019s 2026 Japanese MotoGP Sprint race.",
-      "image": "https://www.crash.net/sites/default/files/2026-10/gng_1349689_hires_1600x900.jpg?width=1200",
-      "audio": null,
-      "categories": [
-        {
-          "slug": "racing",
-          "label": "Racing"
-        },
-        {
-          "slug": "sport-bikes",
-          "label": "Sport Bikes"
-        }
-      ],
-      "primary": "racing",
-      "confident": true,
-      "cat_scores": {
-        "racing": 0.97,
-        "sport-bikes": 0.66,
-        "motogp": 0.97
-      },
-      "subcategories": [
-        {
-          "slug": "motogp",
-          "label": "MotoGP",
-          "parent": "racing"
-        }
-      ],
-      "forms": [
-        {
-          "slug": "event-preview",
-          "label": "Event Preview"
-        },
-        {
-          "slug": "news",
-          "label": "News"
-        },
-        {
-          "slug": "ranked-list",
-          "label": "Ten Best"
-        }
-      ],
-      "form_scores": {
-        "news": 0.87,
-        "review": 0.01,
-        "comparison-test": 0.02,
-        "first-look": 0.02,
-        "ranked-list": 0.83,
-        "buyers-guide": 0.01,
-        "how-to": 0.02,
-        "explainer": 0.06,
-        "opinion": 0.03,
-        "profile-interview": 0.02,
-        "tribute": 0.01,
-        "listing": 0.01,
-        "event-report": 0.13,
-        "event-preview": 0.89,
-        "press-release": 0.17,
-        "digest": 0.06,
-        "photo-gallery": 0.17,
-        "ride-report": 0.01,
-        "history": 0.03,
-        "rumor": 0.03,
-        "safety-notice": 0.02,
-        "episode": 0.03,
-        "build-feature": 0.01,
-        "q-and-a": 0.02
-      },
-      "multi_subject": 0.05,
-      "tags": [
-        "racing",
-        "sport-bikes",
-        "motogp"
-      ],
-      "also": [
-        {
-          "source": "GPone",
-          "title": "LIVE - The live coverage of the Japanese Grand Prix Sprint Race at Motegi",
-          "link": "https://www.gpone.com/en/2026/10/03/motogp/live-the-live-coverage-of-the-japanese-grand-prix-sprint-race-at-motegi.html",
-          "published": "2026-10-03T04:43:42+00:00"
-        },
-        {
-          "source": "Crash.net",
-          "title": "Starting grid for the 2026 Motegi MotoGP race",
-          "link": "https://www.crash.net/motogp/news/1106184/1/starting-grid-2026-motegi-motogp-race",
-          "published": "2026-10-03T12:00:16+00:00"
-        }
-      ]
     },
     {
       "id": "a929070121d6258a71da4b43eb7e815c20083e43",
